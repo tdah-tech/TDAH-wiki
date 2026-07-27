@@ -1,0 +1,58 @@
+diff --git a/node_modules/@quartz-community/page-title/dist/components/index.js b/node_modules/@quartz-community/page-title/dist/components/index.js
+index 488bc0e..02e4b71 100644
+--- a/node_modules/@quartz-community/page-title/dist/components/index.js
++++ b/node_modules/@quartz-community/page-title/dist/components/index.js
+@@ -52,14 +52,22 @@ var PageTitle = ({ fileData, cfg, displayClass }) => {
+   const locale = cfg?.locale ?? "en-US";
+   const title = cfg?.pageTitle ?? i18n(locale).propertyDefaults.title;
+   const baseDir = pathToRoot(fileData.slug);
+-  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, children: title }) });
++  const logoSrc = `${baseDir}/static/logo.png`;
++  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, class: "site-logo-link", children: /* @__PURE__ */ u2("img", { src: logoSrc, alt: title, class: "site-logo" }) }) });
+ };
+ PageTitle.css = `
+ .page-title {
+-  font-size: 1.75rem;
+   margin: 0;
+   font-family: var(--titleFont);
+ }
++.page-title .site-logo-link {
++  display: inline-flex;
++}
++.page-title .site-logo {
++  display: block;
++  height: 2.2rem;
++  width: auto;
++}
+ `;
+ var PageTitle_default = (() => PageTitle);
+ 
+diff --git a/node_modules/@quartz-community/page-title/dist/index.js b/node_modules/@quartz-community/page-title/dist/index.js
+index 488bc0e..02e4b71 100644
+--- a/node_modules/@quartz-community/page-title/dist/index.js
++++ b/node_modules/@quartz-community/page-title/dist/index.js
+@@ -52,14 +52,22 @@ var PageTitle = ({ fileData, cfg, displayClass }) => {
+   const locale = cfg?.locale ?? "en-US";
+   const title = cfg?.pageTitle ?? i18n(locale).propertyDefaults.title;
+   const baseDir = pathToRoot(fileData.slug);
+-  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, children: title }) });
++  const logoSrc = `${baseDir}/static/logo.png`;
++  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, class: "site-logo-link", children: /* @__PURE__ */ u2("img", { src: logoSrc, alt: title, class: "site-logo" }) }) });
+ };
+ PageTitle.css = `
+ .page-title {
+-  font-size: 1.75rem;
+   margin: 0;
+   font-family: var(--titleFont);
+ }
++.page-title .site-logo-link {
++  display: inline-flex;
++}
++.page-title .site-logo {
++  display: block;
++  height: 2.2rem;
++  width: auto;
++}
+ `;
+ var PageTitle_default = (() => PageTitle);
+ 
