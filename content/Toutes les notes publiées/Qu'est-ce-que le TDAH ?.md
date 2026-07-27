@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.159+02:00
+modified: 2026-07-27T14:10:11.000+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -65,6 +65,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
+- [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
 - [[Durée de l'hyperfocus]]
 - [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
 

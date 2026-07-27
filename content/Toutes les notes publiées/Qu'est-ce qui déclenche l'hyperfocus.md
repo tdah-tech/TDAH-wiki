@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.157+02:00
+modified: 2026-07-27T14:10:11.000+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,3 +34,4 @@ Ainsi, lorsque l'activité touche un centre d'intérêt authentique — un sujet
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Durée de l'hyperfocus]]
 - [[Qu'est-ce-que le TDAH ?]]
+- [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
