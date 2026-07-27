@@ -259,13 +259,13 @@ plugins:
     enabled: true
     options:
       title: Notes récentes
-      limit: 20
+      limit: 40
       showTags: false
       linkToMore: false
       newBadgeLabel: (New !)
     layout:
       position: afterBody
-      priority: 5
+      priority: 30
       condition: is-index
   - source: "@quartz-community/spacer"
     enabled: true
