@@ -3,15 +3,15 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.139+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#récompenses"
-  - "#jetons"
-  - "#outils"
-  - "#renforcement-positif"
-  - "#top"
-  - "#trouble-opposition"
-  - "#mémoire-de-travail"
+  - micronote
+  - tdah
+  - récompenses
+  - jetons
+  - outils
+  - renforcement-positif
+  - top
+  - trouble-opposition
+  - mémoire-de-travail
 ---
 
 Ces outils figurent dans presque toutes les recommandations pour le TDAH, et à raison : le principe de base est solide et validé. Le problème n'est presque jamais l'outil en soi, mais la façon dont il est construit. La plupart des chartes qu'on voit dans les familles échouent non pas parce que le renforcement par jetons ne fonctionne pas sur ce profil d'enfant, mais parce qu'elles sont montées à l'envers de ce que ce profil demande précisément.

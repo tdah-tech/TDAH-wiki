@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.162+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#alimentation"
-  - "#déséquilibre-alimentaire"
-  - "#hyperfocus"
-  - "#magnesium"
-  - "#omega-3"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - alimentation
+  - déséquilibre-alimentaire
+  - hyperfocus
+  - magnesium
+  - omega-3
+  - méthylphénidate
 ---
 
 Il faut savoir que plusieurs mécanismes propres au fonctionnement du cerveau TDAH favorisent des apports alimentaires déséquilibrés.

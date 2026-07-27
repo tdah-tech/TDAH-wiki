@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.144+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#metiers"
-  - "#carriere"
-  - "#entrepreneuriat"
-  - "#hyperfocus"
-  - "#creativite"
-  - "#pensee-divergente"
+  - micronote
+  - tdah
+  - metiers
+  - carriere
+  - entrepreneuriat
+  - hyperfocus
+  - creativite
+  - pensee-divergente
 ---
 
 La études ne désignent pas une liste de métiers « idéaux » pour les personnes présentant un TDAH, car le trouble se manifeste de façon très hétérogène et interagit fortement avec l’environnement.

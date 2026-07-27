@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.111+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fidgets"
-  - "#casque-anti-bruit"
-  - "#outils-sensoriels"
-  - "#preuves-scientifiques"
+  - micronote
+  - tdah
+  - fidgets
+  - casque-anti-bruit
+  - outils-sensoriels
+  - preuves-scientifiques
 ---
 
 Il existe beaucoup d'outils extrêmement populaires, présentés presque partout comme des évidences pour le TDAH, alors que la réalité scientifique est beaucoup plus nuancée, et parfois carrément contraire à l'intuition.

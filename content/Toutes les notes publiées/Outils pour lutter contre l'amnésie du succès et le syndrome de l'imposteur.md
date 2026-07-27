@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.147+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#aménésie-du-succès"
-  - "#journal-des-réussites"
-  - "#to-done-list"
-  - "#estime-de-soi"
-  - "#syndrome-de-l-imposteur"
+  - micronote
+  - tdah
+  - aménésie-du-succès
+  - journal-des-réussites
+  - to-done-list
+  - estime-de-soi
+  - syndrome-de-l-imposteur
 ---
 
 Les approches validées en thérapie cognitivo-comportementale adaptée au TDAH insistent sur l’importance d’externaliser ce que la [[Mémoire de travail et TDAH|mémoire de travail]] peine à retenir naturellement à savoir les succès. Tenir un **journal des réussites**, souvent appelé **« to-done list »** plutôt que traditionnelle liste de tâches à faire, constitue un outil puissant. Noter chaque jour ses accomplissements, même les plus modestes, et récapituler une fois par mois les réussites plus larges permet de constituer un véritable « carnet de preuves » concret. Ce journal devient une ressource précieuse à consulter lorsque le doute surgit avant une nouvelle tâche, restaurant ainsi une vision plus équilibrée et réaliste de ses compétences.

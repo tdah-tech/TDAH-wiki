@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.161+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vitamines"
-  - "#micronutriments"
-  - "#magnesium"
-  - "#omega-3"
+  - micronote
+  - tdah
+  - vitamines
+  - micronutriments
+  - magnesium
+  - omega-3
 ---
 
 Les micronutriments individuels (fer, [[Zinc|zinc]], [[Le magnésium|magnésium]], [[Vitamine D et TDAH|vitamine D]], [[Les omega-3|omega-3]] etc.) montrent principalement un bénéfice lorsqu’une carence est objectivée par un dosage sanguin. **En l’absence de déficit documenté, les essais de supplémentation isolée donnent des résultats faibles, inconsistants ou nuls sur les symptômes cardinaux du TDAH**.

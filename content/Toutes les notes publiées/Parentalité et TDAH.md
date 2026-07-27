@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.148+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#parentalite"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
-  - "#index"
+  - micronote
+  - tdah
+  - parentalite
+  - top
+  - trouble-opposition
+  - cycle-coercitif
+  - index
 ---
 
 Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
@@ -32,9 +32,10 @@ tags:
 
 - [[Bien calibrer le renforcement positif]]
 - [[Les systèmes de jetons et chartes de comportement - pourquoi ils s'essoufflent si vite ?]]
-- [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
+-  [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 
 ## L'épuisement parental
+
 
 - [[L'épuisement parental]]
 

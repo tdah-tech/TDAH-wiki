@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.137+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fonctions-executives"
-  - "#cortex-prefrontal"
-  - "#inhibition"
-  - "#memoire-de-travail"
-  - "#flexibilite-cognitive"
+  - micronote
+  - tdah
+  - fonctions-executives
+  - cortex-prefrontal
+  - inhibition
+  - memoire-de-travail
+  - flexibilite-cognitive
 ---
 
 Les **fonctions exécutives** désignent l'ensemble des processus cognitifs de haut niveau qui permettent de piloter, réguler et coordonner son comportement en vue d'un but, d'une action, en particulier dans des situations nouvelles ou non automatisées. On les compare souvent au « [[Métaphore du chef d'orchestre|chef d'orchestre]] » du cerveau : elles ne produisent pas elles-mêmes les pensées ou les actions, mais elles organisent, contrôlent et ajustent le reste du fonctionnement cognitif. En d'autres termes, les fonctions exécutives ne concernent pas ce que l'on sait ou ce que l'on peut faire, mais la capacité à orienter et contrôler ce savoir-faire de manière intentionnelle, surtout quand la situation exige un effort conscient plutôt qu'une réponse automatique

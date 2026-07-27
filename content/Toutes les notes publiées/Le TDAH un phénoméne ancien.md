@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.126+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#histoire"
-  - "#impulsivite"
-  - "#hyperactivite"
+  - micronote
+  - tdah
+  - histoire
+  - impulsivite
+  - hyperactivite
 ---
 
 Le TDAH n’est pas une invention récente de l’industrie pharmaceutique comme on peut le lire ici ou là. Cette idée, souvent brandie pour relativiser ou nier la réalité du trouble, se heurte à des descriptions cliniques bien antérieures à l’apparition des premiers médicaments stimulants.

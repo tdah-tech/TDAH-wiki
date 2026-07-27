@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.104+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dopamine"
-  - "#memoire-de-travail"
-  - "#motivation"
-  - "#méthylphénidate"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - dopamine
+  - memoire-de-travail
+  - motivation
+  - méthylphénidate
+  - hyperfocus
 ---
 
 Chez les personnes avec un TDA, le système dopaminergique fonctionne différemment à plusieurs niveaux.

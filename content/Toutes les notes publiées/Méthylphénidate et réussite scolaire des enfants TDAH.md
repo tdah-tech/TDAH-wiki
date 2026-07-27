@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.144+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#méthylphénidate"
-  - "#traitement"
+  - micronote
+  - tdah
+  - méthylphénidate
+  - traitement
 ---
 
 #### Effet à court terme : des effets positifs solidement établis
@@ -22,7 +22,6 @@ Il faut distinguer deux affirmations bien différentes : « on n'a pas prouvé q
 Contrairement à ce qu'on pensait depuis 80 ans, il est possible que les stimulants agissent sur les [circuits d'éveil et de récompense, plutôt que sur les réseaux cérébraux de l'attention eux-mêmes](https://publish.obsidian.md/tdah-ai/Ressources/Micronotes+V2/Toutes+les+notes+publi%C3%A9es/Le+m%C3%A9thylph%C3%A9nidate+agirait+sur+les+circuits+de+l'%C3%A9veil+et+de+r%C3%A9compense%2C+et+non+sur+les+r%C3%A9seaux+c%C3%A9r%C3%A9braux+de+l'attention+eux-m%C3%AAmes). Concrètement, cela signifie que le médicament n'ajoute rien de nouveau aux capacités cognitives de l'enfant : il ne muscle pas l'attention, ne crée pas de nouvelles connexions ni de nouvelles compétences. Les capacités attentionnelles restent fondamentalement les mêmes avant et après traitement, une fois l'effet du produit dissipé.
 
 Ce que fait le méthylphénidate, c'est lever un obstacle motivationnel : les compétences existent déjà chez l'enfant, mais restent hors d'atteinte faute d'éveil ou de motivation suffisants pour les mobiliser. Le médicament rend ces capacités _accessibles_ au moment où l'enfant en a besoin, sans les renforcer ni les développer. C'est un accès temporaire à une capacité déjà là — pas une capacité nouvelle ou des compétences dopées .
-
 #### 4. « Faire plus de travail » n'est pas « mieux apprendre » — mais y contribue
 
 Une étude marquante montre que le médicament augmente le temps passé sur les tâches sans nécessairement en améliorer la qualité : l'enfant a l'impression de mieux travailler, sans que sa performance réelle progresse pour autant. Il produit davantage et se sent plus efficace, mais le taux de bonnes réponses par unité de travail ne s'améliore pas forcément.

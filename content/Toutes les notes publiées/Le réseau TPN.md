@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.134+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#tpn"
-  - "#dmn"
-  - "#cortex-prefrontal"
-  - "#cortex-pariétal"
-  - "#réseau-exécutif-central"
+  - micronote
+  - tdah
+  - tpn
+  - dmn
+  - cortex-prefrontal
+  - cortex-pariétal
+  - réseau-exécutif-central
 ---
 
 Le réseau orienté vers la tâche, ou Task-Positive Network (TPN), désigne l’ensemble des régions cérébrales qui s’activent préférentiellement lorsqu’une personne s’engage dans une activité dirigée vers un but précis. Qu’il s’agisse de résoudre un problème, de lire un texte, de répondre à une question ou d’effectuer un calcul, ce réseau prend le relais pour maintenir l’attention sur les exigences de la situation en cours.

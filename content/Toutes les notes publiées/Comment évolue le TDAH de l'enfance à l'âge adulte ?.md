@@ -3,9 +3,9 @@ publish: true
 created: 2026-07-24
 modified: 2026-07-27T11:53:05.101+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#evolution"
+  - micronote
+  - tdah
+  - evolution
 ---
 
 Le trouble [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte.

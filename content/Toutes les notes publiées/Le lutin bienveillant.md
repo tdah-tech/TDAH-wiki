@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.129+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dmn"
-  - "#tpn"
-  - "#lutin-bienveillant"
-  - "#parts"
+  - micronote
+  - tdah
+  - dmn
+  - tpn
+  - lutin-bienveillant
+  - parts
 ---
 
 Le lutin bienveillant (e.g Ange), dans le livre de Hallowell et Ratey ADHD 2.0 , désigne l’état d’esprit qui s’installe lorsque le réseau orienté vers la tâche ([[Le réseau TPN|TPN]]) est solidement engagé. Contrairement au [[Le lutin malicieux|lutin malicieux]], qui représente le mode dégradé du réseau du mode par défaut ([[Le réseau DMN|DMN]]), le lutin bienveillant correspond à la configuration dans laquelle l’attention se porte pleinement sur une activité concrète, sans que l’esprit s’égare dans l’auto-évaluation permanente ou la rumination. Dans cet état, la personne est absorbée par ce qu’elle fait — écrire, résoudre un problème, cuisiner, réparer, créer — et traverse les petites frustrations sans se laisser dévier. L’énergie mentale n’est plus gaspillée à se juger , à ruminer ; elle est tout entière mobilisée par la tâche elle-même. Les auteurs parlent d’un état bénéfique parce qu’il apporte fluidité, efficacité et, souvent, une forme de satisfaction tranquille.

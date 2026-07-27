@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.137+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#alimentation"
-  - "#féculent"
-  - "#indice-glycemique"
-  - "#index-glycémique-bas"
+  - micronote
+  - tdah
+  - alimentation
+  - féculent
+  - indice-glycemique
+  - index-glycémique-bas
 ---
 
 Privilégier les féculents à index glycémique bas est généralement une bonne idée dans le cadre du TDAH, même s’il faut bien comprendre ce que cela apporte réellement.

@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-24
 modified: 2026-07-27T11:53:05.136+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarité"
-  - "#amanagements-scolaires"
-  - "#pap"
-  - "#PPS"
+  - micronote
+  - tdah
+  - scolarité
+  - amanagements-scolaires
+  - pap
+  - PPS
 ---
 
 Les aménagements ne visent pas à modifier les exigences du programme, mais à réduire l’écart entre les ressources attentionelles de l’élève et les exigences scolaires. Ils s’inscrivent le plus souvent dans le cadre d’un [[Le PAP et le PPS|Plan d’Accompagnement Personnalisé (PAP)]], élaboré en collaboration entre l’équipe pédagogique, la famille et, lorsque cela est pertinent, les professionnels de santé ou d'un PPS si la situation de handicap a été reconnue.
@@ -31,8 +31,7 @@ Les aménagements ne visent pas à modifier les exigences du programme, mais à 
 
 **[[Bien calibrer le renforcement positif|Le renforcement positif]] immédiat et fréquent demeure un levier majeur** : féliciter à chaque étape terminée, poser une main encourageante sur l’épaule, valoriser les efforts plutôt que uniquement le résultat, et confier des rôles positifs au sein de la classe renforcent l’estime de soi et maintiennent l’engagement. Un système de suivi quotidien partagé avec les parents prolonge cette cohérence éducative au-delà de la classe.
 
-**Une bonne qualité de l’air ( peu chargée en CO2)** contribuent également à soutenir la vigilance.
-
+ **Une bonne qualité de l’air ( peu chargée en CO2)** contribuent également à soutenir la vigilance.
 ## Pour aller plus loin :
 
 - [[La scolarité et le TDAH]]

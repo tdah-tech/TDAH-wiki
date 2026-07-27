@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.124+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dysregulation"
-  - "#dysrégulation-attention"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - dysregulation
+  - dysrégulation-attention
+  - hyperfocus
 ---
 
 Le nom même du trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) induit en erreur, et cette observation est largement partagée par les cliniciens spécialisés comme par les personnes concernées.

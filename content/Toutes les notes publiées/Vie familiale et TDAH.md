@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.164+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vie-de-couple"
-  - "#parentalite"
-  - "#heritabilite"
+  - micronote
+  - tdah
+  - vie-de-couple
+  - parentalite
+  - heritabilite
 ---
 
 Dans le couple, les données longitudinales et les méta-analyses indiquent que les adultes présentant un TDAH rapportent **davantage d’insatisfaction relationnelle, de conflits et de ruptures que la population générale**. Plusieurs études observent **un risque de divorce environ deux fois plus élevé, et parfois jusqu’à trois fois plus élevé lorsque le diagnostic a été posé dès l’enfance**.

@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.129+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#lutin-malicieux"
-  - "#dmn"
-  - "#parts"
+  - micronote
+  - tdah
+  - lutin-malicieux
+  - dmn
+  - parts
 ---
 
-Le lutin malicieux, tel que le décrivent Edward Hallowell et John Ratey dans \_ADHD 2.0 (ils utilisent le terme Démon), désigne la forme dégradée que prend le réseau du mode par défaut ([[Le réseau DMN|DMN]]) lorsque l’imagination n’est plus canalisée par une tâche. Ce réseau qui, lorsqu’il fonctionne de manière fluide, produit la rêverie créative, les associations inattendues et la projection constructive dans le futur, peut basculer dans un mode pathologique. C’est précisément ce basculement que les auteurs nomment le lutin malicieux : l’imagination qui, livrée à elle-même, se retourne contre son propriétaire et se met à le dévorer plutôt qu’à créer. Ils le représentent sous les traits d’un lutin malicieux perché sur l’épaule, soufflant de mauvais conseils.
+Le lutin malicieux, tel que le décrivent Edward Hallowell et John Ratey dans _ADHD 2.0 (ils utilisent le terme Démon), désigne la forme dégradée que prend le réseau du mode par défaut ([[Le réseau DMN|DMN]]) lorsque l’imagination n’est plus canalisée par une tâche. Ce réseau qui, lorsqu’il fonctionne de manière fluide, produit la rêverie créative, les associations inattendues et la projection constructive dans le futur, peut basculer dans un mode pathologique. C’est précisément ce basculement que les auteurs nomment le lutin malicieux : l’imagination qui, livrée à elle-même, se retourne contre son propriétaire et se met à le dévorer plutôt qu’à créer. Ils le représentent sous les traits d’un lutin malicieux perché sur l’épaule, soufflant de mauvais conseils.
 
 Ce mode dégradé  peut prendre la forme de rumination c'est  la forme la plus fréquente et la plus immédiatement reconnaissable. Mais ce mode dégradé englobe un spectre plus large de manifestations.
 

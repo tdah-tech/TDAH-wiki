@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.109+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#cycle-escalade"
-  - "#cycle-opposition"
-  - "#trouble-opposition"
+  - micronote
+  - tdah
+  - cycle-escalade
+  - cycle-opposition
+  - trouble-opposition
 ---
 
 Pour sortir du [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH|cycle d’escalade]], le premier levier n’est pas de changer l’enfant, mais de **modifier sa propre réaction**. Tant que le parent continue de répéter, de monter le ton et de menacer, il alimente précisément le mécanisme qu’il cherche à interrompre. Les approches validées insistent toutes sur ce point : le parent doit devenir le point stable de la relation. Cela commence par **une demande formulée une seule fois, de façon claire, calme et concise**. Ensuite, on s’arrête de parler. **Le silence et la présence physique remplacent les répétitions**. S’approcher, poser une main sur l’épaule ou simplement rester là, sans commentaire, crée souvent plus d’effet qu’une série de reformulations qui ne font qu’aggraver la tension.

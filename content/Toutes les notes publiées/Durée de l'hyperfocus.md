@@ -3,9 +3,9 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.104+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - hyperfocus
 ---
 
 L’hyperfocus **n’est pas un état permanent**. Il s’agit d’épisodes  d’absorption intense qui apparaissent, se maintiennent un certain temps, puis s’interrompent, souvent de façon assez brutale lorsque la stimulation diminue ou qu’une contrainte externe force le basculement.
@@ -25,4 +25,4 @@ C’est précisément dans ces conditions que l’hyperfocus peut conduire à de
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
-- [[Qu'est-ce-que le TDAH ?]]
+-  [[Qu'est-ce-que le TDAH ?]]

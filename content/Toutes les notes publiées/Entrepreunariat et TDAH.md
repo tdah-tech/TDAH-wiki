@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.109+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#entrepreneuriat"
-  - "#impulsivite"
-  - "#hyperactivite"
+  - micronote
+  - tdah
+  - entrepreneuriat
+  - impulsivite
+  - hyperactivite
 ---
 
 La science a progressivement éclairé les liens entre le TDAH et l’entrepreneuriat, passant d’observations anecdotiques à des analyses empiriques rigoureuses. Une méta-analyse récente de 2025, s’appuyant sur 47 études, montre que les symptômes de TDAH, particulièrement l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], sont positivement associés aux attitudes entrepreneuriales et aux comportements de création d’entreprise. En revanche, l’inattention tend à nuire aux résultats une fois l’entreprise lancée.

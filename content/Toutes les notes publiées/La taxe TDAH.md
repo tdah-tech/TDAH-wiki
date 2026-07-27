@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.122+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#taxe-tdah"
-  - "#dopamine"
-  - "#argent"
+  - micronote
+  - tdah
+  - taxe-tdah
+  - dopamine
+  - argent
 ---
 
 **La taxe TDAH** (ou _ADHD tax_) est un terme très utilisé dans la communauté TDAH pour désigner **tous les coûts supplémentaires** que les personnes avec TDAH paient à cause de leurs symptômes.

@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.159+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dysregulation-emotionnelle"
-  - "#sous-stimulation"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - dysregulation-emotionnelle
+  - sous-stimulation
+  - impulsivite
 ---
 
 La sous-stimulation ne se combat pas uniquement une fois qu’elle a déjà dégénéré en irritabilité ou en conflit. Elle se prévient surtout en amont, en apprenant à reconnaître ses premiers signes et en lui offrant d’autres voies de sortie que l’argumentation.

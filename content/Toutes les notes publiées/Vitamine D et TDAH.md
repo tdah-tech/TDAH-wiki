@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.164+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vitamine-d"
-  - "#micronutriments"
-  - "#alimentation"
-  - "#micro-aliments"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - vitamine-d
+  - micronutriments
+  - alimentation
+  - micro-aliments
+  - méthylphénidate
 ---
 
 La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. De nombreuses études  et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
@@ -26,7 +26,7 @@ La prise quotidienne de vitamine D à dose modérée est généralement préfér
 
 Les données scientifiques récentes montrent que des apports journaliers (souvent entre 800 et 2000 UI selon les besoins individuels) permettent d’atteindre et de maintenir un taux sanguin plus régulier, sans les pics et les chutes observés après une dose massive. Cette stabilité se rapproche davantage de ce que le corps produit naturellement lorsqu’il est exposé au soleil. À l’inverse, une ampoule de 50 000, 100 000 ou 200 000 UI crée un pic rapide suivi d’une baisse progressive, ce qui peut stimuler davantage les enzymes de dégradation de la vitamine D et rendre le taux moins constant sur plusieurs semaines.
 
-L’inconvénient principal de la prise quotidienne est le risque d’oubli, surtout quand on a un TDA. Dans ce cas, l’ampoule reste une option pratique et largement prescrite, à condition de respecter les intervalles indiqués .
+ L’inconvénient principal de la prise quotidienne est le risque d’oubli, surtout quand on a un TDA. Dans ce cas, l’ampoule reste une option pratique et largement prescrite, à condition de respecter les intervalles indiqués .
 
 Quelle que soit la formule choisie, il est important de prendre la vitamine D avec un repas contenant un peu de graisses (huile, œuf, avocat, poisson, yaourt…) pour améliorer son absorption.
 

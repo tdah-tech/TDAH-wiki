@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.099+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
-  - "#neurobiologie"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - top
+  - trouble-opposition
+  - cycle-coercitif
+  - neurobiologie
+  - impulsivite
 ---
 
 Il n'y a pas une cause unique au TOP, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.

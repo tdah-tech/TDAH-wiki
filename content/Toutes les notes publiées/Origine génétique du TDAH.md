@@ -3,16 +3,16 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.146+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#genetique"
-  - "#epigenetique"
-  - "#neuroplasticite"
-  - "#cortex-prefrontal"
-  - "#maturation"
-  - "#diagnostic"
-  - "#histoire"
-  - "#dsm"
+  - micronote
+  - tdah
+  - genetique
+  - epigenetique
+  - neuroplasticite
+  - cortex-prefrontal
+  - maturation
+  - diagnostic
+  - histoire
+  - dsm
 ---
 
 Le TDAH a une origine génétique estimée à environ 70 % à 80 %  (souvent autour de 74 % dans les méta-analyses d’études portant sur des jumeaux).

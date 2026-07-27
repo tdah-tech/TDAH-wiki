@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-24
 modified: 2026-07-27T11:53:05.160+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
+  - micronote
+  - tdah
 ---
 
 Le système scolaire traditionnel, en valorisant notamment de façon prédominante les compétences verbo-linguistiques et logico-mathématiques, place les personnes présentant un TDAH dans une position structurellement désavantageuse. . La science en documente clairement les conséquences à savoir un taux plus élevés d'échec scolaire, de redoublement, de [[Les commorbidités du TDAH|comorbidité]] avec des troubles des apprentissages et, à plus long terme, un accès à des études supérieures significativement réduits par rapport à la population générale. Selon plusieurs études de cohorte environ 15 % des jeunes adultes ayant eu un diagnostic de TDAH dans l'enfance obtiennent un diplôme universitaire de premier cycle, contre près de la moitié (48 %) chez des étudiants non TDAH ; les abandons au lycée restent également plus fréquents.

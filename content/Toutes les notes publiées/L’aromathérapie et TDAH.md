@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.140+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#aromatherapie"
-  - "#olfaction"
-  - "#regulation-emotionnelle"
-  - "#huiles-essentielles"
+  - micronote
+  - tdah
+  - aromatherapie
+  - olfaction
+  - regulation-emotionnelle
+  - huiles-essentielles
 ---
 
 L’aromathérapie **n’a pas démontré d’efficacité solide** dans le traitement des symptômes centraux du TDAH. En revanche, elle peut constituer un outil de **soutien ponctuel** pour favoriser un état de calme, notamment lorsque l’enfant présente une surcharge émotionnelle, de l’agitation ou des difficultés d’endormissement.

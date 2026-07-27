@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.096+02:00
+modified: 2026-07-27T14:44:22.513+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#analogie"
-  - "#lézard"
-  - "#verre-émotionnel"
-  - "#dysregulation-emotionnelle"
+  - micronote
+  - tdah
+  - analogie
+  - lézard
+  - verre-émotionnel
+  - dysregulation-emotionnelle
 ---
 
-Un lézard est un animal à sang froid : il ne peut pas réguler sa température corporelle de l’intérieur. Pour fonctionner, il doit chercher une source de chaleur externe (soleil, roche chaude). Sans cela, il devient lent et inefficace.
+Un lézard est un animal à sang froid qui ne peut pas réguler sa température corporelle de l’intérieur. Pour fonctionner, il doit chercher une source de chaleur externe (soleil, roche chaude). Sans cela, il devient lent et inefficace.
 
 Le cerveau TDAH fonctionne souvent de la même façon, que ce soit pour l’**attention** ou pour les **émotions**.
 

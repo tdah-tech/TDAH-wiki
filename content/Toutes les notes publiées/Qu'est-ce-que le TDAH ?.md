@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T14:10:11.000+02:00
+modified: 2026-07-27T13:31:25.959+02:00
 tags:
-  - "#tdah"
-  - "#definition"
-  - "#synthese"
-  - "#genetique"
-  - "#fonctions-executives"
-  - "#neurodiversite"
-  - "#index"
+  - tdah
+  - definition
+  - synthese
+  - genetique
+  - fonctions-executives
+  - neurodiversite
+  - index
 ---
 
 Le TDAH, Trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
@@ -17,6 +17,8 @@ Le TDAH, Trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|défic
 Il associe, à des degrés divers, trois grandes dimensions : le [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]], l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]].
 
 Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les deux profils. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
+
+
 
 ## Les trois profils cliniques
 
@@ -54,7 +56,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
 - [[Trouble ou neurodivergence ?]]
-
 ## Intelligence et cognition
 
 - [[Les intelligences multiples face au TDAH]]
@@ -88,6 +89,8 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Trouble de l'opposition et image de soi]]
 - [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 - [[Boite à outils Trouble oppositionnel]]
+
+
 
 ## Pour aller plus loin
 

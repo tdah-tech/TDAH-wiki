@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.151+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#trouble-opposition"
-  - "#top"
-  - "#punition"
-  - "#image-de-soi"
+  - micronote
+  - tdah
+  - trouble-opposition
+  - top
+  - punition
+  - image-de-soi
 ---
 
 Ce qui distingue vraiment le profil TDAH avec TOP, ce n'est donc pas que la punition ne marche jamais, mais qu'elle est un outil beaucoup moins fiable et beaucoup plus fragile que chez un enfant sans ces difficultés, et qu'elle a de moins bonnes chances de produire un changement durable du comportement,
@@ -25,7 +25,7 @@ Un mécanisme plus robuste et plus universellement documenté concerne le rappor
 
 #### L'escalade émotionnelle plutôt que la soumission
 
-Punir suppose implicitement que l'enfant va rester dans un état émotionnel suffisamment régulé pour intégrer la leçon. Or chez un enfant qui a déjà, par définition du trouble, une faible tolérance à la frustration et une régulation émotionnelle fragile, l'annonce ou l'application d'une punition ajoute une couche de stress au moment même où le système est déjà sollicité. Le résultat n'est pas un enfant qui réfléchit et corrige son comportement, mais un enfant dont l'état émotionnel bascule davantage vers la confrontation. La punition, au lieu de calmer la situation, l'aggrave sur le moment, et confirme au passage à l'enfant que l'échange avec l'adulte est un rapport de force plutôt qu'une occasion d'apprentissage.
+ Punir suppose implicitement que l'enfant va rester dans un état émotionnel suffisamment régulé pour intégrer la leçon. Or chez un enfant qui a déjà, par définition du trouble, une faible tolérance à la frustration et une régulation émotionnelle fragile, l'annonce ou l'application d'une punition ajoute une couche de stress au moment même où le système est déjà sollicité. Le résultat n'est pas un enfant qui réfléchit et corrige son comportement, mais un enfant dont l'état émotionnel bascule davantage vers la confrontation. La punition, au lieu de calmer la situation, l'aggrave sur le moment, et confirme au passage à l'enfant que l'échange avec l'adulte est un rapport de force plutôt qu'une occasion d'apprentissage.
 
 #### L'habituation
 

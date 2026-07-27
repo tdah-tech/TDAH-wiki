@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.098+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#renforcement-positif"
-  - "#top"
-  - "#trouble-opposition"
+  - micronote
+  - tdah
+  - renforcement-positif
+  - top
+  - trouble-opposition
 ---
 
 Presque tous les parents d'enfants [[Le trouble oppositionnel avec provocation et le TDAH|TDAH-TOP]] diront, si on leur demande, qu'ils "font déjà du renforcementpositif". C'est souvent vrai en intention, mais faux en pratique : l'encouragement se limite à un "je suis fier de toi" "c'est bien" lancé en passant, une ou deux fois par jour, sans lien précis avec un comportement identifiable. Ce n'est pas que ces parents ne font pas d'effort, c'est que le renforcement positif, pour avoir un effet réel sur ce profil d'enfant, obéit à des règles beaucoup plus précises que "dire des choses gentilles de temps en temps". Trois leviers font toute la différence : la spécificité, l'immédiateté, et la fréquence.

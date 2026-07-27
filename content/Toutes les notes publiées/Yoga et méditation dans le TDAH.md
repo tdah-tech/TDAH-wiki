@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.165+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#yoga"
-  - "#pleine-conscience"
-  - "#monkey-mind"
-  - "#dmn"
-  - "#respiration-ha"
+  - micronote
+  - tdah
+  - yoga
+  - pleine-conscience
+  - monkey-mind
+  - dmn
+  - respiration-ha
 ---
 
 Les pratiques corps-esprit comme le yoga et la méditation (mindfulness) montrent des bénéfices modestes à modérés pour le TDAH, principalement en complément des traitements standards, mais les preuves restent limitées.

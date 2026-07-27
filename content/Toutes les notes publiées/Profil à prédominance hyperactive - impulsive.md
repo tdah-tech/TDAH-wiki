@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.152+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperactif"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - hyperactif
+  - impulsivite
 ---
 
 Dans ce profil, les altérations cérébrales sont localisées. Elles concernent surtout les circuits qui gèrent le freinage des impulsions, notamment le lien entre le **cortex cingulaire antérieur** et le **pallidum**.

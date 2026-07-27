@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-25
 modified: 2026-07-27T11:53:05.120+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#cecite-temporelle"
-  - "#gestion-du-temps"
-  - "#discounting-temporel"
-  - "#procrastination"
+  - micronote
+  - tdah
+  - cecite-temporelle
+  - gestion-du-temps
+  - discounting-temporel
+  - procrastination
 ---
 
 La perception du temps selon le mode « maintenant ou pas maintenant » constitue l’une des particularités du fonctionnement TDAH, une facette précise de la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]] popularisée par Russell Barkley.

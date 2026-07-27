@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.116+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#regime-mediterraneen"
-  - "#index-glycémique-bas"
-  - "#glycemie"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - regime-mediterraneen
+  - index-glycémique-bas
+  - glycemie
+  - alimentation
 ---
 
 L'alimentation à indice glycémique bas n'est pas un traitement validé du TDAH, mais elle constitue une stratégie de soutien raisonnable et cohérente avec les données disponibles.

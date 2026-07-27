@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.145+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#noradénaline"
-  - "#cortex-prefrontal"
-  - "#dopamine"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - noradénaline
+  - cortex-prefrontal
+  - dopamine
+  - impulsivite
 ---
 
 La noradrénaline agit surtout sur l'éveil du cerveau et sur sa capacité à filtrer ce qui est important de ce qui ne l'est pas.

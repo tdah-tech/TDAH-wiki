@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.164+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#alimentation"
-  - "#tca"
-  - "#troubles-alimentaires"
+  - micronote
+  - tdah
+  - alimentation
+  - tca
+  - troubles-alimentaires
 ---
 
-Plusieurs méta-analyses et de grandes études populationnelles montrent que le risque de présenter un trouble du comportement alimentaire (TCA) est nettement plus élevé chez les personnes qui ont un TDAH.
+ Plusieurs méta-analyses et de grandes études populationnelles montrent que le risque de présenter un trouble du comportement alimentaire (TCA) est nettement plus élevé chez les personnes qui ont un TDAH.
 
 La méta-analyse de référence publiée en 2016 par Nazar et collaborateurs a synthétisé les données de douze études portant sur plus de 4 000 personnes avec TDAH et près de 30 000 témoins. conclut que le risque est multiplié par un facteur d’environ 3,8.
 

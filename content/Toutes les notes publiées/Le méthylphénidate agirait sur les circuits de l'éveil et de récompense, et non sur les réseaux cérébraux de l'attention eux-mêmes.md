@@ -3,18 +3,17 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.132+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#méthylphénidate"
-  - "#éveil"
-  - "#traitement"
-  - "#tpn"
-  - "#hyperactivite"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - méthylphénidate
+  - éveil
+  - traitement
+  - tpn
+  - hyperactivite
+  - hyperfocus
 ---
 
 Une équipe (Washington University, St. Louis) a comparé les IRM cérébrales au repos de près de 5 800 enfants de 8 à 11 ans issus d'une grande étude américaine (ABCD Study), dont 337 avaient pris un stimulant (Ritalin, Adderall, etc.) le matin même de leur scanner (étude de 2025).
-
 ### La découverte centrale
 
 Les chercheurs s'attendaient à trouver des changements dans les zones du cerveau liées à l'attention (les fameux réseaux attentionnels).  Résultat : **aucun changement** dans ces réseaux attentionnels en raison de la prise de stimulants. En revanche, les plus gros changements se situaient dans deux zones bien différentes :

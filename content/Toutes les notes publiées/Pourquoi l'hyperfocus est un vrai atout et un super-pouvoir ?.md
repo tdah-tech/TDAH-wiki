@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.149+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperfocus"
-  - "#flow"
-  - "#force-tdah"
+  - micronote
+  - tdah
+  - hyperfocus
+  - flow
+  - force-tdah
 ---
 
 L'étude de référence sur le sujet (Hupfeld, Abagis & Shah, 2019, _ADHD Attention Deficit and Hyperactivity Disorders_) a testé 372 adultes — 162 avec TDAH, 210 sans — avec un questionnaire dédié. Le groupe TDAH rapporte significativement plus d'[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] dans trois domaines (études/travail, loisirs créatifs, écrans), et plus les symptômes TDAH sont marqués, plus le score d'hyperfocus est élevé. Le lien entre TDAH et capacité à hyperfocuser semble donc bien établi.

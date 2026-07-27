@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-25
 modified: 2026-07-27T11:53:05.159+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#travail"
-  - "#études"
+  - micronote
+  - tdah
+  - travail
+  - études
 ---
 
 Redéfinir ce que signifie travailler pour un cerveau TDAH commence par abandonner l’idée que l’effort valable se mesure à la régularité apparente et à la présence continue.

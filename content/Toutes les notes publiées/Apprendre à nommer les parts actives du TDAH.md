@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.096+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#régulation-emotionelle"
-  - "#parts"
+  - micronote
+  - tdah
+  - régulation-emotionelle
+  - parts
 ---
 
 Nommer les parts actives du TDAH, en les personnalisant (ex:  le génie, le démons, la girouette), constitue une démarche profondément utile et thérapeutique, car elle transforme une expérience intérieure souvent chaotique et culpabilisante en quelque chose de visible, de dialoguable et de gérable. Lorsque l’on donne un nom à ces modes de fonctionnement, on crée une distance saine entre soi et les manifestations du trouble.

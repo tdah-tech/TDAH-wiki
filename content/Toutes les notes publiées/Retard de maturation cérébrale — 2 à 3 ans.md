@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-18
 modified: 2026-07-27T11:53:05.160+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#maturation"
-  - "#cortex-prefrontal"
-  - "#parentalite"
+  - micronote
+  - tdah
+  - maturation
+  - cortex-prefrontal
+  - parentalite
 ---
 
 Le cerveau des personnes avec TDAH se développe selon le même schéma que celui des personnes neurotypiques, mais avec un **décalage temporel** significatif. Ce retard de maturation, est l’un des modèles neurodéveloppementaux les mieux documentés du trouble.

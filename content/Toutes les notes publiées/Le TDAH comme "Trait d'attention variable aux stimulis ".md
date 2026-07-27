@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.123+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vast"
-  - "#hyperactivite"
+  - micronote
+  - tdah
+  - vast
+  - hyperactivite
 ---
 
 L'acronyme V.A.S.T. désigne le _Variable Attention Stimulus Trait_, expression que l'on peut traduire en français par « Trait d'attention variable aux stimuli ».
@@ -22,6 +22,7 @@ Cette reformulation vise explicitement à sortir du langage pathologique associ�
 En parlant de « trait » plutôt que de « trouble » et de « variable » plutôt que de « déficit », Hallowell et Ratey cherchent à réduire la stigmatisation et à mettre en lumière les forces souvent associées à ce fonctionnement cérébral : curiosité, créativité, capacité d'adaptation rapide, intensité émotionnelle et aptitude à l'innovation.
 
 Ils insistent sur le fait que les mêmes caractéristiques qui génèrent des difficultés dans un environnement peu stimulant peuvent devenir des atouts majeurs dans un contexte adapté. (voir  [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]))
+
 
 Le concept de VAST a été t salué pour son intention destigmatisante et pour avoir remis en circulation, dans le grand public, l'idée que le TDAH comporte une dimension de force et pas seulement une dimension de handicap.
 

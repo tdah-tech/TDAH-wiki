@@ -3,16 +3,15 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.117+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#epuisement-parental"
-  - "#stress-parental"
-  - "#top"
-  - "#trouble-opposition"
+  - micronote
+  - tdah
+  - epuisement-parental
+  - stress-parental
+  - top
+  - trouble-opposition
 ---
 
 L'épuisement parental se définit par quatre dimensions mesurables :
-
 - l'épuisement dans le rôle de parent,
 - le sentiment d'être devenu un parent différent de celui qu'on était,
 - le fait d'en avoir assez de ce rôle,

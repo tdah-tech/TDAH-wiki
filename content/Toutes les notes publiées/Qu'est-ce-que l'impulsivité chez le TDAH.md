@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.159+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#impulsivite"
-  - "#achats-impulsifs"
-  - "#cortex-prefrontal"
+  - micronote
+  - tdah
+  - impulsivite
+  - achats-impulsifs
+  - cortex-prefrontal
 ---
 
 L'impulsivité constitue l'un des traits les plus marquants du TDAH et l'un des plus mal compris.

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T14:10:11.000+02:00
+modified: 2026-07-27T13:31:21.178+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperfocus"
-  - "#dopamine"
-  - "#urgence"
-  - "#peur"
-  - "#anxiete"
+  - micronote
+  - tdah
+  - hyperfocus
+  - dopamine
+  - urgence
+  - peur
+  - anxiete
 ---
 
 Chez les personnes avec un TDAH, [[Qu'est-ce-que l'hyperfocus ?|l'hyperfocus]] apparaît rarement comme une décision purement volontaire. Il surgit le plus souvent lorsque le cerveau reçoit enfin le signal chimique qui lui manquait. En dehors de l'intérêt et la passion que produit l'activité, l’urgence et la peur font partie des leviers les plus puissants pour produire ce signal.
@@ -23,6 +23,8 @@ Ces mécanismes sont réels et méritent d’être connus. Ils expliquent pourqu
 **Il faut cependant abandonner l’idée que l’urgence et la peur permettent de déclencher l’hyperfocus à volonté, comme on appuie sur un interrupteur**. Cet état reste en grande partie involontaire. Il dépend de la nature de la tâche, de l’état de fatigue, de la présence d’éléments d’intérêt et de nombreux facteurs internes et externes.
 
 **Chez certaines personnes, surtout lorsqu’il existe une anxiété comorbide, l’exagération de la peur produit l’effet inverse : une paralysie plutôt qu’un focus**. De plus, le recours répété à l'urgence ou à la peur fatigue le système nerveux. Le cycle urgence-hyperfocus-épuisement finit par entamer les réserves, augmenter le sentiment d’incompétence et favoriser le burnout.
+
+
 
 ## Pour aller plus loin :
 

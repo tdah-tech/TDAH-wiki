@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.145+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#neurotypique"
-  - "#procrastination"
-  - "#hyperfocus"
-  - "#fonctions-executives"
-  - "#dopamine"
+  - micronote
+  - tdah
+  - neurotypique
+  - procrastination
+  - hyperfocus
+  - fonctions-executives
+  - dopamine
 ---
 
 Le trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) implique bel et bien des difficultés marquées dans le domaine de l'attention soutenue et des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]]. Cette réalité est solidement documentée et ne doit pas être minimisée.

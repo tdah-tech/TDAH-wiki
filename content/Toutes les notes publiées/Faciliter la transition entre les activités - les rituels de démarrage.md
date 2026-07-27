@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.110+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dmn"
-  - "#tpn"
-  - "#transition"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
+  - micronote
+  - tdah
+  - dmn
+  - tpn
+  - transition
+  - top
+  - trouble-opposition
+  - cycle-coercitif
 ---
 
 L'objectif de ces stratégies n'est pas de "faire obéir" l'enfant plus vite, mais de rendre la bascule [[Le réseau DMN|DMN]] vers [[Le réseau TPN|TPN]] moins coûteuse, pour qu'elle ne devienne pas systématiquement un terrain de conflit.

@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.121+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarite"
-  - "#apprentissage"
-  - "#index"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - scolarite
+  - apprentissage
+  - index
+  - méthylphénidate
 ---
 
 ## Apprendre et étudier avec un TDAH
@@ -21,6 +21,7 @@ tags:
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]
 - [[Réussite et échec scolaire]]
+
 
 ## Le méthylphénidate à l'école
 

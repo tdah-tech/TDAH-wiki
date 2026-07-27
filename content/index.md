@@ -1,17 +1,17 @@
 ---
 publish: true
-title: Accueil
 created: 2026-07-20
 modified: 2026-07-27T09:57:54.599+02:00
-tags:
-  - "#meta"
-  - "#publish"
-  - "#accueil"
+title: Accueil
 cssclasses:
   - page-accueil
+tags:
+  - meta
+  - publish
+  - accueil
 ---
 
-Ce site n’est pas à proprement parler un blog sur le TDAH (même si vous y trouverez de nombreuses ressources sur le TDAH), mais un _[[Qu'est-ce qu'un second cerveau ?|second cerveau]]_ basé sur un [coffre Obsidian](https://www.obsidian.md), destiné à nourrir le contexte d’une intelligence artificielle , dans le cadre d’un projet visant à utiliser l’IA au quotidien pour aider les personnes TDAH.
+Ce site n’est pas à proprement parler un blog sur le TDAH (même si vous y trouverez de nombreuses ressources sur le TDAH), mais un *[[Qu'est-ce qu'un second cerveau ?|second cerveau]]* basé sur un [coffre Obsidian](https://www.obsidian.md), destiné à nourrir le contexte d’une intelligence artificielle , dans le cadre d’un projet visant à utiliser l’IA au quotidien pour aider les personnes TDAH.
 
 La porte principale pour naviguer dans le vault est :
 

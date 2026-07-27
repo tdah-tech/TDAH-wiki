@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.128+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fonctions-executives"
-  - "#memoire-de-travail"
-  - "#dopamine"
-  - "#organisation"
+  - micronote
+  - tdah
+  - fonctions-executives
+  - memoire-de-travail
+  - dopamine
+  - organisation
 ---
 
 Le découpage des tâches, ou « chunking », constitue l’une des stratégies comportementales les plus solidement ancrées dans la prise en charge du TDAH.
@@ -23,7 +23,9 @@ Chaque micro-étape terminée devient un signal de progrès tangible, ce qui sou
 
 Chez l’adulte, la thérapie cognitivo-comportementale adaptée au TDAH place également le découpage systématique des tâches au cœur de l’approche.
 
-Le découpage, mal dimensionné ou réalisé sans soutien externe peut cependant augmenter la charge mentale si la liste des sous-tâches devient trop longue ou trop abstraite. L’efficacité dépend de plusieurs facteurs individuels : la taille optimale des « morceaux de tache » (parfois très micro pour surmonter la paralysie d’initiation), la présence de comorbidités (anxiété, troubles de l’humeur, difficultés d’apprentissage), le niveau de soutien environnemental, l’âge, et la capacité de la personne à s’approprier la méthode. Certaines personnes trouvent le processus même de décomposition difficile et ont besoin d’un accompagnement initial (coach, thérapeute, parent ou outil numérique) pour le rendre automatisable.
+ Le découpage, mal dimensionné ou réalisé sans soutien externe peut cependant augmenter la charge mentale si la liste des sous-tâches devient trop longue ou trop abstraite. L’efficacité dépend de plusieurs facteurs individuels : la taille optimale des « morceaux de tache » (parfois très micro pour surmonter la paralysie d’initiation), la présence de comorbidités (anxiété, troubles de l’humeur, difficultés d’apprentissage), le niveau de soutien environnemental, l’âge, et la capacité de la personne à s’approprier la méthode. Certaines personnes trouvent le processus même de décomposition difficile et ont besoin d’un accompagnement initial (coach, thérapeute, parent ou outil numérique) pour le rendre automatisable.
+
+
 
 ## Pour aller plus loin :
 

@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.143+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dysregulation-emotionnelle"
-  - "#verre-émotionnel"
-  - "#réservoir-émotionnel"
+  - micronote
+  - tdah
+  - dysregulation-emotionnelle
+  - verre-émotionnel
+  - réservoir-émotionnel
 ---
 
 **Le « verre émotionnel »** (ou métaphore du verre / réservoir émotionnel) est une image très utilisée pour expliquer la **[[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]** fréquente chez les enfants avec TDAH.

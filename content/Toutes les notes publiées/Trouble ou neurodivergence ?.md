@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.164+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#trouble"
-  - "#neuro-athypique"
-  - "#neurodivergence"
+  - micronote
+  - tdah
+  - trouble
+  - neuro-athypique
+  - neurodivergence
 ---
 
 De nombreuses personnes, ainsi qu’une partie croissante des cliniciens et des chercheurs, préfèrent parler de **neuroatypie** ou de **neurodivergence** plutôt que de pathologie ou de trouble. Cette reformulation n’est pas une simple question de vocabulaire ; elle modifie en profondeur la manière dont on comprend le fonctionnement cérébral en jeu et dont on envisage l’accompagnement.
@@ -16,11 +16,11 @@ Le paradigme de la neurodiversité, considère que les traits attentionnels, mot
 
 Les difficultés apparaissent surtout lorsqu’il se heurte à des environnements conçus pour un fonctionnement majoritaire, dit **neurotypique** : écoles et enseignements très structurées, bureaux monotones, exigences de constance et de conformité.
 
-Dans d’autres contextes en effets, les mêmes caractéristiques du TDAH peuvent devenir des atouts : intensité, créativité, capacité d’immersion, réactivité face à l’urgence ou à la nouveauté. On passe alors **d’une logique de déficit à une logique de différence**, et le terme de _neuroatypie_\* rend mieux compte de cette réalité.
+Dans d’autres contextes en effets, les mêmes caractéristiques du TDAH peuvent devenir des atouts : intensité, créativité, capacité d’immersion, réactivité face à l’urgence ou à la nouveauté. On passe alors **d’une logique de déficit à une logique de différence**, et le terme de *neuroatypie** rend mieux compte de cette réalité.
 
 Trouble et neuroatypie ne s’excluent pas nécessairement. Elles se situent plutôt sur un continuum. Ce qui justifie parfois une intervention clinique, ce n’est pas la simple présence de ces traits, mais le fait qu’ils génèrent une détresse significative ou un handicap dans le contexte de vie de la personne. La reconnaissance du trouble permet de reconnaitre le handicap.  Reconnaître la dimension neuroatypique permet elle d’éviter la stigmatisation et de valoriser les forces.
 
-L’enjeu actuel n’est donc plus de choisir entre les deux vocables, mais de tenir ensemble la complexité : un fonctionnement cérébral différent qui, selon les circonstances et le degré d’intensité, peut être source de richesse ou de véritable souffrance.
+ L’enjeu actuel n’est donc plus de choisir entre les deux vocables, mais de tenir ensemble la complexité : un fonctionnement cérébral différent qui, selon les circonstances et le degré d’intensité, peut être source de richesse ou de véritable souffrance.
 
 ## Pour aller plus loin
 

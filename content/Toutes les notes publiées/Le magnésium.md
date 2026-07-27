@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.129+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#magnesium"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - magnesium
+  - alimentation
 ---
 
 Plusieurs études constatent un déficit en magnésium plus fréquent chez les personnes TDAH (jusqu'à 72% des enfants selon certaines études, avec des taux sériques 11-15% plus bas que les témoins). Cette carence est corrélée aux symptômes, mais rien ne prouve un lien de causalité direct.

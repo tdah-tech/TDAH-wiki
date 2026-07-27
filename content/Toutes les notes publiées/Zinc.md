@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.166+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#zinc"
-  - "#micronutriments"
-  - "#dopamine"
+  - micronote
+  - tdah
+  - zinc
+  - micronutriments
+  - dopamine
 ---
 
 Le zinc figure parmi les micronutriments les plus souvent étudiés dans le contexte du TDAH. De nombreuses recherches rapportent des taux potentiellement plus bas chez les personnes concernées, tant chez les enfants que chez les adultes. Le zinc joue un rôle clé dans la régulation de la [[Dopamine et TDAH|dopamine]], la modulation des transporteurs synaptiques et le bon fonctionnement des circuits préfrontaux impliqués dans l’attention et le contrôle des impulsions. Cependant, une méta-analyse récente évalue la certitude des preuves comme modérée à très faible : l’association est observée, mais les études présentent souvent des limites méthodologiques (échantillons restreints, absence de contrôle rigoureux de l’alimentation).

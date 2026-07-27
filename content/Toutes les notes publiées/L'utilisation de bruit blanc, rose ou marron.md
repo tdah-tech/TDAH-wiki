@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-24
 modified: 2026-07-27T11:53:05.117+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarité"
-  - "#astuces-quotidien"
-  - "#bruit-blanc"
-  - "#bruit-rose"
-  - "#bruit-marron"
+  - micronote
+  - tdah
+  - scolarité
+  - astuces-quotidien
+  - bruit-blanc
+  - bruit-rose
+  - bruit-marron
 ---
 
 Le bruit blanc et le bruit rose appartiennent à la famille des bruits colorés, des sons  dont le spectre de fréquences est défini de manière précise. Le bruit blanc répartit une intensité sonore égale sur l’ensemble des fréquences audibles, ce qui produit un sifflement uniforme comparable à celui d’un téléviseur sans signal ou d’un ventilateur puissant. Le bruit rose, en revanche, diminue progressivement d’intensité à mesure que la fréquence augmente ; il en résulte un son plus doux et plus naturel, proche d’une pluie fine, du vent dans les feuilles ou d’un flux d’eau régulier. Ces deux types de sons ont été étudiés dans le contexte du trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) parce qu’ils offrent un fond sonore constant capable, en théorie, de modifier le niveau d’activation cérébrale.
@@ -25,6 +25,7 @@ Il convient de noter que le bruit marron, également appelébruit brownien, se d
 Notons que l’intérêt pour le bruit marron a explosé ces dernières années, notamment sur les réseaux sociaux, où de nombreuses personnes rapportent une meilleure concentration, une réduction des pensées envahissantes ou un effet calmant. Pour le moment, la science  reste silencieuse sur ce type de bruit . La  méta-analyse de 2024 précitée, qui a examiné l’ensemble de la littérature disponible sur les bruits colorés et le TDAH, n’a identifié aucune étude contrôlée de qualité suffisante portant spécifiquement sur le bruit marron. Les treize études retenues concernaient exclusivement le bruit blanc et le bruit rose. Aucune donnée comparable n’existe donc encore pour le bruit marron.
 
 Sur le plan théorique, on peut raisonnablement supposer que le même mécanisme d’activation cérébrale modérée pourrait s’appliquer.  Cette hypothèse reste toutefois extrapolées à partir des données obtenues avec le blanc et le rose.
+
 
 ## Pour aller plus loin :
 

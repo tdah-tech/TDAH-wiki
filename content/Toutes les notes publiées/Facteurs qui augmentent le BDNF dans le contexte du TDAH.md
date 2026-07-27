@@ -3,15 +3,15 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.110+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#bdnf"
-  - "#sommeil"
-  - "#exercice-physique"
-  - "#omega-3"
-  - "#curcumine"
-  - "#flavonoïdes"
-  - "#lumière-naturelle"
+  - micronote
+  - tdah
+  - bdnf
+  - sommeil
+  - exercice-physique
+  - omega-3
+  - curcumine
+  - flavonoïdes
+  - lumière-naturelle
 ---
 
 Dans le TDAH,  plutôt que d’attendre passivement une maturation cérébrale qui arrive avec retard, il est possible d’agir activement sur le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] pour créer un environnement neurobiologiquement favorable. La période de l’enfance à la fin de la vingtaine reste une fenêtre privilégiée où ces stratégies peuvent maximiser le rattrapage développemental.

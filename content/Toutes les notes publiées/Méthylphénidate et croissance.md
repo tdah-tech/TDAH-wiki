@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-26
 modified: 2026-07-27T11:53:05.143+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#methylphenidate"
-  - "#traitement-pharmacologique"
-  - "#croissance"
+  - micronote
+  - tdah
+  - methylphenidate
+  - traitement-pharmacologique
+  - croissance
 ---
 
 Le [[Le méthylphénidate comme traitement du TDAH|méthylphénidate]], principal médicament stimulants utilisé dans le traitement du TDAH, soulève depuis plusieurs décennies la question de son impact éventuel sur la croissance staturale des enfants et adolescents.
@@ -21,6 +21,7 @@ Le mécanisme principal retenu **est la diminution de l’appétit induite par l
 Il est important de souligner que le TDAH lui-même s’accompagne parfois de troubles alimentaires  et d’une activité physique variable, ce qui complexifie l’interprétation purement médicamenteuse des écarts observés entre TDAH médicamentés et TDAH non médicamentés.
 
 La pratique clinique a  intégré la surveillance régulière de la croissance comme élément non négociable du suivi. Les recommandations françaises et européennes convergent vers une mesure de la taille, du poids et du calcul de l’IMC au moins tous les six mois, reportée sur une courbe de croissance standardisée, avec une attention particulière pendant la première année. Lorsque le ralentissement dépasse un centile majeur ou s’accompagne d’une perte de poids persistante, plusieurs stratégies peuvent être envisagées : optimisation de l’alimentation (prise du médicament après un repas riche, collations caloriques en fin de journée), réduction temporaire de la dose, ou introduction de **« vacances médicamenteuses » pendant les week-ends ou les périodes de vacances scolaires**. Ces interruptions, lorsqu’elles sont bien planifiées, permettent souvent un rattrapage partiel de la courbe de croissance sans compromettre durablement le contrôle des symptômes.
+
 
 ## Pour aller plus loin :
 

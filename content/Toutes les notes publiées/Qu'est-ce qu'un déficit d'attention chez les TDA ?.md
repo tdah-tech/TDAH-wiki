@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.153+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#déficit-attention"
-  - "#fonctions-executives"
-  - "#cortex-prefrontal"
+  - micronote
+  - tdah
+  - déficit-attention
+  - fonctions-executives
+  - cortex-prefrontal
 ---
 
 Le déficit d'attention dans le TDA s'inscrit dans le cadre d'une neurodivergence **touchant principalement les [[Les fonctions éxécutives - définition|fonctions exécutives]]**. Portées en grande partie par le cortex préfrontal, ces fonctions regroupent l'ensemble des processus qui permettent de diriger l'action de façon volontaire et flexible : maintenir un but en mémoire, planifier les étapes nécessaires, inhiber les distractions, ajuster l'effort selon les exigences de la tâche et revenir consciemment à l'objectif lorsqu'on s'en éloigne.

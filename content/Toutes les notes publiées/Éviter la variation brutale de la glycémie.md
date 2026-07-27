@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.166+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#glycemie"
-  - "#index-glycémique-bas"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - glycemie
+  - index-glycémique-bas
+  - alimentation
 ---
 
 Le cerveau, et plus particulièrement celui d’une personne présentant un TDAH, fonctionne de manière optimale lorsqu’il reçoit un apport énergétique régulier et prévisible. Le glucose constitue son principal carburant. Lorsque la glycémie s’élève trop rapidement puis chute de façon abrupte, cet apport devient irrégulier. Les neurones des régions préfrontales, déjà souvent en déficit relatif de régulation chez les personnes avec TDAH, se retrouvent alors temporairement en situation de sous-alimentation énergétique. Il en résulte fréquemment une baisse de la vigilance, une diminution de la capacité de [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|concentration soutenue]], une irritabilité accrue ou un sentiment de brouillard mental. Ces fluctuations ne créent pas le TDAH, mais elles en amplifient les manifestations quotidiennes.

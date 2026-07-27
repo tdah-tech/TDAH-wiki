@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-25
 modified: 2026-07-27T11:53:05.121+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#pensee-dichotomique"
-  - "#distorsion-cognitive"
-  - "#perfectionnisme"
-  - "#dysregulation-emotionnelle"
+  - micronote
+  - tdah
+  - pensee-dichotomique
+  - distorsion-cognitive
+  - perfectionnisme
+  - dysregulation-emotionnelle
 ---
 
 La pensée « tout ou rien », également appelée pensée en noir et blanc ou pensée dichotomique, désigne la tendance à classer les situations, les performances, les personnes ou les efforts en catégories absolues, sans gradation intermédiaire. Une action est soit réussie parfaitement, soit un échec total. Un engagement est soit total, soit inutile. Cette polarisation n’est pas exclusive au TDAH, mais elle est fréquemment rapportée dans le vécu des personnes concernées et constitue une observation clinique récurrente dans la littérature spécialisée et les approches de coaching.

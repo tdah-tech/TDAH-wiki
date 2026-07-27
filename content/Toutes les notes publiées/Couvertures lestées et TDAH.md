@@ -3,15 +3,16 @@ publish: true
 created: 2026-07-25
 modified: 2026-07-27T11:53:05.102+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#couverture-lesté"
-  - "#sommeil"
+  - micronote
+  - tdah
+  - couverture-lesté
+  - sommeil
 ---
 
 **Le principe physiologique**
 
 Les couvertures lestées reposent sur le mécanisme du _deep pressure touch_ (pression profonde), une stimulation tactile et proprioceptive continue exercée par le poids du tissu, généralement calculé autour de 5 à 10% du poids corporel de l'utilisateur. . Le résultat recherché est un abaissement du rythme cardiaque et un état de détente proche de celui produit par une étreinte prolongée ou un massage à pression ferme, propice à l'endormissement.
+
 
 **L'étude de référence**
 

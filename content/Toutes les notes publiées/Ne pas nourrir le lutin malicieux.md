@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.145+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dmn"
-  - "#tpn"
-  - "#lutin-malicieux"
-  - "#respiration"
+  - micronote
+  - tdah
+  - dmn
+  - tpn
+  - lutin-malicieux
+  - respiration
 ---
 
 Le conseil central que formulent Edward Hallowell et John Ratey pour lutter contre le [[Le lutin malicieux|lutin malicieux]] — qui représente le mode dégradé du réseau du mode par défaut ([[Le réseau DMN|DMN]]) — se résume en une formule simple et radicale : **ne le nourrissez pas**.

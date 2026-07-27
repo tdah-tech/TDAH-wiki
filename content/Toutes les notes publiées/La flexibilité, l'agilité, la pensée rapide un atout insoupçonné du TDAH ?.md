@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.118+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#flexibilite-cognitive"
-  - "#dmn"
-  - "#tpn"
-  - "#pensee-divergente"
-  - "#force-tdah"
+  - micronote
+  - tdah
+  - flexibilite-cognitive
+  - dmn
+  - tpn
+  - pensee-divergente
+  - force-tdah
 ---
 
 Il y a une scène qui revient dans presque tous les récits de personnes TDAH : un plan qui s'effondre, une réunion qui dérape, un imprévu qui aurait dû tout bloquer — et c'est cette personne qui, contre toute attente, trouve la parade en quelques secondes, alors que le reste de la salle est encore en train de comprendre ce qui se passe. Ce n'est pas une anecdote isolée. C'est devenu l'un des arguments centraux du discours sur les forces du TDAH : l'agilité, la capacité à rebondir, à penser vite quand le cadre vient de disparaître. L'idée mérite d'être prise au sérieux — car elle repose sur des observations réelles — mais elle mérite aussi d'être disséquée, parce qu'elle mélange plusieurs phénomènes que la science distingue soigneusement.
@@ -34,7 +34,7 @@ Cette absence de régulation n'est ni bonne ni mauvaise en soi — elle dépend 
 
 **Ce que cela change**
 
-L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, \*\*mais de repérer les environnements/situations qui sollicitent une forme de pensée en parralléle.
+L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, **mais de repérer les environnements/situations qui sollicitent une forme de pensée en parralléle.
 
 Ceci est une lecture plus honnête intellectuellement que celle du superpouvoir.  Elle  explique pourquoi le même "don" qui rend quelqu'un brillant en réunion de brain storming ou réunion de crise peut l'épuiser dans un poste qui exige une routine stricte. Il n'y a pas ici de contradiction à résoudre — ce sont les deux faces prévisibles d'un seul et même trait neurocognitif.
 

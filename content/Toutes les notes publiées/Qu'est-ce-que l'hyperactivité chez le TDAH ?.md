@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.157+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperactivite"
-  - "#dopamine"
-  - "#noradrenaline"
-  - "#definition"
+  - micronote
+  - tdah
+  - hyperactivite
+  - dopamine
+  - noradrenaline
+  - definition
 ---
 
 L’hyperactivité se traduit par un besoin constant de bouger, difficile à contenir volontairement. Ce n’est pas une simple préférence pour l’activité physique, mais une agitation motrice qui échappe en grande partie au contrôle de la personne et qui dépasse nettement ce que l’on observe chez les personnes du même âge développemental.

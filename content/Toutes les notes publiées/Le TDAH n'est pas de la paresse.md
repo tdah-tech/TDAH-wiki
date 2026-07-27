@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-22
 modified: 2026-07-27T11:53:05.124+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#paresse"
-  - "#dopamine"
-  - "#noradrenaline"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - paresse
+  - dopamine
+  - noradrenaline
+  - fonctions-executives
 ---
 
 C'est probablement le malentendu le plus tenace sur le TDAH, et aussi le plus lourd à porter. On associe la difficulté à démarrer une tâche, à la finir, ou à rester concentré, à un manque de volonté. Mais la paresse, c'est pouvoir faire quelque chose et choisir de ne pas le faire. Le TDAH, c'est vouloir le faire, souvent très fort, et que le cerveau ne coopère pas.

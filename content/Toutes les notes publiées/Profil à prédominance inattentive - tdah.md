@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.153+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#profil"
-  - "#innatentif"
+  - micronote
+  - tdah
+  - profil
+  - innatentif
 ---
 
 Pour ce profil, les différences cérébrales se concentrent surtout dans le **gyrus frontal supérieur**, une région impliquée dans la [[Mémoire de travail et TDAH|mémoire de travail]] et le maintien de l’attention dans le temps.

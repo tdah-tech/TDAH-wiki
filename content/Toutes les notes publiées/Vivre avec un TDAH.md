@@ -3,21 +3,20 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.165+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#identite"
-  - "#acceptation"
-  - "#neurodiversite"
-  - "#estime-de-soi"
-  - "#index"
-  - "#dmn"
+  - micronote
+  - tdah
+  - identite
+  - acceptation
+  - neurodiversite
+  - estime-de-soi
+  - index
+  - dmn
 ---
 
 ## L'importance de la Psycho-éducation :
 
 - [[Le TDAH est livré sans manuel]]
 - [[L'importance de la psychoéducation]]
-
 ## Métaphores pour comprendre l'expérience TDAH
 
 - [[Métaphore de la Ferrari]]
@@ -43,7 +42,6 @@ tags:
 
 - [[Sous-stimulation et comportements conflictuels chez le TDAH]]
 - [[Repérer les situations de sous-stimulation susceptible de dégénérer en situation conflictuelle]]
-
 ## Assumer sa neuroatypie
 
 - [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH]]
@@ -55,6 +53,7 @@ tags:
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]
 - [[La sensibilité au rejet (dysphorie)]]
+
 
 ## La taxe TDAH
 

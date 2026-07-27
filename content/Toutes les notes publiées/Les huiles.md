@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.137+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#alimentation"
-  - "#huile"
-  - "#omega-3"
+  - micronote
+  - tdah
+  - alimentation
+  - huile
+  - omega-3
 ---
 
 Les huiles végétales apportent presque exclusivement des lipides sous forme d'acides gras, dont deux familles jouent un rôle central dans le fonctionnement du cerveau : les oméga-6 et les [[Les omega-3|oméga-3]]. Ces deux familles sont dites essentielles car l'organisme ne sait pas les fabriquer lui-même, il doit les puiser dans l'alimentation.

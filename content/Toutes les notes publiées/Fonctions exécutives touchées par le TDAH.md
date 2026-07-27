@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.111+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fonctions-executives"
-  - "#mémoire-de-travail"
+  - micronote
+  - tdah
+  - fonctions-executives
+  - mémoire-de-travail
 ---
 
 La plupart des [[Les fonctions éxécutives - définition|fonctions exécutives]] sont touchées le TDA/H — le profil est cependant très hétérogène d'une personne à l'autre.

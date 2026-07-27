@@ -3,13 +3,13 @@ publish: true
 created: 2026-07-23
 modified: 2026-07-27T11:53:05.135+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#système-DMN-TPN"
-  - "#tpn"
-  - "#dmn"
-  - "#analogie"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - système-DMN-TPN
+  - tpn
+  - dmn
+  - analogie
+  - méthylphénidate
 ---
 
 Pour comprendre comment le cerveau bascule entre "l'esprit vagabonde" et "je me concentre", l'image d'un duo de musiciens qui jouent en alternance aide à visualiser deux systèmes censés se relayer n'arrivent pas à jouer ensembles.

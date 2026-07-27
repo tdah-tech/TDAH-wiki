@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.152+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#profil"
-  - "#dysregulation-emotionnelle"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - profil
+  - dysregulation-emotionnelle
+  - impulsivite
 ---
 
 C’est le biotype TDAH le plus marqué sur le plan cérébral. Les scanners montrent des altérations étendues (jusqu’à 45 zones différentes dans certaines analyses), principalement dans les circuits de régulation des émotions et du contrôle des impulsions.

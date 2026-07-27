@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.130+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dmn"
-  - "#tpn"
-  - "#cortex-prefrontal"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - dmn
+  - tpn
+  - cortex-prefrontal
+  - méthylphénidate
 ---
 
 L'idée que le cerveau ne s'arrête jamais vraiment de fonctionner, même au repos, est relativement récente en neurosciences. Jusqu'à la fin des années 1990, l'imagerie cérébrale s'intéressait surtout à ce qui s'activait pendant l'exécution d'une tâche. Mais plusieurs études ont progressivement mis en évidence un phénomène inverse : certaines régions cérébrales, loin d'être silencieuses au repos, y étaient au contraire particulièrement actives, et se désactivaient dès qu'un sujet devait se concentrer sur un exercice dirigé vers un but.

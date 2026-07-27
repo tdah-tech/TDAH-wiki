@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-19
 modified: 2026-07-27T11:53:05.161+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#sport"
-  - "#mémoire-de-travail"
-  - "#exercice"
+  - micronote
+  - tdah
+  - sport
+  - mémoire-de-travail
+  - exercice
 ---
 
-Tous les sports sont bons pour les TDAH mais certains sports reviennent plus fréquemment dans les recommandations pour les TDAH :
+ Tous les sports sont bons pour les TDAH mais certains sports reviennent plus fréquemment dans les recommandations pour les TDAH :
 
 **Arts martiaux** (judo, karaté, taekwondo, jiu-jitsu, boxe etc.) — souvent cités comme les plus adaptés, car ils combinent effort physique, discipline, autorégulation et concentration dans un cadre structuré.
 

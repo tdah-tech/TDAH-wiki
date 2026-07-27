@@ -3,11 +3,11 @@ publish: true
 created: 2026-07-20
 modified: 2026-07-27T11:53:05.142+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#métaphore"
-  - "#chef-orchestre"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - métaphore
+  - chef-orchestre
+  - fonctions-executives
 ---
 
 Dans le fonctionnement cérébral, l’image du **chef d’orchestre et de ses musiciens** offre une métaphore particulièrement juste pour comprendre le TDAH. Imaginez un grand orchestre symphonique. Chaque partie de l'orchestre — les cordes, les vents, les percussions, les cuivres — représente une fonction cognitive précise : l’attention soutenue, la [[Mémoire de travail et TDAH|mémoire de travail]], la régulation émotionnelle, le contrôle des impulsions, la planification ou encore la motivation. Les musiciens sont talentueux, parfois brillants, capables de produire des phrases d’une grande richesse. Ils savent jouer. Pourtant, pour que l’ensemble donne une œuvre cohérente, il faut un chef d’orchestre qui marque le tempo et permet aux musiciens de jouer ensemble.

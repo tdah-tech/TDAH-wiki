@@ -3,12 +3,12 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.153+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#prevalence"
-  - "#epidemiologie"
-  - "#filles"
-  - "#sous-diagnostic"
+  - micronote
+  - tdah
+  - prevalence
+  - epidemiologie
+  - filles
+  - sous-diagnostic
 ---
 
 En France, les estimations de l'Inserm et de la Haute Autorité de Santé situent la prévalence autour de 3 à 5 % des enfants d'âge scolaire, et entre 2,5 et 2,9 % chez les adultes, soit environ 1,5 million de personnes sur 64 millions d'adultes.
@@ -26,6 +26,8 @@ Plusieurs mécanismes expliquent ce sous-diagnostic des filles, et ils sont docu
 Ensuite un biais de repérage : parents et enseignants orientent davantage vers un dépistage les enfants qui perturbent visiblement le cadre, ce qui favorise mécaniquement les garçons, statistiquement plus hyperactifs-impulsifs. S'ajoute à cela un phénomène de masquage : plusieurs études suggèrent que les filles développent plus tôt des stratégies de compensation — être appliquée, discrète, en sur-contrôle — qui atténuent l'expression visible des difficultés sans les résoudre. Enfin, certains travaux pointent un seuil diagnostique implicitement plus élevé pour les filles : à sévérité fonctionnelle égale, elles doivent souvent présenter des symptômes plus marqués que les garçons pour recevoir le même diagnostic.
 
 La conséquence concrète de ce cumul de biais est un décalage d'âge du diagnostic bien documenté : les filles TDAH sont en moyenne diagnostiquées plus tard que les garçons, parfois à l'âge adulte seulement, après des années de compensation silencieuse — un point qui a pris une place importante dans le débat public ces dernières années, à mesure que davantage de femmes adultes reçoivent un diagnostic tardif.
+
+
 
 ## Pour aller plus loin
 

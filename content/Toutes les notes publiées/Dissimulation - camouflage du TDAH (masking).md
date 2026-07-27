@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-24
 modified: 2026-07-27T11:53:05.103+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#masking"
-  - "#neuro-athypique"
+  - micronote
+  - tdah
+  - masking
+  - neuro-athypique
 ---
 
 La dissimulation (e.g masking) , dans le contexte du TDAH, désigne l’ensemble des stratégies conscientes ou inconsciente qu’une personne met en place pour dissimuler, compenser ou atténuer les manifestations de son trouble afin de paraître « normale » aux yeux des autres. Il s’agit d’un phénomène particulièrement répandu chez les personnes diagnostiquées tardivement.

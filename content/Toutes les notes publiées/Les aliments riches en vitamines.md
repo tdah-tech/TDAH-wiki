@@ -3,14 +3,14 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.136+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#alimentation"
-  - "#dopamine"
-  - "#tyrosine"
-  - "#fer"
-  - "#zinc"
-  - "#magnesium"
+  - micronote
+  - tdah
+  - alimentation
+  - dopamine
+  - tyrosine
+  - fer
+  - zinc
+  - magnesium
 ---
 
 La science ne soutient pas l’idée populaire d’« aliments riches en dopamine » capables d’améliorer de façon significative les symptômes du TDAH.

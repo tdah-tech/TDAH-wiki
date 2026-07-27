@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.134+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#sucre"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - sucre
+  - alimentation
 ---
 
 L'idée que le sucre rend les enfants hyperactifs est une idée ancienne qui remonte aux années 70. Cette hypothèse a connu un succès médiatique et parental considérable, au point de devenir une quasi-évidence culturelle, alors qu'elle n'a jamais reposé sur des preuves solides.

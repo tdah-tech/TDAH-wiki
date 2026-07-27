@@ -3,10 +3,10 @@ publish: true
 created: 2026-07-21
 modified: 2026-07-27T11:53:05.139+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#omega-3"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - omega-3
+  - alimentation
 ---
 
 Les oméga-3 occupent une place importante dans les discussions sur les approches complémentaires du TDAH, mais les données scientifiques imposent une lecture nuancée et réaliste.
