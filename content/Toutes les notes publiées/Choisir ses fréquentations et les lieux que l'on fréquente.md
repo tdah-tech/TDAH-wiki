@@ -16,8 +16,6 @@ Lorsque l’on fréquente des personnes qui encouragent la prise de risque, la c
 
 De la même façon, certains lieux ou environnements où l’alcool, les substances ou la compétition sociale dominent — sollicitent fortement les [[Dopamine et TDAH|systèmes de récompense]] et réduisent encore davantage la capacité à freiner une action. Le cerveau impulsif, déjà en quête de stimulation, répond plus facilement à ces stimuli qu’à des indices de danger ou de regret futur.
 
-
-
 ## Pour aller plus loin :
 
 - [[Vivre avec un TDAH]]

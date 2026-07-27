@@ -20,8 +20,6 @@ Avec l'arrivée des modèles de langage avancés (LLM), l'idée est de faire de 
 
 Elle synthétise les nouveaux contenus, les classe selon des principes cohérents, établit des liens entre des idées qui semblaient jusqu'alors isolées, détecte les contradictions ou les évolutions de la pensée, et maintient l'ensemble du système à jour sans que l'utilisateur n'ait à y consacrer un effort quotidien. Elle peut alors utiliser l'ensemble pour que l'intelligence artificiele fournisse des éléments de réponses personnalisées et hautement pertinents.
 
-
-
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]

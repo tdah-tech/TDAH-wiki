@@ -18,7 +18,6 @@ C'est pourquoi les [[Grilles de relectures|grilles de vérification ou les check
 
 L’organisation temporelle de la tâche offre également un support métacognitif. Prévoir explicitement un temps dédié à la relecture, matérialisé par un timer ou une indication claire, transforme la vérification en une étape obligatoire plutôt qu’en un choix laissé à la seule initiative de l’élève. Des pauses structurées pendant le travail, accompagnées d’une brève question de recentrage (« Où en suis-je ? Est-ce que je reste concentré ? »), aident à maintenir le contrôle de l’attention en cours d’action.
 
-
 ## Pour aller plus loin :
 
 - [[Altération des processus métacognitifs chez les TDAH]]

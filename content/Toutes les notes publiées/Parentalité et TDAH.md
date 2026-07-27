@@ -32,10 +32,9 @@ tags:
 
 - [[Bien calibrer le renforcement positif]]
 - [[Les systèmes de jetons et chartes de comportement - pourquoi ils s'essoufflent si vite ?]]
--  [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
+- [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 
 ## L'épuisement parental
-
 
 - [[L'épuisement parental]]
 

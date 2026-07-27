@@ -31,7 +31,8 @@ Les aménagements ne visent pas à modifier les exigences du programme, mais à 
 
 **[[Bien calibrer le renforcement positif|Le renforcement positif]] immédiat et fréquent demeure un levier majeur** : féliciter à chaque étape terminée, poser une main encourageante sur l’épaule, valoriser les efforts plutôt que uniquement le résultat, et confier des rôles positifs au sein de la classe renforcent l’estime de soi et maintiennent l’engagement. Un système de suivi quotidien partagé avec les parents prolonge cette cohérence éducative au-delà de la classe.
 
- **Une bonne qualité de l’air ( peu chargée en CO2)** contribuent également à soutenir la vigilance.
+**Une bonne qualité de l’air ( peu chargée en CO2)** contribuent également à soutenir la vigilance.
+
 ## Pour aller plus loin :
 
 - [[La scolarité et le TDAH]]

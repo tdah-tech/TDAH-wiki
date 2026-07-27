@@ -40,4 +40,4 @@ Les effets secondaires les plus courants sont une baisse de l'appétit, des trou
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et réussite scolaire des enfants TDAH]]
 - [[Neurosciences du TDAH]]
--  [[Méthylphénidate et croissance]]
+- [[Méthylphénidate et croissance]]

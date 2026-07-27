@@ -25,4 +25,4 @@ C’est précisément dans ces conditions que l’hyperfocus peut conduire à de
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
--  [[Qu'est-ce-que le TDAH ?]]
+- [[Qu'est-ce-que le TDAH ?]]

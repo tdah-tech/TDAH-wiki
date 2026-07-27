@@ -27,8 +27,6 @@ Ensuite un biais de repérage : parents et enseignants orientent davantage vers 
 
 La conséquence concrète de ce cumul de biais est un décalage d'âge du diagnostic bien documenté : les filles TDAH sont en moyenne diagnostiquées plus tard que les garçons, parfois à l'âge adulte seulement, après des années de compensation silencieuse — un point qui a pris une place importante dans le débat public ces dernières années, à mesure que davantage de femmes adultes reçoivent un diagnostic tardif.
 
-
-
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]

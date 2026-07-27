@@ -12,6 +12,7 @@ tags:
 ---
 
 L'épuisement parental se définit par quatre dimensions mesurables :
+
 - l'épuisement dans le rôle de parent,
 - le sentiment d'être devenu un parent différent de celui qu'on était,
 - le fait d'en avoir assez de ce rôle,

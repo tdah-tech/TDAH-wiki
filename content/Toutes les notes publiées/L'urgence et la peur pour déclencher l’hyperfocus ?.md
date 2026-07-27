@@ -24,8 +24,6 @@ Ces mécanismes sont réels et méritent d’être connus. Ils expliquent pourqu
 
 **Chez certaines personnes, surtout lorsqu’il existe une anxiété comorbide, l’exagération de la peur produit l’effet inverse : une paralysie plutôt qu’un focus**. De plus, le recours répété à l'urgence ou à la peur fatigue le système nerveux. Le cycle urgence-hyperfocus-épuisement finit par entamer les réserves, augmenter le sentiment d’incompétence et favoriser le burnout.
 
-
-
 ## Pour aller plus loin :
 
 - [[Qu'est-ce qui déclenche l'hyperfocus]]

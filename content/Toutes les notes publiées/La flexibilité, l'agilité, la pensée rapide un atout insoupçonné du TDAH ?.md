@@ -34,7 +34,7 @@ Cette absence de régulation n'est ni bonne ni mauvaise en soi — elle dépend 
 
 **Ce que cela change**
 
-L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, **mais de repérer les environnements/situations qui sollicitent une forme de pensée en parralléle.
+L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, \*\*mais de repérer les environnements/situations qui sollicitent une forme de pensée en parralléle.
 
 Ceci est une lecture plus honnête intellectuellement que celle du superpouvoir.  Elle  explique pourquoi le même "don" qui rend quelqu'un brillant en réunion de brain storming ou réunion de crise peut l'épuiser dans un poste qui exige une routine stricte. Il n'y a pas ici de contradiction à résoudre — ce sont les deux faces prévisibles d'un seul et même trait neurocognitif.
 

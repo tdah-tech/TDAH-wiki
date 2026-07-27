@@ -13,7 +13,6 @@ L'hyperfocus, désigne un état où l'attention de la personne TDAH se verrouill
 
 Il convient de rappeller que  l'hyperfocus n'est pas un critère diagnostique officiel du TDAH. C'est un phénomène largement décrit cliniquement et par les personnes concernées elles-mêmes, mais qui manque encore d'une définition standardisée dans la recherche et qui n'est pas reconnu comme un symptôme du TDAH.
 
-
 **Ce que l'hyperfocus ce n'est pas**
 
 L'hyperfocus n'est pas simplement "être concentré". Une concentration ordinaire reste modulable — on peut la maintenir, l'interrompre, la reprendre sans trop de friction. L'hyperfocus, lui, s'accompagne souvent d'une forme d'absorption totale : la perception du temps se déforme, les signaux corporels (faim, fatigue, besoin d'aller aux toilettes) cessent d'être clairement perçus, et les stimuli extérieurs sont plus facilement voir totalement ignorés.

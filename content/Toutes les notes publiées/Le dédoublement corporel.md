@@ -31,7 +31,6 @@ Pour les parents d’enfants ou d’adolescents présentant un TDAH, le body dou
 
 Il convient de rester lucide quant aux limites. Les preuves scientifiques rigoureuses restent encore peu nombreuses. La plupart des témoignages et des recommandations de coachs spécialisés ou de cliniciens reposent sur l’expérience clinique et le vécu des personnes concernées plutôt que sur de vastes essais contrôlés. Certaines études exploratoires récentes donnent des résultats mitigés, et le body doubling ne convient pas à tout le monde. Pour certaines personnes, la présence d’autrui peut au contraire devenir une source de distraction supplémentaire, surtout si le double se met à discuter ou si la relation sociale prend le dessus.
 
-
 ## Pour aller plus loin :
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]

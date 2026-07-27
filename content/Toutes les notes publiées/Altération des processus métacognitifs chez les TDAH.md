@@ -23,6 +23,7 @@ Cette altération de l’auto-évaluation a des conséquences concrètes et rép
 [[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]], fréquemment associée au TDAH, renforce encore cette tendance en favorisant le passage à l’acte (rendre sa copie) avant que le contrôle ne soit complètement exercé.
 
 Les [[L’étayage métacognitif|étayages externes]] : [[Grilles de relectures|check-lists de vérification]], temps explicitement dédié à la relecture, consigne explique de l’enseignant ou de l’accompagnant de relire, peuvent aider l'enfant.
+
 ## Pour aller plus loin :
 
 - [[Les aménagements scolaires]]

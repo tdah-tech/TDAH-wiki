@@ -21,8 +21,6 @@ Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**
 
 Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH. Il est cependant essentiel de souligner que la relation observée est, à ce stade, principalement associationnelle. La causalité n’est pas encore définitivement établie. On ignore dans quelle mesure la dysbiose précède et favorise le TDAH, ou si elle en constitue une conséquence liée au mode de vie, à l’alimentation, au stress ou aux traitements médicamenteux. Des études longitudinales et des essais d’intervention, qu’il s’agisse de probiotiques, de prébiotiques ou de régimes enrichis en fibres, suggèrent toutefois qu’une restauration partielle de l’équilibre microbien **peut s’accompagner d’améliorations comportementales modestes chez certains patients**, ce qui ouvre des perspectives thérapeutiques complémentaires.
 
-
-
 ## Pour aller plus loin :
 
 - [[Qu'est-ce-que le TDAH ?]]
