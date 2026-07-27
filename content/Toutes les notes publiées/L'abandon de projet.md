@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T17:41:02.187+02:00
+modified: 2026-07-27T17:55:10.608+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,6 +33,7 @@ Au fil du temps, cette lucidité modifie en profondeur le rapport au cycle d’a
 ## Pour aller plus loin :
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+- [[Savoir abandonner les projets]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
 - [[Dopamine et TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]

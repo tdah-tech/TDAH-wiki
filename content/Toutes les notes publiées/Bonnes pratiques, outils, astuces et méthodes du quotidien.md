@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T17:41:07.326+02:00
+modified: 2026-07-27T17:55:08.686+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,6 +35,7 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 - [[Le système et les minuteurs Pomodoro]]
 - [[La technique du Flowtime]]
 - [[L'abandon de projet]]
+- [[Savoir abandonner les projets]]
 - [[Surcharge mentale et TDAH]]
 - [[Le découpage des tâches]]
 
