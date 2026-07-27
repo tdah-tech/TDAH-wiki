@@ -188,7 +188,7 @@ plugins:
         opacityScale: 1
         showTags: true
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: "@quartz-community/search"
     enabled: true
