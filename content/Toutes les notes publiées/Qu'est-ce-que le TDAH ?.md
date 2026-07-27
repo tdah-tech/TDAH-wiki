@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T15:59:11.703+02:00
+modified: 2026-07-27T16:08:40.421+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -78,6 +78,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Commorbidités du TDAH
 
 - [[Les commorbidités du TDAH]]
+- [[Troubles anxieux et dépression]]
 - [[Les troubles du sommeil chez les TADH]]
 
 #### Le trouble oppositionnel avec provocation (TOP)
