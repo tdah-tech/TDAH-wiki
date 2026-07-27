@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.129+02:00
+modified: 2026-07-27T19:46:20.331+02:00
 tags:
   - micronote
   - tdah
@@ -18,6 +18,7 @@ En résumé, le magnésium semble surtout utile pour corriger une carence réell
 ## Pour aller plus loin
 
 - [[L'alimentation et le TDAH]]
+- [[Le fer]]
 - [[Vitamine D et TDAH]]
 - [[Zinc]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]

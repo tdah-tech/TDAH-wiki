@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.115+02:00
+modified: 2026-07-27T19:46:08.449+02:00
 tags:
   - micronote
   - tdah
@@ -29,6 +29,7 @@ L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation ent
 
 ## Micronutriments
 
+- [[Le fer]]
 - [[Zinc]]
 - [[Le magnésium]]
 - [[Vitamine D et TDAH]]

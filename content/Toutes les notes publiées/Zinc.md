@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.166+02:00
+modified: 2026-07-27T19:46:19.307+02:00
 tags:
   - micronote
   - tdah
@@ -21,6 +21,7 @@ Dans la pratique, une supplémentation en zinc n’est pas recommandée de mani�
 ## Pour aller plus loin
 
 - [[L'alimentation et le TDAH]]
+- [[Le fer]]
 - [[Vitamine D et TDAH]]
 - [[Dopamine et TDAH]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
