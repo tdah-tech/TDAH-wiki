@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T17:02:16.481+02:00
+modified: 2026-07-27T17:10:37.602+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,6 +31,7 @@ tags:
 ## Le renforcement positif / négatif
 
 - [[La méthode Barkley]]
+- [[L'importance du renforcement positif]]
 - [[Bien calibrer le renforcement positif]]
 - [[Les systèmes de jetons et chartes de comportement - pourquoi ils s'essoufflent si vite ?]]
 - [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
