@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T16:08:35.522+02:00
+modified: 2026-07-27T16:15:27.061+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,6 +33,7 @@ La prise en charge doit donc être intégrée et personnalisée. Elle commence p
 ## Pour aller plus loin :
 
 - [[Les commorbidités du TDAH]]
+- [[Les thérapies cognitivo-comportementale (TCC)]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[L'importance de la psychoéducation]]

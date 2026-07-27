@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.165+02:00
+modified: 2026-07-27T16:16:54.965+02:00
 tags:
   - micronote
   - tdah
@@ -46,7 +46,7 @@ tags:
 
 ## Assumer sa neuroatypie
 
-- [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH]]
+- [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH|Assumer pleinement son neuroatypisme et son TDAH]]
 - [[Dissimulation - camouflage du TDAH (masking)]]
 
 ## Amnésie du succès et syndrome de l'imposteur

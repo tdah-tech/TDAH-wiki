@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T16:08:40.421+02:00
+modified: 2026-07-27T16:15:23.837+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -45,6 +45,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Traitement pharmacologique
 
 - [[Diagnostic et mise en place du traitement]]
+- [[Les thérapies cognitivo-comportementale (TCC)]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et croissance]]

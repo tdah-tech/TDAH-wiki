@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.116+02:00
+modified: 2026-07-27T16:15:47.321+02:00
 tags:
-  - micronote
-  - tdah
-  - psychoeducation
+  - "#micronote"
+  - "#tdah"
+  - "#psychoeducation"
 ---
 
 La psychoéducation constitue aujourd’hui l’un des piliers incontournables de la prise en charge du TDAH. Reconnue par l’ensemble des recommandations internationales et françaises, y compris celles de la Haute Autorité de Santé publiées en 2024, **elle n’est plus considérée comme un simple complément d’information mais comme une intervention thérapeutique à part entière, placée en première intention dès l’annonce du diagnostic**.
@@ -29,3 +29,4 @@ Il convient enfin de souligner que la psychoéducation n’est pas un acte uniqu
 - [[Le TDAH est livré sans manuel]]
 - [[Vivre avec un TDAH]]
 - [[Le TDAH n'est pas de la paresse]]
+- [[Les thérapies cognitivo-comportementale (TCC)]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T15:59:06.935+02:00
+modified: 2026-07-27T16:15:25.314+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -59,6 +59,7 @@ En cas d’inefficacité, d’intolérance ou de contre-indication au méthylph�
 ## Pour aller plus loin :
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Les thérapies cognitivo-comportementale (TCC)]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 - [[L'importance de la psychoéducation]]
 - [[Les aménagements scolaires]]
