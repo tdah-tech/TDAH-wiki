@@ -2,6 +2,11 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes/dispatcher"
 import { QuartzComponent } from "./quartz/components/types"
 import { MainNav } from "./quartz/components/MainNav"
+import { registerCondition } from "./quartz/plugins/loader/conditions"
+
+// Condition custom : n'affiche un composant que sur la page d'accueil
+// (utilisée pour le bloc "Notes récentes" — pas de sens ailleurs que sur l'index)
+registerCondition("is-index", (props) => props.fileData.slug === "index")
 
 const config = await loadQuartzConfig()
 

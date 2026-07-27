@@ -256,7 +256,17 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: Notes récentes
+      limit: 20
+      showTags: false
+      linkToMore: false
+      newBadgeLabel: (New !)
+    layout:
+      position: afterBody
+      priority: 5
+      condition: is-index
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}

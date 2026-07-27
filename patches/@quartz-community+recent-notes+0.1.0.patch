@@ -1,0 +1,50 @@
+diff --git a/node_modules/@quartz-community/recent-notes/dist/components/index.js b/node_modules/@quartz-community/recent-notes/dist/components/index.js
+index 7290246..7df3b65 100644
+--- a/node_modules/@quartz-community/recent-notes/dist/components/index.js
++++ b/node_modules/@quartz-community/recent-notes/dist/components/index.js
+@@ -468,7 +468,7 @@ function pathToRoot(slug2) {
+ }
+ 
+ // src/components/styles/recentNotes.scss
+-var recentNotes_default = ".recent-notes > h3 {\n  margin: 0.5rem 0 0 0;\n  font-size: 1rem;\n}\n.recent-notes > ul.recent-ul {\n  list-style: none;\n  margin-top: 1rem;\n  padding-left: 0;\n}\n.recent-notes > ul.recent-ul > li {\n  margin: 1rem 0;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > a {\n  background-color: transparent;\n}\n.recent-notes > ul.recent-ul > li .section > .meta {\n  margin: 0 0 0.5rem 0;\n  opacity: 0.6;\n}";
++var recentNotes_default = ".recent-notes > h3 {\n  margin: 0.5rem 0 0 0;\n  font-size: 1rem;\n}\n.recent-notes > ul.recent-ul {\n  list-style: none;\n  margin-top: 1rem;\n  padding-left: 0;\n}\n.recent-notes > ul.recent-ul > li {\n  margin: 1rem 0;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > a {\n  background-color: transparent;\n}\n.recent-notes > ul.recent-ul > li .section > .meta {\n  margin: 0 0 0.5rem 0;\n  opacity: 0.6;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > .new-badge {\n  color: #e0245e;\n  font-weight: 700;\n  font-size: 0.75em;\n  margin-left: 0.4rem;\n  white-space: nowrap;\n  vertical-align: middle;\n}";
+ 
+ // src/components/RecentNotes.tsx
+ function resolveDefaultDateType(data, cfg) {
+@@ -524,7 +524,10 @@ var RecentNotes_default = ((userOpts) => {
+         const title = page.frontmatter?.title ?? "Untitled";
+         const tags = page.frontmatter?.tags ?? [];
+         return /* @__PURE__ */ u2("li", { class: "recent-li", children: /* @__PURE__ */ u2("div", { class: "section", children: [
+-          /* @__PURE__ */ u2("div", { class: "desc", children: /* @__PURE__ */ u2("h3", { children: /* @__PURE__ */ u2("a", { href: resolveRelative(slug2, page.slug), class: "internal", children: title }) }) }),
++          /* @__PURE__ */ u2("div", { class: "desc", children: /* @__PURE__ */ u2("h3", { children: [
++            /* @__PURE__ */ u2("a", { href: resolveRelative(slug2, page.slug), class: "internal", children: title }),
++            opts.newBadge !== false && /* @__PURE__ */ u2("span", { class: "new-badge", children: opts.newBadgeLabel ?? "(New !)" })
++          ] }) }),
+           page.dates && getDate(withResolvedDateType(page, cfg)) && /* @__PURE__ */ u2("p", { class: "meta", children: /* @__PURE__ */ u2("time", { datetime: getDate(withResolvedDateType(page, cfg)).toISOString(), children: formatDate(getDate(withResolvedDateType(page, cfg)), locale) }) }),
+           opts.showTags && /* @__PURE__ */ u2("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { class: "internal tag-link", href: resolveRelative(slug2, `tags/${tag}`), children: tag }) })) })
+         ] }) });
+diff --git a/node_modules/@quartz-community/recent-notes/dist/index.js b/node_modules/@quartz-community/recent-notes/dist/index.js
+index c413df4..0a620bf 100644
+--- a/node_modules/@quartz-community/recent-notes/dist/index.js
++++ b/node_modules/@quartz-community/recent-notes/dist/index.js
+@@ -468,7 +468,7 @@ function pathToRoot(slug2) {
+ }
+ 
+ // src/components/styles/recentNotes.scss
+-var recentNotes_default = ".recent-notes > h3 {\n  margin: 0.5rem 0 0 0;\n  font-size: 1rem;\n}\n.recent-notes > ul.recent-ul {\n  list-style: none;\n  margin-top: 1rem;\n  padding-left: 0;\n}\n.recent-notes > ul.recent-ul > li {\n  margin: 1rem 0;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > a {\n  background-color: transparent;\n}\n.recent-notes > ul.recent-ul > li .section > .meta {\n  margin: 0 0 0.5rem 0;\n  opacity: 0.6;\n}";
++var recentNotes_default = ".recent-notes > h3 {\n  margin: 0.5rem 0 0 0;\n  font-size: 1rem;\n}\n.recent-notes > ul.recent-ul {\n  list-style: none;\n  margin-top: 1rem;\n  padding-left: 0;\n}\n.recent-notes > ul.recent-ul > li {\n  margin: 1rem 0;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > a {\n  background-color: transparent;\n}\n.recent-notes > ul.recent-ul > li .section > .meta {\n  margin: 0 0 0.5rem 0;\n  opacity: 0.6;\n}\n.recent-notes > ul.recent-ul > li .section > .desc > h3 > .new-badge {\n  color: #e0245e;\n  font-weight: 700;\n  font-size: 0.75em;\n  margin-left: 0.4rem;\n  white-space: nowrap;\n  vertical-align: middle;\n}";
+ 
+ // src/components/RecentNotes.tsx
+ function resolveDefaultDateType(data, cfg) {
+@@ -524,7 +524,10 @@ var RecentNotes_default = ((userOpts) => {
+         const title = page.frontmatter?.title ?? "Untitled";
+         const tags = page.frontmatter?.tags ?? [];
+         return /* @__PURE__ */ u2("li", { class: "recent-li", children: /* @__PURE__ */ u2("div", { class: "section", children: [
+-          /* @__PURE__ */ u2("div", { class: "desc", children: /* @__PURE__ */ u2("h3", { children: /* @__PURE__ */ u2("a", { href: resolveRelative(slug2, page.slug), class: "internal", children: title }) }) }),
++          /* @__PURE__ */ u2("div", { class: "desc", children: /* @__PURE__ */ u2("h3", { children: [
++            /* @__PURE__ */ u2("a", { href: resolveRelative(slug2, page.slug), class: "internal", children: title }),
++            opts.newBadge !== false && /* @__PURE__ */ u2("span", { class: "new-badge", children: opts.newBadgeLabel ?? "(New !)" })
++          ] }) }),
+           page.dates && getDate(withResolvedDateType(page, cfg)) && /* @__PURE__ */ u2("p", { class: "meta", children: /* @__PURE__ */ u2("time", { datetime: getDate(withResolvedDateType(page, cfg)).toISOString(), children: formatDate(getDate(withResolvedDateType(page, cfg)), locale) }) }),
+           opts.showTags && /* @__PURE__ */ u2("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { class: "internal tag-link", href: resolveRelative(slug2, `tags/${tag}`), children: tag }) })) })
+         ] }) });
