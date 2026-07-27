@@ -1,18 +1,16 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.145+02:00
+modified: 2026-07-27T11:56:28.918+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#neurosciences"
-  - "#dopamine"
-  - "#fonctions-executives"
-  - "#dmn-tpn"
-  - "#index"
+  - micronote
+  - tdah
+  - neurosciences
+  - dopamine
+  - fonctions-executives
+  - dmn-tpn
+  - index
 ---
-
-Le TDAH se comprend mieux quand on remonte, du vécu quotidien jusqu'au mécanismes cérébraux qui l'explique.
 
 ## Neurotransmetteurs et circuits de récompense
 
