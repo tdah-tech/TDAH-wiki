@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T19:03:13.680+02:00
+modified: 2026-07-27T19:22:06.102+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,6 +30,7 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 ## Organisation et charge mentale
 
 - [[Le brain dump]]
+- [[Tableau blanc et feutres de couleurs]]
 - [[Avoir un coup et une heure d’avance aident les TDAH]]
 - [[Le dédoublement corporel]]
 - [[Le système et les minuteurs Pomodoro]]

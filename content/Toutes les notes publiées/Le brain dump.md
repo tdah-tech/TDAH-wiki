@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T18:09:49.453+02:00
+modified: 2026-07-27T19:22:07.545+02:00
 tags:
-  - micronote
-  - tdah
-  - surcharge-mentale
-  - brain-dump
+  - "#micronote"
+  - "#tdah"
+  - "#surcharge-mentale"
+  - "#brain-dump"
 ---
 
 Le brain dump, ou déversement mental, constitue une méthode particulièrement adaptée aux personnes vivant avec un TDAH. Il s’agit de transférer sans filtre ni organisation préalable l’ensemble des pensées, préoccupations, idées, tâches et émotions qui circulent dans l’esprit vers un support externe, qu’il soit papier ou numérique. Cette externalisation répond directement aux difficultés de [[Mémoire de travail et TDAH|mémoire de travail]] et de régulation attentionnelle caractéristiques du trouble : le cerveau TDAH a tendance à maintenir simultanément un volume excessif d’informations non classées, ce qui génère une [[Surcharge mentale et TDAH|charge cognitive]] élevée, de l’anxiété et un sentiment d’engorgement permanent.
@@ -21,6 +21,7 @@ Bien que le brain dump puisse rester purement cathartique, une étape ultérieur
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
 - [[Savoir choisir ses projets]]
+- [[Tableau blanc et feutres de couleurs]]
 - [[Mémoire de travail et TDAH]]
 - [[Surcharge mentale et TDAH]]
 - [[Les fonctions éxécutives - définition]]
