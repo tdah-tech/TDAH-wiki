@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.162+02:00
+modified: 2026-07-27T17:55:11.680+02:00
 tags:
-  - micronote
-  - tdah
-  - aménésie-du-succès
-  - syndrome-de-l-imposteur
-  - traces-émotionnelles
-  - mémoire-de-travail
-  - image-de-soi
-  - estime-de-soi
-  - système-limbique
+  - "#micronote"
+  - "#tdah"
+  - "#aménésie-du-succès"
+  - "#syndrome-de-l-imposteur"
+  - "#traces-émotionnelles"
+  - "#mémoire-de-travail"
+  - "#image-de-soi"
+  - "#estime-de-soi"
+  - "#système-limbique"
 ---
 
 Le  syndrome de l’imposteur est fréquemment observé chez les personnes TDAH. De nombreuses personnes  rapportent en effet un sentiment persistant de ne pas mériter leurs succès, non pas par manque réel de compétence, mais parce que les traces mémorielles de ces réussites s’estompent rapidement.
@@ -25,5 +25,6 @@ Sans **« registre interne »** fiable des accomplissements passés, chaque nouv
 ## Pour aller plus loin
 
 - [[Vivre avec un TDAH]]
+- [[Savoir abandonner les projets]]
 - [[Amnésie du succès chez les personnes TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]

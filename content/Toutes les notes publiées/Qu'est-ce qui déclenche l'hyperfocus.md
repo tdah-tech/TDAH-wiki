@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T15:15:24.147+02:00
+modified: 2026-07-27T17:41:08.875+02:00
 tags:
-  - micronote
-  - tdah
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#hyperfocus"
 ---
 
 L'hyperfocus ne survient pas de manière aléatoire.  De manière générale, l'hyperfocus apparaît quasi exclusivement sur des activités qui stimulent fortement le circuit de récompense — un intérêt marqué, une nouveauté, un feedback immédiat, ou parfois une urgence. C'est ce qui explique le paradoxe classique : la même personne incapable de tenir dix minutes sur une tâche ordinaire peut rester des heures absorbée dès qu'une autre activité capte suffisamment son attention.
@@ -35,3 +35,4 @@ Ainsi, lorsque l'activité touche un centre d'intérêt authentique — un sujet
 - [[Durée de l'hyperfocus]]
 - [[Qu'est-ce-que le TDAH ?]]
 - [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
+- [[L'abandon de projet]]

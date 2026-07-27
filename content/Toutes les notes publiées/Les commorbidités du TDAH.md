@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.136+02:00
+modified: 2026-07-27T16:08:41.869+02:00
 tags:
-  - micronote
-  - tdah
-  - top
-  - trouble-opposition
-  - autisme
-  - anxiete
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#top"
+  - "#trouble-opposition"
+  - "#autisme"
+  - "#anxiete"
+  - "#impulsivite"
 ---
 
 Le TDAH ne vient (presque) jamais seul. Un chiffre à retenir en premier, parce qu'il change complètement la façon de penser le TDAH : le TDAH touche 3 à 8 % des enfants d'âge scolaire, et dans plus de deux tiers des cas, on retrouve au moins un trouble associé. D'autres sources vont plus loin encore, avec une présence de trouble associé évaluée entre 65 et 89 %. Autrement dit, le TDAH "pur", isolé de tout autre trouble, est presque l'exception plutôt que la règle. Cela a une conséquence directe et importante : chercher systématiquement d'autres troubles associés au moment du diagnostic n'est pas optionnel, c'est une étape normale de l'évaluation.
@@ -51,6 +51,7 @@ Les troubles spécifiques des apprentissages, **dyslexie, dysorthographie, dysca
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Troubles anxieux et dépression]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Trouble de l'opposition et image de soi]]
 - [[Neurosciences du TDAH]]

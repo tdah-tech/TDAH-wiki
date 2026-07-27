@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.165+02:00
+modified: 2026-07-27T16:24:10.903+02:00
 tags:
-  - micronote
-  - tdah
-  - identite
-  - acceptation
-  - neurodiversite
-  - estime-de-soi
-  - index
-  - dmn
+  - "#micronote"
+  - "#tdah"
+  - "#identite"
+  - "#acceptation"
+  - "#neurodiversite"
+  - "#estime-de-soi"
+  - "#index"
+  - "#dmn"
 ---
 
 ## L'importance de la Psycho-éducation :
@@ -46,7 +46,7 @@ tags:
 
 ## Assumer sa neuroatypie
 
-- [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH]]
+- [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH|Assumer pleinement son neuroatypisme et son TDAH]]
 - [[Dissimulation - camouflage du TDAH (masking)]]
 
 ## Amnésie du succès et syndrome de l'imposteur
@@ -68,6 +68,7 @@ tags:
 
 - [[Entrepreunariat et TDAH]]
 - [[Métiers adaptés aux TDAH]]
+- [[La RQTH (reconnaissance de la qualité de travailleur handicapé) et le TDAH]]
 
 ## Distorsions cognitives
 

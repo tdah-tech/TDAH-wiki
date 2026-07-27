@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.127+02:00
+modified: 2026-07-27T18:09:49.453+02:00
 tags:
   - micronote
   - tdah
@@ -20,6 +20,7 @@ Bien que le brain dump puisse rester purement cathartique, une étape ultérieur
 ## Pour aller plus loin
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+- [[Savoir choisir ses projets]]
 - [[Mémoire de travail et TDAH]]
 - [[Surcharge mentale et TDAH]]
 - [[Les fonctions éxécutives - définition]]
