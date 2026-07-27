@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-27T11:53:05.095+02:00
+modified: 2026-07-27T14:59:58.194+02:00
 tags:
   - micronote
   - tdah
@@ -9,7 +9,7 @@ tags:
   - scolarité
 ---
 
-Lors des évaluations, les recommandations destinées aux élèves présentant un TDAH visent à mesurer aussi fidèlement que possible les connaissances et les compétences acquises, plutôt que les difficultés d’attention, d’organisation ou de régulation motrice qui peuvent interférer avec la performance. Ces aménagements s’appliquent aussi bien aux contrôles en classe, dans le cadre d’un Plan d’Accompagnement Personnalisé, qu’aux examens officiels pour lesquels une demande formelle est nécessaire.
+Lors des évaluations scolaires, les recommandations destinées aux élèves présentant un TDAH visent à mesurer aussi fidèlement que possible les connaissances et les compétences acquises, plutôt que les difficultés d’attention, d’organisation ou de régulation motrice qui peuvent interférer avec la performance. Ces aménagements s’appliquent aussi bien aux contrôles en classe, dans le cadre d’un Plan d’Accompagnement Personnalisé, qu’aux examens officiels pour lesquels une demande formelle est nécessaire.
 
 **Le temps majoré** constitue l’un des aménagements les plus fréquemment retenus. Une majoration pouvant atteindre le tiers du temps normalement prévu permet de compenser la lenteur d’exécution, les pertes de concentration, le besoin de recentrage et d'introduire des pauses brèves et planifiées au cours de l’épreuve pour restaurer l’attention et de réduire la fatigue cognitive.
 

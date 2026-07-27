@@ -13,7 +13,6 @@ tags:
 
 Les couvertures lestées reposent sur le mécanisme du _deep pressure touch_ (pression profonde), une stimulation tactile et proprioceptive continue exercée par le poids du tissu, généralement calculé autour de 5 à 10% du poids corporel de l'utilisateur. . Le résultat recherché est un abaissement du rythme cardiaque et un état de détente proche de celui produit par une étreinte prolongée ou un massage à pression ferme, propice à l'endormissement.
 
-
 **L'étude de référence**
 
 L'essai randomisé contrôlé du Karolinska Institutet (Stockholm, 2020) reste la référence la plus solide. Il a inclus 120 adultes souffrant d'insomnie clinique associée à un trouble psychiatrique — dépression majeure, trouble bipolaire, TDAH ou anxiété généralisée — comparant sur quatre semaines une couverture lestée de 8 kg avec une couverture témoin de 1,5 kg.

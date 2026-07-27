@@ -31,8 +31,6 @@ Les médicaments stimulant peuvent, chez un certain nombre de personnes, atténu
 
 Sur le plan psychologique, les thérapies cognitives et comportementales, la pleine conscience et le travail sur la compassion envers soi-même aident à créer un espace entre le déclencheur et la réaction, permettant de questionner les interprétations automatiques et de récupérer plus rapidement après un épisode.
 
-
-
 ## Pour aller plus loin :
 
 - [[Vivre avec un TDAH]]

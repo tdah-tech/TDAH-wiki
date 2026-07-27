@@ -26,7 +26,6 @@ Notons que l’intérêt pour le bruit marron a explosé ces dernières années,
 
 Sur le plan théorique, on peut raisonnablement supposer que le même mécanisme d’activation cérébrale modérée pourrait s’appliquer.  Cette hypothèse reste toutefois extrapolées à partir des données obtenues avec le blanc et le rose.
 
-
 ## Pour aller plus loin :
 
 - [[La scolarité et le TDAH]]

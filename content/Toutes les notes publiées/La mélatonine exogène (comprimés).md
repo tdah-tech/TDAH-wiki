@@ -29,6 +29,7 @@ Lorsqu’il s’agit plutôt de corriger un retard de phase marqué, c’est-à-
 La forme à libération immédiate est préférée pour les difficultés d’endormissement, tandis que les formes à libération prolongée (comme Slenyto, indiquée dans d’autres contextes neurodéveloppementaux) visent davantage le maintien du sommeil.
 
 La tolérance à court et moyen terme est globalement bonne. Les effets indésirables les plus fréquents restent bénins : somnolence résiduelle le matin, maux de tête, rêves plus vifs ou, plus rarement, irritabilité transitoire. Les données de suivi à long terme, bien que encore limitées, n’ont pas mis en évidence de problèmes de sécurité majeurs, y compris sur le développement pubertaire, dans les cohortes d’enfants traités pendant plusieurs années. Une dépendance physiologique n’est pas observée, mais une dépendance psychologique peut apparaître si le traitement n’est jamais réévalué.
+
 ## Pour aller plus loin :
 
 - [[Le sommeil et le TDAH]]

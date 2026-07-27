@@ -31,7 +31,7 @@ Le diagnostic est un moment charnière, dans un sens ou dans l'autre. Bien amen�
 
 **Mal amené, en revanche, le diagnostic peut faire l'effet inverse : une confirmation officielle, presque médicale, que l'enfant est bien "le problème" qu'on soupçonnait depuis longtemps. Certains enfants entendent une annonce de trouble comme une sentence plutôt que comme une explication**. Le rôle de l'adulte dans ce moment précis, et dans tous ceux qui suivent, est déterminant.
 
- Dire "ce que tu viens de faire n'était pas correct" plutôt que "tu es insupportable", ou "on dirait que c'était dur pour toi de t'arrêter" plutôt que "tu ne m'écoutes jamais", maintient **une distance entre l'acte et l'identité**. Ce n'est pas une question de mollesse ou de laxisme : l'enfant peut très bien être corrigé fermement sur un acte précis sans que cette correction se transforme en verdict sur ce qu'il est.
+Dire "ce que tu viens de faire n'était pas correct" plutôt que "tu es insupportable", ou "on dirait que c'était dur pour toi de t'arrêter" plutôt que "tu ne m'écoutes jamais", maintient **une distance entre l'acte et l'identité**. Ce n'est pas une question de mollesse ou de laxisme : l'enfant peut très bien être corrigé fermement sur un acte précis sans que cette correction se transforme en verdict sur ce qu'il est.
 
 Ça implique aussi de résister à la tentation des généralisations, particulièrement fréquentes dans la fatigue du quotidien : **"toujours", "jamais", "encore"**. Ces mots transforment un incident ponctuel en trait de caractère permanent, et l'enfant qui les entend régulièrement finit par les intégrer comme une vérité sur lui-même, indépendamment de ce qui s'est réellement passé.
 

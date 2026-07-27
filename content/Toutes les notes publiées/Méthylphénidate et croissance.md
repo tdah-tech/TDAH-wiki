@@ -22,7 +22,6 @@ Il est important de souligner que le TDAH lui-même s’accompagne parfois de tr
 
 La pratique clinique a  intégré la surveillance régulière de la croissance comme élément non négociable du suivi. Les recommandations françaises et européennes convergent vers une mesure de la taille, du poids et du calcul de l’IMC au moins tous les six mois, reportée sur une courbe de croissance standardisée, avec une attention particulière pendant la première année. Lorsque le ralentissement dépasse un centile majeur ou s’accompagne d’une perte de poids persistante, plusieurs stratégies peuvent être envisagées : optimisation de l’alimentation (prise du médicament après un repas riche, collations caloriques en fin de journée), réduction temporaire de la dose, ou introduction de **« vacances médicamenteuses » pendant les week-ends ou les périodes de vacances scolaires**. Ces interruptions, lorsqu’elles sont bien planifiées, permettent souvent un rattrapage partiel de la courbe de croissance sans compromettre durablement le contrôle des symptômes.
 
-
 ## Pour aller plus loin :
 
 - [[Qu'est-ce-que le TDAH ?]]

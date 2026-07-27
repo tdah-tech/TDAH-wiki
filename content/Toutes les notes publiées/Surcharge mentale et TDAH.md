@@ -27,8 +27,6 @@ L’incertitude sur le chemin à parcourir — trop d’étapes floues, peur de 
 
 Enfin, les besoins biologiques non satisfaits notamment en phase d'[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] — sommeil insuffisant, faim, déshydratation — agissent comme des amplificateurs transversaux. Ils abaissent le seuil de tolérance et réduisent encore les ressources exécutives et émotionnelles, transformant une difficulté modérée en saturation complète.
 
-
-
 ## Pour aller plus loin
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]

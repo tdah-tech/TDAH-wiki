@@ -14,7 +14,6 @@ Accepter un diagnostic de TDAH, ce n'est ni un blanc-seing pour tout excuser, ni
 
 Avant le diagnostic, un enfant qui n'arrive pas à rester concentré ou un adulte qui multiplie les oublis se voit souvent renvoyé à un manque de volonté : « il ne fait pas assez d'efforts », « elle devrait se discipliner ». Le diagnostic déplace la question : ce n'est plus **« pourquoi tu n'y arrives pas »**  mais **« comment on t'aide à y arriver, sachant ce qui se joue »**. Cette nuance ouvre la porte à une compassion et un soutien qu'on s'interdisait tant que la difficulté passait pour un défaut de caractère.
 
-
 ## Pour aller plus loin
 
 - [[Vivre avec un TDAH]]

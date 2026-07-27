@@ -23,7 +23,6 @@ En parlant de « trait » plutôt que de « trouble » et de « variable » plut
 
 Ils insistent sur le fait que les mêmes caractéristiques qui génèrent des difficultés dans un environnement peu stimulant peuvent devenir des atouts majeurs dans un contexte adapté. (voir  [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]))
 
-
 Le concept de VAST a été t salué pour son intention destigmatisante et pour avoir remis en circulation, dans le grand public, l'idée que le TDAH comporte une dimension de force et pas seulement une dimension de handicap.
 
 Il reste cependant un outil de vulgarisation plutôt qu'un concept clinique opérationnel.

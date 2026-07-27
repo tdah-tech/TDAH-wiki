@@ -24,7 +24,6 @@ La psychoéducation ne s'adresse pas uniquement aux personnes ayant un TDAH ou a
 
 Il convient enfin de souligner que la psychoéducation n’est pas un acte unique. Les recommandations **les plus récentes insistent sur son caractère continu et évolutif. Les besoins d’information changent avec l’âge, avec l’apparition de [[Les commorbidités du TDAH|comorbidités]], avec les transitions de vie (passage à l’adolescence, entrée dans le monde du travail, parentalité)**.
 
-
 ## Pour aller plus loin
 
 - [[Le TDAH est livré sans manuel]]

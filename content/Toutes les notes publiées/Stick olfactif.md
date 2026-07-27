@@ -19,6 +19,7 @@ Sur le plan pratique, la préparation du stick consiste à imprégner une mèche
 Un autre intérêt du stick réside  dans sa capacité à instaurer un rituel de régulation. Le fait de sortir le stick, de l’ouvrir et d’inhaler crée un moment de pause consciente qui, en lui-même, favorise le retour à soi.
 
 De plus, le stick limite les risques de surdosage cutané ou d’irritation, car il n’implique aucun contact  avec la peau. Il convient aussi bien aux enfants d’âge scolaire qu’aux adolescents et aux adultes, sous réserve d’utiliser des formules adaptées et des huiles de qualité.
+
 ## Pour aller plus loin :
 
 - [[L’aromathérapie et TDAH]]

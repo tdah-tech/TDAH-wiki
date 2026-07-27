@@ -18,8 +18,6 @@ Il associe, à des degrés divers, trois grandes dimensions : le [[Qu'est-ce qu'
 
 Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les deux profils. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
 
-
-
 ## Les trois profils cliniques
 
 - [[Les trois profils types du TDAH]]
@@ -56,6 +54,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
 - [[Trouble ou neurodivergence ?]]
+
 ## Intelligence et cognition
 
 - [[Les intelligences multiples face au TDAH]]
@@ -89,8 +88,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Trouble de l'opposition et image de soi]]
 - [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 - [[Boite à outils Trouble oppositionnel]]
-
-
 
 ## Pour aller plus loin
 
