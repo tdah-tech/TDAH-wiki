@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// [TEST graph-apres-liens] plus de place en position afterBody qu'en sidebar,
+// on agrandit la fenêtre du graphe en conséquence (défaut plugin: 250px)
+.graph > .graph-outer {
+  height: 500px;
+}

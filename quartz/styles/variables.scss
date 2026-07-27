@@ -17,7 +17,8 @@ $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.ge
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
 $pageWidth: #{map.get($breakpoints, mobile)};
-$sidePanelWidth: 320px; //380px;
+$sidePanelWidth: 320px; // colonne de gauche (menu/nav)
+$sidePanelWidthRight: 80px; // [TEST graph-apres-liens] colonne de droite désormais vide (graphe+backlinks déplacés sous le corps), on la réduit au profit du centre
 $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
@@ -48,7 +49,7 @@ $tabletGrid: (
 );
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
+  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidthRight}",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:

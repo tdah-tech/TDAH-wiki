@@ -175,7 +175,7 @@ plugins:
         linkDistance: 60
         fontSize: 0.45
         opacityScale: 1
-        showTags: true
+        showTags: false
       globalGraph:
         drag: true
         zoom: true
@@ -186,9 +186,9 @@ plugins:
         linkDistance: 40
         fontSize: 0.6
         opacityScale: 1
-        showTags: true
+        showTags: false
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: "@quartz-community/search"
     enabled: true
@@ -201,7 +201,7 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
