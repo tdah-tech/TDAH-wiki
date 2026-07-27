@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T16:16:54.965+02:00
+modified: 2026-07-27T16:24:10.903+02:00
 tags:
-  - micronote
-  - tdah
-  - identite
-  - acceptation
-  - neurodiversite
-  - estime-de-soi
-  - index
-  - dmn
+  - "#micronote"
+  - "#tdah"
+  - "#identite"
+  - "#acceptation"
+  - "#neurodiversite"
+  - "#estime-de-soi"
+  - "#index"
+  - "#dmn"
 ---
 
 ## L'importance de la Psycho-éducation :
@@ -68,6 +68,7 @@ tags:
 
 - [[Entrepreunariat et TDAH]]
 - [[Métiers adaptés aux TDAH]]
+- [[La RQTH (reconnaissance de la qualité de travailleur handicapé) et le TDAH]]
 
 ## Distorsions cognitives
 
