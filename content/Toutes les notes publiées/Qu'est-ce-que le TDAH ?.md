@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T13:31:25.959+02:00
+modified: 2026-07-27T15:59:11.703+02:00
 tags:
-  - tdah
-  - definition
-  - synthese
-  - genetique
-  - fonctions-executives
-  - neurodiversite
-  - index
+  - "#tdah"
+  - "#definition"
+  - "#synthese"
+  - "#genetique"
+  - "#fonctions-executives"
+  - "#neurodiversite"
+  - "#index"
 ---
 
 Le TDAH, Trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
@@ -44,6 +44,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 
 ## Traitement pharmacologique
 
+- [[Diagnostic et mise en place du traitement]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et croissance]]

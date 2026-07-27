@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.133+02:00
+modified: 2026-07-27T15:59:16.682+02:00
 tags:
-  - micronote
-  - tdah
-  - méthylphénidate
-  - traitement
-  - système-DMN-TPN
-  - dmn
-  - tpn
-  - dopamine
-  - noradrenaline
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#méthylphénidate"
+  - "#traitement"
+  - "#système-DMN-TPN"
+  - "#dmn"
+  - "#tpn"
+  - "#dopamine"
+  - "#noradrenaline"
+  - "#impulsivite"
 ---
 
 Le méthylphénidate est le traitement pharmacologique  le plus utilisé pour le TDAH, autant chez l'enfant que chez l'adulte. Il est commercialisé en France sous plusieurs noms (Ritaline, Concerta, Quasym, Medikinet), qui diffèrent surtout par leur profil de libération — immédiate ou prolongée — mais partagent la même molécule.
@@ -34,6 +34,7 @@ Les effets secondaires les plus courants sont une baisse de l'appétit, des trou
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Diagnostic et mise en place du traitement]]
 - [[Dopamine et TDAH]]
 - [[Noradrénaline et TDAH]]
 - [[Le modèle TPN-DMN]]
