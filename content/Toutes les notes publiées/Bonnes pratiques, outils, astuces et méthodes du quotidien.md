@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T18:24:02.640+02:00
+modified: 2026-07-27T19:03:13.680+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,10 +34,6 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 - [[Le dédoublement corporel]]
 - [[Le système et les minuteurs Pomodoro]]
 - [[La technique du Flowtime]]
-- [[L'abandon de projet]]
-- [[Savoir abandonner les projets]]
-- [[Savoir choisir ses projets]]
-- [[Surcharge mentale et TDAH]]
 - [[Le découpage des tâches]]
 
 ## Outils sensoriels

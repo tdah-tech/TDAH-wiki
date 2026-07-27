@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-07-27T11:53:05.162+02:00
+modified: 2026-07-27T19:03:06.051+02:00
 tags:
-  - micronote
-  - tdah
-  - overwhelm
-  - perfectionnisme
-  - surcharge-mentale
-  - fonctions-executives
-  - dysregulation-emotionnelle
-  - cecite-temporelle
+  - "#micronote"
+  - "#tdah"
+  - "#overwhelm"
+  - "#perfectionnisme"
+  - "#surcharge-mentale"
+  - "#fonctions-executives"
+  - "#dysregulation-emotionnelle"
+  - "#cecite-temporelle"
 ---
 
 La surcharge mentale, souvent désignée par le terme anglais _overwhelm_, constitue l’une des expériences les plus fréquentes et les plus invalidantes du TDAH. Elle se manifeste comme une sensation d’être submergé, incapable d’agir, coincé entre trop d’informations, trop d’exigences et trop peu de ressources internes disponibles. Contrairement à une simple fatigue ou à une procrastination ordinaire, cette surcharge n’est pas un état vague et indifférencié. Elle résulte de mécanismes précis, souvent cumulatifs, qui s’enracinent dans le fonctionnement neurodéveloppemental propre au trouble. Comprendre ces mécanismes permet de sortir de la sensation globale d’impuissance et d’intervenir de façon ciblée.
@@ -29,7 +29,7 @@ Enfin, les besoins biologiques non satisfaits notamment en phase d'[[Qu'est-ce-q
 
 ## Pour aller plus loin
 
-- [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+- [[Vivre avec un TDAH]]
 - [[Mémoire de travail et TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Avoir un coup et une heure d’avance aident les TDAH]]

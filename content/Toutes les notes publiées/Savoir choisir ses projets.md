@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T18:09:36.369+02:00
+modified: 2026-07-27T19:03:05.378+02:00
 tags:
-  - micronote
-  - tdah
-  - abandon-de-projet
-  - choix-de-projet
-  - brain-dump
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#abandon-de-projet"
+  - "#choix-de-projet"
+  - "#brain-dump"
+  - "#hyperfocus"
 ---
 
 Savoir choisir ses projets représente, pour les personnes présentant un TDAH, une compétence complémentaire et tout aussi essentielle que celle de [[Savoir abandonner les projets|savoir abandonner]] ceux qui ne méritent plus d’être poursuivis. Le fonctionnement attentionnel et motivationnel du TDAH génère une curiosité vive, une sensibilité accrue à la nouveauté et une facilité à s’enflammer pour de multiples idées. Cette richesse exploratoire est une force réelle, mais elle expose aussi à un risque permanent de surengagement ou d'engagement dans des voies qui sont de pures pertes de temps et d'énergie. Sans un filtre intérieur suffisamment affiné, chaque nouvelle piste peut sembler urgente, prometteuse et digne d’un investissement total, jusqu’à ce que l’énergie se disperse et que la charge mentale s’alourdisse.
@@ -29,4 +29,4 @@ Avec le temps, la personne développe une forme de lucidité qui lui permet de r
 - [[L'abandon de projet]]
 - [[Le brain dump]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
-- [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+- [[Vivre avec un TDAH]]
