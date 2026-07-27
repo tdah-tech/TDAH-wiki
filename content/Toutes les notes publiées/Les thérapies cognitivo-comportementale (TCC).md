@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T16:15:17.029+02:00
+modified: 2026-07-27T16:45:55.137+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,6 +27,7 @@ Il convient de souligner que la TCC pour le TDAH n’est pas une thérapie gén�
 ## Pour aller plus loin :
 
 - [[Diagnostic et mise en place du traitement]]
+- [[Le coaching TDAH]]
 - [[Troubles anxieux et dépression]]
 - [[L'importance de la psychoéducation]]
 - [[Fonctions exécutives touchées par le TDAH]]

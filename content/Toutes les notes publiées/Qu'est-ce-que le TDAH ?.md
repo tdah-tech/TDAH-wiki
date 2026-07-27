@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T16:21:52.881+02:00
+modified: 2026-07-27T17:03:25.814+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -49,9 +49,14 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et croissance]]
 
-## Thérapies
+## Thérapie
 
 - [[Les thérapies cognitivo-comportementale (TCC)]]
+
+## Coaching / Guidance
+
+- [[Le coaching TDAH]]
+- [[La méthode Barkley]]
 
 ## Trouble, dysrégulation ou variation neurodéveloppementale ?
 
