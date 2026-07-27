@@ -175,7 +175,7 @@ plugins:
         linkDistance: 60
         fontSize: 0.45
         opacityScale: 1
-        showTags: true
+        showTags: false
       globalGraph:
         drag: true
         zoom: true
@@ -186,7 +186,7 @@ plugins:
         linkDistance: 40
         fontSize: 0.6
         opacityScale: 1
-        showTags: true
+        showTags: false
     layout:
       position: afterBody
       priority: 10
