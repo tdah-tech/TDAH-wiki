@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.128+02:00
+modified: 2026-07-27T19:31:57.637+02:00
 tags:
-  - micronote
-  - tdah
-  - opposition
-  - trouble-opposition
-  - escalade
-  - cycle-opposition
-  - cycle-escalade
+  - "#micronote"
+  - "#tdah"
+  - "#opposition"
+  - "#trouble-opposition"
+  - "#escalade"
+  - "#cycle-opposition"
+  - "#cycle-escalade"
 ---
 
 Beaucoup de parents d'enfant TDAH le vivent au quotidien. On demande à son enfant de ranger ses chaussures, de venir à table ou de commencer ses devoirs. La réponse ? Un "attend", un « non » , ou pire, un silence total, comme si on n’avait rien dit. Le parent  répète. Une fois. Deux fois. trois fois. Le ton monte. Les menaces arrivent. Et en quelques minutes, la maison est en pleine tempête.
@@ -31,6 +31,7 @@ Ce cycle se nourrit de lui-même. Chaque hausse de ton, chaque menace, chaque r�
 ## Pour aller plus loin
 
 - [[Parentalité et TDAH]]
+- [[Time-in - Time-out]]
 - [[Eviter l'escalade et le conflit]]
 - [[Sous-stimulation et comportements conflictuels chez le TDAH]]
 - [[Métaphore du verre ou réservoir émotionnel du TDAH]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T17:10:37.602+02:00
+modified: 2026-07-27T19:31:49.504+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,6 +27,7 @@ tags:
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
 - [[Eviter l'escalade et le conflit]]
 - [[Trouble de l'opposition et système DMN-TPN]]
+- [[Time-in - Time-out]]
 
 ## Le renforcement positif / négatif
 

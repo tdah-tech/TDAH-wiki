@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.151+02:00
+modified: 2026-07-27T19:31:51.297+02:00
 tags:
-  - micronote
-  - tdah
-  - trouble-opposition
-  - top
-  - punition
-  - image-de-soi
+  - "#micronote"
+  - "#tdah"
+  - "#trouble-opposition"
+  - "#top"
+  - "#punition"
+  - "#image-de-soi"
 ---
 
 Ce qui distingue vraiment le profil TDAH avec TOP, ce n'est donc pas que la punition ne marche jamais, mais qu'elle est un outil beaucoup moins fiable et beaucoup plus fragile que chez un enfant sans ces difficultés, et qu'elle a de moins bonnes chances de produire un changement durable du comportement,
@@ -41,6 +41,7 @@ Pris ensemble, ces mécanismes expliquent pourquoi la punition, loin d'être sim
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Parentalité et TDAH]]
+- [[Time-in - Time-out]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Trouble de l'opposition et image de soi]]
 - [[Boite à outils Trouble oppositionnel]]
