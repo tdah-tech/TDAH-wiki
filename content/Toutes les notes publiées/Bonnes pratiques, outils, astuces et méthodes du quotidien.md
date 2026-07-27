@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T17:55:08.686+02:00
+modified: 2026-07-27T18:09:40.596+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#outils"
-  - "#sport"
-  - "#index"
+  - micronote
+  - tdah
+  - outils
+  - sport
+  - index
 ---
 
 Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimentation et le TDAH|alimentation]], [[Neurosciences du TDAH|neurosciences]], [[Le sommeil et le TDAH]]), un ensemble de pratiques corporelles et de méthodes pratiques reviennent régulièrement comme soutiens non médicamenteux du TDAH au quotidien : sport, respiration, aromathérapie, et quelques techniques concrètes pour désamorcer la [[Surcharge mentale et TDAH|surcharge mentale]] avant qu'elle ne s'installe. Cette note rassemble toutes les fiches du dossier consacrées à ces pratiques.
@@ -36,6 +36,7 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 - [[La technique du Flowtime]]
 - [[L'abandon de projet]]
 - [[Savoir abandonner les projets]]
+- [[Savoir choisir ses projets]]
 - [[Surcharge mentale et TDAH]]
 - [[Le découpage des tâches]]
 

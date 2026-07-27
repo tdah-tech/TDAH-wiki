@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T17:58:28.674+02:00
+modified: 2026-07-27T18:09:42.862+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#abandon-de-projet"
-  - "#hyperfocus"
-  - "#honte"
-  - "#estime-de-soi"
+  - micronote
+  - tdah
+  - abandon-de-projet
+  - hyperfocus
+  - honte
+  - estime-de-soi
 ---
 
 Savoir [[L'abandon de projet|abandonner un projet]], notamment lorsqu’il s’inscrit dans un état d’[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]], constitue une compétence essentielle que les personnes présentant un TDAH doivent souvent apprendre à développer.
@@ -28,6 +28,7 @@ Cette distinction ne s’acquiert pas d’un seul coup. Elle se construit progre
 ## Pour aller plus loin :
 
 - [[L'abandon de projet]]
+- [[Savoir choisir ses projets]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
