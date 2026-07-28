@@ -1,5 +1,5 @@
 diff --git a/node_modules/@quartz-community/explorer/dist/components/index.js b/node_modules/@quartz-community/explorer/dist/components/index.js
-index 18d4576..1fd0996 100644
+index 18d4576..dbee365 100644
 --- a/node_modules/@quartz-community/explorer/dist/components/index.js
 +++ b/node_modules/@quartz-community/explorer/dist/components/index.js
 @@ -409,11 +409,71 @@ var numExplorers = 0;
@@ -86,7 +86,7 @@ index 18d4576..1fd0996 100644
 +                mmFolderIcon(),
 +                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: "Th\xE9matiques" }) }) })
 +              ] }),
-+              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
++              /* @__PURE__ */ u2("div", { class: "folder-outer open", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
 +            ] }),
 +            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-explorer", children: [
 +              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-explorer__", children: [
@@ -100,7 +100,7 @@ index 18d4576..1fd0996 100644
            /* @__PURE__ */ u2("template", { id: "template-folder", children: /* @__PURE__ */ u2("li", { children: [
              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", children: [
 diff --git a/node_modules/@quartz-community/explorer/dist/index.js b/node_modules/@quartz-community/explorer/dist/index.js
-index 18d4576..1fd0996 100644
+index 18d4576..dbee365 100644
 --- a/node_modules/@quartz-community/explorer/dist/index.js
 +++ b/node_modules/@quartz-community/explorer/dist/index.js
 @@ -409,11 +409,71 @@ var numExplorers = 0;
@@ -187,7 +187,7 @@ index 18d4576..1fd0996 100644
 +                mmFolderIcon(),
 +                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: "Th\xE9matiques" }) }) })
 +              ] }),
-+              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
++              /* @__PURE__ */ u2("div", { class: "folder-outer open", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
 +            ] }),
 +            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-explorer", children: [
 +              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-explorer__", children: [
