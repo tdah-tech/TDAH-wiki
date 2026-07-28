@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.099+02:00
+modified: 2026-07-28T15:55:44.287+02:00
 tags:
-  - micronote
-  - tdah
-  - top
-  - trouble-opposition
-  - cycle-coercitif
-  - punition
+  - "#micronote"
+  - "#tdah"
+  - "#top"
+  - "#trouble-opposition"
+  - "#cycle-coercitif"
+  - "#punition"
 ---
 
 Aavec un enfant TDAH-TOP, la discipline classique (plus de sanctions, plus de fermeté, plus de conséquences) échoue le plus souvent, et parfois elle aggrave les choses. Ce n'est pas parce que l'enfant "a besoin de limites plus dures", c'est parce que son cerveau ne traite pas la punition comme un signal efficace pour changer de comportement, et que l'[[Eviter l'escalade et le conflit|escalade]] nourrit exactement le cycle qu'on cherche à casser. Les bonnes pratiques reposent sur un changement de logique, pas sur un durcissement.

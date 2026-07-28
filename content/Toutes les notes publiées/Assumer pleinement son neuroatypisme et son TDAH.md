@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.097+02:00
+modified: 2026-07-28T15:54:40.895+02:00
 tags:
-  - micronote
-  - tdah
-  - conseil
-  - neurodiversite
-  - neuro-athypique
-  - assumer
-  - masking
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#conseil"
+  - "#neurodiversite"
+  - "#neuro-athypique"
+  - "#assumer"
+  - "#masking"
+  - "#hyperfocus"
 ---
 
 Assumer pleinement son [[Trouble ou neurodivergence ?|neuroatypisme]] et plus globalement son TDA constitue souvent un véritable point de bascule. **Tant que l’on s’acharne à coller au modèle dominant, à masquer ses particularités cognitives, à forcer un rythme, une attention ou une organisation qui ne correspondent pas à son fonctionnement, une part considérable d’énergie se trouve gaspillée dans la performance a vouloir paraître dans la normalité**. Cette performance constante, que l’on appelle parfois le masking, finit par épuiser, par créer une dissonance intérieure et par empêcher toute forme d’épanouissement authentique.

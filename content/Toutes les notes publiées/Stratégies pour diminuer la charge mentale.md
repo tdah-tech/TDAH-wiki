@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T15:43:12.315+02:00
+modified: 2026-07-28T15:45:25.579+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,7 +34,7 @@ Les parents qui parviennent à identifier clairement ce qu’ils peuvent confier
 
 Ce partage s’accompagne naturellement **d’un recentrage sur l’essentiel : distinguer ce qui relève réellement de l’important — la sécurité affective de l’enfant, la qualité de la relation, le maintien d’un cadre minimal stable — de ce qui relève du perfectionnisme ou de la comparaison sociale**.
 
-La mise en place de structures externes et de routines prévisibles allège également le travail d’anticipation permanent. **Des outils concrets — emplois du temps visuels, listes de tâches familiales partagées, applications de rappel,  permettent d'alléger une partie de la charge mentale** . Ils ne remplacent pas la relation et la communication, mais ils réduisent le nombre de décisions à prendre en temps réel et limitent les oublis sources de culpabilité.
+La mise en place de structures externes et de routines prévisibles allège également le travail d’anticipation permanent. **Des outils concrets — emplois du temps visuels, listes de tâches familiales partagées, applications de rappel,  permettent d'alléger une partie de la charge mentale** . Ils ne remplacent pas la relation et la communications, mais ils réduisent le nombre de décisions à prendre en temps réel et limitent les oublis sources de culpabilité.
 
 L’essentiel est d’adapter ces outils aux profils cognitifs des parents eux-mêmes, surtout lorsque l’un d’eux présente également un TDAH, et de les utiliser non comme un moyen d’atteindre la perfection, mais comme un soutien pour se concentrer sur ce qui compte vraiment.
 

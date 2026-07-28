@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-27T11:53:05.094+02:00
+modified: 2026-07-28T15:47:50.266+02:00
 tags:
-  - micronote
-  - tdah
-  - scolarité
-  - meta-cognition
-  - évaluations-scolaires
+  - "#micronote"
+  - "#tdah"
+  - "#scolarité"
+  - "#meta-cognition"
+  - "#évaluations-scolaires"
 ---
 
 La métacognition désigne l’ensemble des processus par lesquels une personne prend conscience de ses propres fonctionnements cognitifs, les évalue et les régule en vue d’atteindre un but.

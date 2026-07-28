@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-27T14:59:58.194+02:00
+modified: 2026-07-28T15:53:01.335+02:00
 tags:
-  - micronote
-  - tdah
-  - amanagements-scolaires
-  - scolarité
+  - "#micronote"
+  - "#tdah"
+  - "#amanagements-scolaires"
+  - "#scolarité"
 ---
 
 Lors des évaluations scolaires, les recommandations destinées aux élèves présentant un TDAH visent à mesurer aussi fidèlement que possible les connaissances et les compétences acquises, plutôt que les difficultés d’attention, d’organisation ou de régulation motrice qui peuvent interférer avec la performance. Ces aménagements s’appliquent aussi bien aux contrôles en classe, dans le cadre d’un Plan d’Accompagnement Personnalisé, qu’aux examens officiels pour lesquels une demande formelle est nécessaire.

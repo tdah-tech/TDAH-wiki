@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.098+02:00
+modified: 2026-07-28T15:55:18.800+02:00
 tags:
-  - micronote
-  - tdah
-  - bdnf
-  - cerveau
-  - cortex-prefrontal
+  - "#micronote"
+  - "#tdah"
+  - "#bdnf"
+  - "#cerveau"
+  - "#cortex-prefrontal"
 ---
 
 Le **BDNF** (_Brain-Derived Neurotrophic Factor_ ou Facteur Neurotrophique Dérivé du Cerveau) est une protéine essentielle à la santé et au développement du cerveau. Souvent surnommé « l’engrais du cerveau », il joue un rôle central dans la **neuroplasticité**, la maturation neuronale et la résilience cérébrale.

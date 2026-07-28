@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.095+02:00
+modified: 2026-07-28T15:53:22.004+02:00
 tags:
-  - micronote
-  - tdah
-  - aménésie-du-succès
-  - mémoire-de-travail
-  - fonctions-executives
-  - traces-émotionnelles
+  - "#micronote"
+  - "#tdah"
+  - "#aménésie-du-succès"
+  - "#mémoire-de-travail"
+  - "#fonctions-executives"
+  - "#traces-émotionnelles"
 ---
 
 Le phénomène décrit sous le nom d’« **amnésie du succès** »  est bien reconnu dans la communauté TDAH et par de nombreux cliniciens spécialisés. Il correspond à une tendance réelle chez beaucoup de personnes concernées à enchaîner immédiatement sur la tâche ou le défi suivant, sans marquer de pause pour intégrer ou « savourer » la réussite qui vient d’avoir lieu. Cette dynamique n’est pas une simple question de personnalité ou de modestie excessive, mais s’enracine effectivement dans les particularités neurocognitives du TDAH.

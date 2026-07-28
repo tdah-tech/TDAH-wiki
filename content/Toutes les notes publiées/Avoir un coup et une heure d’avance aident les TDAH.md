@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.097+02:00
+modified: 2026-07-28T15:54:55.937+02:00
 tags:
-  - micronote
-  - tdah
-  - surcharge-mentale
-  - cécité-temporelle
-  - dopamine
+  - "#micronote"
+  - "#tdah"
+  - "#surcharge-mentale"
+  - "#cécité-temporelle"
+  - "#dopamine"
 ---
 
 Dans un cerveau "plus rapide " que la normale dans certains domaines et plus lent dans d'autres (ex : initier une tâche), et  qui peut avoir du mal à s'organiser,  une solution  simple et  efficace consiste à prendre systématiquement de l’avance.
