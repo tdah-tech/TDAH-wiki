@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T09:44:34.245+02:00
+modified: 2026-07-28T09:54:32.908+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,6 +25,7 @@ En résumé, la science décrit une association claire, mesurable et multifactor
 ## Pour aller plus loin :
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Association entre TDAH et conduites addictives]]
 - [[Les commorbidités du TDAH]]
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
