@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T19:46:20.331+02:00
+modified: 2026-07-28T16:26:20.048+02:00
 tags:
-  - micronote
-  - tdah
-  - magnesium
-  - alimentation
+  - "#micronote"
+  - "#tdah"
+  - "#magnesium"
+  - "#alimentation"
 ---
 
 Plusieurs études constatent un déficit en magnésium plus fréquent chez les personnes TDAH (jusqu'à 72% des enfants selon certaines études, avec des taux sériques 11-15% plus bas que les témoins). Cette carence est corrélée aux symptômes, mais rien ne prouve un lien de causalité direct.
@@ -21,6 +21,7 @@ En résumé, le magnésium semble surtout utile pour corriger une carence réell
 - [[Le fer]]
 - [[Vitamine D et TDAH]]
 - [[Zinc]]
+- [[Vitamine C]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[Les omega-3]]
 - [[Les troubles du sommeil chez les TADH]]

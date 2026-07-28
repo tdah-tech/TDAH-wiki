@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T16:12:19.440+02:00
+modified: 2026-07-28T16:26:52.616+02:00
 tags:
   - "#micronote"
   - "#tdah"
