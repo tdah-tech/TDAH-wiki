@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T16:08:41.869+02:00
+modified: 2026-07-28T09:44:48.701+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -52,6 +52,7 @@ Les troubles spécifiques des apprentissages, **dyslexie, dysorthographie, dysca
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Troubles anxieux et dépression]]
+- [[Association entre TDAH et délinquance]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Trouble de l'opposition et image de soi]]
 - [[Neurosciences du TDAH]]
