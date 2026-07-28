@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T19:04:12.583+02:00
+modified: 2026-07-28T10:30:41.273+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -73,6 +73,7 @@ tags:
 ## Surcharge mentale et gestion de projets
 
 - [[Surcharge mentale et TDAH]]
+- [[Le mode attente]]
 - [[L'abandon de projet]]
 - [[Savoir abandonner les projets]]
 - [[Savoir choisir ses projets]]

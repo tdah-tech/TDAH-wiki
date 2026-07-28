@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T10:00:58.061+02:00
+modified: 2026-07-28T10:30:42.809+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -37,6 +37,7 @@ Cette concentration ne signifie pas rigidité ou appauvrissement ; elle laisse p
 ## Pour aller plus loin :
 
 - [[Vivre avec un TDAH]]
+- [[Le mode attente]]
 - [[Savoir abandonner les projets]]
 - [[Savoir choisir ses projets]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.103+02:00
+modified: 2026-07-28T10:30:47.730+02:00
 tags:
-  - micronote
-  - tdah
-  - gestion-du-temps
-  - cécité-temporelle
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#gestion-du-temps"
+  - "#cécité-temporelle"
+  - "#hyperfocus"
 ---
 
 Chez les personnes avec TDAH (TDA/H), la relation au temps est perturbée de façon marquée et récurrente, selon trois dimensions distinctes qui se renforcent mutuellement.
@@ -27,6 +27,7 @@ En français, le terme le plus utilisé et le plus largement accepté pour dési
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Le mode attente]]
 - [[Les fonctions éxécutives - définition]]
 - [[Avoir un coup et une heure d’avance aident les TDAH]]
 - [[Mémoire de travail et TDAH]]
