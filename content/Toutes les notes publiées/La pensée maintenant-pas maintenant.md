@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.120+02:00
+modified: 2026-07-28T10:32:12.870+02:00
 tags:
   - micronote
   - tdah
@@ -37,3 +37,4 @@ Il est important de souligner que ce n’est pas un défaut de caractère.  Le c
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Cécité temporelle chez les personnes TDAH]]
+- [[Le mode attente]]
