@@ -1,21 +1,23 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-28T17:15:36.743+02:00
+modified: 2026-07-28T17:44:11.576+02:00
 tags:
-  - micronote
-  - tdah
-  - alimentation
-  - nutrition
-  - micronutriments
-  - index
-  - impulsivite
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#alimentation"
+  - "#nutrition"
+  - "#micronutriments"
+  - "#index"
+  - "#impulsivite"
+  - "#hyperfocus"
 ---
 
 L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation entre les deux est réelle et fonctionne dans les deux sens. Le TDAH lui-même ([[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], désorganisation des repas, sélectivité sensorielle, suppression d'appétit sous stimulants, [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]) favorise des apports alimentaires déséquilibrés et plusieurs études  rapportent des carences plus fréquentes chez les personnes TDAH que dans la population générale — notamment en fer, zinc, magnésium, vitamines B et D.
 
-Pour ces micronutriments, et macronutriments (oméga-3, protéines), c'est avant tout **la correction d'une carence documentée** qui apporte un bénéfice mesurable sur des facteurs aggravants secondaires (fatigue attentionnelle, irritabilité, instabilité de l'énergie). Certaines pistes explorées chez des personnes non carencées restent prometteuses (notamment les suppléments à large spectre, ou les apports en vitamine D), mais leurs effets démontrés demeurent modestes.
+Pour les micronutriments, et macronutriments (oméga-3, protéines), c'est avant tout **la correction d'une carence documentée** qui apporte un bénéfice mesurable sur des facteurs aggravants secondaires du TDAH (fatigue attentionnelle, irritabilité, instabilité de l'énergie).
+
+Certaines pistes explorées chez des personnes TDAH non carencées restent prometteuses (notamment les suppléments à large spectre, ou les apports en vitamine D), mais leurs effets démontrés demeurent modestes.
 
 La stabilité glycémique constitue un autre levier intéressant indépendant de toute carence, car il limite les fluctuations d'énergie et d'attention chez toute personne, carencée ou non.
 
