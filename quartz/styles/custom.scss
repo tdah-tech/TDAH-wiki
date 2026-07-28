@@ -46,4 +46,21 @@
     padding-left: 0 !important;
     border-left: none !important;
   }
+  // La vraie arborescence (ul.explorer-ul) est désormais l'enfant direct de ce
+  // .folder-outer au lieu d'être enfant direct de .explorer-content : elle hérite
+  // donc à tort de l'indentation prévue pour les sous-dossiers (margin/padding/
+  // border), ce qui élargit le contenu au-delà de la colonne et provoque un
+  // scroll latéral disgracieux. On neutralise cette indentation ici.
+  .mobile-menu-explorer > .folder-outer > ul {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    border-left: none !important;
+  }
+}
+
+// Sécurité : le panneau Explorer (mobile comme desktop) ne doit jamais déborder
+// horizontalement — seul le défilement vertical est voulu.
+.explorer,
+.explorer-content {
+  overflow-x: hidden;
 }
