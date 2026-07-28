@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-28T16:22:53.259+02:00
+modified: 2026-07-28T16:24:41.380+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vitamine-d"
-  - "#micronutriments"
-  - "#alimentation"
-  - "#micro-aliments"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - vitamine-d
+  - micronutriments
+  - alimentation
+  - micro-aliments
+  - méthylphénidate
 ---
 
 La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. De nombreuses études  et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
@@ -36,6 +36,7 @@ Au quotidien, on peut surtout soutenir ses apports par l’alimentation et l’e
 
 - [[L'alimentation et le TDAH]]
 - [[Zinc]]
+- [[Vitamine C]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[TDAH et déséquilibres alimentaires]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
