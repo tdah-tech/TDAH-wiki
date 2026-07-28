@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T16:24:40.009+02:00
+modified: 2026-07-28T16:50:40.388+02:00
 tags:
-  - micronote
-  - tdah
-  - fer
-  - ferritine
-  - dopamine
-  - micronutriments
-  - methylphenidate
+  - "#micronote"
+  - "#tdah"
+  - "#fer"
+  - "#ferritine"
+  - "#dopamine"
+  - "#micronutriments"
+  - "#methylphenidate"
 ---
 
 Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) constitue l’un des axes de recherche les plus documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
@@ -35,6 +35,8 @@ En résumé, la science établit aujourd’hui une association robuste, bien que
 - [[L'alimentation et le TDAH]]
 - [[Zinc]]
 - [[Le magnésium]]
+- [[Vitamine D et TDAH]]
 - [[Vitamine C]]
+- [[Vitamines B]]
 - [[Dopamine et TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]

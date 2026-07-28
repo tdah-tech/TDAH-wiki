@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T16:26:20.048+02:00
+modified: 2026-07-28T16:50:43.977+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,6 +22,7 @@ En résumé, le magnésium semble surtout utile pour corriger une carence réell
 - [[Vitamine D et TDAH]]
 - [[Zinc]]
 - [[Vitamine C]]
+- [[Vitamines B]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[Les omega-3]]
 - [[Les troubles du sommeil chez les TADH]]
