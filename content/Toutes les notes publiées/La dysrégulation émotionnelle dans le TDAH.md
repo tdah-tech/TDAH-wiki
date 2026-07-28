@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.118+02:00
+modified: 2026-07-28T18:43:57.734+02:00
 tags:
-  - micronote
-  - tdah
-  - top
-  - impulsivite
-  - hyperactivite
+  - "#micronote"
+  - "#tdah"
+  - "#top"
+  - "#impulsivite"
+  - "#hyperactivite"
 ---
 
 Le TDAH est officiellement défini par trois groupes de symptômes : le déficit attentionnel, l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] motrice et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]].
@@ -46,6 +46,7 @@ Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH san
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[TDAH et autisme]]
 - [[Profil sévère combiné avec dysrégulation émotionnelle]]
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Neurosciences du TDAH]]

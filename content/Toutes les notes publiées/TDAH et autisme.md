@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T18:36:09.033+02:00
+modified: 2026-07-28T18:43:38.968+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ L’autisme,  se définit par des **particularités durables dans la communicati
 
 Contrairement à une idée encore répandue, l’autisme n’est pas un trouble de l’intelligence ; il existe sur un continuum très large de profils cognitifs (de faible QI à très haut par exemple).
 
-Les points de rencontre entre TDAH et autisme sont nombreux et constituent une source fréquente de confusion diagnostique. Les deux profils peuvent s’accompagner de difficultés de régulation émotionnelle, de particularités attentionnelles (distractibilité d’un côté, [[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] de l’autre), de stéréotypies ou de mouvements répétitifs, et de défis dans les interactions sociales. Dans le TDAH, les difficultés sociales découlent souvent de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], de l’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]]. Dans l’autisme, elles renvoient davantage à une différence qualitative dans la compréhension et l’usage des codes sociaux implicites. De même, l’agitation observée dans certains profils autistiques peut être confondue avec l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] du TDAH, alors que ses causes e sont différentes.
+Les points de rencontre entre TDAH et autisme sont nombreux et constituent une source fréquente de confusion diagnostique. Les deux profils peuvent s’accompagner de difficultés de [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]], de particularités attentionnelles (distractibilité d’un côté, [[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] de l’autre), de stéréotypies ou de mouvements répétitifs, et de défis dans les interactions sociales. Dans le TDAH, les difficultés sociales découlent souvent de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], de l’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]]. Dans l’autisme, elles renvoient davantage à une différence qualitative dans la compréhension et l’usage des codes sociaux implicites. De même, l’agitation observée dans certains profils autistiques peut être confondue avec l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] du TDAH, alors que ses causes e sont différentes.
 
 Malgré ces chevauchements, des différences structurantes existent. Le TDAH s’organise autour de la régulation de l’attention, de l’inhibition et de l’effort cognitif. L’autisme s’organise autour de la communication sociale et de la rigidité des intérêts et des routines. Une personne autiste peut maintenir une attention extrêmement soutenue et durable sur un centre d’intérêt spécifique, tandis qu’une personne avec TDAH a souvent du mal à rester concentrée sur une tâche peu stimulante, même si elle peut hyperfocaliser de façon intense mais plus volatile. Le rapport à la nouveauté et à la routine est également distinct : le besoin de prévisibilité est central dans l’autisme, alors que le TDAH s’accompagne fréquemment d’une recherche de stimulation et d’une difficulté à supporter la monotonie.
 
@@ -35,7 +35,7 @@ Depuis le DSM-5, il est officiellement possible de poser les deux diagnostics si
 
 Le diagnostic différentiel exige alors une évaluation approfondie, tenant compte de l’histoire développementale, de l’observation dans plusieurs contextes et, souvent, d’un regard pluridisciplinaire. Les recommandations françaises de la Haute Autorité de Santé insistent sur la nécessité de rechercher systématiquement les [[Les commorbidités du TDAH|comorbidités]] et de ne pas attribuer trop vite l’ensemble des difficultés à un seul diagnostic.
 
-Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour le profil double. Les interventions s’appuient sur une compréhension fine de chaque dimension : [[L'importance de la psychoéducation|psychoéducation]], adaptations environnementales, soutien aux fonctions exécutives, approches développementales et comportementales pour l’autisme, et, lorsque cela est indiqué et bien toléré, [[Diagnostic et mise en place du traitement|traitements pharmacologiques]] ciblant les symptômes du TDAH. L’essentiel demeure une approche individualisée, attentive à la fois aux vulnérabilités et aux forces cognitives qui peuvent émerger de cette combinaison.
+Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour le profil double. Les interventions s’appuient sur une compréhension fine de chaque dimension : [[L'importance de la psychoéducation|psychoéducation]], adaptations environnementales, soutien aux [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]], approches développementales et comportementales pour l’autisme, et, lorsque cela est indiqué et bien toléré, [[Diagnostic et mise en place du traitement|traitements pharmacologiques]] ciblant les symptômes du TDAH. L’essentiel demeure une approche individualisée, attentive à la fois aux vulnérabilités et aux forces cognitives qui peuvent émerger de cette combinaison.
 
 ## Pour aller plus loin :
 
@@ -45,5 +45,7 @@ Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour l
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[Qu'est-ce qu'un déficit d'attention chez les TDA ?]]
 - [[Qu'est-ce-que l'hyperactivité chez le TDAH ?]]
+- [[La dysrégulation émotionnelle dans le TDAH]]
+- [[Fonctions exécutives touchées par le TDAH]]
 - [[L'importance de la psychoéducation]]
 - [[Diagnostic et mise en place du traitement]]
