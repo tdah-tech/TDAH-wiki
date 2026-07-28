@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.135+02:00
+modified: 2026-07-28T11:45:27.737+02:00
 tags:
-  - micronote
-  - tdah
-  - pomodoro
-  - gestion-du-temps
-  - cecite-temporelle
-  - minuteur
+  - "#micronote"
+  - "#tdah"
+  - "#pomodoro"
+  - "#gestion-du-temps"
+  - "#cecite-temporelle"
+  - "#minuteur"
 ---
 
 Le système Pomodoro, mis au point à la fin des années 1980 par Francesco Cirillo, repose sur une idée simple et contre-intuitive : découper le travail en intervalles courts et protégés, séparés par des pauses obligatoires. Dans sa version classique, on se concentre pendant vingt-cinq minutes sur une seule tâche, puis on s’accorde cinq minutes de pause. Après quatre de ces cycles, on prend une pause plus longue, de quinze à trente minutes. L’outil central de cette méthode est le minuteur, qu’il soit mécanique, numérique ou intégré à une application. Son rôle n’est pas seulement de mesurer le temps ; il externalise la gestion temporelle et crée une structure tangible là où le cerveau peinerait autrement à en construire une.
@@ -25,3 +25,4 @@ Il est toutefois rare que la version stricte de vingt-cinq minutes convienne à 
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Surcharge mentale et TDAH]]
 - [[La technique du Flowtime]]
+- [[Matérialiser le temps qui passe]]

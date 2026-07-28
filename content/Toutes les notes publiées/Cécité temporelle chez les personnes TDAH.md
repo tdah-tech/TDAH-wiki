@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-28T10:30:47.730+02:00
+modified: 2026-07-28T11:45:29.225+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,6 +28,7 @@ En français, le terme le plus utilisé et le plus largement accepté pour dési
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Le mode attente]]
+- [[Matérialiser le temps qui passe]]
 - [[Les fonctions éxécutives - définition]]
 - [[Avoir un coup et une heure d’avance aident les TDAH]]
 - [[Mémoire de travail et TDAH]]
