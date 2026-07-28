@@ -7,3 +7,19 @@
 .graph > .graph-outer {
   height: 500px;
 }
+
+// Fix affichage mobile : sur mobile, .sidebar.left passe en ligne horizontale
+// compacte (logo + recherche + dark mode + Explorer). Explorer gère ça très bien
+// (icône burger + tiroir plein écran), mais MainNav (menu "Thématiques", 8 liens)
+// n'a aucun repli mobile et s'affichait en ligne dans cette barre -> mise en page cassée.
+// Le contenu de MainNav est déjà présent sur la home ("Grandes thématiques") et
+// accessible via Explorer/recherche, donc on le masque simplement sur mobile.
+// Le logo est aussi réduit pour laisser de la place aux icônes.
+@media all and ($mobile) {
+  .main-nav {
+    display: none;
+  }
+  .site-logo {
+    height: 2.2rem;
+  }
+}
