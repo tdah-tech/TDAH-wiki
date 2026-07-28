@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-28T09:54:31.764+02:00
+modified: 2026-07-28T18:36:11.480+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -87,6 +87,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Commorbidités du TDAH
 
 - [[Les commorbidités du TDAH]]
+- [[TDAH et autisme]]
 - [[Troubles anxieux et dépression]]
 - [[Association entre TDAH et délinquance]]
 - [[Association entre TDAH et conduites addictives]]

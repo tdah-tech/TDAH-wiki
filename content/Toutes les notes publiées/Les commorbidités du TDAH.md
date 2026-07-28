@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-28T09:44:48.701+02:00
+modified: 2026-07-28T18:36:14.472+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -44,13 +44,14 @@ Du côté de l'humeur, les chiffres varient selon les études mais restent signi
 
 #### Les autres troubles neurodéveloppementaux
 
-**Le chevauchement avec le trouble du spectre de l'autisme est important et longtemps sous-estimé pour une raison historique** : avant le DSM-5, on ne pouvait pas poser les deux diagnostics chez la même personne, ce qui a faussé les statistiques pendant des années. On estime aujourd'hui qu'entre 40 et 42 % des enfants autistes présentent aussi les symptômes du TDAH. Chez ces enfants, un chevauchement complexifie l'évaluation : les difficultés attentionnelles peuvent masquer les particularités autistiques, ou inversement.
+**Le chevauchement avec le [[TDAH et autisme|trouble du spectre de l’autisme]] est important et longtemps sous-estimé pour une raison historique** : avant le DSM-5, on ne pouvait pas poser les deux diagnostics chez la même personne, ce qui a faussé les statistiques pendant des années. On estime aujourd'hui qu'entre 40 et 42 % des enfants autistes présentent aussi les symptômes du TDAH. Chez ces enfants, un chevauchement complexifie l'évaluation : les difficultés attentionnelles peuvent masquer les particularités autistiques, ou inversement.
 
 Les troubles spécifiques des apprentissages, **dyslexie, dysorthographie, dyscalculie, coexistent aussi fréquemment, tout comme le trouble du développement de la coordination, qu'on appelle parfois dyspraxie**. Ce sont des troubles distincts de l'inattention, dans le sens où ils ne se résolvent pas simplement en traitant le TDAH : un enfant peut rester dyslexique même quand son attention s'améliore.
 
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[TDAH et autisme]]
 - [[Troubles anxieux et dépression]]
 - [[Association entre TDAH et délinquance]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
