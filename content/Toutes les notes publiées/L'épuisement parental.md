@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.117+02:00
+modified: 2026-07-28T14:03:40.727+02:00
 tags:
-  - micronote
-  - tdah
-  - epuisement-parental
-  - stress-parental
-  - top
-  - trouble-opposition
+  - "#micronote"
+  - "#tdah"
+  - "#epuisement-parental"
+  - "#stress-parental"
+  - "#top"
+  - "#trouble-opposition"
 ---
 
 L'épuisement parental se définit par quatre dimensions mesurables :
@@ -33,6 +33,7 @@ Cette donnée  vise à faire comprendre qu'un épuisement parental sévère n'es
 ## Pour aller plus loin
 
 - [[Parentalité et TDAH]]
+- [[La charge mentale des parents d'enfants TDAH]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
 - [[Boite à outils Trouble oppositionnel]]

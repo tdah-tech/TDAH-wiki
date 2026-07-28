@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T19:31:49.504+02:00
+modified: 2026-07-28T15:41:17.603+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -40,6 +40,8 @@ tags:
 ## L'épuisement parental
 
 - [[L'épuisement parental]]
+- [[La charge mentale des parents d'enfants TDAH]]
+- [[Stratégies pour diminuer la charge mentale]]
 
 ## Vie de couple et transmission intergénérationnelle
 
