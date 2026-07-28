@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T19:46:08.449+02:00
+modified: 2026-07-28T16:11:11.471+02:00
 tags:
-  - micronote
-  - tdah
-  - alimentation
-  - nutrition
-  - micronutriments
-  - index
-  - impulsivite
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#alimentation"
+  - "#nutrition"
+  - "#micronutriments"
+  - "#index"
+  - "#impulsivite"
+  - "#hyperfocus"
 ---
 
 L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation entre les deux est réelle et fonctionne dans les deux sens. D'un côté, le TDAH lui-même ([[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], désorganisation des repas, sélectivité sensorielle, suppression d'appétit sous stimulants, [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]) favorise des apports alimentaires déséquilibrés. De l'autre, certains leviers alimentaires — stabilité glycémique, statut en micronutriments, qualité des lipides — peuvent atténuer des facteurs aggravants secondaires (fatigue attentionnelle, irritabilité, instabilité de l'énergie), sans jamais se substituer aux traitements validés ni au suivi professionnel. Cette note rassemble toutes les fiches du dossier qui approfondissent un aspect de cette relation.
@@ -33,7 +33,7 @@ L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation ent
 - [[Zinc]]
 - [[Le magnésium]]
 - [[Vitamine D et TDAH]]
-- [[Les aliments riches en vitamines]]
+- [[Les aliments riches en dopamine ?]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 
 ## Comportement alimentaire et TDAH
