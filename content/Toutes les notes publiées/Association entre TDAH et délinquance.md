@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T09:54:32.908+02:00
+modified: 2026-07-28T11:17:22.014+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#comorbidite"
 ---
 
-Le trouble du déficit de l’attention avec ou sans hyperactivité (TDAH) n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisocials ou criminels au cours de la vie.
+Le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisocials ou criminels au cours de la vie.
 
 Les méta-analyses longitudinales, fondées sur des données officielles d’arrestations, de condamnations et d’incarcérations, montrent de manière cohérente que les individus ayant reçu un diagnostic de TDAH dans l’enfance **présentent un risque multiplié par deux à trois d’être arrêtés, condamnés ou incarcérés à l’adolescence et à l’âge adulte par rapport à la population générale**. Ce sur-risque s’observe aussi bien pour les infractions violentes que non violentes, avec un âge de début plus précoce et un taux de récidive plus élevé. **Dans les populations carcérales, la prévalence du TDAH atteint fréquemment 20 à 40 %, soit plusieurs fois le taux observé dans la population adulte générale (environ 2 à 5 %)**.
 

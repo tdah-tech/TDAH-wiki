@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T09:54:26.037+02:00
+modified: 2026-07-28T11:17:20.168+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#methylphenidate"
 ---
 
-La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans hyperactivité (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité)**.
+La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité)**.
 
 Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque multiplié par deux à trois de développer un trouble addictif au cours de leur vie, tandis que parmi les patients suivis pour une addiction, environ 20 à 25 % répondent aux critères diagnostiques du TDAH, proportion qui s’élève jusqu’à 35-40 % dans certaines addictions comportementales comme le trouble du jeu vidéo**.
 

@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T19:46:02.998+02:00
+modified: 2026-07-28T11:17:34.400+02:00
 tags:
-  - micronote
-  - tdah
-  - fer
-  - ferritine
-  - dopamine
-  - micronutriments
-  - methylphenidate
+  - "#micronote"
+  - "#tdah"
+  - "#fer"
+  - "#ferritine"
+  - "#dopamine"
+  - "#micronutriments"
+  - "#methylphenidate"
 ---
 
-Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans hyperactivité (TDAH) constitue l’un des axes de recherche les plus documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
+Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) constitue l’un des axes de recherche les plus documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
 
 Depuis les travaux pionniers de Konofal et collaborateurs en 2004, qui montraient déjà des concentrations moyennes de ferritine sérique deux fois plus basses chez des enfants présentant un TDAH (23 ng/mL en moyenne) que chez des témoins appariés (44 ng/mL), avec une proportion de valeurs inférieures à 30 ng/mL atteignant 84 % dans le groupe clinique, de nombreuses études observationnelles, méta-analyses et essais d’intervention ont précisé la nature et les limites de cette association.
 
@@ -24,7 +24,7 @@ Concernant la supplémentation, les données d’essais contrôlés randomisés 
 
 Dans la pratique, ces données justifient d’intégrer le dosage de la ferritine sérique (idéalement accompagné d’un hémogramme pour écarter une anémie) dans le bilan initial ou de suivi des enfants et adolescents présentant un TDAH, particulièrement lorsque des troubles du sommeil, un syndrome des jambes sans repos, une agitation nocturne ou une réponse partielle aux traitements pharmacologiques habituels sont présents.
 
-**Un seuil inférieur à 30 ng/mL est fréquemment retenu dans la littérature spécialisée comme cliniquement pertinent dans ce contexte, même si les normes biologiques générales varient selon l’âge et le sexe**. La correction d’une carence s’inscrit alors comme une mesure d’appoint, jamais comme un traitement de substitution des approches validées (psychoéducation, thérapies comportementales, médicaments stimulants ou non stimulants lorsque indiqués).
+**Un seuil inférieur à 30 ng/mL est fréquemment retenu dans la littérature spécialisée comme cliniquement pertinent dans ce contexte, même si les normes biologiques générales varient selon l’âge et le sexe**. La correction d’une carence s’inscrit alors comme une mesure d’appoint, jamais comme un traitement de substitution des approches validées ([[L'importance de la psychoéducation|psychoéducation]], thérapies comportementales, médicaments stimulants ou non stimulants lorsque indiqués).
 
 Des données épidémiologiques suggèrent en outre qu’une anémie maternelle précoce pendant la grossesse augmente modestement le risque ultérieur de TDAH chez l’enfant, ce qui ouvre la réflexion sur les périodes critiques du développement cérébral. Les recherches futures devront préciser le rôle respectif du fer systémique et du fer cérébral, identifier les sous-groupes les plus susceptibles de bénéficier d’une intervention nutritionnelle, et évaluer l’impact à long terme de la correction des carences sur la trajectoire développementale.
 

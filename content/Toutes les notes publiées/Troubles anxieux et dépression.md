@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T16:15:27.061+02:00
+modified: 2026-07-28T11:17:44.173+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#psychoeducation"
 ---
 
-Le trouble du déficit de l’attention avec ou sans hyperactivité (TDAH) ne se limite presque jamais à un ensemble isolé de symptômes attentionnels, d’impulsivité ou d’hyperactivité. Chez une proportion importante des personnes concernées, il s’accompagne notamment de comorbidités anxieuses et dépressives.
+Le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) ne se limite presque jamais à un ensemble isolé de symptômes attentionnels, d’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] ou d’hyperactivité. Chez une proportion importante des personnes concernées, il s’accompagne notamment de comorbidités anxieuses et dépressives.
 
 Sur le plan épidémiologique, les données de cohorte et les méta-analyses convergent pour indiquer qu’environ **40 à 50 % des enfants et adolescents présentant un TDAH répondent également aux critères d’un trouble anxieux, et que cette proportion reste élevée à l’âge adulte**.
 
@@ -22,7 +22,7 @@ Les mécanismes qui sous-tendent cette double vulnérabilité sont multiples. Su
 
 **[[La dysrégulation émotionnelle dans le TDAH|La dysrégulation émotionnelle]], considérée aujourd’hui comme une dimension centrale du TDAH, favorise l’apparition de réactions anxieuses disproportionnées face aux situations d’incertitude ou de performance, ainsi qu’un sentiment chronique d’échec qui alimente les cognitions dépressives.**
 
-Les déficits des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — planification, inhibition, mémoire de travail — génèrent par ailleurs **des expériences répétées de frustration, de rejet social ou d’insuccès académique et professionnel. Ces expériences, lorsqu’elles s’accumulent sans être correctement comprises ni accompagnées, installent progressivement un schéma de pensées négatives sur soi-même et sur l’avenir, terrain fertile pour la dépression**.
+Les déficits des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — planification, inhibition, [[Mémoire de travail et TDAH|mémoire de travail]] — génèrent par ailleurs **des expériences répétées de frustration, de rejet social ou d’insuccès académique et professionnel. Ces expériences, lorsqu’elles s’accumulent sans être correctement comprises ni accompagnées, installent progressivement un schéma de pensées négatives sur soi-même et sur l’avenir, terrain fertile pour la dépression**.
 
 Cliniquement, la coexistence d’un TDAH avec de l’anxiété ou de la dépression complique considérablement le diagnostic différentiel.  Lorsque ces comorbidités ne sont pas identifiées, le traitement du seul TDAH par des psychostimulants s’avère souvent insuffisant, voire mal toléré, et le risque de chronification, de conduites à risque ou de désinsertion sociale augmente nettement.
 

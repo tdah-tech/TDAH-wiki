@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-27T11:53:05.144+02:00
+modified: 2026-07-28T11:17:38.033+02:00
 tags:
-  - micronote
-  - tdah
-  - metiers
-  - carriere
-  - entrepreneuriat
-  - hyperfocus
-  - creativite
-  - pensee-divergente
+  - "#micronote"
+  - "#tdah"
+  - "#metiers"
+  - "#carriere"
+  - "#entrepreneuriat"
+  - "#hyperfocus"
+  - "#creativite"
+  - "#pensee-divergente"
 ---
 
 La études ne désignent pas une liste de métiers « idéaux » pour les personnes présentant un TDAH, car le trouble se manifeste de façon très hétérogène et interagit fortement avec l’environnement.
@@ -23,7 +23,7 @@ La revue systématique publiée en 2024 par Adèle Hotte-Meunier et ses collègu
 
 Dans la section consacrée aux forces, la revue montre que de nombreux adultes avec TDAH ne se contentent pas de subir les difficultés liées au trouble : **ils les intègrent progressivement à leur identité et les transforment en ressources**. Plusieurs études qualitatives rapportent que **ces personnes développent une détermination particulière. Elles apprennent de leurs erreurs répétées et persistent dans des tâches exigeantes, ce qui crée un cercle vertueux de réussite**. Cette détermination s’accompagne souvent d’une **résilience notable**. Après une perte d’emploi ou un échec professionnel, beaucoup d’entre elles retrouvent le chemin du marché du travail avec **une ténacité** qui surprend les observateurs.
 
-La capacité à gérer le multitâche sous pression apparaît également comme une force fréquemment citée. Ce qui, dans un environnement trop rigide, se manifeste comme de l’inattention ou de l’hyperactivité devient, dans un contexte stimulant, une aptitude à passer rapidement d’une tâche à l’autre et à maintenir un niveau d’engagement élevé lorsque plusieurs demandes concurrentes se présentent.
+La capacité à gérer le multitâche sous pression apparaît également comme une force fréquemment citée. Ce qui, dans un environnement trop rigide, se manifeste comme de l’inattention ou de l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] devient, dans un contexte stimulant, une aptitude à passer rapidement d’une tâche à l’autre et à maintenir un niveau d’engagement élevé lorsque plusieurs demandes concurrentes se présentent.
 
 La créativité est un autre atout largement documenté. Les participants aux études examinées décrivent **une propension à proposer des solutions non conventionnelles, à relier des connaissances issues de domaines éloignés et à générer des idées originales, particulièrement lorsque le cadre de travail valorise la nouveauté et l’innovation**.
 

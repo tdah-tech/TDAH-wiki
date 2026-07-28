@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T19:31:43.774+02:00
+modified: 2026-07-28T11:17:40.235+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#cycle-coercitif"
 ---
 
-**Le time-out**, souvent présenté comme une technique de gestion des comportements, consiste à isoler l’enfant dans un endroit calme pendant une durée déterminée lorsqu’il manifeste une conduite jugée inacceptable. Cette approche, héritée de modèles behavioristes classiques, repose sur le principe d’un retrait de stimulation et d’attention parentale. Elle est fréquemment perçue comme [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?|punitif]], car elle sépare l’enfant du lien relationnel au moment précis où il traverse une tempête émotionnelle. **Chez l’enfant présentant un TDAH, dont le système nerveux est déjà caractérisé par une [[La dysrégulation émotionnelle dans le TDAH|hypersensibilité aux émotions]], une difficulté à réguler l’impulsivité et une forte demande de co-régulation, cette isolation peut amplifier le sentiment d’abandon, accroître l’agitation interne et renforcer les circuits de stress plutôt que d’enseigner de véritables compétences d’autorégulation**.
+**Le time-out**, souvent présenté comme une technique de gestion des comportements, consiste à isoler l’enfant dans un endroit calme pendant une durée déterminée lorsqu’il manifeste une conduite jugée inacceptable. Cette approche, héritée de modèles behavioristes classiques, repose sur le principe d’un retrait de stimulation et d’attention parentale. Elle est fréquemment perçue comme [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?|punitif]], car elle sépare l’enfant du lien relationnel au moment précis où il traverse une tempête émotionnelle. **Chez l’enfant présentant un TDAH, dont le système nerveux est déjà caractérisé par une [[La dysrégulation émotionnelle dans le TDAH|hypersensibilité aux émotions]], une difficulté à réguler l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et une forte demande de co-régulation, cette isolation peut amplifier le sentiment d’abandon, accroître l’agitation interne et renforcer les circuits de stress plutôt que d’enseigner de véritables compétences d’autorégulation**.
 
 À l’inverse, **le time-in** propose une posture radicalement différente. Il s’agit d’inviter l’enfant à rester en présence de l’adulte, dans un espace de sécurité émotionnelle, afin de l’accompagner dans le retour au calme. Cette présence ne se limite pas à une simple proximité physique : **elle engage activement le corps et le système nerveux**. Une activité motrice brève – quelques mouvements rythmés, un étirement, une marche lente, un exercice ou un jeu de coordination simple, de la respiration – permet de canaliser l’énergie excédentaire caractéristique du TDAH et de favoriser la libération de tension. Le time-in ne se réduit pas à cette dimension corporelle. **Il inclut également un accueil verbal non jugeant des émotions, une validation de l’expérience intérieure de l’enfant, et une aide progressive à la mise en mots de ce qui s’est passé**.\*\* L’adulte devient ainsi un co-régulateur : il offre sa propre stabilité physiologique et relationnelle pour que le système nerveux de l’enfant puisse progressivement se synchroniser et retrouver un état de disponibilité.
 

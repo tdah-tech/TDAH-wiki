@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-27T11:53:05.131+02:00
+modified: 2026-07-28T11:17:36.231+02:00
 tags:
-  - micronote
-  - tdah
-  - menage
-  - rangement
-  - fonctions-executives
-  - surcharge-mentale
-  - organisation
+  - "#micronote"
+  - "#tdah"
+  - "#menage"
+  - "#rangement"
+  - "#fonctions-executives"
+  - "#surcharge-mentale"
+  - "#organisation"
 ---
 
-Le ménage et le rangement constituent un domaine particulièrement révélateur des difficultés rencontrées dans le trouble du déficit de l’attention avec ou sans hyperactivité. Ce qui apparaît comme une série de gestes simples et répétitifs pour la majorité des personnes se transforme, pour celles qui vivent avec un TDAH, en un défi cognitif et émotionnel complexe.
+Le ménage et le rangement constituent un domaine particulièrement révélateur des difficultés rencontrées dans le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. Ce qui apparaît comme une série de gestes simples et répétitifs pour la majorité des personnes se transforme, pour celles qui vivent avec un TDAH, en un défi cognitif et émotionnel complexe.
 
 Une tâche ménagère ordinaire exige précisément ce que le cerveau concerné peine à mobiliser de façon fluide en raison d'une difficulté chez les personnes TDAH à mobiliser les [[Les fonctions éxécutives - définition|fonctions exécutives]]. Il faut décider par où commencer, décomposer l’action en étapes successives, maintenir l’intention malgré les stimuli parasites, estimer la durée nécessaire et résister à l’impulsion de passer à une activité plus stimulante. Lorsque la [[Mémoire de travail et TDAH|mémoire de travail]] est fragilisée, l’intention se dissout en cours de route. Lorsque la [[Cécité temporelle chez les personnes TDAH|perception du temps]] est altérée, une tâche estimée brève s’étire ou est reportée indéfiniment. Lorsque le [[Dopamine et TDAH|système de récompense]] répond faiblement aux activités peu gratifiantes, l’initiation elle-même devient coûteuse.
 

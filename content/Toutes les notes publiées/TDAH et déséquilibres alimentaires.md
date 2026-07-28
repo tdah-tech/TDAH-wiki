@@ -1,23 +1,23 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.162+02:00
+modified: 2026-07-28T10:52:14.891+02:00
 tags:
-  - micronote
-  - tdah
-  - alimentation
-  - déséquilibre-alimentaire
-  - hyperfocus
-  - magnesium
-  - omega-3
-  - méthylphénidate
+  - "#micronote"
+  - "#tdah"
+  - "#alimentation"
+  - "#déséquilibre-alimentaire"
+  - "#hyperfocus"
+  - "#magnesium"
+  - "#omega-3"
+  - "#méthylphénidate"
 ---
 
 Il faut savoir que plusieurs mécanismes propres au fonctionnement du cerveau TDAH favorisent des apports alimentaires déséquilibrés.
 
 **[[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]]** se traduit souvent par une recherche immédiate de récompense alimentaire, ce qui oriente vers des aliments ultra-transformés riches en [[Éviter la variation brutale de la glycémie|sucres rapides]] et pauvres en micronutriments essentiels.
 
-**La sélectivité alimentaire**, fréquemment liée à des aversions sensorielles (textures, odeurs, goûts ou températures mal tolérées) ou à une forme de néophobie, restreint chre certaine personnes considérablement le répertoire alimentaire. Ces particularités sensorielles, bien documentées dans le TDAH et parfois proches des profils observés dans le trouble de l’évitement conduisent à une consommation répétée des mêmes aliments familiers, au détriment de sources variées de fer, de [[Zinc|zinc]], de [[Le magnésium|magnésium]] ou d’acides gras [[Les omega-3|oméga-3]].
+**La sélectivité alimentaire**, fréquemment liée à des aversions sensorielles (textures, odeurs, goûts ou températures mal tolérées) ou à une forme de néophobie, restreint chez certaine personnes considérablement le répertoire alimentaire. Ces particularités sensorielles, bien documentées dans le TDAH et parfois proches des profils observés dans le trouble de l’évitement conduisent à une consommation répétée des mêmes aliments familiers, au détriment de sources variées de fer, de [[Zinc|zinc]], de [[Le magnésium|magnésium]] ou d’acides gras [[Les omega-3|oméga-3]].
 
 La **désorganisation des repas**, conséquence directe des [[Les fonctions éxécutives - définition|difficultés exécutives]] (planification, initiation, maintien de l’attention sur une tâche peu stimulante), entraîne des prises alimentaires irrégulières, des sauts de repas ou un grignotage peu structuré.
 
