@@ -1,0 +1,202 @@
+diff --git a/node_modules/@quartz-community/explorer/dist/components/index.js b/node_modules/@quartz-community/explorer/dist/components/index.js
+index 18d4576..1fd0996 100644
+--- a/node_modules/@quartz-community/explorer/dist/components/index.js
++++ b/node_modules/@quartz-community/explorer/dist/components/index.js
+@@ -409,11 +409,71 @@ var numExplorers = 0;
+ function concatenateResources(...resources) {
+   return resources.filter((r2) => !!r2).join("\n");
+ }
++// --- Patch TDAH Wiki : menu mobile combiné "Thématiques" + "Explorer" dans le même tiroir ---
++function mmEndsWith(s2, suffix) {
++  return s2 === suffix || s2.endsWith("/" + suffix);
++}
++function mmTrimSuffix(s2, suffix) {
++  return mmEndsWith(s2, suffix) ? s2.slice(0, -suffix.length) : s2;
++}
++function mmStripSlashes(s2, onlyStripPrefix) {
++  if (s2.startsWith("/")) s2 = s2.substring(1);
++  if (!onlyStripPrefix && s2.endsWith("/")) s2 = s2.slice(0, -1);
++  return s2;
++}
++function mmSimplifySlug(fp) {
++  const res = mmStripSlashes(mmTrimSuffix(fp, "index"), true);
++  return res.length === 0 ? "/" : res;
++}
++function mmJoinSegments(...args) {
++  if (args.length === 0) return "";
++  let joined = args.filter((s2) => s2 !== "" && s2 !== "/").map((s2) => mmStripSlashes(s2)).join("/");
++  const first = args[0];
++  const last = args[args.length - 1];
++  if (first?.startsWith("/")) joined = "/" + joined;
++  if (last?.endsWith("/")) joined = joined + "/";
++  return joined;
++}
++function mmPathToRoot(slug2) {
++  let rootPath = slug2.split("/").filter((x2) => x2 !== "").slice(0, -1).map(() => "..").join("/");
++  return rootPath.length === 0 ? "." : rootPath;
++}
++function mmResolveRelative(current, target) {
++  return mmJoinSegments(mmPathToRoot(current ?? ""), mmSimplifySlug(target));
++}
++var mmThematiquesLinks = [
++  { slug: "toutes-les-notes-publi\xE9es/qu'est-ce-que-le-tdah-", title: "Qu'est-ce-que le TDAH ?" },
++  { slug: "toutes-les-notes-publi\xE9es/neurosciences-du-tdah", title: "Neurosciences du TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/l'alimentation-et-le-tdah", title: "L'alimentation et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/le-sommeil-et-le-tdah", title: "Le sommeil et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/parentalit\xE9-et-tdah", title: "Parentalit\xE9 et TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/la-scolarit\xE9-et-le-tdah", title: "La scolarit\xE9 et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/vivre-avec-un-tdah", title: "Vivre avec un TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/bonnes-pratiques,-outils,-astuces-et-m\xE9thodes-du-quotidien", title: "Les outils - astuces - m\xE9thodes pour les TDAH" }
++];
++function mmFolderIcon() {
++  return /* @__PURE__ */ u2(
++    "svg",
++    {
++      xmlns: "http://www.w3.org/2000/svg",
++      width: "12",
++      height: "12",
++      viewBox: "5 8 14 8",
++      fill: "none",
++      stroke: "currentColor",
++      "stroke-width": "2",
++      "stroke-linecap": "round",
++      "stroke-linejoin": "round",
++      class: "folder-icon nav-folder-collapse-indicator collapse-icon",
++      children: /* @__PURE__ */ u2("polyline", { points: "6 9 12 15 18 9" })
++    }
++  );
++}
+ var Explorer_default = ((userOpts) => {
+   const opts = { ...defaultOptions, ...userOpts };
+   const { OverflowList: OverflowList2, overflowListAfterDOMLoaded } = OverflowList_default();
+   const ExplorerComponent = (props) => {
+-    const { cfg } = props;
++    const { cfg, fileData } = props;
+     const displayClass = props.displayClass;
+     const id = `explorer-${numExplorers++}`;
+     const locale = cfg?.locale ?? "en-US";
+@@ -488,7 +548,22 @@ var Explorer_default = ((userOpts) => {
+               ]
+             }
+           ),
+-          /* @__PURE__ */ u2("div", { id, class: "explorer-content", "aria-expanded": false, role: "group", children: /* @__PURE__ */ u2(OverflowList2, { class: "explorer-ul" }) }),
++          /* @__PURE__ */ u2("div", { id, class: "explorer-content", "aria-expanded": false, role: "group", children: /* @__PURE__ */ u2("ul", { class: "mobile-menu-root", children: [
++            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-thematiques", children: [
++              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-thematiques__", children: [
++                mmFolderIcon(),
++                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: "Th\xE9matiques" }) }) })
++              ] }),
++              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
++            ] }),
++            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-explorer", children: [
++              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-explorer__", children: [
++                mmFolderIcon(),
++                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: title }) }) })
++              ] }),
++              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2(OverflowList2, { class: "explorer-ul" }) })
++            ] })
++          ] }) }),
+           /* @__PURE__ */ u2("template", { id: "template-file", children: /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: "#", class: "nav-file-title tree-item-self" }) }) }),
+           /* @__PURE__ */ u2("template", { id: "template-folder", children: /* @__PURE__ */ u2("li", { children: [
+             /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", children: [
+diff --git a/node_modules/@quartz-community/explorer/dist/index.js b/node_modules/@quartz-community/explorer/dist/index.js
+index 18d4576..1fd0996 100644
+--- a/node_modules/@quartz-community/explorer/dist/index.js
++++ b/node_modules/@quartz-community/explorer/dist/index.js
+@@ -409,11 +409,71 @@ var numExplorers = 0;
+ function concatenateResources(...resources) {
+   return resources.filter((r2) => !!r2).join("\n");
+ }
++// --- Patch TDAH Wiki : menu mobile combiné "Thématiques" + "Explorer" dans le même tiroir ---
++function mmEndsWith(s2, suffix) {
++  return s2 === suffix || s2.endsWith("/" + suffix);
++}
++function mmTrimSuffix(s2, suffix) {
++  return mmEndsWith(s2, suffix) ? s2.slice(0, -suffix.length) : s2;
++}
++function mmStripSlashes(s2, onlyStripPrefix) {
++  if (s2.startsWith("/")) s2 = s2.substring(1);
++  if (!onlyStripPrefix && s2.endsWith("/")) s2 = s2.slice(0, -1);
++  return s2;
++}
++function mmSimplifySlug(fp) {
++  const res = mmStripSlashes(mmTrimSuffix(fp, "index"), true);
++  return res.length === 0 ? "/" : res;
++}
++function mmJoinSegments(...args) {
++  if (args.length === 0) return "";
++  let joined = args.filter((s2) => s2 !== "" && s2 !== "/").map((s2) => mmStripSlashes(s2)).join("/");
++  const first = args[0];
++  const last = args[args.length - 1];
++  if (first?.startsWith("/")) joined = "/" + joined;
++  if (last?.endsWith("/")) joined = joined + "/";
++  return joined;
++}
++function mmPathToRoot(slug2) {
++  let rootPath = slug2.split("/").filter((x2) => x2 !== "").slice(0, -1).map(() => "..").join("/");
++  return rootPath.length === 0 ? "." : rootPath;
++}
++function mmResolveRelative(current, target) {
++  return mmJoinSegments(mmPathToRoot(current ?? ""), mmSimplifySlug(target));
++}
++var mmThematiquesLinks = [
++  { slug: "toutes-les-notes-publi\xE9es/qu'est-ce-que-le-tdah-", title: "Qu'est-ce-que le TDAH ?" },
++  { slug: "toutes-les-notes-publi\xE9es/neurosciences-du-tdah", title: "Neurosciences du TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/l'alimentation-et-le-tdah", title: "L'alimentation et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/le-sommeil-et-le-tdah", title: "Le sommeil et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/parentalit\xE9-et-tdah", title: "Parentalit\xE9 et TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/la-scolarit\xE9-et-le-tdah", title: "La scolarit\xE9 et le TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/vivre-avec-un-tdah", title: "Vivre avec un TDAH" },
++  { slug: "toutes-les-notes-publi\xE9es/bonnes-pratiques,-outils,-astuces-et-m\xE9thodes-du-quotidien", title: "Les outils - astuces - m\xE9thodes pour les TDAH" }
++];
++function mmFolderIcon() {
++  return /* @__PURE__ */ u2(
++    "svg",
++    {
++      xmlns: "http://www.w3.org/2000/svg",
++      width: "12",
++      height: "12",
++      viewBox: "5 8 14 8",
++      fill: "none",
++      stroke: "currentColor",
++      "stroke-width": "2",
++      "stroke-linecap": "round",
++      "stroke-linejoin": "round",
++      class: "folder-icon nav-folder-collapse-indicator collapse-icon",
++      children: /* @__PURE__ */ u2("polyline", { points: "6 9 12 15 18 9" })
++    }
++  );
++}
+ var Explorer_default = ((userOpts) => {
+   const opts = { ...defaultOptions, ...userOpts };
+   const { OverflowList: OverflowList2, overflowListAfterDOMLoaded } = OverflowList_default();
+   const ExplorerComponent = (props) => {
+-    const { cfg } = props;
++    const { cfg, fileData } = props;
+     const displayClass = props.displayClass;
+     const id = `explorer-${numExplorers++}`;
+     const locale = cfg?.locale ?? "en-US";
+@@ -488,7 +548,22 @@ var Explorer_default = ((userOpts) => {
+               ]
+             }
+           ),
+-          /* @__PURE__ */ u2("div", { id, class: "explorer-content", "aria-expanded": false, role: "group", children: /* @__PURE__ */ u2(OverflowList2, { class: "explorer-ul" }) }),
++          /* @__PURE__ */ u2("div", { id, class: "explorer-content", "aria-expanded": false, role: "group", children: /* @__PURE__ */ u2("ul", { class: "mobile-menu-root", children: [
++            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-thematiques", children: [
++              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-thematiques__", children: [
++                mmFolderIcon(),
++                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: "Th\xE9matiques" }) }) })
++              ] }),
++              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2("ul", { class: "content tree-item-children", children: mmThematiquesLinks.map((link) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: mmResolveRelative(fileData?.slug, link.slug), class: "internal", children: link.title }) })) }) })
++            ] }),
++            /* @__PURE__ */ u2("li", { class: "mobile-menu-item mobile-menu-explorer", children: [
++              /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", "data-folderpath": "__mobile-menu-explorer__", children: [
++                mmFolderIcon(),
++                /* @__PURE__ */ u2("div", { children: /* @__PURE__ */ u2("button", { class: "folder-button", children: /* @__PURE__ */ u2("span", { class: "folder-title", children: title }) }) })
++              ] }),
++              /* @__PURE__ */ u2("div", { class: "folder-outer", children: /* @__PURE__ */ u2(OverflowList2, { class: "explorer-ul" }) })
++            ] })
++          ] }) }),
+           /* @__PURE__ */ u2("template", { id: "template-file", children: /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: "#", class: "nav-file-title tree-item-self" }) }) }),
+           /* @__PURE__ */ u2("template", { id: "template-folder", children: /* @__PURE__ */ u2("li", { children: [
+             /* @__PURE__ */ u2("div", { class: "folder-container nav-folder-title tree-item-self", children: [

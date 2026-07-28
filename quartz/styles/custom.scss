@@ -23,3 +23,27 @@
     height: 2.2rem;
   }
 }
+
+// [Menu mobile combiné] Le composant Explorer (patché, voir patches/) injecte deux
+// entrées "dossier" synthétiques dans son tiroir : "Thématiques" et "Explorer".
+// Elles réutilisent le système de pliage natif d'Explorer (icône + bordure + repli
+// via .folder-outer / .open), donc aucun JS supplémentaire n'est nécessaire — les deux
+// démarrent repliées, un tap sur l'une révèle son contenu (thèmes ou arborescence).
+// Sur desktop/tablette on neutralise cette enveloppe : "Thématiques" est déjà affiché
+// séparément (MainNav, toujours visible en colonne de gauche) et l'arborescence
+// Explorer doit rester visible directement, sans repli ni bouton supplémentaire.
+@media all and not ($mobile) {
+  .mobile-menu-thematiques {
+    display: none;
+  }
+  .mobile-menu-explorer > .folder-container {
+    display: none;
+  }
+  .mobile-menu-explorer > .folder-outer {
+    visibility: visible !important;
+    grid-template-rows: 1fr !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    border-left: none !important;
+  }
+}
