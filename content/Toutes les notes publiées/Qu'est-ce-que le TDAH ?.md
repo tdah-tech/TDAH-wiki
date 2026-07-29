@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T08:20:25.515+02:00
+modified: 2026-07-29T08:44:31.814+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -40,6 +40,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Origine et approche historique
 
 - [[Origine génétique du TDAH]]
+- [[Théorie évolutionniste du TDAH]]
 - [[Le TDAH un phénomène ancien]]
 
 ## Diagnostic et traitement pharmacologique

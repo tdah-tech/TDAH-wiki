@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.603+02:00
+modified: 2026-07-29T08:44:34.977+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,7 +21,7 @@ Un mécanisme génétique précis a été identifié comme composante de cette h
 
 Une étude de 1999 (UC Irvine, 2 320 individus dans 39 populations à travers le monde) a montré que les groupes ayant une longue histoire migratoire, installés aux confins du monde (Sibérie, Terre de Feu, Polynésie), présentaient une prédominance de cet allèle — porté par environ 20 % de la population générale.
 
-Un cadre évolutionniste est parfois avancé pour expliquer son maintien dans le patrimoine génétique humain malgré son coût dans une société sédentaire moderne : en période d'abondance, la mentalité sédentaire porte le groupe, mais en période de rareté ou de crise, ce sont les profils exploratoires qui trouvent de nouvelles terres et ressources.
+[[Théorie évolutionniste du TDAH|Un cadre évolutionniste]] est parfois avancé pour expliquer son maintien dans le patrimoine génétique humain malgré son coût dans une société sédentaire moderne : en période d'abondance, la mentalité sédentaire porte le groupe, mais en période de rareté ou de crise, ce sont les profils exploratoires qui trouvent de nouvelles terres et ressources.
 
 Cette origine génétique n'est cependant pas une fatalité figée. La neuroplasticité (le cerveau n'est jamais figé)) et l'épigénétique (l'environnement module l'expression des gènes) expliquent pourquoi deux personnes porteuses des mêmes gènes de vulnérabilité peuvent connaître des trajectoires très différentes. Le patrimoine génétique fixe une prédisposition, pas un destin.
 
@@ -42,3 +42,4 @@ Le modèle le plus cohérent avec les données actuelles est donc celui d’une 
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Théorie évolutionniste du TDAH]]
