@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.118+02:00
+modified: 2026-07-29T08:19:31.898+02:00
 tags:
-  - micronote
-  - tdah
-  - melatonine
-  - sommeil
-  - traitement-pharmacologique
-  - insomnie
+  - "#micronote"
+  - "#tdah"
+  - "#melatonine"
+  - "#sommeil"
+  - "#traitement-pharmacologique"
+  - "#insomnie"
 ---
 
 Les [[Les troubles du sommeil chez les TADH|troubles du sommeil]] constituent l’une des comorbidités les plus fréquentes du TDAH.
@@ -22,7 +22,7 @@ Il s’agit d’un traitement de deuxième intention. Les recommandations europ�
 La posologie usuelle se situe entre un et cinq milligrammes chez l’enfant, parfois jusqu’à six à dix milligrammes chez l’adolescent ou l’adulte.
 
 L’horaire d’administration est crucial : trop tôt, l’effet chronobiotique peut être excessif ; trop tard, l’effet hypnotique s’amenuise.
-Lorsque le but principal est d’aider à l’endormissement le soir même (effet hypnotique), la mélatonine à libération immédiate **se prend généralement trente à soixante minutes avant l’heure de coucher souhaitée**. C’est l’usage le plus courant chez l’enfant et l’adolescent présentant un TDAH avec difficultées d’endormissement.  Prendre le comprimé trop tôt diminue l’effet immédiat sur l’endormissement ; le prendre trop tard, une fois déjà allongé dans le noir, réduit également son efficacité. L’idéal est donc de l’ingérer au moment où l’on commence réellement la routine du coucher (brossage des dents, lecture calme, extinction progressive des écrans).
+Lorsque le but principal est d’aider à l’endormissement le soir même (effet hypnotique), la mélatonine à libération immédiate **se prend généralement trente à soixante minutes avant l’heure de coucher souhaitée**. C’est l’usage le plus courant chez l’enfant et l’adolescent présentant un TDAH avec difficultés d’endormissement. Prendre le comprimé trop tôt diminue l’effet immédiat sur l’endormissement ; le prendre trop tard, une fois déjà allongé dans le noir, réduit également son efficacité. L’idéal est donc de l’ingérer au moment où l’on commence réellement la routine du coucher (brossage des dents, lecture calme, extinction progressive des écrans).
 
 Lorsqu’il s’agit plutôt de corriger un retard de phase marqué, c’est-à-dire d’avancer progressivement l’heure d’endormissement et de réveil sur plusieurs jours ou semaines, la stratégie change. On utilise alors de plus faibles doses (parfois 0,5 à 1 mg) administrées plus tôt dans la soirée, souvent trois à cinq heures avant l’heure d’endormissement habituelle. Cette prise anticipée exploite l’effet chronobiotique de la mélatonine, qui signale au cerveau que la nuit approche et permet de décaler le rythme interne. On avance ensuite progressivement l’horaire de prise et l’heure de coucher d’environ quinze à trente minutes tous les deux ou trois jours, jusqu’à atteindre le rythme désiré. Cette approche demande plus de rigueur et un suivi, mais elle est particulièrement adaptée aux adolescents et adultes avec TDAH dont le rythme est fortement décalé vers le soir.
 

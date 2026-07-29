@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T15:56:36.431+02:00
+modified: 2026-07-29T08:18:28.479+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -24,7 +24,7 @@ Le médecin explore le développement de l’enfant dans toutes ses dimensions �
 
 **Les critères retenus s’appuient sur les classifications internationales (DSM-5-TR ou CIM-11) : les symptômes d’inattention et/ou d’hyperactivité-[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] doivent être présents depuis plus de six mois, avoir débuté avant l’âge de douze ans, s’exprimer dans au moins deux environnements distincts, entraîner un retentissement significatif sur le fonctionnement scolaire, social ou familial, et ne pas être mieux expliqués par un autre trouble mental ou une pathologie somatique**.
 
-Des outils d’évaluation standardisés  peuvent guider la réflexion et aider à quantifier l’intensité des symptômes ou à rechercher des comorbidités, mais ils ne se substituent jamais au jugement clinique.
+Des outils d’évaluation standardisés peuvent guider la réflexion et aider à quantifier l’intensité des symptômes ou à rechercher des comorbidités, mais ils ne se substituent jamais au jugement clinique.
 
 Le bilan neuropsychologique n’est plus considéré comme indispensable pour établir le diagnostic ; il conserve cependant une utilité lorsqu’il s’agit d’affiner le profil cognitif, d’éliminer un diagnostic différentiel complexe ou d’orienter les interventions ultérieures.
 

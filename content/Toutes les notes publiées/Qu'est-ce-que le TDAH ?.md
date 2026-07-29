@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-28T18:36:11.480+02:00
+modified: 2026-07-29T08:20:25.515+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -40,9 +40,9 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Origine et approche historique
 
 - [[Origine génétique du TDAH]]
-- [[Le TDAH un phénoméne ancien]]
+- [[Le TDAH un phénomène ancien]]
 
-## Traitement pharmacologique
+## Diagnostic et traitement pharmacologique
 
 - [[Diagnostic et mise en place du traitement]]
 - [[Le méthylphénidate comme traitement du TDAH]]
@@ -86,7 +86,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 
 ## Commorbidités du TDAH
 
-- [[Les commorbidités du TDAH]]
+- [[Les comorbidités du TDAH]]
 - [[TDAH et autisme]]
 - [[Troubles anxieux et dépression]]
 - [[Association entre TDAH et délinquance]]

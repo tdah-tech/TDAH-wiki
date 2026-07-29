@@ -1,23 +1,23 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.132+02:00
+modified: 2026-07-29T08:18:28.512+02:00
 tags:
-  - micronote
-  - tdah
-  - méthylphénidate
-  - éveil
-  - traitement
-  - tpn
-  - hyperactivite
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#méthylphénidate"
+  - "#éveil"
+  - "#traitement"
+  - "#tpn"
+  - "#hyperactivite"
+  - "#hyperfocus"
 ---
 
 Une équipe (Washington University, St. Louis) a comparé les IRM cérébrales au repos de près de 5 800 enfants de 8 à 11 ans issus d'une grande étude américaine (ABCD Study), dont 337 avaient pris un stimulant (Ritalin, Adderall, etc.) le matin même de leur scanner (étude de 2025).
 
 ### La découverte centrale
 
-Les chercheurs s'attendaient à trouver des changements dans les zones du cerveau liées à l'attention (les fameux réseaux attentionnels).  Résultat : **aucun changement** dans ces réseaux attentionnels en raison de la prise de stimulants. En revanche, les plus gros changements se situaient dans deux zones bien différentes :
+Les chercheurs s'attendaient à trouver des changements dans les zones du cerveau liées à l'attention (les fameux réseaux attentionnels). Résultat : **aucun changement** dans ces réseaux attentionnels en raison de la prise de stimulants. En revanche, les plus gros changements se situaient dans deux zones bien différentes :
 
 - les régions motrices et sensorimotrices, liées à l'éveil et à la vigilance ;
 - les régions de « saillance » et de mémoire liées à l'action, impliquées dans l'anticipation de la récompense (est-ce que ça vaut le coup de continuer cette tâche, ou de passer à autre chose ?).
@@ -48,7 +48,7 @@ Le point clé de l'étude, c'est que ces deux étages sont **anatomiquement et f
 
 Sans stimulant, un enfant TDAH devant ses devoirs de maths a un projecteur qui fonctionne très bien — capable de faire l'exercice, de filtrer le bruit ambiant, etc. Le problème, c'est que la main sur le joystick revote sans cesse : toutes les quelques secondes, elle réévalue « est-ce que je reste sur ce devoir, ou est-ce que je regarde ce qui bouge dehors, ou mon téléphone, ou je laisse libre court à une pensée plus amusante ? » — et parce que le devoir de maths a, dans ce cerveau-là, une valeur perçue trop faible pour gagner ce vote de façon durable, le joystick tire régulièrement le projecteur ailleurs. D'où le comportement observé : l'enfant se lève, se distrait, change d'activité . Non pas parce que le projecteur est cassé, mais parce que la main qui le dirige n'arrête pas de changer d'avis.
 
-Le stimulant, d'après l'étude, agit précisément sur le joystick — il augmente à la fois l'éveil général (le circuit SM/AUD) et la valeur perçue de la tâche en cours (le circuit SAL/PMN). Au moment du vote, la tâche en cours l'emporte plus souvent et plus durablement face aux distractions. Le joystick reste stable sur « devoirs de maths » au lieu de penser à autre chose — et donc, mécaniquement, le projecteur (l'attention elle-même) reste braqué plus longtemps au même endroit. Mais ce n'est pas parce que le projecteur a été réparé ou amélioré : il fait exactement ce qu'il faisait avant ou ce qu'il ferait chez un enfant non TDAH,  il reste juste sur la cible qu'on lui a fixée plus longtemps.
+Le stimulant, d'après l'étude, agit précisément sur le joystick — il augmente à la fois l'éveil général (le circuit SM/AUD) et la valeur perçue de la tâche en cours (le circuit SAL/PMN). Au moment du vote, la tâche en cours l'emporte plus souvent et plus durablement face aux distractions. Le joystick reste stable sur « devoirs de maths » au lieu de penser à autre chose — et donc, mécaniquement, le projecteur (l'attention elle-même) reste braqué plus longtemps au même endroit. Mais ce n'est pas parce que le projecteur a été réparé ou amélioré : il fait exactement ce qu'il faisait avant ou ce qu'il ferait chez un enfant non TDAH, il reste juste sur la cible qu'on lui a fixée plus longtemps.
 
 ### Pourquoi il est important de bien distinguer projecteur et joystick
 

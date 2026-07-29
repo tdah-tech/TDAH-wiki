@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.149+02:00
+modified: 2026-07-29T08:19:13.482+02:00
 tags:
-  - micronote
-  - tdah
-  - hyperfocus
-  - flow
-  - force-tdah
+  - "#micronote"
+  - "#tdah"
+  - "#hyperfocus"
+  - "#flow"
+  - "#force-tdah"
 ---
 
 L'étude de référence sur le sujet (Hupfeld, Abagis & Shah, 2019, _ADHD Attention Deficit and Hyperactivity Disorders_) a testé 372 adultes — 162 avec TDAH, 210 sans — avec un questionnaire dédié. Le groupe TDAH rapporte significativement plus d'[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] dans trois domaines (études/travail, loisirs créatifs, écrans), et plus les symptômes TDAH sont marqués, plus le score d'hyperfocus est élevé. Le lien entre TDAH et capacité à hyperfocuser semble donc bien établi.
@@ -16,9 +16,9 @@ Les auteurs dans une forme vulgarisée de leur étude présentent l'hyperfocus c
 
 Beaucoup de personnes avec un TDAH racontent avoir bâti leurs plus grandes réussites — entrepreneuriales, professionnelles, créatives — dans cet état et donc pas malgré leur TDAH, mais grâce à leur TDAH.
 
-Aussi, ce qui rend cette capacité si précieuse, selon eux, c'est justement ce qui la rend difficile à vivre au quotidien : la possibilité de faire complètement disparaître les distractions pour ne plus laisser exister qu'un seul objectif. Ce filtrage radical, quand il tombe sur la bonne cible, devient un atoût rare — capable de mener à des résultats qui semblent presque hors de portée en temps normal.
+Aussi, ce qui rend cette capacité si précieuse, selon eux, c'est justement ce qui la rend difficile à vivre au quotidien : la possibilité de faire complètement disparaître les distractions pour ne plus laisser exister qu'un seul objectif. Ce filtrage radical, quand il tombe sur la bonne cible, devient un atout rare — capable de mener à des résultats qui semblent presque hors de portée en temps normal.
 
-Les auteurs vont même plus loin en évoquant un indice indirect : le nombre de personnalités connues et accomplies qui ont un TDAH — médaillés olympiques, artistes, scientifiques, entrepreneurs. Ils avancent, avec prudence, que leur réussite pourrait tenir en partie à cette capacité à hyperfocusser intensément sur leur discipline ou domaine. Biensûr c'est une hypothèse plausible plus qu'une preuve car rien dans leur étude ne mesure directement ce lien de cause à effet, mais elle est cohérente avec ce qu'ils observent.
+Les auteurs vont même plus loin en évoquant un indice indirect : le nombre de personnalités connues et accomplies qui ont un TDAH — médaillés olympiques, artistes, scientifiques, entrepreneurs. Ils avancent, avec prudence, que leur réussite pourrait tenir en partie à cette capacité à hyperfocusser intensément sur leur discipline ou domaine. Bien sûr, c'est une hypothèse plausible plus qu'une preuve car rien dans leur étude ne mesure directement ce lien de cause à effet, mais elle est cohérente avec ce qu'ils observent.
 
 Selon ces auteurs, la vraie clé n'est pas l'hyperfocus en lui-même, mais dans la capacité à apprendre à le diriger ou à l'initier. Un hyperfocus livré au hasard peut tout aussi bien se perdre dans des heures de jeu vidéo que servir à produire un chef-d'œuvre — la différence se joue dans la capacité à orienter ce mécanisme vers ce qui compte vraiment.
 

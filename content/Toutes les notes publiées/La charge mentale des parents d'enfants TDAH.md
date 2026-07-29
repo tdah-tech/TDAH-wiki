@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T15:41:18.751+02:00
+modified: 2026-07-29T08:18:28.487+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,7 +21,7 @@ Chez les parents d’enfants présentant un TDAH, cette charge atteint une inten
 
 Chaque rendez-vous médical, qu’il s’agisse de consultations de suivi, d’ajustements de traitement ou d’évaluations complémentaires, devient une tâche à planifier, à relancer et à intégrer dans un emploi du temps parfois déjà saturé. La charge cognitive se double ainsi d’une charge administrative qui s’étire sur des années.
 
-**Les difficultés comportementales à l’école** peuvent aussi constituer l’une des sources les plus constantes de cette charge. Les remarques récurrentes dans le cahier de liaison, les appels de l’enseignant ou les convocations auprès de la direction transforment le quotidien scolaire en source permanente d’inquiétude et de travail supplémentaire. Les parents doivent alors  préparer des réponses adaptées, rencontrer l’équipe pédagogique et tenter de maintenir ou reconstruire un climat de collaboration.
+**Les difficultés comportementales à l’école** peuvent aussi constituer l’une des sources les plus constantes de cette charge. Les remarques récurrentes dans le cahier de liaison, les appels de l’enseignant ou les convocations auprès de la direction transforment le quotidien scolaire en source permanente d’inquiétude et de travail supplémentaire. Les parents doivent alors préparer des réponses adaptées, rencontrer l’équipe pédagogique et tenter de maintenir ou reconstruire un climat de collaboration.
 
 Lorsque le TDAH s’associe à un [[Le trouble oppositionnel avec provocation et le TDAH|**trouble oppositionnel avec provocation**]], [[L'épuisement parental|l’épuisement parental]] prend une forme particulière. Les confrontations répétées, les refus d’obéir, les crises de colère et les provocations **épuisent non seulement l’énergie émotionnelle des adultes, mais aussi leur capacité à maintenir une posture éducative cohérente**. La charge mentale et plus intense et la fatigue devient alors plus profonde, mêlant sentiment d’impuissance, doutes sur ses propres compétences parentales et usure relationnelle au sein du couple.
 

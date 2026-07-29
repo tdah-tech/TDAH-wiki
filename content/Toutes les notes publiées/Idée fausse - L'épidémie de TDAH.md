@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.112+02:00
+modified: 2026-07-29T08:20:02.831+02:00
 tags:
-  - micronote
-  - tdah
-  - prevalence
-  - epidemiologie
-  - idee-recue
+  - "#micronote"
+  - "#tdah"
+  - "#prevalence"
+  - "#epidemiologie"
+  - "#idee-recue"
 ---
 
 L’idée selon laquelle nous assisterions à une épidémie de trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) s’est largement répandue ces dernières années. Elle s’appuie sur l’observation d’une hausse spectaculaire du nombre de diagnostics posés, de consultations spécialisées et de prescriptions de traitements. Cette perception, relayée par les médias et parfois par des discours alarmistes, confond cependant deux réalités distinctes : l’augmentation de la reconnaissance clinique du trouble et l’évolution de sa fréquence réelle dans la population. Les données épidémiologiques les plus rigoureuses montrent qu’il n’existe pas d’épidémie de TDAH. La prévalence véritable du trouble est restée globalement stable au fil des décennies. Ce qui a changé, c’est la capacité de la société et des systèmes de santé à l’identifier.
@@ -23,5 +23,5 @@ Le TDAH n’est donc pas un phénomène nouveau né des écrans, de la vie moder
 ## Pour aller plus loin :
 
 - [[Prévalence du TDAH et écart garçons-filles]]
-- [[Le TDAH un phénoméne ancien]]
+- [[Le TDAH un phénomène ancien]]
 - [[Qu'est-ce-que le TDAH ?]]

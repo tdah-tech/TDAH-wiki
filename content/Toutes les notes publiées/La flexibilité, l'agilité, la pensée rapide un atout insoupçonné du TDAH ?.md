@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.118+02:00
+modified: 2026-07-29T08:19:13.488+02:00
 tags:
-  - micronote
-  - tdah
-  - flexibilite-cognitive
-  - dmn
-  - tpn
-  - pensee-divergente
-  - force-tdah
+  - "#micronote"
+  - "#tdah"
+  - "#flexibilite-cognitive"
+  - "#dmn"
+  - "#tpn"
+  - "#pensee-divergente"
+  - "#force-tdah"
 ---
 
 Il y a une scène qui revient dans presque tous les récits de personnes TDAH : un plan qui s'effondre, une réunion qui dérape, un imprévu qui aurait dû tout bloquer — et c'est cette personne qui, contre toute attente, trouve la parade en quelques secondes, alors que le reste de la salle est encore en train de comprendre ce qui se passe. Ce n'est pas une anecdote isolée. C'est devenu l'un des arguments centraux du discours sur les forces du TDAH : l'agilité, la capacité à rebondir, à penser vite quand le cadre vient de disparaître. L'idée mérite d'être prise au sérieux — car elle repose sur des observations réelles — mais elle mérite aussi d'être disséquée, parce qu'elle mélange plusieurs phénomènes que la science distingue soigneusement.
@@ -22,7 +22,7 @@ Dans les métiers où l'improvisation est la norme plutôt que l'exception — l
 
 ## Ce que la science mesure vraiment
 
-Le problème commence quand on nomme ce phénomène. Parler de flexibilité, au sens où la neuropsychologie l'entend, est trompeur. La flexibilité cognitive désigne une [[Les fonctions éxécutives - définition|fonction exécutive]] précise : la capacité à changer délibérément de stratégie, à choisir d'abandonner un plan pour en adopter un autre. Elle se mesure avec des tests comme le Wisconsin Card Sorting Test, où il faut deviner une règle de tri puis l'abandonner volontairement quand elle change — et sur ce test précis, **les personnes TDAH obtiennent en moyenne de moins bons résultats que la population générale**. Même chose pour la pensée rapide : sur les mesures chronométriques de vitesse de traitement utilisées en bilan neuropsychologique, **les profils TDAH ne vont pas plus vite que la moyenne, ils vont aussi vite ou moins vite**.  Le mythe du cerveau TDAH qui traite tout plus vite que les autres ne résiste pas à la mesure directe.
+Le problème commence quand on nomme ce phénomène. Parler de flexibilité, au sens où la neuropsychologie l'entend, est trompeur. La flexibilité cognitive désigne une [[Les fonctions éxécutives - définition|fonction exécutive]] précise : la capacité à changer délibérément de stratégie, à choisir d'abandonner un plan pour en adopter un autre. Elle se mesure avec des tests comme le Wisconsin Card Sorting Test, où il faut deviner une règle de tri puis l'abandonner volontairement quand elle change — et sur ce test précis, **les personnes TDAH obtiennent en moyenne de moins bons résultats que la population générale**. Même chose pour la pensée rapide : sur les mesures chronométriques de vitesse de traitement utilisées en bilan neuropsychologique, **les profils TDAH ne vont pas plus vite que la moyenne, ils vont aussi vite ou moins vite**. Le mythe du cerveau TDAH qui traite tout plus vite que les autres ne résiste pas à la mesure directe.
 
 **Le vrai mécanisme : pas plus vite, moins régulé**
 
@@ -34,9 +34,9 @@ Cette absence de régulation n'est ni bonne ni mauvaise en soi — elle dépend 
 
 **Ce que cela change**
 
-L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, \*\*mais de repérer les environnements/situations qui sollicitent une forme de pensée en parralléle.
+L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n'est pas de se convaincre d'un superpouvoir caché d'agilité ou de créativité, \*\*mais de repérer les environnements/situations qui sollicitent une forme de pensée en parallèle.
 
-Ceci est une lecture plus honnête intellectuellement que celle du superpouvoir.  Elle  explique pourquoi le même "don" qui rend quelqu'un brillant en réunion de brain storming ou réunion de crise peut l'épuiser dans un poste qui exige une routine stricte. Il n'y a pas ici de contradiction à résoudre — ce sont les deux faces prévisibles d'un seul et même trait neurocognitif.
+Ceci est une lecture plus honnête intellectuellement que celle du superpouvoir. Elle explique pourquoi le même "don" qui rend quelqu'un brillant en réunion de brain storming ou réunion de crise peut l'épuiser dans un poste qui exige une routine stricte. Il n'y a pas ici de contradiction à résoudre — ce sont les deux faces prévisibles d'un seul et même trait neurocognitif.
 
 Il faut enfin garder une réserve méthodologique. L'essentiel de ces constats sur les forces du TDAH vient d'études qualitatives, de corrélations en population générale ou d'auto-évaluations, pas d'essais contrôlés à grande échelle. Le champ de recherche sur les atouts du TDAH est jeune, bien moins développé que celui, déjà considérable, sur ses déficits. Le présenter comme un fait établi au même titre que les données sur l'[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]] ou l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] serait une erreur — mais l'ignorer serait tout aussi malhonnête, tant les témoignages convergents et les mécanismes neuroscientifiques identifiés dessinent, ensemble, une hypothèse solide et cohérente.
 

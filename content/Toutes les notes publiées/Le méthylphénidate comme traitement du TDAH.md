@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T15:59:16.682+02:00
+modified: 2026-07-29T08:18:28.515+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,7 +15,7 @@ tags:
   - "#impulsivite"
 ---
 
-Le méthylphénidate est le traitement pharmacologique  le plus utilisé pour le TDAH, autant chez l'enfant que chez l'adulte. Il est commercialisé en France sous plusieurs noms (Ritaline, Concerta, Quasym, Medikinet), qui diffèrent surtout par leur profil de libération — immédiate ou prolongée — mais partagent la même molécule.
+Le méthylphénidate est le traitement pharmacologique le plus utilisé pour le TDAH, autant chez l'enfant que chez l'adulte. Il est commercialisé en France sous plusieurs noms (Ritaline, Concerta, Quasym, Medikinet), qui diffèrent surtout par leur profil de libération — immédiate ou prolongée — mais partagent la même molécule.
 
 **Mécanisme**
 

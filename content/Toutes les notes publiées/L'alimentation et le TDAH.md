@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-28T17:44:11.576+02:00
+modified: 2026-07-29T08:18:28.484+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -13,7 +13,7 @@ tags:
   - "#hyperfocus"
 ---
 
-L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation entre les deux est réelle et fonctionne dans les deux sens. Le TDAH lui-même ([[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], désorganisation des repas, sélectivité sensorielle, suppression d'appétit sous stimulants, [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]) favorise des apports alimentaires déséquilibrés et plusieurs études  rapportent des carences plus fréquentes chez les personnes TDAH que dans la population générale — notamment en fer, zinc, magnésium, vitamines B et D.
+L'alimentation n'est ni une cause ni un traitement du TDAH, mais la relation entre les deux est réelle et fonctionne dans les deux sens. Le TDAH lui-même ([[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], désorganisation des repas, sélectivité sensorielle, suppression d'appétit sous stimulants, [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]) favorise des apports alimentaires déséquilibrés et plusieurs études rapportent des carences plus fréquentes chez les personnes TDAH que dans la population générale — notamment en fer, zinc, magnésium, vitamines B et D.
 
 Pour les micronutriments, et macronutriments (oméga-3, protéines), c'est avant tout **la correction d'une carence documentée** qui apporte un bénéfice mesurable sur des facteurs aggravants secondaires du TDAH (fatigue attentionnelle, irritabilité, instabilité de l'énergie).
 

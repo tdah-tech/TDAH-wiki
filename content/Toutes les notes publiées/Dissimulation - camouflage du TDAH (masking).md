@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-28T15:56:48.179+02:00
+modified: 2026-07-29T08:18:28.480+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,7 @@ tags:
 
 La dissimulation (e.g masking) , dans le contexte du TDAH, désigne l’ensemble des stratégies conscientes ou inconsciente qu’une personne met en place pour dissimuler, compenser ou atténuer les manifestations de son trouble afin de paraître « normale » aux yeux des autres. Il s’agit d’un phénomène particulièrement répandu chez les personnes diagnostiquées tardivement.
 
-La dissimulation ne consiste pas simplement à « faire un effort ». Il implique souvent une surveillance constante de soi : retenir les mouvements impulsifs,  masquer la difficulté à suivre le fil d’une discussion ou l'envie de couper la parole, ou encore surcompenser par un perfectionnisme extrême pour cacher les oublis et les retards. Ces stratégies peuvent sembler efficaces à court terme. Elles permettent de suivre une scolarité sans trop de problèmes, de maintenir un emploi, de préserver des relations. Pourtant, elles ont un coût cognitif et émotionnel élevé. Le cerveau doit en permanence dépenser de l’énergie pour freiner ce qui lui est naturel et pour produire ce qui est attendu. Au fil des années, cette dépense chronique se transforme en fatigue profonde, en anxiété, en épuisement émotionnel, parfois en burn-out ou en dépression.
+La dissimulation ne consiste pas simplement à « faire un effort ». Il implique souvent une surveillance constante de soi : retenir les mouvements impulsifs, masquer la difficulté à suivre le fil d’une discussion ou l'envie de couper la parole, ou encore surcompenser par un perfectionnisme extrême pour cacher les oublis et les retards. Ces stratégies peuvent sembler efficaces à court terme. Elles permettent de suivre une scolarité sans trop de problèmes, de maintenir un emploi, de préserver des relations. Pourtant, elles ont un coût cognitif et émotionnel élevé. Le cerveau doit en permanence dépenser de l’énergie pour freiner ce qui lui est naturel et pour produire ce qui est attendu. Au fil des années, cette dépense chronique se transforme en fatigue profonde, en anxiété, en épuisement émotionnel, parfois en burn-out ou en dépression.
 
 Chez beaucoup de personnes concernées, la dissimulation a commencé très tôt, dès l’enfance ou l’adolescence, comme une réponse adaptative à un environnement qui sanctionnait l’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]], l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|agitation]] ou l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]. L’enfant apprend rapidement que ses comportements « dérangent » et développe des techniques de camouflage. À l’âge adulte, ces techniques deviennent souvent automatiques et presque invisibles même pour la personne elle-même. C’est précisément pourquoi le diagnostic arrive si tardivement : les professionnels, les proches et parfois la personne elle-même ne voient que la surface lisse, tandis que le travail interne de compensation reste caché.
 

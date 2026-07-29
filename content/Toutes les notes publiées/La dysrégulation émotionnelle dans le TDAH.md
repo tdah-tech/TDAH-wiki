@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T18:43:57.734+02:00
+modified: 2026-07-29T08:20:02.830+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -24,7 +24,7 @@ Concrètement, cela signifie que la dysrégulation émotionnelle ne serait pas _
 
 ## Ce que montrent deux études publiées en 2026
 
-**Chez l'enfant.** Une équipe de l'hôpital Sainte-Anne à Paris (Courrèges et al., publié dans _Neuropsychiatrie de l'Enfance et de l'Adolescence_) a validé  une échelle de dysrégulation émotionnelle destinée à la population pédiatrique. Elle distingue deux composantes bien séparées :
+**Chez l'enfant.** Une équipe de l'hôpital Sainte-Anne à Paris (Courrèges et al., publié dans _Neuropsychiatrie de l'Enfance et de l'Adolescence_) a validé une échelle de dysrégulation émotionnelle destinée à la population pédiatrique. Elle distingue deux composantes bien séparées :
 
 - l'**escalade émotionnelle** (la réactivité, la vitesse et l'intensité de la montée émotionnelle), qui prédit l'**impulsivité motrice** ;
 - le **rétablissement émotionnel** (la capacité à revenir à un état stable après une réaction émotionnelle), dont le déficit prédit l'**anxiété et la dépression** associées.
@@ -34,7 +34,7 @@ L'échelle différencie significativement les enfants TDAH d'un groupe contrôle
 **Chez l'adulte.** Une étude clinique multidimensionnelle menée à Milan (Dell'Osso et al., _Brain Sciences_, 2026) sur 231 adultes TDAH (18-35 ans) a mis en évidence que :
 
 - Les scores de dysrégulation sont nettement supérieurs aux normes de population générale, et plus élevés dans la présentation combinée du TDAH (inattention + hyperactivité) que dans la présentation inattentive pure.
-- La [[Les commorbidités du TDAH|comorbidité]] psychiatrique (présente chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
+- La [[Les comorbidités du TDAH|comorbidité]] psychiatrique (présente chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
 - Les meilleurs prédicteurs indépendants de la dysrégulation émotionnelle sont : la qualité de vie, l'intensité rétrospective des symptômes TDAH dans l'enfance, l'anxiété-trait et la présence d'un trouble addictif actuel.
 
 Les auteurs concluent à un **modèle affectivo-exécutif intégré** du TDAH adulte, où la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale dialectique (TCD) en complément du traitement pharmacologique classique.

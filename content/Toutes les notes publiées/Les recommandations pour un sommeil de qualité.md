@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.139+02:00
+modified: 2026-07-29T08:19:13.487+02:00
 tags:
-  - micronote
-  - tdah
-  - sommeil
-  - hygiene-de-vie
-  - rythme-circadien
+  - "#micronote"
+  - "#tdah"
+  - "#sommeil"
+  - "#hygiene-de-vie"
+  - "#rythme-circadien"
 ---
 
-Les bonnes pratiques en termes de sommeil ne remplacent pas un éventuel traitement médicamenteux ou une prise en charge spécialisée, mais elles constituent le socle indispensable sans lequel les autres interventions perdent une grande partie de leur efficacité. Parmis les recommandations les plus pertinentes :
+Les bonnes pratiques en termes de sommeil ne remplacent pas un éventuel traitement médicamenteux ou une prise en charge spécialisée, mais elles constituent le socle indispensable sans lequel les autres interventions perdent une grande partie de leur efficacité. Parmi les recommandations les plus pertinentes :
 
 **L’obscurité totale de la chambre** est l’un des leviers les plus puissants. La lumière, même faible, freine la sécrétion de mélatonine endogène. Dans un cerveau déjà enclin au retard de phase, cette inhibition nocturne prolonge encore l’éveil. Des rideaux occultants ou un masque de sommeil permettent de créer une nuit vraiment noire, ce qui facilite l’endormissement et améliore la continuité du sommeil.
 
-**À l’inverse, le matin, l’exposition rapide à la lumière naturelle** en ouvrant les rideaux dès le réveil envoie un signal fort d’éveil au système circadien. Cette lumière matinale aide à ancrer le rythme et à réduire progressivement le décalage vers le soir, phénomène  fréquent chez les personnes avec TDAH.
+**À l’inverse, le matin, l’exposition rapide à la lumière naturelle** en ouvrant les rideaux dès le réveil envoie un signal fort d’éveil au système circadien. Cette lumière matinale aide à ancrer le rythme et à réduire progressivement le décalage vers le soir, phénomène fréquent chez les personnes avec TDAH.
 
 **La régularité des horaires de coucher et de lever,** y compris le week-end, constitue un autre pilier. Le système circadien fonctionne mieux lorsqu’il reçoit des repères temporels stables. Varier fortement l’heure du coucher d’un jour à l’autre entretient le retard de phase et rend l’endormissement de plus en plus difficile. Maintenir une fenêtre horaire relativement fixe, même si elle n’est pas toujours respectée à la minute près, offre au cerveau un cadre prévisible qui diminue l’hypervigilance vespérale.
 

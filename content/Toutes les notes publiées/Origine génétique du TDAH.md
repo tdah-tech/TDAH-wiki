@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.146+02:00
+modified: 2026-07-29T08:18:28.603+02:00
 tags:
-  - micronote
-  - tdah
-  - genetique
-  - epigenetique
-  - neuroplasticite
-  - cortex-prefrontal
-  - maturation
-  - diagnostic
-  - histoire
-  - dsm
+  - "#micronote"
+  - "#tdah"
+  - "#genetique"
+  - "#epigenetique"
+  - "#neuroplasticite"
+  - "#cortex-prefrontal"
+  - "#maturation"
+  - "#diagnostic"
+  - "#histoire"
+  - "#dsm"
 ---
 
-Le TDAH a une origine génétique estimée à environ 70 % à 80 %  (souvent autour de 74 % dans les méta-analyses d’études portant sur des jumeaux).
+Le TDAH a une origine génétique estimée à environ 70 % à 80 % (souvent autour de 74 % dans les méta-analyses d’études portant sur des jumeaux).
 
 Un mécanisme génétique précis a été identifié comme composante de cette hérédité : le gène du transporteur de [[Dopamine et TDAH|dopamine]] (DAT1), la protéine chargée de la recapture de la [[Dopamine et TDAH|dopamine]] dans les synapses. Une variante longue de ce gène — l'allèle 7R du récepteur D4, surnommé le "gène explorateur" — est associée au TDAH ainsi qu'à la recherche de nouveauté, l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]], la curiosité et la prise de risque.
 
@@ -25,7 +25,7 @@ Un cadre évolutionniste est parfois avancé pour expliquer son maintien dans le
 
 Cette origine génétique n'est cependant pas une fatalité figée. La neuroplasticité (le cerveau n'est jamais figé)) et l'épigénétique (l'environnement module l'expression des gènes) expliquent pourquoi deux personnes porteuses des mêmes gènes de vulnérabilité peuvent connaître des trajectoires très différentes. Le patrimoine génétique fixe une prédisposition, pas un destin.
 
-Les 20% à 30 % de cas restant  renvoient plutôt à un ensemble de facteurs de risque de magnitude généralement modeste qui agissent en interaction avec la vulnérabilité génétique.
+Les 20% à 30 % de cas restant renvoient plutôt à un ensemble de facteurs de risque de magnitude généralement modeste qui agissent en interaction avec la vulnérabilité génétique.
 
 Les facteurs les plus solidement documentés concernent la période prénatale et périnatale. L’exposition au tabac pendant la grossesse est associée de façon répétée à une augmentation du risque, même si une partie de cette association s’explique par le fait que les mères elles-mêmes porteuses de vulnérabilité génétique au TDAH fument plus fréquemment.
 

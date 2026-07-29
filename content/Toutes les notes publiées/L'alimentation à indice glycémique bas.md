@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.116+02:00
+modified: 2026-07-29T08:18:28.484+02:00
 tags:
-  - micronote
-  - tdah
-  - regime-mediterraneen
-  - index-glycémique-bas
-  - glycemie
-  - alimentation
+  - "#micronote"
+  - "#tdah"
+  - "#regime-mediterraneen"
+  - "#index-glycémique-bas"
+  - "#glycemie"
+  - "#alimentation"
 ---
 
 L'alimentation à indice glycémique bas n'est pas un traitement validé du TDAH, mais elle constitue une stratégie de soutien raisonnable et cohérente avec les données disponibles.
@@ -17,7 +17,7 @@ Les essais contrôlés randomisés de grande envergure portant spécifiquement s
 
 Elles vont néanmoins dans le même sens : **une exposition glycémique plus élevée (aliments à absorption rapide, sucres ajoutés, boissons sucrées) s'associe plus souvent à une charge symptomatique plus importante — l'association la plus constante concerne d'ailleurs les sucres ajoutés (15 études sur 16)** — tandis que **les régimes favorisant des glucides à libération progressive tendent à être liés à de meilleurs profils attentionnels et comportementaux**. Les études d'intervention sont plus hétérogènes : 6 sur 10 rapportent une amélioration des symptômes après modification de la qualité des glucides, les 4 autres montrant des résultats mitigés ou non significatifs. Aucune ne démontre un effet comparable à celui des traitements médicamenteux ou des thérapies comportementales de référence.
 
-Le mécanisme le plus souvent avancé n'est pas une action spécifique sur les circuits [[Dopamine et TDAH|dopaminergiques]] du TDAH, mais une possible **stabilisation de l'apport énergétique cérébral** — il s'agit toutefois d'une hypothèse physiologique plausible plutôt que d'un mécanisme démontré.  Il est donc plus prudent de parler d'une hypothèse compatible avec certaines données  que d'un mécanisme établi. **Ce qui reste plausible, en revanche, est que des [[Éviter la variation brutale de la glycémie|variations brutales de glycémie]] (pics suivis de chutes) puissent amplifier la fatigue attentionnelle, l'irritabilité et les fluctuations d'énergie chez quiconque, TDAH ou non — et qu'un apport de glucides à index glycémique bas, surtout associé à des protéines et des fibres, atténue ces oscillations**. C'est pourquoi les recommandations cliniques pragmatiques insistent davantage sur la régularité des repas et la qualité des associations alimentaires que sur un calcul strict de l'indice glycémique.
+Le mécanisme le plus souvent avancé n'est pas une action spécifique sur les circuits [[Dopamine et TDAH|dopaminergiques]] du TDAH, mais une possible **stabilisation de l'apport énergétique cérébral** — il s'agit toutefois d'une hypothèse physiologique plausible plutôt que d'un mécanisme démontré. Il est donc plus prudent de parler d'une hypothèse compatible avec certaines données que d'un mécanisme établi. **Ce qui reste plausible, en revanche, est que des [[Éviter la variation brutale de la glycémie|variations brutales de glycémie]] (pics suivis de chutes) puissent amplifier la fatigue attentionnelle, l'irritabilité et les fluctuations d'énergie chez quiconque, TDAH ou non — et qu'un apport de glucides à index glycémique bas, surtout associé à des protéines et des fibres, atténue ces oscillations**. C'est pourquoi les recommandations cliniques pragmatiques insistent davantage sur la régularité des repas et la qualité des associations alimentaires que sur un calcul strict de l'indice glycémique.
 
 Il faut aussi souligner que les régimes alimentaires plus larges associés à de meilleurs résultats (alimentation de type méditerranéen ou DASH, riches en légumes, légumineuses, céréales complètes et protéines de qualité) sont naturellement plus bas en charge glycémique. Une étude cas-témoins a par exemple trouvé qu'une faible adhérence au régime méditerranéen était associée à un risque de TDAH nettement plus élevé (odds ratio de 7,07), et un essai randomisé sur le régime DASH a montré des résultats prometteurs. Leur bénéfice apparent ne peut donc pas être attribué uniquement à l'indice glycémique, mais à un ensemble de facteurs nutritionnels et comportementaux.
 

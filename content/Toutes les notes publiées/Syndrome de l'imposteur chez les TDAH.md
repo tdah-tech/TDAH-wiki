@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T17:55:11.680+02:00
+modified: 2026-07-29T08:18:28.630+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,7 @@ tags:
   - "#système-limbique"
 ---
 
-Le  syndrome de l’imposteur est fréquemment observé chez les personnes TDAH. De nombreuses personnes  rapportent en effet un sentiment persistant de ne pas mériter leurs succès, non pas par manque réel de compétence, mais parce que les traces mémorielles de ces réussites s’estompent rapidement.
+Le syndrome de l’imposteur est fréquemment observé chez les personnes TDAH. De nombreuses personnes rapportent en effet un sentiment persistant de ne pas mériter leurs succès, non pas par manque réel de compétence, mais parce que les traces mémorielles de ces réussites s’estompent rapidement.
 
 Dans le cadre d’une réussite, la [[Mémoire de travail et TDAH|mémoire de travail]] aide à maintenir brièvement la représentation de ce qui vient de se passer — le sentiment de satisfaction, le contexte de l’accomplissement, les sensations corporelles positives — afin de permettre une première consolidation vers la mémoire à plus long terme. Chez les personnes TDAH, cette capacité est souvent altérée . Résultat : les traces émotionnelles et contextuelles positives d’un succès ont moins de temps pour être traitées et transférées efficacement à la mémoire à long terme, ce qui contribue directement au phénomène **d’« amnésie de succès »** et au syndrome d'imposture.
 

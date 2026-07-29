@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.141+02:00
+modified: 2026-07-29T08:18:28.587+02:00
 tags:
-  - micronote
-  - tdah
-  - dopamine
-  - cerveau
-  - cortex-prefrontal
-  - mémoire-de-travail
-  - mémoire-court-terme
-  - fonctions-executives
+  - "#micronote"
+  - "#tdah"
+  - "#dopamine"
+  - "#cerveau"
+  - "#cortex-prefrontal"
+  - "#mémoire-de-travail"
+  - "#mémoire-court-terme"
+  - "#fonctions-executives"
 ---
 
 La **mémoire de travail** désigne la capacité à maintenir temporairement des informations actives dans l’esprit tout en les manipulant pour accomplir une tâche cognitive\*\*. Elle se distingue de la **mémoire à court terme** purement **passive**, car elle implique non seulement le stockage, mais aussi le traitement, la mise à jour et l’intégration de ces informations avec des connaissances déjà présentes. Sur le plan neurobiologique, elle repose largement sur le fonctionnement du cortex préfrontal, en interaction avec d’autres régions corticales et sous-corticales, et **dépend de façon importante des systèmes [[Dopamine et TDAH|dopaminergiques]] et [[Noradrénaline et TDAH|noradrénergiques]]**.
 
-Ainsi la mémoire à court terme stocke passivement une information brute pendant quelques secondes, comme un numéro de téléphone et la mémoire de travail va nous permettre d'utiliser le numéro stocker pour le composer. La mémoire de travail  est un système actif. C'est elle qui manipule l'information pour raisonner, planifier ou agir dans l'instant, par exemple pour suivre un raisonnement à plusieurs étapes ou garder une consigne en tête pendant qu'on l'exécute.
+Ainsi la mémoire à court terme stocke passivement une information brute pendant quelques secondes, comme un numéro de téléphone et la mémoire de travail va nous permettre d'utiliser le numéro stocker pour le composer. La mémoire de travail est un système actif. C'est elle qui manipule l'information pour raisonner, planifier ou agir dans l'instant, par exemple pour suivre un raisonnement à plusieurs étapes ou garder une consigne en tête pendant qu'on l'exécute.
 
 La mémoire de travail est souvent le déficit le plus caractéristique du TDAH, parfois plus invalidant au quotidien que l'[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]] ou l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] elles-mêmes. Il faut la distinguer de
 

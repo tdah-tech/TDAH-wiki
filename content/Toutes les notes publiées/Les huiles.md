@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.137+02:00
+modified: 2026-07-29T08:18:28.532+02:00
 tags:
-  - micronote
-  - tdah
-  - alimentation
-  - huile
-  - omega-3
+  - "#micronote"
+  - "#tdah"
+  - "#alimentation"
+  - "#huile"
+  - "#omega-3"
 ---
 
 Les huiles végétales apportent presque exclusivement des lipides sous forme d'acides gras, dont deux familles jouent un rôle central dans le fonctionnement du cerveau : les oméga-6 et les [[Les omega-3|oméga-3]]. Ces deux familles sont dites essentielles car l'organisme ne sait pas les fabriquer lui-même, il doit les puiser dans l'alimentation.
@@ -18,7 +18,7 @@ Le problème n'est pas tant leur présence que leur proportion respective. L'ali
 
 Le cerveau est un organe particulièrement riche en lipides, et les oméga-3 à longue chaîne, l'EPA et le DHA, entrent directement dans la composition des membranes neuronales. Ils interviennent dans la fluidité membranaire, la transmission synaptique et, selon plusieurs travaux, dans la régulation des systèmes [[Dopamine et TDAH|dopaminergique]] et sérotoninergique, deux systèmes de neurotransmission impliqués dans l'attention et la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]]. C'est ce lien mécanistique qui a motivé l'exploration du rôle des oméga-3 dans des troubles comme le TDAH.
 
-Plusieurs études ont effectivement retrouvé des taux sanguins d'oméga-3 plus bas chez des enfants et adolescents avec TDAH par rapport à des témoins. Sur le plan interventionnel, des méta-analyses d'essais de supplémentation, notamment celles de Bloch et Qawasmi ainsi que des travaux plus récents, concluent à une amélioration modeste mais statistiquement significative des symptômes de TDAH lorsqu'il y a carence  avec un effet un peu plus marqué pour les formulations riches en EPA.
+Plusieurs études ont effectivement retrouvé des taux sanguins d'oméga-3 plus bas chez des enfants et adolescents avec TDAH par rapport à des témoins. Sur le plan interventionnel, des méta-analyses d'essais de supplémentation, notamment celles de Bloch et Qawasmi ainsi que des travaux plus récents, concluent à une amélioration modeste mais statistiquement significative des symptômes de TDAH lorsqu'il y a carence avec un effet un peu plus marqué pour les formulations riches en EPA.
 
 ### Quelle huile pour quel usage
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-28T16:50:55.440+02:00
+modified: 2026-07-29T08:19:13.476+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#méthylphénidate"
 ---
 
-La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. De nombreuses études  et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
+La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. De nombreuses études et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
 
 L’écart observé se situe souvent autour de six à sept nanogrammes par millilitre. Cette différence n’est pas anodine, car la vitamine D agit bien au-delà du simple métabolisme osseux. Des récepteurs spécifiques se trouvent dans des régions cérébrales impliquées dans l’attention, le contrôle des impulsions et la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]]. La vitamine D participe également à la synthèse et à la modulation de la [[Dopamine et TDAH|dopamine]] et de la sérotonine, deux neurotransmetteurs centraux dans le fonctionnement attentionnel et l’humeur. Lorsqu’elle manque, ces voies peuvent être moins efficaces, ce qui peut amplifier la fatigue mentale, les difficultés de concentration ou l’irritabilité déjà présentes.
 
@@ -20,7 +20,7 @@ Les données sur la supplémentation sont plus nuancées **mais encourageantes**
 
 Aujourd’hui, la position la plus raisonnable est donc la suivante : le lien entre un statut bas en vitamine D et le TDAH est solide sur le plan observationnel, et la correction d’une carence documentée fait partie d’une prise en charge globale de qualité, d’autant plus que la vitamine D possède des bénéfices pour la santé osseuse, immunitaire. **En revanche, la supplémentation systématique chez des personnes dont le taux est déjà normal n’est pas soutenue par des preuves suffisantes pour être recommandée comme traitement spécifique du TDAH**.
 
-Dans une optique pratique et de conseil, la première étape consiste à faire un bilan sanguin pour corriger une carrence.  Il est important de ne jamais dépasser les quantités recommandées sans avis médical, car un excès prolongé peut perturber l’équilibre du calcium.
+Dans une optique pratique et de conseil, la première étape consiste à faire un bilan sanguin pour corriger une carence. Il est important de ne jamais dépasser les quantités recommandées sans avis médical, car un excès prolongé peut perturber l’équilibre du calcium.
 
 **La prise quotidienne de vitamine D à dose modérée est généralement préférable à une ampoule unique à forte dose**, surtout si l’on cherche un effet stable dans le temps, ce qui est pertinent dans le cadre d’un TDA.
 

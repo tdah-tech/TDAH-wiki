@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-27T11:53:05.122+02:00
+modified: 2026-07-29T08:19:31.897+02:00
 tags:
-  - micronote
-  - tdah
-  - rejet
-  - dysphorie-sensibilite-rejet
+  - "#micronote"
+  - "#tdah"
+  - "#rejet"
+  - "#dysphorie-sensibilite-rejet"
 ---
 
 La dysphorie de sensibilité au rejet, plus connue sous l’acronyme anglais RSD (Rejection Sensitive Dysphoria), désigne une réaction émotionnelle d’une intensité exceptionnelle face au rejet, à la critique ou à l’échec, qu’ils soient réels ou simplement perçus.
 
-Bien qu’elle ne figure pas dans les classifications diagnostiques officielles telles que le DSM, elle est largement reconnue par les cliniciens spécialisés dans le trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) comme l’une des manifestations courrante  de la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] propre à ce trouble. **Le terme a été popularisé par le psychiatre William Dodson, qui a observé chez la grande majorité de ses patients atteints de TDAH une sensibilité extrême à la perte d’approbation, d’amour ou de respect**.
+Bien qu’elle ne figure pas dans les classifications diagnostiques officielles telles que le DSM, elle est largement reconnue par les cliniciens spécialisés dans le trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) comme l’une des manifestations courantes de la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] propre à ce trouble. **Le terme a été popularisé par le psychiatre William Dodson, qui a observé chez la grande majorité de ses patients atteints de TDAH une sensibilité extrême à la perte d’approbation, d’amour ou de respect**.
 
 Chez la personne concernée, la douleur n’est pas une simple tristesse ou un sentiment d’être blessé. Elle s’apparente à une souffrance aiguë, parfois quasi physique. Une remarque anodine, un silence prolongé après un message, un regard interprété comme désapprobateur ou même l’anticipation d’un possible échec peuvent déclencher un basculement émotionnel brutal.
 
-Certaines personnes TDAH vivent alors une "rage"  dirigée vers la source du rejet perçu ; d’autres, plus fréquemment, internalisent la douleur sous forme d’une tristesse écrasante,  ou d’idées de dévalorisation de soi qui peuvent, dans les cas les plus intenses, mimer un épisode dépressif majeur. **Cette réaction n’est pas le fruit d’une fragilité de caractère : elle découle de particularités neurologiques du cerveau TDAH, notamment d’une régulation moins efficace des circuits émotionnels et d’un filtrage diminué des signaux provenant des zones impliquées dans le traitement de la douleur sociale**.
+Certaines personnes TDAH vivent alors une "rage" dirigée vers la source du rejet perçu ; d’autres, plus fréquemment, internalisent la douleur sous forme d’une tristesse écrasante, ou d’idées de dévalorisation de soi qui peuvent, dans les cas les plus intenses, mimer un épisode dépressif majeur. **Cette réaction n’est pas le fruit d’une fragilité de caractère : elle découle de particularités neurologiques du cerveau TDAH, notamment d’une régulation moins efficace des circuits émotionnels et d’un filtrage diminué des signaux provenant des zones impliquées dans le traitement de la douleur sociale**.
 
 **Le lien entre RSD et TDAH s’explique en grande partie par les difficultés d’autorégulation émotionnelle inhérentes au trouble**. Les mêmes mécanismes qui rendent l’attention, l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et l’organisation plus laborieuses affectent aussi la capacité à moduler l’intensité et la durée des émotions. À cela s’ajoute souvent un historique de critiques répétées vécues depuis l’enfance — remarques sur le manque d’attention, les oublis, les performances scolaires ou professionnelles — **qui construit progressivement un « schéma d’échec anticipé »** favorisant la dysphorie. La personne apprend, parfois inconsciemment, à surveiller constamment les signes de désapprobation et à interpréter les situations ambiguës de façon négative. Ainsi, ce qui serait pour d’autres une simple frustration devient, pour elle, une attaque directe à leur estime de soi.
 

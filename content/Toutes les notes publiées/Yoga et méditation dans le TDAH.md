@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.165+02:00
+modified: 2026-07-29T08:18:28.693+02:00
 tags:
-  - micronote
-  - tdah
-  - yoga
-  - pleine-conscience
-  - monkey-mind
-  - dmn
-  - respiration-ha
+  - "#micronote"
+  - "#tdah"
+  - "#yoga"
+  - "#pleine-conscience"
+  - "#monkey-mind"
+  - "#dmn"
+  - "#respiration-ha"
 ---
 
 Les pratiques corps-esprit comme le yoga et la méditation (mindfulness) montrent des bénéfices modestes à modérés pour le TDAH, principalement en complément des traitements standards, mais les preuves restent limitées.
 
-Plusieurs études soulignent l’intérêt des pratiques corps-esprit comme le yoga et la méditation de pleine conscience dans la gestion du TDAH. Une étude taïwanaise menée auprès de 49 enfants d’environ 10 ans a montré que deux séances de yoga par semaine pendant 8 semaines amélioraient  la vitesse de réaction et la précision lors de tests d’attention soutenue et de discrimination, par rapport à un groupe témoin. Ces résultats suggèrent que le yoga, par sa combinaison de mouvements contrôlés, de respiration et de concentration, constitue une approche complémentaire accessible et peu risquée.
+Plusieurs études soulignent l’intérêt des pratiques corps-esprit comme le yoga et la méditation de pleine conscience dans la gestion du TDAH. Une étude taïwanaise menée auprès de 49 enfants d’environ 10 ans a montré que deux séances de yoga par semaine pendant 8 semaines amélioraient la vitesse de réaction et la précision lors de tests d’attention soutenue et de discrimination, par rapport à un groupe témoin. Ces résultats suggèrent que le yoga, par sa combinaison de mouvements contrôlés, de respiration et de concentration, constitue une approche complémentaire accessible et peu risquée.
 
 La méditation de pleine conscience agit particulièrement sur le **[[Le réseau DMN|réseau du mode par défaut]]** ([[Le réseau DMN|Default Mode Network]]), souvent appelé le « monkey mind », responsable des ruminations et des pensées qui s’enchaînent sans filtre. Des travaux, notamment ceux de l’université de Yale, ont démontré que la pratique régulière réduit l’activité excessive de ce réseau, favorisant ainsi une meilleure régulation attentionnelle et une diminution des distractions internes.
 

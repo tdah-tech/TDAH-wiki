@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T16:15:47.321+02:00
+modified: 2026-07-29T08:20:02.821+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ Les études systématiques et les revues narratives récentes confirment que la 
 
 La psychoéducation ne s'adresse pas uniquement aux personnes ayant un TDAH ou aux parents des enfants ayant ce trouble. Elle s’adresse également aux enseignants, aux conjoints, aux frères et sœurs, et plus largement à l’ensemble des adultes proches d'une personne TDAH.
 
-Il convient enfin de souligner que la psychoéducation n’est pas un acte unique. Les recommandations **les plus récentes insistent sur son caractère continu et évolutif. Les besoins d’information changent avec l’âge, avec l’apparition de [[Les commorbidités du TDAH|comorbidités]], avec les transitions de vie (passage à l’adolescence, entrée dans le monde du travail, parentalité)**.
+Il convient enfin de souligner que la psychoéducation n’est pas un acte unique. Les recommandations **les plus récentes insistent sur son caractère continu et évolutif. Les besoins d’information changent avec l’âge, avec l’apparition de [[Les comorbidités du TDAH|comorbidités]], avec les transitions de vie (passage à l’adolescence, entrée dans le monde du travail, parentalité)**.
 
 ## Pour aller plus loin
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T11:17:44.173+02:00
+modified: 2026-07-29T08:20:02.831+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -18,13 +18,13 @@ Sur le plan épidémiologique, les données de cohorte et les méta-analyses con
 
 **Les taux de dépression majeure se situent quant à eux entre 20 et 35 % selon les échantillons, avec un risque encore accru chez les femmes et chez les personnes dont le TDAH n’a pas été diagnostiqué ou traité pendant l’enfance**. Ces comorbidités apparaissent souvent de façon séquentielle : l’anxiété peut se manifester dès le primaire, tandis que les épisodes dépressifs émergent plus fréquemment à l’adolescence ou au début de l’âge adulte, lorsque les exigences scolaires, sociales et professionnelles deviennent plus complexes.
 
-Les mécanismes qui sous-tendent cette double vulnérabilité sont multiples. Sur le plan neurobiologique, le TDAH et les troubles de l’humeur partagent des altérations  des systèmes de neurotransmission dopaminergique et sérotoninergique.
+Les mécanismes qui sous-tendent cette double vulnérabilité sont multiples. Sur le plan neurobiologique, le TDAH et les troubles de l’humeur partagent des altérations des systèmes de neurotransmission dopaminergique et sérotoninergique.
 
 **[[La dysrégulation émotionnelle dans le TDAH|La dysrégulation émotionnelle]], considérée aujourd’hui comme une dimension centrale du TDAH, favorise l’apparition de réactions anxieuses disproportionnées face aux situations d’incertitude ou de performance, ainsi qu’un sentiment chronique d’échec qui alimente les cognitions dépressives.**
 
 Les déficits des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — planification, inhibition, [[Mémoire de travail et TDAH|mémoire de travail]] — génèrent par ailleurs **des expériences répétées de frustration, de rejet social ou d’insuccès académique et professionnel. Ces expériences, lorsqu’elles s’accumulent sans être correctement comprises ni accompagnées, installent progressivement un schéma de pensées négatives sur soi-même et sur l’avenir, terrain fertile pour la dépression**.
 
-Cliniquement, la coexistence d’un TDAH avec de l’anxiété ou de la dépression complique considérablement le diagnostic différentiel.  Lorsque ces comorbidités ne sont pas identifiées, le traitement du seul TDAH par des psychostimulants s’avère souvent insuffisant, voire mal toléré, et le risque de chronification, de conduites à risque ou de désinsertion sociale augmente nettement.
+Cliniquement, la coexistence d’un TDAH avec de l’anxiété ou de la dépression complique considérablement le diagnostic différentiel. Lorsque ces comorbidités ne sont pas identifiées, le traitement du seul TDAH par des psychostimulants s’avère souvent insuffisant, voire mal toléré, et le risque de chronification, de conduites à risque ou de désinsertion sociale augmente nettement.
 
 La prise en charge doit donc être intégrée et personnalisée. Elle commence par une évaluation rigoureuse qui distingue les symptômes primaires du TDAH de ceux qui sont secondaires à l’anxiété ou à la dépression.
 
@@ -32,7 +32,7 @@ La prise en charge doit donc être intégrée et personnalisée. Elle commence p
 
 ## Pour aller plus loin :
 
-- [[Les commorbidités du TDAH]]
+- [[Les comorbidités du TDAH]]
 - [[Les thérapies cognitivo-comportementale (TCC)]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]

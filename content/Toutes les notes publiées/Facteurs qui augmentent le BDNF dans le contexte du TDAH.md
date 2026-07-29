@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.110+02:00
+modified: 2026-07-29T08:18:28.482+02:00
 tags:
-  - micronote
-  - tdah
-  - bdnf
-  - sommeil
-  - exercice-physique
-  - omega-3
-  - curcumine
-  - flavonoïdes
-  - lumière-naturelle
+  - "#micronote"
+  - "#tdah"
+  - "#bdnf"
+  - "#sommeil"
+  - "#exercice-physique"
+  - "#omega-3"
+  - "#curcumine"
+  - "#flavonoïdes"
+  - "#lumière-naturelle"
 ---
 
-Dans le TDAH,  plutôt que d’attendre passivement une maturation cérébrale qui arrive avec retard, il est possible d’agir activement sur le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] pour créer un environnement neurobiologiquement favorable. La période de l’enfance à la fin de la vingtaine reste une fenêtre privilégiée où ces stratégies peuvent maximiser le rattrapage développemental.
+Dans le TDAH, plutôt que d’attendre passivement une maturation cérébrale qui arrive avec retard, il est possible d’agir activement sur le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] pour créer un environnement neurobiologiquement favorable. La période de l’enfance à la fin de la vingtaine reste une fenêtre privilégiée où ces stratégies peuvent maximiser le rattrapage développemental.
 
 Parmi tous les facteurs étudiés, **l’exercice physique** constitue le plus puissant inducteur de [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]]. Les activités sportives produisent des augmentations significatives du [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] périphérique et central, avec un effet particulièrement marqué dans l’hippocampe et le cortex préfrontal (Dinoff et al., 2017 ; Pedersen et al., 2019). Une méta-analyse a confirmé que l’intensité et la durée de l’effort sont des déterminants clés de cette élévation.
 

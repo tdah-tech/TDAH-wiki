@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-28T15:55:31.235+02:00
+modified: 2026-07-29T08:19:13.487+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ Une variante utile, également issue de la même approche, consiste à simplemen
 
 Le cerveau TDAH a une préférence marquée pour l'immédiat et une dévaluation rapide de tout ce qui est différé. Ce principe s'applique exactement de la même façon au renforcement positif : plus l'encouragement suit rapidement le comportement, plus il a de chances d'être associé à ce comportement précis.
 
-La description de comportement doit porter sur une action réalisée dans les cinq dernières secondes, ce qui donne une idée assez concrète du niveau d'immédiateté visé. Un compliment donné le soir pour quelque chose qui s'est bien passé le matin a perdu l'essentiel de sa valeur d'apprentissage, même si l'intention reste bonne. Néamoins les renforcement non immédiatw peuvent restaurer l'image de soi.
+La description de comportement doit porter sur une action réalisée dans les cinq dernières secondes, ce qui donne une idée assez concrète du niveau d'immédiateté visé. Un compliment donné le soir pour quelque chose qui s'est bien passé le matin a perdu l'essentiel de sa valeur d'apprentissage, même si l'intention reste bonne. Néanmoins, les renforcements non immédiats peuvent restaurer l'image de soi.
 
 ### La fréquence : compenser un déséquilibre déjà installé
 

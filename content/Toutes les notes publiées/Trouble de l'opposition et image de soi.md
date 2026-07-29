@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.163+02:00
+modified: 2026-07-29T08:18:28.689+02:00
 tags:
-  - micronote
-  - tdah
-  - trouble-opposition
-  - estime-de-soi
-  - image-de-soi
-  - outils
+  - "#micronote"
+  - "#tdah"
+  - "#trouble-opposition"
+  - "#estime-de-soi"
+  - "#image-de-soi"
+  - "#outils"
 ---
 
 Quand un enfant reçoit finalement un diagnostic de TOP, ou même simplement un diagnostic de TDAH avec une composante oppositionnelle, il a déjà, dans l'immense majorité des cas, plusieurs années d'histoire relationnelle derrière lui. Des années pendant lesquelles il a entendu, directement ou en creux, qu'il était "difficile", "épuisant", "toujours en train de chercher les ennuis", ou "pas comme les autres enfants de la classe". Cette accumulation ne reste jamais neutre. Bien avant que quiconque pose un mot clinique dessus, l'enfant a déjà construit une histoire sur lui-même, et cette histoire, une fois installée, devient un acteur à part entière du trouble.
@@ -17,7 +17,7 @@ Quand un enfant reçoit finalement un diagnostic de TOP, ou même simplement un 
 
 Un enfant ne naît pas en pensant "je suis quelqu'un de difficile". Cette idée se construit, phrase après phrase, à partir de ce qu'il entend dire de lui : par ses parents fatigués, par ses enseignants qui le signalent aux collègues, par des frères et sœurs qui comparent, par des remarques entendues à moitié dans une pièce d'à côté. Un enfant capte énormément de ce qui se dit sur lui sans qu'on s'adresse directement à lui, et il n'a évidemment pas les outils pour relativiser ou contextualiser ces propos. Ce qu'il retient, c'est une conclusion simple et globale : je suis le problème.
 
-Cette conclusion a un effet direct sur le comportement, et c'est là que la boucle devient particulièrement difficile à interrompre. Un enfant qui s'est déjà classé  dans la catégorie "celui qui pose problème" n'a plus grand-chose à perdre en se comportant comme tel. Pourquoi se donner la peine d'essayer d'être différent si, de toute façon, l'étiquette est déjà posée et confirmée par tout le monde autour de lui ? Ce mécanisme rejoint directement le [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH|cycle coercitif]] : non seulement l'environnement renforce involontairement le comportement oppositionnel par l'attention qu'il lui accorde, mais l'enfant lui-même finit par agir en cohérence avec l'image qu'on lui a renvoyée. Le trouble ne se contente plus de produire des comportements, il devient une partie de l'identité que l'enfant défend, parfois même inconsciemment, quand quelqu'un tente de le contredire.
+Cette conclusion a un effet direct sur le comportement, et c'est là que la boucle devient particulièrement difficile à interrompre. Un enfant qui s'est déjà classé dans la catégorie "celui qui pose problème" n'a plus grand-chose à perdre en se comportant comme tel. Pourquoi se donner la peine d'essayer d'être différent si, de toute façon, l'étiquette est déjà posée et confirmée par tout le monde autour de lui ? Ce mécanisme rejoint directement le [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH|cycle coercitif]] : non seulement l'environnement renforce involontairement le comportement oppositionnel par l'attention qu'il lui accorde, mais l'enfant lui-même finit par agir en cohérence avec l'image qu'on lui a renvoyée. Le trouble ne se contente plus de produire des comportements, il devient une partie de l'identité que l'enfant défend, parfois même inconsciemment, quand quelqu'un tente de le contredire.
 
 #### La différence entre honte et culpabilité
 

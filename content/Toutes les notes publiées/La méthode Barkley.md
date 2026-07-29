@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T17:02:11.428+02:00
+modified: 2026-07-29T08:18:28.490+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#fonctions-executives"
 ---
 
-La méthode de Russell A. Barkley peut se résumer  comme une approche pragmatique et empiriquement validée du TDAH conçu non comme un simple trouble de l’attention, mais comme un déficit primaire de l’inhibition comportementale et de l’autorégulation.
+La méthode de Russell A. Barkley peut se résumer comme une approche pragmatique et empiriquement validée du TDAH conçu non comme un simple trouble de l’attention, mais comme un déficit primaire de l’inhibition comportementale et de l’autorégulation.
 
 La méthode ne vise à développer une motivation intrinsèque fragile, mais à externaliser les informations, le temps et les sources de motivation afin de créer un environnement prothétique qui compense les difficultés au point d’exécution. (principalement : Les conséquences doivent être immédiates, fréquentes et tangibles ; les rappels doivent être visibles ; les tâches doivent être découpées et soutenues par des indices externes).
 

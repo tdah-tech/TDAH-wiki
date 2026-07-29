@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-28T10:32:12.870+02:00
+modified: 2026-07-29T08:18:28.490+02:00
 tags:
-  - micronote
-  - tdah
-  - cecite-temporelle
-  - gestion-du-temps
-  - discounting-temporel
-  - procrastination
+  - "#micronote"
+  - "#tdah"
+  - "#cecite-temporelle"
+  - "#gestion-du-temps"
+  - "#discounting-temporel"
+  - "#procrastination"
 ---
 
 La perception du temps selon le mode « maintenant ou pas maintenant » constitue l’une des particularités du fonctionnement TDAH, une facette précise de la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]] popularisée par Russell Barkley.
@@ -27,11 +27,11 @@ Ce mode de fonctionnement est étroitement lié à un phénomène appelé "disco
 
 Chez les personnes avec TDAH, cette courbe de dévalorisation est souvent plus raide que dans la population générale. D’où la tendance à reporter ce qui n’est pas encore urgent, puis à basculer brutalement dans l’action lorsque l’échéance bascule enfin dans le « maintenant ». Ce basculement produit les fameux sprints de dernière minute, où l’énergie et la concentration apparaissent soudainement, parfois de façon spectaculaire, une fois que la pression externe est devenue suffisante.
 
-Ces observations cliniques sont étayées par la recherche. Une méta-analyse portant sur vingt-cinq études et plus de mille six cents participants a mis en évidence un déficit d'ampleur moyenne sur ces tâches dites de "timing". Le "discounting temporel" — cette dévalorisation plus rapide des récompenses ou conséquences différées — est également plus marqué chez les personnes avec TDAH, comme le montrent plusieurs méta-analyses de cas-contrôles. Des travaux classiques, notamment ceux de Barkley, ont dès le début des années 2000 mis en évidence  la dévalorisation temporelle plus raide. Ces données s'inscrivent dans un modèle cohérent : des particularités du [[Dopamine et TDAH|système de récompense]], de la vigilance et des réseaux cérébraux impliqués dans la gestion du temps.
+Ces observations cliniques sont étayées par la recherche. Une méta-analyse portant sur vingt-cinq études et plus de mille six cents participants a mis en évidence un déficit d'ampleur moyenne sur ces tâches dites de "timing". Le "discounting temporel" — cette dévalorisation plus rapide des récompenses ou conséquences différées — est également plus marqué chez les personnes avec TDAH, comme le montrent plusieurs méta-analyses de cas-contrôles. Des travaux classiques, notamment ceux de Barkley, ont dès le début des années 2000 mis en évidence la dévalorisation temporelle plus raide. Ces données s'inscrivent dans un modèle cohérent : des particularités du [[Dopamine et TDAH|système de récompense]], de la vigilance et des réseaux cérébraux impliqués dans la gestion du temps.
 
 Ce fonctionnement a des conséquences concrètes et répétées. Il rend difficile le démarrage des tâches non urgentes, même lorsqu’elles sont importantes. Il entretient le cycle de la procrastination suivie d’un hyperengagement sous contrainte. Il explique aussi **le phénomène de « mode attente »** : lorsqu’un événement approche, certaines personnes se retrouvent incapables de s’engager pleinement dans d’autres activités, comme si le temps restant était déjà contaminé par l’échéance future, sans pour autant pouvoir encore agir sur celle-ci. Le présent devient flottant, ni pleinement disponible pour autre chose, ni encore mobilisé par l’urgence.
 
-Il est important de souligner que ce n’est pas un défaut de caractère.  Le cerveau TDAH est davantage conçu pour réagir à ce qui est immédiat et saillant qu’à ce qui est différé et abstrait. Les stratégies qui fonctionnent le mieux tiennent compte de cette réalité plutôt que de lutter contre elle. Rendre le futur plus concret, créer des points d’urgence intermédiaires, découper le temps en unités plus proches du « maintenant », utiliser des supports externes qui matérialisent l’écoulement du temps, sont autant de façons d’adapter l’environnement à ce mode de fonctionnement plutôt que d’exiger du cerveau qu’il fonctionne comme s’il n’avait pas cette particularité.
+Il est important de souligner que ce n’est pas un défaut de caractère. Le cerveau TDAH est davantage conçu pour réagir à ce qui est immédiat et saillant qu’à ce qui est différé et abstrait. Les stratégies qui fonctionnent le mieux tiennent compte de cette réalité plutôt que de lutter contre elle. Rendre le futur plus concret, créer des points d’urgence intermédiaires, découper le temps en unités plus proches du « maintenant », utiliser des supports externes qui matérialisent l’écoulement du temps, sont autant de façons d’adapter l’environnement à ce mode de fonctionnement plutôt que d’exiger du cerveau qu’il fonctionne comme s’il n’avait pas cette particularité.
 
 ## Pour aller plus loin :
 

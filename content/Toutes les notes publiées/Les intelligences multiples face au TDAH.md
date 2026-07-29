@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.138+02:00
+modified: 2026-07-29T08:18:28.535+02:00
 tags:
-  - micronote
-  - tdah
-  - intelligences-multiples
+  - "#micronote"
+  - "#tdah"
+  - "#intelligences-multiples"
 ---
 
 Parmi les idées reçues les plus persistantes lié au TDAH figure celle selon laquelle ce trouble diminuerait l’intelligence en raison de performance scolaires moindre.
@@ -16,7 +16,7 @@ Les recherches disponibles, encore limitées mais déjà éclairantes, permetten
 
 L’intelligence logico-mathématique repose sur la capacité à maintenir une attention soutenue, à manipuler des informations en [[Mémoire de travail et TDAH|mémoire de travail]] et à enchaîner des raisonnements séquentiels. Or le TDAH affecte précisément ces mécanismes. Les fluctuations attentionnelles, les difficultés d’organisation et les lapses de concentration rendent plus laborieux le traitement de problèmes complexes ou la poursuite d’une démarche analytique sur la durée. Il ne s’agit pas d’une incapacité à raisonner, mais d’une fragilité dans les conditions nécessaires à l’exercice fluide de cette intelligence. L’intelligence interpersonnelle, quant à elle, peut être perturbée par l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], la difficulté à décoder les signaux sociaux à temps ou subtils et la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]. Ces éléments compliquent parfois la fluidité des interactions, la prise en compte des intentions d’autrui et l’ajustement relationnel. Enfin, l’intelligence intrapersonnelle, celle qui permet de se connaître soi-même, de réguler ses états internes et de construire une image cohérente de ses propres motivations, se trouve fréquemment fragilisée. Le TDAH touche directement les mécanismes de conscience de soi et de maîtrise des réactions émotionnelles, ce qui peut retarder ou rendre plus chaotique le développement de cette connaissance intérieure.
 
-Les autres formes d’intelligence ne montrent pas, dans les comparaisons disponibles, de différence significative liée au diagnostic. L’intelligence linguistique conserve généralement son potentiel, même si les performances scolaires  en écriture peuvent être impactée par l'orthographe. L’intelligence spatiale, celle qui permet de visualiser, de se représenter mentalement des formes ou des espaces, reste souvent intacte et constitue même, chez un certain nombre de personnes, un point d’appui créatif. L’intelligence musicale, fondée sur la sensibilité aux rythmes, aux hauteurs et aux structures sonores, n’apparaît pas spécifiquement diminuée. L’intelligence corporelle-kinesthésique, liée à la maîtrise du corps et au mouvement, peut même se trouver renforcée par le besoin d’activité physique caractéristique de nombreux profils hyperactifs. L’intelligence naturaliste, celle qui permet de reconnaître et de classer les éléments du vivant et de l’environnement, ne présente pas non plus de lien particulier avec le trouble. Quant à l’intelligence existentielle, elle demeure en dehors des données comparatives actuelles.
+Les autres formes d’intelligence ne montrent pas, dans les comparaisons disponibles, de différence significative liée au diagnostic. L’intelligence linguistique conserve généralement son potentiel, même si les performances scolaires en écriture peuvent être impactée par l'orthographe. L’intelligence spatiale, celle qui permet de visualiser, de se représenter mentalement des formes ou des espaces, reste souvent intacte et constitue même, chez un certain nombre de personnes, un point d’appui créatif. L’intelligence musicale, fondée sur la sensibilité aux rythmes, aux hauteurs et aux structures sonores, n’apparaît pas spécifiquement diminuée. L’intelligence corporelle-kinesthésique, liée à la maîtrise du corps et au mouvement, peut même se trouver renforcée par le besoin d’activité physique caractéristique de nombreux profils hyperactifs. L’intelligence naturaliste, celle qui permet de reconnaître et de classer les éléments du vivant et de l’environnement, ne présente pas non plus de lien particulier avec le trouble. Quant à l’intelligence existentielle, elle demeure en dehors des données comparatives actuelles.
 
 Le tableau suivant synthétise ces observations à partir des travaux cités.
 

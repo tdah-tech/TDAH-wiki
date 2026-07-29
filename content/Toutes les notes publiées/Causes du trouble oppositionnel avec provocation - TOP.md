@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.099+02:00
+modified: 2026-07-29T08:20:02.822+02:00
 tags:
-  - micronote
-  - tdah
-  - top
-  - trouble-opposition
-  - cycle-coercitif
-  - neurobiologie
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#top"
+  - "#trouble-opposition"
+  - "#cycle-coercitif"
+  - "#neurobiologie"
+  - "#impulsivite"
 ---
 
 Il n'y a pas une cause unique au TOP, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.
 
-**Le terrain neurobiologique.** Les enfants avec un TDAH ont des difficultés de régulation des émotions et un contrôle inhibiteur plus faible, deux fonctions qui dépendent des mêmes circuits préfrontaux impliqués dans l'attention et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]. Concrètement, cela veut dire que la frustration monte plus vite et redescend plus lentement, et que le frein qui permettrait normalement de temporiser une réaction de colère fonctionne moins bien. Le TOP n'est donc pas toujours un trouble "à part" : chez beaucoup d'enfants TDAH, il apparaît comme une conséquence directe de ces difficultés de régulation, plutôt que comme un problème de caractère ou d'éducation.  Le TOP pourrait  être lié à des perturbations dans les systèmes de neurotransmission sérotoninergique et [[Dopamine et TDAH|dopaminergique]] induisant un l'état émotionnel qui pourrait rendre les enfants et adolescents plus enclins à des comportements de recherche de sensations, comme la transgression des règles.
+**Le terrain neurobiologique.** Les enfants avec un TDAH ont des difficultés de régulation des émotions et un contrôle inhibiteur plus faible, deux fonctions qui dépendent des mêmes circuits préfrontaux impliqués dans l'attention et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]. Concrètement, cela veut dire que la frustration monte plus vite et redescend plus lentement, et que le frein qui permettrait normalement de temporiser une réaction de colère fonctionne moins bien. Le TOP n'est donc pas toujours un trouble "à part" : chez beaucoup d'enfants TDAH, il apparaît comme une conséquence directe de ces difficultés de régulation, plutôt que comme un problème de caractère ou d'éducation. Le TOP pourrait être lié à des perturbations dans les systèmes de neurotransmission sérotoninergique et [[Dopamine et TDAH|dopaminergique]] induisant un l'état émotionnel qui pourrait rendre les enfants et adolescents plus enclins à des comportements de recherche de sensations, comme la transgression des règles.
 
 **Le tempérament.** Certains enfants naissent avec une réactivité émotionnelle plus intense, une tolérance à la frustration plus basse, une sensibilité au rejet ou à l'échec plus marquée. Ce terrain tempéramental, combiné aux difficultés attentionnelles du TDAH, crée un terreau favorable à l'installation progressive de comportements oppositionnels.
 
@@ -30,4 +30,4 @@ En résumé, le TOP associé au TDAH se comprend mieux comme le résultat d'une 
 - [[Parentalité et TDAH]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
-- [[Les commorbidités du TDAH]]
+- [[Les comorbidités du TDAH]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T16:45:55.137+02:00
+modified: 2026-07-29T08:18:28.585+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ Les données scientifiques convergent pour confirmer l’intérêt de cette appr
 
 Chez l’enfant et l’adolescent, la logique reste la même, mais les modalités s’adaptent. **La Haute Autorité de santé recommande explicitement les thérapies comportementales, cognitives et émotionnelles (TCCE) pour agir sur le retentissement fonctionnel du trouble. [[L'importance de la psychoéducation|La psychoéducation]] familiale, l’entraînement aux compétences parentales, les [[Bien calibrer le renforcement positif|techniques de renforcement positif]], la résolution de problèmes et le travail sur la régulation émotionnelle forment le socle de ces interventions. L’implication des parents et, lorsque c’est possible, des enseignants, est déterminante, car l’environnement joue un rôle majeur dans la consolidation des nouvelles compétences**.
 
-Il convient de souligner que la TCC pour le TDAH n’est pas une thérapie générique. **Elle doit être spécifiquement adaptée aux particularités du fonctionnement attentionnel et exécutif. Une TCC classique centrée uniquement sur les pensées anxieuses ou dépressives risque de se révéler insuffisante si elle ne s’attaque pas en parallèle aux difficultés d’organisation, de planification et de gestion de l’attention**. C’est précisément cette adaptation qui explique son efficacité  par rapport à d’autres approches psychothérapeutiques moins ciblées.
+Il convient de souligner que la TCC pour le TDAH n’est pas une thérapie générique. **Elle doit être spécifiquement adaptée aux particularités du fonctionnement attentionnel et exécutif. Une TCC classique centrée uniquement sur les pensées anxieuses ou dépressives risque de se révéler insuffisante si elle ne s’attaque pas en parallèle aux difficultés d’organisation, de planification et de gestion de l’attention**. C’est précisément cette adaptation qui explique son efficacité par rapport à d’autres approches psychothérapeutiques moins ciblées.
 
 ## Pour aller plus loin :
 

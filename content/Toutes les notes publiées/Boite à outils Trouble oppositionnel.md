@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-28T15:55:44.287+02:00
+modified: 2026-07-29T08:19:13.479+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,13 +11,13 @@ tags:
   - "#punition"
 ---
 
-Aavec un enfant TDAH-TOP, la discipline classique (plus de sanctions, plus de fermeté, plus de conséquences) échoue le plus souvent, et parfois elle aggrave les choses. Ce n'est pas parce que l'enfant "a besoin de limites plus dures", c'est parce que son cerveau ne traite pas la punition comme un signal efficace pour changer de comportement, et que l'[[Eviter l'escalade et le conflit|escalade]] nourrit exactement le cycle qu'on cherche à casser. Les bonnes pratiques reposent sur un changement de logique, pas sur un durcissement.
+Avec un enfant TDAH-TOP, la discipline classique (plus de sanctions, plus de fermeté, plus de conséquences) échoue le plus souvent, et parfois elle aggrave les choses. Ce n'est pas parce que l'enfant "a besoin de limites plus dures", c'est parce que son cerveau ne traite pas la punition comme un signal efficace pour changer de comportement, et que l'[[Eviter l'escalade et le conflit|escalade]] nourrit exactement le cycle qu'on cherche à casser. Les bonnes pratiques reposent sur un changement de logique, pas sur un durcissement.
 
 ### Sortir du [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH|cycle coercitif]]
 
-Le premier réflexe, souvent le plus difficile, consiste à ne pas répondre à l'escalade par l'escalade. Quand un enfant hausse le ton, s'oppose, l'adulte a tendance à hausser le ton aussi, ce qui confirme à l'enfant que le conflit est la voie normale d'interaction. Casser ce cycle signifie  baisser sa propre intensité au moment même où l'enfant monte la sienne : parler plus doucement, plus lentement, avec moins de mots. Ce n'est pas du laxisme, c'est une stratégie : un adulte agité ne peut pas calmer un enfant agité.
+Le premier réflexe, souvent le plus difficile, consiste à ne pas répondre à l'escalade par l'escalade. Quand un enfant hausse le ton, s'oppose, l'adulte a tendance à hausser le ton aussi, ce qui confirme à l'enfant que le conflit est la voie normale d'interaction. Casser ce cycle signifie baisser sa propre intensité au moment même où l'enfant monte la sienne : parler plus doucement, plus lentement, avec moins de mots. Ce n'est pas du laxisme, c'est une stratégie : un adulte agité ne peut pas calmer un enfant agité.
 
-Concrètement, ça implique aussi de repérer les moments où on donne accidentellement raison au comportement oppositionnel. Un enfant qui obtient ce qu'il veut après une crise, une opposition, ou qui capte enfin l'attention du parent seulement quand il explose, apprend  que le conflit fonctionne. Il ne le fait pas exprès, mais le cerveau retient ce qui marche.
+Concrètement, ça implique aussi de repérer les moments où on donne accidentellement raison au comportement oppositionnel. Un enfant qui obtient ce qu'il veut après une crise, une opposition, ou qui capte enfin l'attention du parent seulement quand il explose, apprend que le conflit fonctionne. Il ne le fait pas exprès, mais le cerveau retient ce qui marche.
 
 ### Reconstruire la relation avant de corriger le comportement
 
@@ -33,7 +33,7 @@ Quand une demande est vraiment nécessaire, la façon de la formuler compte éno
 
 ### L'approche collaborative plutôt que le rapport de force
 
-Une méthode qui a fait ses preuves spécifiquement pour ce profil d'enfants est consiste à partir du principe qu' un enfant  se comporte bien quand il le peut, et mal quand il n'y arrive pas.
+Une méthode qui a fait ses preuves spécifiquement pour ce profil d'enfants est consiste à partir du principe qu' un enfant se comporte bien quand il le peut, et mal quand il n'y arrive pas.
 
 C'est de considéré que l'opposition n'est pas un véritable choix de l'enfant, c'est le signe qu'une exigence dépasse, à ce moment-là, les capacités de régulation de l'enfant.
 

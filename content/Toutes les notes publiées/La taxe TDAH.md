@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.122+02:00
+modified: 2026-07-29T08:19:13.490+02:00
 tags:
-  - micronote
-  - tdah
-  - taxe-tdah
-  - dopamine
-  - argent
+  - "#micronote"
+  - "#tdah"
+  - "#taxe-tdah"
+  - "#dopamine"
+  - "#argent"
 ---
 
 **La taxe TDAH** (ou _ADHD tax_) est un terme très utilisé dans la communauté TDAH pour désigner **tous les coûts supplémentaires** que les personnes avec TDAH paient à cause de leurs symptômes.
 
-Ce n’est **pas** une vraie taxe officielle, ni un terme médical. C’est un concept populaire apparu surtout en ligne (Reddit, Twitter, TikTok…) à la fin des années 2010 pour mettre un nom sur une réalité partagée : vivre avec un cerveau TDAH dans un monde conçu pour des cerveaux neurotypiques a un prix. En d'autres termes la taxe TDAH, c’est le prix invisible que l’on paie pour compenser les symptomes du TDAH.
+Ce n’est **pas** une vraie taxe officielle, ni un terme médical. C’est un concept populaire apparu surtout en ligne (Reddit, Twitter, TikTok…) à la fin des années 2010 pour mettre un nom sur une réalité partagée : vivre avec un cerveau TDAH dans un monde conçu pour des cerveaux neurotypiques a un prix. En d'autres termes la taxe TDAH, c’est le prix invisible que l’on paie pour compenser les symptômes du TDAH.
 Beaucoup de personnes avec TDAH estiment que cette « taxe » leur coûte plusieurs centaines à plusieurs milliers d’euros par an.
 
 Ce que ça inclut concrètement:

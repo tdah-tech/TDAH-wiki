@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T19:22:01.099+02:00
+modified: 2026-07-29T08:18:28.688+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,7 @@ tags:
   - "#organisation"
 ---
 
-Un grand tableau blanc bien visible sur le bureau, assorti de feutres de couleurs différentes, constitue  une technique reconnue et largement recommandée dans la gestion du TDAH.
+Un grand tableau blanc bien visible sur le bureau, assorti de feutres de couleurs différentes, constitue une technique reconnue et largement recommandée dans la gestion du TDAH.
 
 Chez les personnes concernées par ce trouble, ce qui n’est pas sous les yeux a tendance à disparaître purement et simplement de la conscience. Une application de calendrier ou une liste numérique, aussi bien conçue soit-elle, reste enfermée derrière un écran et nécessite une action volontaire pour être consultée. **Le tableau blanc, au contraire, s’impose dans le champ visuel de façon constante**. Il devient une extension externe de la [[Mémoire de travail et TDAH|mémoire de travail]], un support toujours présent qui rappelle les priorités sans demander d’effort supplémentaire d’ouverture ou de recherche.
 

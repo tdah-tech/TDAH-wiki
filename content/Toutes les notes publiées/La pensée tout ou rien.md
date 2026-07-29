@@ -1,19 +1,19 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.121+02:00
+modified: 2026-07-29T08:18:28.491+02:00
 tags:
-  - micronote
-  - tdah
-  - pensee-dichotomique
-  - distorsion-cognitive
-  - perfectionnisme
-  - dysregulation-emotionnelle
+  - "#micronote"
+  - "#tdah"
+  - "#pensee-dichotomique"
+  - "#distorsion-cognitive"
+  - "#perfectionnisme"
+  - "#dysregulation-emotionnelle"
 ---
 
 La pensée « tout ou rien », également appelée pensée en noir et blanc ou pensée dichotomique, désigne la tendance à classer les situations, les performances, les personnes ou les efforts en catégories absolues, sans gradation intermédiaire. Une action est soit réussie parfaitement, soit un échec total. Un engagement est soit total, soit inutile. Cette polarisation n’est pas exclusive au TDAH, mais elle est fréquemment rapportée dans le vécu des personnes concernées et constitue une observation clinique récurrente dans la littérature spécialisée et les approches de coaching.
 
-Sur le plan scientifique, les données sont plus nuancées qu’il n’y paraît. Il existe relativement peu d’études empiriques de grande envergure démontrant de façon isolée que la pensée dichotomique est significativement plus fréquente dans le TDAH, indépendamment des comorbidités. Certaines analyses soulignent d’ailleurs que cette distorsion cognitive apparaît plus nettement lorsque le TDAH s’accompagne d’anxiété, de dépression ou de perfectionnisme. . Des  travaux, comme ceux de Pan et al. (2023), mentionnent cependant la pensée tout ou rien parmi les distorsions cognitives fréquemment rencontrées chez les adultes avec TDAH. Le perfectionnisme, quant à lui, bénéficie de davantage de données empiriques en lien avec le trouble, et la pensée dichotomique en constitue souvent un mécanisme central.
+Sur le plan scientifique, les données sont plus nuancées qu’il n’y paraît. Il existe relativement peu d’études empiriques de grande envergure démontrant de façon isolée que la pensée dichotomique est significativement plus fréquente dans le TDAH, indépendamment des comorbidités. Certaines analyses soulignent d’ailleurs que cette distorsion cognitive apparaît plus nettement lorsque le TDAH s’accompagne d’anxiété, de dépression ou de perfectionnisme. . Des travaux, comme ceux de Pan et al. (2023), mentionnent cependant la pensée tout ou rien parmi les distorsions cognitives fréquemment rencontrées chez les adultes avec TDAH. Le perfectionnisme, quant à lui, bénéficie de davantage de données empiriques en lien avec le trouble, et la pensée dichotomique en constitue souvent un mécanisme central.
 
 Malgré cette relative modestie des études spécifiques, le phénomène reste solidement ancré dans la clinique et dans le témoignage des personnes concernées. Plusieurs facteurs propres au TDAH favorisent son apparition. La [[Surcharge mentale et TDAH|surcharge sensorielle et cognitive]], l’intolérance à l’incertitude, la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] et le besoin de repères clairs dans un environnement perçu comme chaotique poussent le cerveau à simplifier la réalité en catégories tranchées.
 
