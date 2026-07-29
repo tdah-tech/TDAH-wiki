@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.153+02:00
+modified: 2026-07-29T15:19:21.146+02:00
 tags:
-  - micronote
-  - tdah
-  - prevalence
-  - epidemiologie
-  - filles
-  - sous-diagnostic
+  - "#micronote"
+  - "#tdah"
+  - "#prevalence"
+  - "#epidemiologie"
+  - "#filles"
+  - "#sous-diagnostic"
 ---
 
-En France, les estimations de l'Inserm et de la Haute Autorité de Santé situent la prévalence autour de 3 à 5 % des enfants d'âge scolaire, et entre 2,5 et 2,9 % chez les adultes, soit environ 1,5 million de personnes sur 64 millions d'adultes.
+En France, les estimations de l'Inserm et de la Haute Autorité de Santé situent la prévalence autour de 3 à 5 % des enfants d'âge scolaire, et entre 2,5 et 2,9 % chez les adultes, soit environ 1,8 à 2,2 millions de personnes concernées.
 
 Au niveau mondial, les chiffres sont proches : environ 5 % chez les enfants, 3 % chez les adultes selon l'OMS. Ces ordres de grandeur sont globalement stables depuis une dizaine d'années.
 

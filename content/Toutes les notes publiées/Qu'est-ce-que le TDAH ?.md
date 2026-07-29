@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T08:44:31.814+02:00
+modified: 2026-07-29T15:15:22.574+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -85,11 +85,12 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[La pensée maintenant-pas maintenant]]
 
-## Commorbidités du TDAH
+## Comorbidités du TDAH
 
 - [[Les comorbidités du TDAH]]
 - [[TDAH et autisme]]
 - [[Troubles anxieux et dépression]]
+- [[Ruminations et TDAH]]
 - [[Association entre TDAH et délinquance]]
 - [[Association entre TDAH et conduites addictives]]
 - [[Les troubles du sommeil chez les TADH]]
