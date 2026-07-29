@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T10:47:30.011+02:00
+modified: 2026-07-29T14:05:26.864+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,6 +39,7 @@ Il convient toutefois de souligner que l'’auto-efficacité n’est pas une ill
 
 - [[Vivre avec un TDAH]]
 - [[L’effet Pygmalion et l'effet Golem]]
+- [[Perfectionnisme et le TDAH]]
 - [[Amnésie du succès chez les personnes TDAH]]
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]

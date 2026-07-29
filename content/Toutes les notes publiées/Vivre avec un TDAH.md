@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T11:19:45.302+02:00
+modified: 2026-07-29T14:05:22.970+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -85,6 +85,7 @@ tags:
 
 - [[La pensée tout ou rien]]
 - [[La pensée maintenant-pas maintenant]]
+- [[Perfectionnisme et le TDAH]]
 
 ## Vie de couple et vie familiale
 
