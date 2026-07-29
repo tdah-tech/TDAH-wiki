@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.121+02:00
+modified: 2026-07-29T10:39:26.567+02:00
 tags:
   - micronote
   - tdah
@@ -21,6 +21,7 @@ tags:
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]
 - [[Réussite et échec scolaire]]
+- [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 
 ## Le méthylphénidate à l'école
 

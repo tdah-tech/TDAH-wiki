@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-28T10:30:41.273+02:00
+modified: 2026-07-29T10:37:19.493+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -55,6 +55,7 @@ tags:
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]
 - [[La sensibilité au rejet (dysphorie)]]
+- [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 
 ## La taxe TDAH
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.630+02:00
+modified: 2026-07-29T10:37:21.331+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,3 +28,4 @@ Sans **« registre interne »** fiable des accomplissements passés, chaque nouv
 - [[Savoir abandonner les projets]]
 - [[Amnésie du succès chez les personnes TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]
+- [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
