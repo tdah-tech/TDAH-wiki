@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T18:29:18.004+02:00
+modified: 2026-07-29T18:52:56.717+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,13 @@ En revanche, **les symptômes d’inattention se montrent nettement plus stables
 
 Cette transformation conduit à un changement du tableau clinique. Alors que la forme combinée (TDAH) prédomine souvent dans l’enfance, la [[Profil à prédominance inattentive - tdah|présentation à prédominance inattentive]] devient la plus courante à l’âge adulte (TDA).
 
-Les [[Les comorbidités du TDAH|comorbidités]] évoluent également. Dans l’enfance, les [[Le trouble oppositionnel avec provocation et le TDAH|troubles oppositionnels]] et les troubles des conduites sont fréquents. **À l’adolescence et à l’âge adulte, on observe davantage de troubles anxieux, de dépression, de troubles de l’usage de substances et, dans certains cas, de [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] marquée**. Ces associations ne sont pas fortuites : elles résultent à la fois de la vulnérabilité neurobiologique sous-jacente et des conséquences accumulées des échecs scolaires, sociaux et professionnels. **Les facteurs qui prédisent le mieux la persistance des symptômes à l’âge adulte sont la sévérité initiale du TDAH, la présence de comorbidités précoces et l’adversité psychosociale**. À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure adaptation, sans pour autant faire disparaître complètement les difficultés sous-jacentes.
+Les [[Les comorbidités du TDAH|comorbidités]] évoluent également. Dans l’enfance, les [[Le trouble oppositionnel avec provocation et le TDAH|troubles oppositionnels]] et les troubles des conduites sont fréquents.
+
+**À l’adolescence et à l’âge adulte, on observe davantage de troubles anxieux, de dépression, de troubles de l’usage de substances et, dans certains cas, de [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] marquée**.
+
+\*\*Les facteurs qui prédisent le mieux la persistance des symptômes à l’âge adulte sont la sévérité initiale du TDAH, la présence de comorbidités précoces.
+
+À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure adaptation, sans pour autant faire disparaître complètement les difficultés sous-jacentes.
 
 Sur le plan neurobiologique, les données d’imagerie et les études de développement cortical montrent un [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans|retard de maturation]] des réseaux préfrontaux et fronto-striataux, particulièrement impliqués dans le contrôle exécutif et l’attention. **Ce retard explique en partie pourquoi les symptômes s’atténuent avec l’âge chez certains individus, sans que les différences cérébrales disparaissent complètement**.
 

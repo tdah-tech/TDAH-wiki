@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T18:38:28.029+02:00
+modified: 2026-07-29T18:47:47.501+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,13 +15,17 @@ On entend par dysbiose intestinale un déséquilibre de l’écosystème microbi
 
 Les travaux les plus récents, en particulier les revues systématiques et méta-analyses publiées entre 2022 et 2026, confirment de manière répétée que **les personnes présentant un TDAH, surtout les enfants et les adolescents, affichent un profil microbien intestinal distinct de celui des sujets neurotypiques**. On observe fréquemment une diminution de bactéries considérées comme bénéfiques.
 
-Ces variations ne sont pas uniformes d’une étude à l’autre, ce qui s’explique par l’hétérogénéité des méthodes de séquençage, les âges des participants, les régimes alimentaires et les traitements concomitants, mais l’existence d’un déséquilibre global est désormais largement reconnue.
+Ces variations ne sont pas uniformes d’une étude à l’autre, ce qui s’explique par l’hétérogénéité des méthodes de séquençage, les âges des participants, les régimes alimentaires et les traitements concomitants, mais l’existence d’un déséquilibre global est désormais largement reconnu.
 
-Au-delà des bactéries, des travaux plus récents se sont intéressés au mycobiote, c’est-à-dire à la composante fongique du microbiote intestinal et les résultats renforcent l’hypothèse d’une barrière intestinale poreuse susceptible de favoriser le passage de molécules pro-inflammatoires vers la circulation systémique et, potentiellement, vers le système nerveux central.
+Au-delà des bactéries, des travaux plus récents se sont intéressés au mycobiote, c’est-à-dire à la composante fongique du microbiote intestinal et les résultats renforcent l’hypothèse d’une barrière intestinale poreuse susceptible de favoriser le passage de molécules pro-inflammatoires vers  le système nerveux central.
 
-Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique ou agissent via le nerf vague.
+Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique et pourraient aggraver les symptômes du TDAH.
 
-Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH. Il est cependant essentiel de souligner que la relation observée est, à ce stade, principalement associationnelle. La causalité n’est pas encore définitivement établie. On ignore dans quelle mesure la dysbiose précède et favorise le TDAH, ou si elle en constitue une conséquence liée au mode de vie, à l’alimentation, au stress ou aux traitements médicamenteux. Des études longitudinales et des essais d’intervention, qu’il s’agisse de probiotiques, de prébiotiques ou de régimes enrichis en fibres, suggèrent toutefois qu’une restauration partielle de l’équilibre microbien **peut s’accompagner d’améliorations comportementales modestes chez certains patients**, ce qui ouvre des perspectives thérapeutiques complémentaires.
+Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH.
+
+Il est cependant essentiel de souligner que la relation observée est, à ce stade, principalement associationnelle. La causalité n’est pas encore définitivement établie. On ignore dans quelle mesure la dysbiose précède et favorise le TDAH, ou si elle en constitue une conséquence liée au mode de vie, à l’alimentation, au stress ou aux traitements médicamenteux.
+
+Des études longitudinales et des essais d’intervention, qu’il s’agisse de probiotiques, de prébiotiques ou de régimes enrichis en fibres, suggèrent toutefois qu’une restauration partielle de l’équilibre microbien **peut s’accompagner d’améliorations comportementales modestes chez certains patients**, ce qui ouvre des perspectives thérapeutiques complémentaires.
 
 ## Pour aller plus loin :
 
