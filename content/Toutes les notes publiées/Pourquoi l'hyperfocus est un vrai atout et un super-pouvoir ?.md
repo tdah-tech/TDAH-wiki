@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:19:13.482+02:00
+modified: 2026-07-29T15:45:37.478+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,3 +31,7 @@ Canalisé, disent-ils, ce même mécanisme pourrait un jour mener quelqu'un jusq
 - [[Métaphore de la Ferrari]]
 - [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
 - [[Neurosciences du TDAH]]
+
+## Références
+
+- Hupfeld, K. E., Abagis, T. R., & Shah, P., Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders, 2019
