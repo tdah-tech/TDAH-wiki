@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T08:20:02.829+02:00
+modified: 2026-07-29T18:25:20.661+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,3 +30,8 @@ En résumé, la science décrit une association claire, mesurable et multifactor
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
+
+## Références
+
+- Mohr-Jensen, C., & Steinhausen, H. C., A meta-analysis and systematic review of the risks associated with childhood attention-deficit hyperactivity disorder on long-term outcome of arrests, convictions, and incarcerations, Clinical Psychology Review, 2016
+- Young, S., Moss, D., Sedgwick, O., Fridman, M., & Hodgkins, P., A meta-analysis of the prevalence of attention deficit hyperactivity disorder in incarcerated populations, Psychological Medicine, 2015

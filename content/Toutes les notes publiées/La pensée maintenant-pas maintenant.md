@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:18:28.490+02:00
+modified: 2026-07-29T18:29:18.004+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,7 +27,7 @@ Ce mode de fonctionnement est étroitement lié à un phénomène appelé "disco
 
 Chez les personnes avec TDAH, cette courbe de dévalorisation est souvent plus raide que dans la population générale. D’où la tendance à reporter ce qui n’est pas encore urgent, puis à basculer brutalement dans l’action lorsque l’échéance bascule enfin dans le « maintenant ». Ce basculement produit les fameux sprints de dernière minute, où l’énergie et la concentration apparaissent soudainement, parfois de façon spectaculaire, une fois que la pression externe est devenue suffisante.
 
-Ces observations cliniques sont étayées par la recherche. Une méta-analyse portant sur vingt-cinq études et plus de mille six cents participants a mis en évidence un déficit d'ampleur moyenne sur ces tâches dites de "timing". Le "discounting temporel" — cette dévalorisation plus rapide des récompenses ou conséquences différées — est également plus marqué chez les personnes avec TDAH, comme le montrent plusieurs méta-analyses de cas-contrôles. Des travaux classiques, notamment ceux de Barkley, ont dès le début des années 2000 mis en évidence la dévalorisation temporelle plus raide. Ces données s'inscrivent dans un modèle cohérent : des particularités du [[Dopamine et TDAH|système de récompense]], de la vigilance et des réseaux cérébraux impliqués dans la gestion du temps.
+Ces observations cliniques sont étayées par la recherche. Une large méta-analyse des capacités de _timing_ perceptif (discrimination, estimation, production et reproduction du temps ; dizaines d’études, milliers de participants) met en évidence des déficits d’ampleur souvent **moyenne** chez les personnes avec TDAH. Le _discounting_ temporel — cette dévalorisation plus rapide des récompenses ou conséquences différées — est également plus marqué (effet d’ampleur moyenne dans une méta-analyse de cas-contrôles). Des travaux classiques, notamment ceux de Barkley, ont dès le début des années 2000 mis en évidence la dévalorisation temporelle plus raide. Ces données s'inscrivent dans un modèle cohérent : des particularités du [[Dopamine et TDAH|système de récompense]], de la vigilance et des réseaux cérébraux impliqués dans la gestion du temps.
 
 Ce fonctionnement a des conséquences concrètes et répétées. Il rend difficile le démarrage des tâches non urgentes, même lorsqu’elles sont importantes. Il entretient le cycle de la procrastination suivie d’un hyperengagement sous contrainte. Il explique aussi **le phénomène de « mode attente »** : lorsqu’un événement approche, certaines personnes se retrouvent incapables de s’engager pleinement dans d’autres activités, comme si le temps restant était déjà contaminé par l’échéance future, sans pour autant pouvoir encore agir sur celle-ci. Le présent devient flottant, ni pleinement disponible pour autre chose, ni encore mobilisé par l’urgence.
 
@@ -38,3 +38,8 @@ Il est important de souligner que ce n’est pas un défaut de caractère. Le ce
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Le mode attente]]
+
+## Références
+
+- Marx, I., Cortese, S., Koelch, M. G., & Hacker, T., Meta-analysis: Altered Perceptual Timing Abilities in Attention-Deficit/Hyperactivity Disorder, Journal of the American Academy of Child and Adolescent Psychiatry, 2022
+- Jackson, J. N. S., & MacKillop, J., Attention-Deficit/Hyperactivity Disorder and Monetary Delay Discounting: A Meta-Analysis of Case-Control Studies, Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2016

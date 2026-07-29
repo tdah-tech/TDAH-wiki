@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:19:13.476+02:00
+modified: 2026-07-29T18:25:20.661+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -44,3 +44,8 @@ Au quotidien, on peut surtout soutenir ses apports par l’alimentation et l’e
 - [[TDAH et déséquilibres alimentaires]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Dopamine et TDAH]]
+
+## Références
+
+- Khoshbakht, Y., Bidaki, R., & Salehi-Abargouei, A., Vitamin D Status and Attention Deficit Hyperactivity Disorder: A Systematic Review and Meta-Analysis of Observational Studies, Advances in Nutrition, 2018
+- Gan, J., Galer, P., Ma, D., Chen, C., & Xiong, T., The Effect of Vitamin D Supplementation on Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis of Randomized Controlled Trials, Journal of Child and Adolescent Psychopharmacology, 2019

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T15:54:09.930+02:00
+modified: 2026-07-29T18:29:18.004+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,7 @@ tags:
 
 La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité)**.
 
-Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque multiplié par deux à trois de développer un trouble addictif au cours de leur vie, tandis que parmi les patients suivis pour une addiction, environ 20 à 25 % répondent aux critères diagnostiques du TDAH, proportion qui s’élève jusqu’à 35-40 % dans certaines addictions comportementales comme le trouble du jeu vidéo**.
+Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque significativement accru de développer un trouble de l’usage de substances au cours de leur vie** (ampleur variable selon la substance : plus marqué pour la nicotine, plus modéré pour l’alcool ou d’autres drogues — souvent de l’ordre d’environ une fois et demie à trois fois le risque des témoins selon les outcomes). **Parmi les patients suivis pour une addiction, environ 20 à 25 % répondent aux critères diagnostiques du TDAH** (méta-analyses de prévalence en population SUD), proportion qui peut être plus élevée dans certaines addictions comportementales.
 
 Cette comorbidité s’accompagne systématiquement d’une plus grande sévérité clinique. **L’âge d’initiation aux substances est plus précoce, la transition vers un usage problématique est plus rapide, les consommations sont plus intenses et plus chroniques, et le pronostic global est moins favorable, avec un taux plus élevé de rechutes et de comorbidités psychiatriques associées (troubles de l’humeur, anxiété, troubles de la personnalité)**. Les études de cohorte qui ont suivi des enfants diagnostiqués TDAH jusqu’à l’âge adulte confirment que ce sur-risque concerne aussi bien les garçons que les filles et s’étend à l’ensemble des substances psychoactives.
 
@@ -34,3 +34,8 @@ Concernant le traitement, la science a progressé de façon significative. **Le 
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
+
+## Références
+
+- Lee, S. S., Humphreys, K. L., Flory, K., Liu, R., & Glass, K., Prospective association of childhood attention-deficit/hyperactivity disorder (ADHD) and substance use and abuse/dependence: A meta-analytic review, Clinical Psychology Review, 2011
+- van Emmerik-van Oortmerssen, K., van de Glind, G., van den Brink, W., Smit, F., Crunelle, C. L., Swets, M., & Schoevers, R. A., Prevalence of attention-deficit hyperactivity disorder in substance use disorder patients: A meta-analysis and meta-regression analysis, Drug and Alcohol Dependence, 2012

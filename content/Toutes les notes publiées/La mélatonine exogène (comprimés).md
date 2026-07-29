@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:19:31.898+02:00
+modified: 2026-07-29T18:25:20.661+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,3 +35,8 @@ La tolérance à court et moyen terme est globalement bonne. Les effets indésir
 - [[Le sommeil et le TDAH]]
 - [[Les troubles du sommeil chez les TADH]]
 - [[Couvertures lestées et TDAH]]
+
+## Références
+
+- van der Heijden, K. B., Smits, M. G., Van Someren, E. J. W., Ridderinkhof, K. R., & Gunning, W. B., Effect of melatonin on sleep, behavior, and cognition in ADHD and chronic sleep-onset insomnia, Journal of the American Academy of Child and Adolescent Psychiatry, 2007
+- Wei, S., Smits, M. G., Tang, X., Kuang, L., Meng, H., Ni, S., Xiao, M., & Zhou, X., Efficacy and safety of melatonin for sleep onset insomnia in children and adolescents: a meta-analysis of randomized controlled trials, Sleep Medicine, 2020

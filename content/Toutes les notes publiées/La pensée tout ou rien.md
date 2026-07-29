@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:18:28.491+02:00
+modified: 2026-07-29T18:18:01.066+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,3 +28,7 @@ Ce type de pensées alimente la paralysie de l’action : une tâche qui pourrai
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[La pensée maintenant-pas maintenant]]
+
+## Références
+
+- Pan, M. R., Zhang, S. Y., Chen, C. L., et al., Bidirectional Associations between Maladaptive Cognitions and Emotional Symptoms, and Their Mediating Role on the Quality of Life in Adults with ADHD: A Mediation Model, Frontiers in Psychiatry, 2023

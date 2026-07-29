@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-07-27T11:53:05.160+02:00
+modified: 2026-07-29T18:18:01.067+02:00
 tags:
-  - micronote
-  - tdah
-  - maturation
-  - cortex-prefrontal
-  - parentalite
+  - "#micronote"
+  - "#tdah"
+  - "#maturation"
+  - "#cortex-prefrontal"
+  - "#parentalite"
 ---
 
 Le cerveau des personnes avec TDAH se développe selon le même schéma que celui des personnes neurotypiques, mais avec un **décalage temporel** significatif. Ce retard de maturation, est l’un des modèles neurodéveloppementaux les mieux documentés du trouble.
@@ -31,3 +31,7 @@ En résumé, ce retard n’est pas un défaut permanent, mais un **développemen
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Origine génétique du TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
+
+## Références
+
+- Shaw, P., Eckstrand, K., Sharp, W., Blumenthal, J., Lerch, J. P., Greenstein, D., Clasen, L., Evans, A., Giedd, J., & Rapoport, J. L., Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation, Proceedings of the National Academy of Sciences, 2007

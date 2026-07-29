@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-28T18:43:59.092+02:00
+modified: 2026-07-29T18:32:17.515+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,9 @@ tags:
 
 La plupart des [[Les fonctions éxécutives - définition|fonctions exécutives]] sont touchées le TDA/H — le profil est cependant très hétérogène d'une personne à l'autre.
 
-Selon la méta-analyse de référence de Willcutt et al. (2005), environ 30 à 50 % des personnes diagnostiquées TDA/H ne montrent _aucun_ déficit mesurable aux tests neuropsychologiques standards de [[Les fonctions éxécutives - définition|fonctions exécutives]], malgré des symptômes cliniques bien réels. Autrement dit, le TDA/H n'implique pas systématiquement une atteinte de toutes ces fonctions — ni même d'une seule en particulier. Aucun déficit exécutif n'est ni nécessaire ni suffisant pour poser le diagnostic.
+Selon la méta-analyse de référence de Willcutt et al. (2005), les personnes TDA/H montrent en moyenne des faiblesses d’ampleur **modérée** sur les tests de [[Les fonctions éxécutives - définition|fonctions exécutives]] (inhibition, vigilance, [[Mémoire de travail et TDAH|mémoire de travail]], planification notamment) — mais **ces déficits ne sont ni universels ni nécessaires ni suffisants** pour expliquer tous les cas de TDAH.
+
+En pratique clinique, une part non négligeable des personnes diagnostiquées ne montre **aucun** déficit mesurable aux batteries neuropsychologiques standards, malgré des symptômes bien réels. Le profil reste donc très hétérogène d’une personne à l’autre.
 
 Ce qui varie aussi beaucoup également c'est le phénomène d'[[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] — sur une tâche qui capte fortement l'intérêt, l'inhibition et le maintien de l'attention peuvent momentanément très bien fonctionner, alors qu'ils s'effondrent sur une tâche jugée ennuyeuse. Ce n'est donc pas la fonction elle-même qui est "défaillante" en permanence, mais son fonctionnement qui est très dépendant du contexte et de la motivation.
 
@@ -46,3 +48,7 @@ Voici les principales [[Les fonctions éxécutives - définition|fonctions exéc
 - [[Les fonctions éxécutives - définition]]
 - [[Mémoire de travail et TDAH]]
 - [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
+
+## Références
+
+- Willcutt, E. G., Doyle, A. E., Nigg, J. T., Faraone, S. V., & Pennington, B. F., Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, Biological Psychiatry, 2005

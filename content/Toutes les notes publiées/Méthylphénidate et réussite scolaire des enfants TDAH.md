@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:53:05.144+02:00
+modified: 2026-07-29T18:25:56.334+02:00
 tags:
-  - micronote
-  - tdah
-  - méthylphénidate
-  - traitement
+  - "#micronote"
+  - "#tdah"
+  - "#méthylphénidate"
+  - "#traitement"
 ---
 
 #### Effet à court terme : des effets positifs solidement établis
@@ -38,3 +38,9 @@ Le médicament n'améliore donc pas la qualité de l'apprentissage par minute de
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Ce qui aide vraiment un enfant TDAH à apprendre.]]
 - [[Neurosciences du TDAH]]
+
+## Références
+
+- Prasad, V., Brogan, E., Mulvaney, C., Grainge, M., Stanton, W., & Sayal, K., How effective are drug treatments for children with ADHD at improving on-task behaviour and academic achievement in the school classroom? A systematic review and meta-analysis, European Child & Adolescent Psychiatry, 2013
+- Kortekaas-Rijlaarsdam, A. F., Luman, M., Sonuga-Barke, E., & Oosterlaan, J., Does methylphenidate improve academic performance? A systematic review and meta-analysis, European Child & Adolescent Psychiatry, 2019
+- Cortese, S., Adamo, N., Del Giovane, C., et al., Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis, The Lancet Psychiatry, 2018

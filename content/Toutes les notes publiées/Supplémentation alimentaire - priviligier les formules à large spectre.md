@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:18:28.625+02:00
+modified: 2026-07-29T18:26:09.731+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,3 +31,8 @@ L’hypothèse avancée est que l’apport simultané de nombreux cofacteurs opt
 - [[TDAH et déséquilibres alimentaires]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Dopamine et TDAH]]
+
+## Références
+
+- Johnstone, J. M., Hatsu, I., Tost, G., et al., Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial, Journal of the American Academy of Child and Adolescent Psychiatry, 2022
+- Rucklidge, J. J., Eggleston, M. J. F., Johnstone, J. M., Darling, K., & Frampton, C. M., Vitamin-mineral treatment improves aggression and emotional regulation in children with ADHD: a fully blinded, randomized, placebo-controlled trial, Journal of Child Psychology and Psychiatry, 2018

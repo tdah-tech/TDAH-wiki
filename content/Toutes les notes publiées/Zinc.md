@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-28T17:34:02.751+02:00
+modified: 2026-07-29T18:25:20.661+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,3 +30,8 @@ Dans la pratique, une supplémentation en zinc n’est pas recommandée de mani�
 - [[Dopamine et TDAH]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[TDAH et déséquilibres alimentaires]]
+
+## Références
+
+- Ghoreishy, S. M., Ebrahimi Mousavi, S., Asoudeh, F., & Mohammadi, H., Zinc status in attention-deficit/hyperactivity disorder: a systematic review and meta-analysis of observational studies, Scientific Reports, 2021
+- Warthon-Medina, M., Moran, V. H., Stammers, A. L., Dillon, S., Qualter, P., Nissensohn, M., Serra-Majem, L., & Lowe, N. M., Zinc intake, status and indices of cognitive function in adults and children: a systematic review and meta-analysis, European Journal of Clinical Nutrition, 2015

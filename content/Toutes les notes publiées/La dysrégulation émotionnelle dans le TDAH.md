@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:20:02.830+02:00
+modified: 2026-07-29T18:29:39.569+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ La dysrégulation émotionnelle n'est pas spécifique au TDAH : on la retrouve d
 
 Concrètement, cela signifie que la dysrégulation émotionnelle ne serait pas _produite_ par le TDAH comme une complication parmi d'autres, mais qu'elle relèverait d'un mécanisme de régulation plus général — probablement d'origine neurodéveloppementale — qui se manifeste différemment selon les troubles avec lesquels il coexiste.
 
-## Ce que montrent deux études publiées en 2026
+## Ce que montrent deux études récentes (2025–2026)
 
 **Chez l'enfant.** Une équipe de l'hôpital Sainte-Anne à Paris (Courrèges et al., publié dans _Neuropsychiatrie de l'Enfance et de l'Adolescence_) a validé une échelle de dysrégulation émotionnelle destinée à la population pédiatrique. Elle distingue deux composantes bien séparées :
 
@@ -50,3 +50,8 @@ Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH san
 - [[Profil sévère combiné avec dysrégulation émotionnelle]]
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Neurosciences du TDAH]]
+
+## Références
+
+- Courrèges, M. et al., Validation d'une échelle de dysrégulation émotionnelle chez les enfants atteints de trouble déficit de l'attention avec ou sans hyperactivité (TDAH), Neuropsychiatrie de l'Enfance et de l'Adolescence, 2025
+- Landi, P., Olivola, M., De Ciechi, A., et al. (incl. Dell'Osso, B.), Emotional Dysregulation as a Clinically Relevant Dimension of Adult ADHD: A Multidimensional Clinical Study, Brain Sciences, 2026

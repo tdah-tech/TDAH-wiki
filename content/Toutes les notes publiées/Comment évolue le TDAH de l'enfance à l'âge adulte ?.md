@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T08:20:02.823+02:00
+modified: 2026-07-29T18:29:18.004+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,9 +10,9 @@ tags:
 
 Le trouble [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte.
 
-Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Si l’on exige le maintien strict des critères diagnostiques complets du syndrome (présence d’un nombre élevé de symptômes d’inattention et d’hyperactivité-impulsivité), environ **quinze pour cent des enfants diagnostiqués conservent le tableau complet vers l’âge de vingt-cinq ans**.
+Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Les synthèses classiques indiquent que si l’on exige le maintien strict des critères diagnostiques complets du syndrome, **une minorité seulement des enfants diagnostiqués conserve le tableau complet vers le jeune âge adulte** ; en revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, **la majorité continue d’être gênée**.
 
-En revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, ce taux s’élève autour **de soixante-cinq pour cent**. Des travaux plus récents, notamment les suivis de l’étude Multimodal Treatment of ADHD, indiquent que **la rémission complète et durable demeure rare, souvent inférieure à dix pour cent**, et que de nombreux individus connaissent un **parcours fluctuant**, avec des phases d’amélioration suivies de réapparitions des difficultés lorsque les exigences de l’environnement augmentent.
+Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 10 % ou moins)**, et de nombreux individus connaissent un **parcours fluctuant**, avec des phases d’amélioration suivies de réapparitions des difficultés lorsque les exigences de l’environnement augmentent.
 
 **L’évolution la plus marquée concerne la [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|composante hyperactive]]**. Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique. Avec l’avancée en âge, ces manifestations externes s’atténuent nettement. L’hyperactivité se transforme progressivement en une forme plus interne : sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément.
 
@@ -32,3 +32,7 @@ Ainsi, selon l’état actuel de la science, le TDAH de l’enfance ne disparaî
 
 - [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans|Retard de maturation cérébrale — 2 à 3 ans]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Sibley, M. H., Arnold, L. E., Swanson, J. M., Hechtman, L. T., Kennedy, T. M., Owens, E., Molina, B. S. G., Jensen, P. S., Hinshaw, S. P., Roy, A., Chronis-Tuscano, A., Newcorn, J. H., Rohde, L. A., & MTA Cooperative Group, Variable Patterns of Remission From ADHD in the Multimodal Treatment Study of ADHD, American Journal of Psychiatry, 2022

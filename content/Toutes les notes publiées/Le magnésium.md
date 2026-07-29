@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T16:50:43.977+02:00
+modified: 2026-07-29T17:53:04.855+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -26,3 +26,9 @@ En résumé, le magnésium semble surtout utile pour corriger une carence réell
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[Les omega-3]]
 - [[Les troubles du sommeil chez les TADH]]
+
+## Références
+
+- El Baza, F., AlShahawi, H. A., Zahra, S., & AbdelHakim, R. A., Magnesium supplementation in children with attention deficit hyperactivity disorder, Egyptian Journal of Medical Human Genetics, 2016
+- Effatpanah, M. et al., Magnesium status and attention deficit hyperactivity disorder (ADHD): A meta-analysis, Psychiatry Research, 2019
+- Hemamy, M., Pahlavani, N., Amanollahi, A. et al., The effect of vitamin D and magnesium supplementation on the mental health status of attention-deficit hyperactive children: a randomized controlled trial, BMC Pediatrics, 2021

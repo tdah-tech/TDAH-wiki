@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-27T11:53:05.162+02:00
+modified: 2026-07-29T18:25:20.661+02:00
 tags:
-  - micronote
-  - tdah
-  - intelligences-multiples
-  - intelligence
+  - "#micronote"
+  - "#tdah"
+  - "#intelligences-multiples"
+  - "#intelligence"
 ---
 
 Ce que l’on sait aujourd’hui du TDAH et des tests de quotient intellectuel repose sur un ensemble cohérent de données cliniques et de méta-analyses. Le TDAH n’entraîne pas une diminution de l’intelligence en tant que telle. Les personnes concernées se répartissent sur toute l’échelle des capacités cognitives, exactement comme la population générale. On trouve des profils moyens, des profils faibles et des profils à haut potentiel.
@@ -26,3 +26,8 @@ En résumé, le trouble va influencer les scores obtenus aux tests classiques, p
 - [[Les intelligences multiples face au TDAH]]
 - [[Neurosciences du TDAH]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Frazier, T. W., Demaree, H. A., & Youngstrom, E. A., Meta-analysis of intellectual and neuropsychological test performance in attention-deficit/hyperactivity disorder, Neuropsychology, 2004
+- Bridgett, D. J., & Walker, M. E., Intellectual functioning in adults with ADHD: A meta-analytic examination of full scale IQ differences between adults with and without ADHD, Psychological Assessment, 2006
