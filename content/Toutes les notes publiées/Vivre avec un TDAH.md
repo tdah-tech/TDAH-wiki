@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T10:37:19.493+02:00
+modified: 2026-07-29T10:47:28.476+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -56,6 +56,7 @@ tags:
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]
 - [[La sensibilité au rejet (dysphorie)]]
 - [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
+- [[L’effet Pygmalion et l'effet Golem]]
 
 ## La taxe TDAH
 

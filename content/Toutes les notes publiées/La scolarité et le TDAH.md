@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T10:39:26.567+02:00
+modified: 2026-07-29T10:47:26.732+02:00
 tags:
-  - micronote
-  - tdah
-  - scolarite
-  - apprentissage
-  - index
-  - méthylphénidate
+  - "#micronote"
+  - "#tdah"
+  - "#scolarite"
+  - "#apprentissage"
+  - "#index"
+  - "#méthylphénidate"
 ---
 
 ## Apprendre et étudier avec un TDAH
@@ -21,6 +21,7 @@ tags:
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]
 - [[Réussite et échec scolaire]]
+- [[L’effet Pygmalion et l'effet Golem]]
 - [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 
 ## Le méthylphénidate à l'école
