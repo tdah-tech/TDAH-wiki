@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T15:15:17.858+02:00
+modified: 2026-07-29T17:44:48.786+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,3 +39,8 @@ En synthèse, la littérature scientifique actuelle considère la rumination non
 - [[Le réseau TPN]]
 - [[Troubles anxieux et dépression]]
 - [[L'importance de la psychoéducation]]
+
+## Références
+
+- Tamura, T., Takagi, S., Takahashi, H., & Sugihara, G., The role of self-rumination and self-reflection in depressive symptoms among individuals with attention-deficit/hyperactivity disorder traits, Scientific Reports, 2025
+- Kandeğer, A. et al., Excessive mind wandering, rumination, and mindfulness mediate the relationship between ADHD symptoms and anxiety and depression in adults with ADHD, Clinical Psychology & Psychotherapy, 2024

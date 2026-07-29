@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.482+02:00
+modified: 2026-07-29T17:43:48.999+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,3 +33,7 @@ L’exposition à la **lumière naturelle le matin** et la **réduction du stres
 - [[Sport et TDAH]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Vitamine D et TDAH]]
+
+## Références
+
+- Gómez-Pinilla, F., Brain foods: the effects of nutrients on brain function, Nature Reviews Neuroscience, 2008

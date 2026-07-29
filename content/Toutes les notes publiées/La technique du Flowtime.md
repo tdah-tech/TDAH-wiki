@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-27T11:53:05.122+02:00
+modified: 2026-07-29T17:43:49.004+02:00
 tags:
-  - micronote
-  - tdah
-  - flowtime
-  - gestion-du-temps
-  - hyperfocus
-  - cecite-temporelle
-  - pomodoro
+  - "#micronote"
+  - "#tdah"
+  - "#flowtime"
+  - "#gestion-du-temps"
+  - "#hyperfocus"
+  - "#cecite-temporelle"
+  - "#pomodoro"
 ---
 
 La technique du Flowtime, parfois appelée Flowmodoro, a été conçue en 2016 par Zoë Read-Bivens, enseignante et spécialiste de la productivité. Elle l’a développée après avoir constaté que la méthode Pomodoro, avec ses sessions fixes de vingt-cinq minutes, interrompait systématiquement ses périodes de concentration profonde.
@@ -40,3 +40,7 @@ En pratique, **le Flowtime fonctionne particulièrement bien pour les activités
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+
+## Références
+
+- Smits, E. J. C., Wenzel, N., & de Bruin, A., Investigating the Effectiveness of Self-Regulated, Pomodoro, and Flowtime Break-Taking Techniques Among Students, Behavioral Sciences, 2025

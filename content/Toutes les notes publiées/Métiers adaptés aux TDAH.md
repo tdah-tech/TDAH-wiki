@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-28T11:17:38.033+02:00
+modified: 2026-07-29T17:43:49.003+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -40,3 +40,7 @@ Il faut toutefois souligner que ces avantages ne se réalisent que lorsque les a
 - [[Vivre avec un TDAH]]
 - [[Entrepreunariat et TDAH]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
+
+## Références
+
+- Hotte-Meunier, A. et al., Strengths and challenges to embrace attention-deficit/hyperactivity disorder in employment—A systematic review, Neurodiversity, 2024

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:18:28.535+02:00
+modified: 2026-07-29T17:43:49.002+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,3 +39,7 @@ Ces constats ne doivent pas être lus comme des fatalités. La grande variabilit
 - [[Neurosciences du TDAH]]
 - [[TDAH et quotient intellectuelle (QI)]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Najafi, M. et al., Multiple Intelligences Profiles of Children with Attention Deficit and Hyperactivity Disorder in Comparison with Nonattention Deficit and Hyperactivity Disorder, Advanced Biomedical Research, 2017

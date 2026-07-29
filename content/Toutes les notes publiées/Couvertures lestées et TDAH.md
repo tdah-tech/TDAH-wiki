@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-28T15:56:11.579+02:00
+modified: 2026-07-29T17:45:10.579+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,3 +33,7 @@ L'intérêt principal de la couverture lestée pour le TDAH se situe donc claire
 - [[Les troubles du sommeil chez les TADH]]
 - [[Les recommandations pour un sommeil de qualité]]
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+
+## Références
+
+- Ekholm, B., Spulber, S., & Adler, M., A randomized controlled study of weighted chain blankets for insomnia in psychiatric disorders, Journal of Clinical Sleep Medicine, 2020

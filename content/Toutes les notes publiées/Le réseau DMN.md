@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T15:15:32.094+02:00
+modified: 2026-07-29T17:43:48.997+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,3 +25,7 @@ Sa particularité, centrale pour comprendre son rôle dans le TDAH, réside dans
 - [[Le modèle TPN-DMN]]
 - [[Le réseau TPN]]
 - [[Le lutin malicieux]]
+
+## Références
+
+- Raichle, M. E. et al., A default mode of brain function, Proceedings of the National Academy of Sciences (PNAS), 2001

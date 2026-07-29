@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.130+02:00
+modified: 2026-07-29T17:43:48.997+02:00
 tags:
-  - micronote
-  - tdah
-  - dmn
-  - tpn
-  - cortex-prefrontal
-  - méthylphénidate
+  - "#micronote"
+  - "#tdah"
+  - "#dmn"
+  - "#tpn"
+  - "#cortex-prefrontal"
+  - "#méthylphénidate"
 ---
 
 L'idée que le cerveau ne s'arrête jamais vraiment de fonctionner, même au repos, est relativement récente en neurosciences. Jusqu'à la fin des années 1990, l'imagerie cérébrale s'intéressait surtout à ce qui s'activait pendant l'exécution d'une tâche. Mais plusieurs études ont progressivement mis en évidence un phénomène inverse : certaines régions cérébrales, loin d'être silencieuses au repos, y étaient au contraire particulièrement actives, et se désactivaient dès qu'un sujet devait se concentrer sur un exercice dirigé vers un but.
@@ -39,3 +39,8 @@ Le modèle [[Le réseau DMN|DMN]]/[[Le réseau TPN|TPN]] n'est cependant pas une
 - [[Le lutin malicieux]]
 - [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Raichle, M. E. et al., A default mode of brain function, Proceedings of the National Academy of Sciences (PNAS), 2001
+- Sonuga-Barke, E. J. S., & Castellanos, F. X., Spontaneous attentional fluctuations in impaired states and pathological conditions: a neurobiological hypothesis, Neuroscience & Biobehavioral Reviews, 2007

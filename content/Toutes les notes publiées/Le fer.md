@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-29T08:19:13.476+02:00
+modified: 2026-07-29T17:43:48.995+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -40,3 +40,9 @@ En résumé, la science établit aujourd’hui une association robuste, bien que
 - [[Vitamines B]]
 - [[Dopamine et TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
+
+## Références
+
+- Konofal, E., Lecendreux, M., Arnulf, I., & Mouren, M. C., Iron deficiency in children with attention-deficit/hyperactivity disorder, Archives of Pediatrics & Adolescent Medicine, 2004
+- Wang, Y., Huang, L., Zhang, L., Qu, Y., & Mu, D., Iron Status in Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis, PLoS ONE, 2017
+- Tseng, P. T. et al., Peripheral iron levels in children with attention-deficit hyperactivity disorder: a systematic review and meta-analysis, Scientific Reports, 2018

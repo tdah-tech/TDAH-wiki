@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:20:02.831+02:00
+modified: 2026-07-29T17:43:49.000+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,3 +25,7 @@ Le TDAH n’est donc pas un phénomène nouveau né des écrans, de la vie moder
 - [[Prévalence du TDAH et écart garçons-filles]]
 - [[Le TDAH un phénomène ancien]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A., ADHD prevalence estimates across three decades: an updated systematic review and meta-regression analysis, International Journal of Epidemiology, 2014

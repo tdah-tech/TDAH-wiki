@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T14:05:26.864+02:00
+modified: 2026-07-29T17:43:48.999+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -44,3 +44,7 @@ Il convient toutefois de souligner que l'’auto-efficacité n’est pas une ill
 - [[Syndrome de l'imposteur chez les TDAH]]
 - [[Outils pour lutter contre l'amnésie du succès et le syndrome de l'imposteur]]
 - [[La sensibilité au rejet (dysphorie)]]
+
+## Références
+
+- Martin, A. J., Burns, E. C., & Collie, R. J., ADHD, personal and interpersonal agency, and achievement: Exploring links from a social cognitive theory perspective, Contemporary Educational Psychology, 2017

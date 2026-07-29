@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T08:18:28.486+02:00
+modified: 2026-07-29T17:44:48.785+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,3 +30,7 @@ Sur le plan théorique, on peut raisonnablement supposer que le même mécanisme
 
 - [[La scolarité et le TDAH]]
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
+
+## Références
+
+- Nigg, J. T., Bruton, A., Kozlowski, M. B. et al., Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?, Journal of the American Academy of Child and Adolescent Psychiatry, 2024

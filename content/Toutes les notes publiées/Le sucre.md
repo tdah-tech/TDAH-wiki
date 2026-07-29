@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.134+02:00
+modified: 2026-07-29T17:43:48.998+02:00
 tags:
-  - micronote
-  - tdah
-  - sucre
-  - alimentation
+  - "#micronote"
+  - "#tdah"
+  - "#sucre"
+  - "#alimentation"
 ---
 
 L'idée que le sucre rend les enfants hyperactifs est une idée ancienne qui remonte aux années 70. Cette hypothèse a connu un succès médiatique et parental considérable, au point de devenir une quasi-évidence culturelle, alors qu'elle n'a jamais reposé sur des preuves solides.
@@ -29,3 +29,7 @@ Il est cependant plausible que les TDAH soient plus sensibles aux coups de fatig
 - [[TDAH et déséquilibres alimentaires]]
 - [[Dopamine et TDAH]]
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+
+## Références
+
+- Wolraich, M. L., Wilson, D. B., & White, J. W., The Effect of Sugar on Behavior or Cognition in Children: A Meta-analysis, JAMA, 1995

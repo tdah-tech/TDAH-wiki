@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:18:28.616+02:00
+modified: 2026-07-29T17:43:49.000+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -36,3 +36,8 @@ Ainsi, lorsque l'activité touche un centre d'intérêt authentique — un sujet
 - [[Qu'est-ce-que le TDAH ?]]
 - [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
 - [[L'abandon de projet]]
+
+## Références
+
+- Ozel-Kizil, E. T. et al., Hyperfocusing as a dimension of adult attention deficit hyperactivity disorder, Research in Developmental Disabilities, 2016
+- Hupfeld, K. E., Abagis, T. R., & Shah, P., Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders, 2019

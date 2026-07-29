@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T10:47:19.993+02:00
+modified: 2026-07-29T17:43:49.001+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,3 +31,7 @@ Bien entendu des attentes irréalistes, déconnectées des difficultés réelles
 - [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 - [[Les aménagements scolaires]]
 - [[TDAH et quotient intellectuelle (QI)]]
+
+## Références
+
+- Rosenthal, R., & Jacobson, L., Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development, Holt, Rinehart & Winston (ouvrage), 1968

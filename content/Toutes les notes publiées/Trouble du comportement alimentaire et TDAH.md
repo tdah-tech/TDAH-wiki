@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:20:02.819+02:00
+modified: 2026-07-29T17:43:49.001+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,3 +25,7 @@ Plusieurs mécanismes sont proposés pour expliquer cette [[Les comorbidités du
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Dopamine et TDAH]]
+
+## Références
+
+- Nazar, B. P., Bernardes, C., Peachey, G., Sergeant, J., Mattos, P., & Treasure, J., The risk of eating disorders comorbid with attention-deficit/hyperactivity disorder: A systematic review and meta-analysis, International Journal of Eating Disorders, 2016

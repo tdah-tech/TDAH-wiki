@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:44:34.977+02:00
+modified: 2026-07-29T17:43:49.003+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,3 +43,7 @@ Le modèle le plus cohérent avec les données actuelles est donc celui d’une 
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Théorie évolutionniste du TDAH]]
+
+## Références
+
+- Chen, C., Burton, M., Greenberger, E., & Dmitrieva, J., Population Migration and the Variation of Dopamine D4 Receptor (DRD4) Allele Frequencies Around the Globe, Evolution and Human Behavior, 1999

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-27T11:53:05.108+02:00
+modified: 2026-07-29T17:44:48.784+02:00
 tags:
-  - micronote
-  - tdah
-  - dysbiose-intestinale
-  - axe-intestin-cerveau
-  - microbiote
-  - dopamine
+  - "#micronote"
+  - "#tdah"
+  - "#dysbiose-intestinale"
+  - "#axe-intestin-cerveau"
+  - "#microbiote"
+  - "#dopamine"
 ---
 
 On entend par dysbiose intestinale un déséquilibre de l’écosystème microbien du tube digestif, dans lequel certaines familles de bactéries, de champignons ou d’agents pathogènes se trouvent en excès tandis que d’autres apparaissent en quantité insuffisante. Cette notion, longtemps restée marginale dans la compréhension du TDAH, s’impose aujourd’hui comme un axe de recherche majeur grâce à l’accumulation de données sur l’axe intestin-cerveau.
@@ -26,3 +26,7 @@ Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attentio
 - [[Qu'est-ce-que le TDAH ?]]
 - [[L'alimentation et le TDAH]]
 - [[Dopamine et TDAH]]
+
+## Références
+
+- Wang, L. J. et al., Gut mycobiome dysbiosis and its impact on intestinal permeability in attention-deficit/hyperactivity disorder, Journal of Child Psychology and Psychiatry, 2023

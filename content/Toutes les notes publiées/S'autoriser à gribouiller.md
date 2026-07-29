@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-29T08:19:13.479+02:00
+modified: 2026-07-29T17:43:48.998+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,3 +25,7 @@ Pour les personnes qui vivent avec un TDAH, ces résultats sont précieux. L’[
 - [[Le réseau DMN]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+
+## Références
+
+- Andrade, J., What does doodling do?, Applied Cognitive Psychology, 2009

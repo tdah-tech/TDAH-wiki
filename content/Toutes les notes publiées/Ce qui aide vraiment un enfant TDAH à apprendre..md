@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T08:18:28.477+02:00
+modified: 2026-07-29T17:43:48.996+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -72,3 +72,8 @@ Voici quelques pistes :
 - [[Bien calibrer le renforcement positif]]
 - [[Mémoire de travail et TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
+
+## Références
+
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T., Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology, Psychological Science in the Public Interest, 2013
+- Knouse, L. E., Rawson, K. A., Vaughn, K. E., & Dunlosky, J., Does Testing Improve Learning for College Students With Attention-Deficit/Hyperactivity Disorder?, Clinical Psychological Science, 2016

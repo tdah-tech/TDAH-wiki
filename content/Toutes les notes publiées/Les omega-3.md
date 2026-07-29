@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T16:24:19.510+02:00
+modified: 2026-07-29T17:43:49.002+02:00
 tags:
-  - micronote
-  - tdah
-  - omega-3
-  - alimentation
+  - "#micronote"
+  - "#tdah"
+  - "#omega-3"
+  - "#alimentation"
 ---
 
 Les oméga-3 occupent une place importante dans les discussions sur les approches complémentaires du TDAH, mais les données scientifiques imposent une lecture nuancée et réaliste.
@@ -28,3 +28,7 @@ Sur le plan pratique, privilégier les sources alimentaires (poissons gras, huil
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
+
+## Références
+
+- Gillies, D., Leach, M. J., & Perez Algorta, G., Polyunsaturated fatty acids (PUFA) for attention deficit hyperactivity disorder (ADHD) in children and adolescents, Cochrane Database of Systematic Reviews, 2023

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.693+02:00
+modified: 2026-07-29T17:43:49.004+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,3 +29,7 @@ Enfin, une technique de respiration simple et rapide peut offrir un soutien imm�
 - [[Sport et TDAH]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
+
+## Références
+
+- Hölzel, B. K. et al., Mindfulness practice leads to increases in regional brain gray matter density, Psychiatry Research: Neuroimaging, 2011

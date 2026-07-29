@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T08:20:02.823+02:00
+modified: 2026-07-29T17:44:48.786+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -49,3 +49,7 @@ Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour l
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[L'importance de la psychoéducation]]
 - [[Diagnostic et mise en place du traitement]]
+
+## Références
+
+- Canals, J. et al., Prevalence of comorbidity of autism and ADHD and associated characteristics in school population: EPINED study, Autism Research, 2024

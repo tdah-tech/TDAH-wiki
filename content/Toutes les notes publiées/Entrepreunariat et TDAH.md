@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T08:18:28.481+02:00
+modified: 2026-07-29T17:44:48.784+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,3 +28,7 @@ Plusieurs entrepreneurs de renommée mondiale ont publiquement évoqué leur TDA
 
 - [[Vivre avec un TDAH]]
 - [[Métiers adaptés aux TDAH]]
+
+## Références
+
+- Tran, M. H., Wiklund, J., Antshel, K., Jhawar, N., & Montgomery, C., Entrepreneurship and ADHD: A Meta-Analytical Assessment of the State-of-the-Art and Suggestions for the Future, Entrepreneurship Theory and Practice, 2025
