@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-30T09:11:13.071+02:00
+modified: 2026-07-30T11:28:47.877+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,7 +42,7 @@ Ces approches sont systématiquement poursuivies même lorsqu’un traitement m�
 
 **Le recours aux médicaments n’est envisagé que lorsque ces mesures s’avèrent insuffisantes ou, dans les formes particulièrement sévères, de manière concomitante**.
 
-**Chez l’enfant à partir de six ans et chez l’adulte, [[Le méthylphénidate comme traitement du TDAH|le méthylphénidate]] reste le traitement de première intention**. On privilégie les formes à libération prolongée, dont la posologie et la spécialité sont adaptées individuellement selon l’efficacité et la tolérance observées.
+**Chez l’enfant à partir de six ans et chez l’adulte, [[Le méthylphénidate comme traitement du TDAH|le méthylphénidate]] reste le traitement de première intention** (voir la synthèse des preuves sur [EBI-ADHD](https://ebiadhd-database.org/ebiadhd)). On privilégie les formes à libération prolongée, dont la posologie et la spécialité sont adaptées individuellement selon l’efficacité et la tolérance observées.
 
 **La prescription initiale annuelle et son renouvellement annuel sont strictement réservés aux spécialistes (psychiatre, neurologue, pédiatre ou neuropédiatre), qu’ils exercent en établissement de santé ou en ville**.
 
@@ -65,6 +65,8 @@ En cas d’inefficacité, d’intolérance ou de contre-indication au méthylph�
 - [[Les aménagements scolaires]]
 - [[Méthylphénidate et croissance]]
 
-## Référence
+## Références
 
 **Haute Autorité de Santé (HAS)**, [Trouble du neurodéveloppement / TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et des adolescents](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents), Recommandations de bonne pratique, septembre 2024
+
+[EBI-ADHD : Interventions for ADHD | Evidence Matrix](https://ebiadhd-database.org/ebiadhd) — base de données de synthèse (Université Paris Nanterre, Hôpital Robert-Debré, SCIENCES Lab, Université de Southampton) recensant plus de 30 interventions contre le TDAH — dont les traitements médicamenteux comme le méthylphénidate — à partir de plus de 200 méta-analyses

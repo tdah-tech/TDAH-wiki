@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:18:28.523+02:00
+modified: 2026-07-30T11:51:02.400+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -26,11 +26,15 @@ Nuance importante : le [[Le réseau DMN|DMN]] ne joue pas en continu du début �
 
 **Pourquoi on parle aussi de la désynchronisation avant/arrière du DMN**
 
-Le point précédent décrit un problème _entre_ les deux musiciens du duo principal (DMN vs TPN) : ils ne savent pas correctement se relayer. Mais il y a une deuxième couche de problème, à l'intérieur même du musicien DMN.
+Le point précédent décrit un problème _entre_ les deux musiciens du duo principal (DMN vs TPN) : ils ne savent pas correctement se relayer. Mais il y a une deuxième couche de problème, à l'intérieur même du groupe de musiciens appartenant au DMN.
 
-Le DMN n'est pas un bloc uniforme. Sa partie avant (autour du cortex préfrontal et du cingulaire antérieur) gère plutôt le versant émotionnel et personnel de la pensée — se juger, s'évaluer, penser à ses relations. Sa partie arrière (cortex cingulaire postérieur, precuneus) gère plutôt la reconstruction de souvenirs et la capacité à se projeter dans des scènes mentales. Normalement, ces deux parties travaillent en tandem pour produire une pensée interne cohérente — un fil de pensée qui se tient, même quand on laisse ses pensée avoir libre court.
+Le DMN n'est en effet pas un bloc uniforme. Sa partie avant (autour du cortex préfrontal et du cingulaire antérieur) gère plutôt le versant émotionnel et personnel de la pensée — se juger, s'évaluer, penser à ses relations. Sa partie arrière (cortex cingulaire postérieur, precuneus) gère plutôt la reconstruction de souvenirs et la capacité à se projeter dans des scènes mentales. Normalement, ces deux parties travaillent en tandem pour produire une pensée interne cohérente — un fil de pensée qui se tient, même quand on laisse ses pensée avoir libre court.
 
-Si ces deux parties se désynchronisent, ce n'est plus seulement une histoire de mauvais timing face au TPN : c'est le contenu même de la pensée interne qui devient plus décousu. Autrement dit, même quand le DMN a le droit de jouer, sa propre partition interne est jouée par deux musiciens qui n'ont plus le même tempo entre eux, et donc la partition qu'ils jouent est elle-même moins cohérente. Dans un orchestre, c'est comme si le DMN serait les violons et qu'au moment de jouer leur solo, deux violonistes n'étaient plus sur le même tempo. Cela peut expliquer la part de créativité des TDAH et donc des partitions originales mais cela peut aussi mener à une pensée qui part dans tous les sens et donc à du bruit plus que de la musique.
+Si ces deux parties se désynchronisent, ce n'est plus seulement une histoire de mauvais timing face au TPN : c'est le contenu même de la pensée interne qui devient plus décousu.
+
+Autrement dit, même quand le DMN a le droit de jouer, sa propre partition interne est jouée par deux musiciens qui n'ont plus le même tempo entre eux, et donc la partition qu'ils jouent est elle-même moins cohérente.
+
+Dans un orchestre, c'est comme si le DMN était associés aux violons et qu'au moment de jouer , deux violonistes n'étaient plus sur le même tempo. Cela peut expliquer la part de créativité des TDAH et donc des partitions originales mais cela peut aussi mener à une pensée qui part dans tous les sens et donc à du bruit plus que de la musique.
 
 C'est pour cette raison que cette désynchronisation interne au DMN mérite d'être mentionnée en plus du problème DMN/TPN : elle montre que le TDAH n'est pas qu'un problème de bascule entre deux réseaux, mais aussi un problème de cohérence à l'intérieur du réseau DMN.
 

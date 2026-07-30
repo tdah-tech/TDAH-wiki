@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T08:19:31.898+02:00
+modified: 2026-07-30T11:15:56.831+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,3 +27,10 @@ Dans le contexte du TDAH, les bénéfices de mettre en place des routines ménag
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
 - [[Surcharge mentale et TDAH]]
 - [[Les fonctions éxécutives - définition]]
+
+## Références
+
+- Spaulding S.L., Fruitman K., Rapoport E., Soled D., Adesman A. Impact of ADHD on Household Chores Journal of Attention Disorders, 2021
+
+* \***Tse A.C.Y., et al.**, Cross-sectional associations of housework with cognitive, physical and sensorimotor functions in younger and older community-dwelling adults BMJ Open, 2021
+* \***Tepper D.L., et al.** Executive functions and household chores: Does engagement in chores predict children’s cognition? Australian Occupational Therapy Journal, 2022

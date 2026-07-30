@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:18:28.512+02:00
+modified: 2026-07-30T11:32:00.473+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -67,3 +67,7 @@ Pourquoi un stimulant calme-t-il un enfant hyperactif au lieu de l'exciter davan
 - [[Dopamine et TDAH]]
 - [[Méthylphénidate et réussite scolaire des enfants TDAH]]
 - [[Neurosciences du TDAH]]
+
+## Référence
+
+- Kay B.P., et al. Stimulant medications affect arousal and reward, not attention networks Cell, 2025 DOI: 10.1016/j.cell.2025.11.039

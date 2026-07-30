@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.124+02:00
+modified: 2026-07-30T11:58:15.077+02:00
 tags:
   - micronote
   - tdah
@@ -30,3 +30,11 @@ Comprendre le TDAH sous cet angle change profondément la manière dont on l’a
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Trouble ou neurodivergence ?]]
 - [[Neurosciences du TDAH]]
+
+## Références
+
+- \***Dodson W.** Secrets of the ADHD Brain ADDitude Magazine (et publications associées), 2013 / actualisations ultérieures (concept de « interest-based nervous system »)
+
+- \***Barkley R.A.** Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment Guilford Press, 2015 (4ᵉ édition)
+
+- \***Brown T.E.** Attention Deficit Disorder: The Unfocused Mind in Children and Adults Yale University Press, 2005

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:18:28.494+02:00
+modified: 2026-07-30T11:55:47.117+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,3 +35,7 @@ Il reste cependant un outil de vulgarisation plutôt qu'un concept clinique opé
 - [[Neurosciences du TDAH]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
+
+## Référence
+
+Hallowell E.M., Ratey J.J. , ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction – from Childhood through Adulthood, Ballantine Books, 2021
