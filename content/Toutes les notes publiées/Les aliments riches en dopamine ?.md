@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:19:13.491+02:00
+modified: 2026-07-30T12:14:58.088+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,3 +39,7 @@ Une alimentation stable, riche en protéines de qualité, en légumes, en fruits
 - [[Les omega-3]]
 - [[Éviter la variation brutale de la glycémie]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]
+
+## Références
+
+Bergwerff C.E., Luman M., Blom H.J., Oosterlaan J. No Tryptophan, Tyrosine and Phenylalanine Abnormalities in Children with Attention-Deficit/Hyperactivity Disorder, PLOS One, 2016

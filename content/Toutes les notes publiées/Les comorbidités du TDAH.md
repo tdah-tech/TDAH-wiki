@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T19:18:07.623+02:00
+modified: 2026-07-30T12:16:50.265+02:00
 tags:
-  - micronote
-  - tdah
-  - top
-  - trouble-opposition
-  - autisme
-  - anxiete
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#top"
+  - "#trouble-opposition"
+  - "#autisme"
+  - "#anxiete"
+  - "#impulsivite"
 ---
 
 Le TDAH ne vient (presque) jamais seul. Une proportion à retenir en premier, parce qu'elle change complètement la façon de penser le TDAH dans plus de deux tiers des cas, on retrouve au moins un trouble associé.
@@ -59,3 +59,7 @@ Les troubles spécifiques des apprentissages, **dyslexie, dysorthographie, dysca
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Trouble de l'opposition et image de soi]]
 - [[Neurosciences du TDAH]]
+
+## Références
+
+Njardvik U., Wergeland G.J., Riise E.N., Hannesdottir D.K., Öst L.G. Psychiatric comorbidity in children and adolescents with ADHD: A systematic review and meta-analysis Clinical Psychology Review, 2025

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.137+02:00
+modified: 2026-07-30T12:17:16.225+02:00
 tags:
-  - micronote
-  - tdah
-  - alimentation
-  - féculent
-  - indice-glycemique
-  - index-glycémique-bas
+  - "#micronote"
+  - "#tdah"
+  - "#alimentation"
+  - "#féculent"
+  - "#indice-glycemique"
+  - "#index-glycémique-bas"
 ---
 
 Privilégier les féculents à index glycémique bas est généralement une bonne idée dans le cadre du TDAH, même s’il faut bien comprendre ce que cela apporte réellement.
@@ -17,7 +17,7 @@ Le cerveau fonctionne principalement grâce au glucose. Les féculents à index 
 
 Cette [[Éviter la variation brutale de la glycémie|variation]] peut entraîner une baisse d’attention, de la fatigue, de l’irritabilité ou une plus grande [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]. Chez les personnes avec un TDAH, ces fluctuations sont souvent plus gênantes, car le cerveau est déjà plus sensible aux variations d’énergie et de [[Dopamine et TDAH|dopamine]]. Stabiliser la glycémie n’agit pas directement sur le trouble lui-même, mais elle aide à éviter d’ajouter une source supplémentaire d’instabilité au quotidien.
 
-Les données scientifiques montrent que la qualité des glucides, c’est-à-dire leur index et leur charge glycémique, semble plus importante que leur quantité totale.
+Les données scientifiques montrent que la qualité des glucides, c’est-à-dire leur charge glycémique, semble plus importante que leur quantité totale.
 
 Les régimes qui favorisent des glucides lents et peu transformés, comme l’alimentation de type méditerranéen ou DASH, sont associés à de meilleurs scores d’attention et de comportement dans plusieurs études. Les preuves strictement centrées sur un régime à faible index glycémique restent encore limitées, mais le sens général des observations va clairement dans la même direction : moins de pics et de chutes de glycémie favorisent une meilleure stabilité.
 

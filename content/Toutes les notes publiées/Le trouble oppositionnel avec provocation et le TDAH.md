@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T08:20:02.832+02:00
+modified: 2026-07-30T12:12:18.676+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,3 +28,9 @@ La cooccurrence avec le TDAH est massive : selon les études, **entre un tiers e
 - [[Les comorbidités du TDAH]]
 - [[Causes du trouble oppositionnel avec provocation - TOP]]
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
+
+## Références
+
+**American Psychiatric Association** Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) American Psychiatric Publishing, 2013
+
+Njardvik U., Wergeland G.J., Riise E.N., Hannesdottir D.K., Öst L.G. Psychiatric comorbidity in children and adolescents with ADHD: A systematic review and meta-analysis Clinical Psychology Review, 2025

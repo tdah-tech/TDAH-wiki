@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.495+02:00
+modified: 2026-07-30T12:21:58.368+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,9 @@ tags:
 
 Accepter un diagnostic de TDAH, ce n'est ni un blanc-seing pour tout excuser, ni un renoncement à essayer. C'est reconnaître une réalité médicale qui a des conséquences concrètes sur la vie quotidienne ou professionnelle. Beaucoup de personnes TDAH y arrivent très bien, diagnostic ou pas. Le diagnostic ne change rien à leurs efforts ni à leurs capacités : il change avant tout le regard qu'on porte sur les difficultés qui persistent malgré ces efforts.
 
-Avant le diagnostic, un enfant qui n'arrive pas à rester concentré ou un adulte qui multiplie les oublis se voit souvent renvoyé à un manque de volonté : « il ne fait pas assez d'efforts », « elle devrait se discipliner ». Le diagnostic déplace la question : ce n'est plus **« pourquoi tu n'y arrives pas »** mais **« comment on t'aide à y arriver, sachant ce qui se joue »**. Cette nuance ouvre la porte à une compassion et un soutien qu'on s'interdisait tant que la difficulté passait pour un défaut de caractère.
+Avant le diagnostic, un enfant qui n'arrive pas à rester concentré ou un adulte qui multiplie les oublis se voit souvent renvoyé à un manque de volonté : « il ne fait pas assez d'efforts », « elle devrait se discipliner ».
+
+Le diagnostic déplace la question : ce n'est plus **« pourquoi tu n'y arrives pas »** mais **« comment on t'aide à y arriver, sachant ce qui se joue »**. Cette nuance ouvre la porte à une compassion et un soutien qu'on s'interdisait tant que la difficulté passait pour un défaut de caractère.
 
 ## Pour aller plus loin
 
