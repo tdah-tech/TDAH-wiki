@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.166+02:00
+modified: 2026-07-30T09:29:13.265+02:00
 tags:
-  - micronote
-  - tdah
-  - glycemie
-  - index-glycémique-bas
-  - alimentation
+  - "#micronote"
+  - "#tdah"
+  - "#glycemie"
+  - "#index-glycémique-bas"
+  - "#alimentation"
 ---
 
 Le cerveau, et plus particulièrement celui d’une personne présentant un TDAH, fonctionne de manière optimale lorsqu’il reçoit un apport énergétique régulier et prévisible. Le glucose constitue son principal carburant. Lorsque la glycémie s’élève trop rapidement puis chute de façon abrupte, cet apport devient irrégulier. Les neurones des régions préfrontales, déjà souvent en déficit relatif de régulation chez les personnes avec TDAH, se retrouvent alors temporairement en situation de sous-alimentation énergétique. Il en résulte fréquemment une baisse de la vigilance, une diminution de la capacité de [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|concentration soutenue]], une irritabilité accrue ou un sentiment de brouillard mental. Ces fluctuations ne créent pas le TDAH, mais elles en amplifient les manifestations quotidiennes.
@@ -27,3 +27,11 @@ L’objectif n’est pas d’éliminer les glucides ni de calculer en permanence
 - [[TDAH et déséquilibres alimentaires]]
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Les fonctions éxécutives - définition]]
+
+## Références
+
+Zametkin A.J., Nordahl T.E., Gross M., et al. Cerebral Glucose Metabolism in Adults with Hyperactivity of Childhood Onset New England Journal of Medicine, 1990
+
+Khoshbakht Y., Bahreynian M., et al. The effect of dietary approaches to stop hypertension (DASH) diet on attention-deficit hyperactivity disorder (ADHD) symptoms: a randomized controlled clinical trial European Journal of Nutrition, 2021
+
+Del-Ponte B., et al.,Sugar consumption, sugar sweetened beverages and Attention Deficit Hyperactivity Disorder: A systematic review and meta-analysis Complementary Therapies in Medicine, 2020

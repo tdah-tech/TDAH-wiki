@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T08:18:28.486+02:00
+modified: 2026-07-30T10:07:36.618+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#epuisement-parental"
-  - "#stress-parental"
-  - "#top"
-  - "#trouble-opposition"
+  - micronote
+  - tdah
+  - epuisement-parental
+  - stress-parental
+  - top
+  - trouble-opposition
 ---
 
 L'épuisement parental se définit par quatre dimensions mesurables :
@@ -18,9 +18,9 @@ L'épuisement parental se définit par quatre dimensions mesurables :
 - le fait d'en avoir assez de ce rôle,
 - et une distance émotionnelle vis-à-vis de son enfant.
 
-Ce qui le distingue clairement de la fatigue parentale ordinaire, c'est sa mécanique : la fatigue parentale diminue après une période difficile, alors que l'épuisement parental ne se résorbe pas parce qu'il résulte d'un déséquilibre chronique entre ce que demande le rôle parental et les ressources disponibles pour y répondre.
+Ce qui le distingue clairement de la fatigue parentale ordinaire, c'est sa mécanique chronique : la fatigue parentale diminue après une période difficile, alors que l'épuisement parental ne se résorbe pas parce qu'il résulte d'un déséquilibre chronique entre ce que demande le rôle parental et les ressources disponibles pour y répondre.
 
-On ne guérit pas d'un épuisement parental avec un week-end tranquille, un mois de vacances, ce qui explique la frustration de beaucoup de parents à qui on conseille simplement "de se reposer un peu".
+En d'autres termes, on ne guérit pas d'un épuisement parental avec un week-end tranquille, une semaine de vacances, ce qui explique la frustration/l'agacement de beaucoup de parents à qui on conseille simplement "de se reposer un peu".
 
 #### Pourquoi ce profil d'enfant expose davantage à ce risque
 
@@ -37,3 +37,9 @@ Cette donnée vise à faire comprendre qu'un épuisement parental sévère n'est
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
 - [[Boite à outils Trouble oppositionnel]]
+
+## Références
+
+- Roskam I., Brianda M.E., Mikolajczak M. A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology, 2018
+- Mikolajczak M., Brianda M.E., Avalosse H., Roskam I. Consequences of parental burnout: Its specific effect on child neglect and violence Child Abuse & Neglect, 2018
+- Roskam I., Brianda M.E., Mikolajczak M. A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology, 2018
