@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:20:02.821+02:00
+modified: 2026-07-30T10:13:04.066+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,3 +30,9 @@ Il convient enfin de souligner que la psychoéducation n’est pas un acte uniqu
 - [[Vivre avec un TDAH]]
 - [[Le TDAH n'est pas de la paresse]]
 - [[Les thérapies cognitivo-comportementale (TCC)]]
+
+## Références
+
+- Haute Autorité de Santé, Trouble du neurodéveloppement/TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents Recommandations de bonne pratique, 2024
+
+- Dahl V., Ramakrishnan A., Spears A.P., Jorge A., Lu J., Bigio N.A., Chacko A., Psychoeducation Interventions for Parents and Teachers of Children and Adolescents with ADHD: a Systematic Review of the Literature Journal of Developmental and Physical Disabilities, 2019

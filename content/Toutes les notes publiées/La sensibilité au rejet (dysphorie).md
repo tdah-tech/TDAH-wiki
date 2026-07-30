@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T14:05:25.196+02:00
+modified: 2026-07-30T10:32:34.186+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -37,3 +37,9 @@ Sur le plan psychologique, les thérapies cognitives et comportementales, la ple
 - [[La tendance à vouloir plaire et le TDAH]]
 - [[Perfectionnisme et le TDAH]]
 - [[Dissimulation - camouflage du TDAH (masking)]]
+
+## Références
+
+- Dodson W.W., Modestino E.J., et al., Rejection Sensitivity Dysphoria in Attention-Deficit/Hyperactivity Disorder: A Case Series Acta Scientific Neurology, 2024
+
+* Shaw P., Stringaris A., Nigg J., Leibenluft E., Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry, 2014

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T17:10:29.417+02:00
+modified: 2026-07-30T10:16:04.216+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,3 +28,8 @@ Il importe toutefois de souligner que le renforcement positif n’est pas une so
 - [[La méthode Barkley]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Parentalité et TDAH]]
+
+## Références
+
+- Barkley R.A. Defiant Children: A Clinician’s Manual for Assessment and Parent Training Guilford Press, 2013
+- Groenman A.P., et al., Meta-analysis: Which Components of Parent Training Work for Children With Attention-Deficit/Hyperactivity Disorder?, Journal of the American Academy of Child & Adolescent Psychiatry, 2022

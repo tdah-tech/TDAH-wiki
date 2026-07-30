@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T11:17:27.130+02:00
+modified: 2026-07-30T10:55:52.017+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ S’ajoute à cela une sensibilité accrue à la frustration et à l’ennui : *
 
 Pour contrer cette tendance, il convient d’abord de transformer la structure même du projet afin qu’il collabore avec le fonctionnement cérébral plutôt que de le combattre. **[[Le découpage des tâches|Découper l’ensemble en micro-étapes]] extrêmement concrètes et de très courte durée permet de recréer artificiellement des cycles de récompense fréquents**.
 
-**Un autre levier puissant consiste à externaliser la motivation et le suivi**. [[Le dédoublement corporel|Travailler en présence d’une autre personne, même en silence]], ou rendre compte régulièrement de l’avancement à quelqu’un de bienveillant crée une forme de co-régulation qui compense le déficit interne. De même, l’utilisation d’outils de visualisation du progrès — un tableau simple où l’on coche physiquement chaque étape — rend tangible ce qui restait abstrait. Il s’agit moins de discipline austère que de conception d’un environnement qui multiplie les signaux de réussite immédiate.
+**Un autre levier puissant consiste à externaliser la motivation et le suivi**. [[La doublure corporelle|Travailler en présence d’une autre personne, même en silence]], ou rendre compte régulièrement de l’avancement à quelqu’un de bienveillant crée une forme de co-régulation qui compense le déficit interne. De même, l’utilisation d’outils de visualisation du progrès — un tableau simple où l’on coche physiquement chaque étape — rend tangible ce qui restait abstrait. Il s’agit moins de discipline austère que de conception d’un environnement qui multiplie les signaux de réussite immédiate.
 
 Enfin et surtout, **choisir des projets qui s’alignent véritablement avec les centres d’intérêt profonds de la personne, et accepter de laisser mourir ceux qui ne le font plus, constitue une stratégie de préservation à long terme**. Le TDAH confère souvent une curiosité vive et une capacité d’innovation ; encore faut-il **orienter cette énergie vers des domaines où la stimulation naturelle est suffisante pour compenser les coûts attentionnels**. En cultivant cette lucidité, la personne transforme progressivement le cycle d’abandon en un processus d’ajustement conscient, où l’énergie n’est plus gaspillée dans des projets morts, mais concentrée sur ceux qui méritent vraiment d’être menés à terme.
 
@@ -44,4 +44,4 @@ Cette concentration ne signifie pas rigidité ou appauvrissement ; elle laisse p
 - [[Dopamine et TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Le découpage des tâches]]
-- [[Le dédoublement corporel]]
+- [[La doublure corporelle]]

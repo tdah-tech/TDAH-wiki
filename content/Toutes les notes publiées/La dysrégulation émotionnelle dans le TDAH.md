@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T18:29:39.569+02:00
+modified: 2026-07-30T10:29:43.913+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,15 +33,17 @@ L'échelle différencie significativement les enfants TDAH d'un groupe contrôle
 
 **Chez l'adulte.** Une étude clinique multidimensionnelle menée à Milan (Dell'Osso et al., _Brain Sciences_, 2026) sur 231 adultes TDAH (18-35 ans) a mis en évidence que :
 
-- Les scores de dysrégulation sont nettement supérieurs aux normes de population générale, et plus élevés dans la présentation combinée du TDAH (inattention + hyperactivité) que dans la présentation inattentive pure.
-- La [[Les comorbidités du TDAH|comorbidité]] psychiatrique (présente chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
-- Les meilleurs prédicteurs indépendants de la dysrégulation émotionnelle sont : la qualité de vie, l'intensité rétrospective des symptômes TDAH dans l'enfance, l'anxiété-trait et la présence d'un trouble addictif actuel.
+- **Les scores de dysrégulation sont nettement supérieurs aux normes de population générale, et plus élevés dans la présentation combinée du TDAH (inattention + hyperactivité) que dans la forme inattentive pure**.
 
-Les auteurs concluent à un **modèle affectivo-exécutif intégré** du TDAH adulte, où la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale dialectique (TCD) en complément du traitement pharmacologique classique.
+- Les [[Les comorbidités du TDAH|comorbidités]] psychiatriques (présentent chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
+
+- Les meilleurs prédicteurs  de la dysrégulation émotionnelle sont : la qualité de vie, l'intensité rétrospective des symptômes TDAH dans l'enfance, l'anxiété et la présence d'un trouble addictif actuel.
+
+Les auteurs concluent que chez les personnes TDAH la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale  en complément du traitement pharmacologique classique.
 
 ## Implications cliniques
 
-Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH sans questionner la régulation émotionnelle revient à laisser de côté une part importante du tableau clinique — potentiellement la plus invalidante en termes de qualité de vie et de fonctionnement relationnel. Ils suggèrent aussi que la dysrégulation émotionnelle ne se résume pas à « plus d'impulsivité » : elle a sa propre dynamique (réactivité vs récupération), ses propres facteurs prédictifs, et justifierait des prises en charge spécifiques plutôt qu'une simple extension du traitement du TDAH .
+Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH sans questionner la régulation émotionnelle revient à laisser de côté une part importante du tableau clinique — potentiellement la plus invalidante en termes de qualité de vie et de fonctionnement relationnel. Ils suggèrent aussi que la dysrégulation émotionnelle ne se résume pas à « plus d'impulsivité » : elle a sa propre dynamique, ses propres facteurs prédictifs, et justifierait des prises en charge spécifiques plutôt qu'un simple  traitement du TDAH avec des stimulants.
 
 ## Pour aller plus loin
 
@@ -53,5 +55,7 @@ Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH san
 
 ## Références
 
+- Shaw P., Stringaris A., Nigg J., Leibenluft E. Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry, 2014
+- Solérte L., et al. , Evidence of emotion dysregulation as a core symptom of adult ADHD: A systematic review PLOS One, 2023
 - Courrèges, M. et al., Validation d'une échelle de dysrégulation émotionnelle chez les enfants atteints de trouble déficit de l'attention avec ou sans hyperactivité (TDAH), Neuropsychiatrie de l'Enfance et de l'Adolescence, 2025
 - Landi, P., Olivola, M., De Ciechi, A., et al. (incl. Dell'Osso, B.), Emotional Dysregulation as a Clinically Relevant Dimension of Adult ADHD: A Multidimensional Clinical Study, Brain Sciences, 2026

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T11:19:40.541+02:00
+modified: 2026-07-30T10:36:24.889+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#sensibilite-au-rejet"
 ---
 
-La tendance à vouloir plaire chez le TDAH (people-pleasing en anglais), cette tendance à prioritiser plus ou moins systématiquement les besoins, le confort ou l’approbation d’autrui au détriment de ses propres limites, n’apparaît pas comme un critère diagnostique formel du TDAH mais la littérature  contemporaine documente de manière convergente un lien fréquent entre le TDAH et ce type de pensée.
+La tendance à vouloir plaire chez le TDAH (people-pleasing en anglais), consiste  à prioritiser plus ou moins systématiquement les besoins, le confort ou l’approbation d’autrui au détriment de ses propres limites. Ce n'est pas critère de diagnostic  du TDAH mais la littérature  contemporaine documente de manière convergente un lien fréquent entre le TDAH et ce type de pensée.
 
 Au cœur de cette association se trouve la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]], désormais largement reconnue comme une dimension centrale du TDAH chez l’adulte, même si elle n’est pas encore intégrée de façon officielle aux critères diagnostiques. Les personnes TDAH expérimentent souvent des réactions émotionnelles d’une intensité et d’une rapidité disproportionnées face à des stimuli sociaux perçus comme négatifs. Lorsque ce fonctionnement rencontre la [[La sensibilité au rejet (dysphorie)|sensibilité au rejet]] (parfois désigné dans la clinique du TDAH sous le terme de dysphorie de sensibilité au rejet) — l’expérience d’une critique, d’un désaccord ou même d’une neutralité ambigüe peut déclencher une douleur émotionnelle aiguë, quasi physique, accompagnée selon les personnes de honte, d’anxiété ou d’un sentiment d’ostracisme.
 
@@ -29,3 +29,7 @@ En résumé, la science actuelle décrit le vouloir plaire ou le people-pleasing
 - [[La sensibilité au rejet (dysphorie)]]
 - [[Qu'est-ce-que l'impulsivité chez le TDAH]]
 - [[Cécité temporelle chez les personnes TDAH]]
+
+## Référence
+
+- Rowney-Smith A., Sutton B., Quadt L., Eccles J.A. The lived experience of rejection sensitivity in ADHD – A qualitative exploration PLOS One, 2026

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-28T15:55:58.814+02:00
+modified: 2026-07-30T10:55:51.962+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,7 +32,7 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 - [[Le brain dump]]
 - [[Tableau blanc et feutres de couleurs]]
 - [[Avoir un coup et une heure d’avance aident les TDAH]]
-- [[Le dédoublement corporel]]
+- [[La doublure corporelle]]
 - [[Le système et les minuteurs Pomodoro]]
 - [[La technique du Flowtime]]
 - [[Matérialiser le temps qui passe]]

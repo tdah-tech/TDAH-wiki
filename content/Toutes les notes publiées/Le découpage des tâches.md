@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-27T11:53:05.128+02:00
+modified: 2026-07-30T10:41:30.151+02:00
 tags:
-  - micronote
-  - tdah
-  - fonctions-executives
-  - memoire-de-travail
-  - dopamine
-  - organisation
+  - "#micronote"
+  - "#tdah"
+  - "#fonctions-executives"
+  - "#memoire-de-travail"
+  - "#dopamine"
+  - "#organisation"
 ---
 
 Le découpage des tâches, ou « chunking », constitue l’une des stratégies comportementales les plus solidement ancrées dans la prise en charge du TDAH.
@@ -31,3 +31,9 @@ Le découpage, mal dimensionné ou réalisé sans soutien externe peut cependant
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Mémoire de travail et TDAH]]
 - [[Le système et les minuteurs Pomodoro]]
+
+## Références
+
+- **Bikic A., Reichow B., McCauley S.A., Ibrahim K., Sukhodolsky D.G.** Meta-analysis of organizational skills interventions for children and adolescents with Attention-Deficit/Hyperactivity Disorder Clinical Psychology Review, 2017
+
+- **Abikoff H., Gallagher R., Wells K.C., et al.** Remediating Organizational Functioning in Children With ADHD: Immediate and Long-Term Effects From a Randomized Controlled Trial Journal of Consulting and Clinical Psychology, 2013

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-27T13:31:21.178+02:00
+modified: 2026-07-30T10:19:19.685+02:00
 tags:
-  - micronote
-  - tdah
-  - hyperfocus
-  - dopamine
-  - urgence
-  - peur
-  - anxiete
+  - "#micronote"
+  - "#tdah"
+  - "#hyperfocus"
+  - "#dopamine"
+  - "#urgence"
+  - "#peur"
+  - "#anxiete"
 ---
 
 Chez les personnes avec un TDAH, [[Qu'est-ce-que l'hyperfocus ?|l'hyperfocus]] apparaît rarement comme une décision purement volontaire. Il surgit le plus souvent lorsque le cerveau reçoit enfin le signal chimique qui lui manquait. En dehors de l'intérêt et la passion que produit l'activité, l’urgence et la peur font partie des leviers les plus puissants pour produire ce signal.
@@ -31,3 +31,9 @@ Ces mécanismes sont réels et méritent d’être connus. Ils expliquent pourqu
 - [[Dopamine et TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Qu'est-ce-que le TDAH ?]]
+
+## Références
+
+- Hupfeld K.E., Abagis T.R., Shah P. Living “in the zone”: hyperfocus in adult ADHD ADHD Attention Deficit and Hyperactivity Disorders, 2019
+- Tripp G., Wickens J.R. Research review: Dopamine transfer deficit: a neurobiological theory of altered reinforcement mechanisms in ADHD Journal of Child Psychology and Psychiatry, 2008
+- Dodson W. Secrets of the ADHD Brain ADDitude Magazine (et publications associées), 2010s

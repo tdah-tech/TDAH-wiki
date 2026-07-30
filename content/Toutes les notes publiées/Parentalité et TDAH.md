@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T19:22:46.045+02:00
+modified: 2026-07-30T10:55:52.046+02:00
 tags:
-  - micronote
-  - tdah
-  - parentalite
-  - top
-  - trouble-opposition
-  - cycle-coercitif
-  - index
+  - "#micronote"
+  - "#tdah"
+  - "#parentalite"
+  - "#top"
+  - "#trouble-opposition"
+  - "#cycle-coercitif"
+  - "#index"
 ---
 
 Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres au TDAH et au TOP.
@@ -51,7 +51,7 @@ tags:
 
 - [[Faciliter la transition entre les activités - les rituels de démarrage]]
 - [[Outils liées au retard de maturation TDAH]]
-- [[Le dédoublement corporel]]
+- [[La doublure corporelle]]
 
 ## Pour aller plus loin
 
