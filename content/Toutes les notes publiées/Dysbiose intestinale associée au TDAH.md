@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T18:47:47.501+02:00
+modified: 2026-07-30T09:22:11.402+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ Ces variations ne sont pas uniformes d’une étude à l’autre, ce qui s’exp
 
 Au-delà des bactéries, des travaux plus récents se sont intéressés au mycobiote, c’est-à-dire à la composante fongique du microbiote intestinal et les résultats renforcent l’hypothèse d’une barrière intestinale poreuse susceptible de favoriser le passage de molécules pro-inflammatoires vers  le système nerveux central.
 
-Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique et pourraient aggraver les symptômes du TDAH.
+Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique et pourraient alors aggraver les symptômes du TDAH.
 
 Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH.
 
@@ -36,3 +36,8 @@ Des études longitudinales et des essais d’intervention, qu’il s’agisse de
 ## Références
 
 - Wang, L. J. et al., Gut mycobiome dysbiosis and its impact on intestinal permeability in attention-deficit/hyperactivity disorder, Journal of Child Psychology and Psychiatry, 2023
+- Kumperscak H.G. et al. A Pilot Randomized Controlled Trial of Lactobacillus rhamnosus GG in Children with ADHD (études sur LGG et qualité de vie / symptômes émotionnels)
+- Wang L.J. et al. Effect of Bifidobacterium bifidum on Clinical Characteristics and Gut Microbiota in Attention-Deficit/Hyperactivity Disorder Frontiers in Psychiatry, 2022
+- Kumperscak H.G., Gricar G.R., Duh M., Micetic-Turk D. A Pilot Randomized Control Trial With the Probiotic Strain Lactobacillus rhamnosus GG (LGG) in ADHD: Children and Adolescents Report Better Health-Related Quality of Life Frontiers in Psychiatry, 2020
+- Arteaga-Henríquez G., Ramos-Sayalero C., Ibañez-Jimenez P., et al. Efficacy of a synbiotic in the management of adults with Attention-Deficit and Hyperactivity Disorder and/or Borderline Personality Disorder and high levels of irritability: Results from a multicenter, randomized, placebo-controlled, “basket” trial Brain, Behavior, and Immunity, 2024
+- Liang S.C., et al. Therapeutic efficacy of probiotics for symptoms of attention-deficit hyperactivity disorder in children and adolescents: meta-analysis BJPsych Open, 2024

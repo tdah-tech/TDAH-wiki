@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.103+02:00
+modified: 2026-07-30T09:14:53.817+02:00
 tags:
-  - micronote
-  - tdah
-  - trouble-opposition
-  - top
-  - dsm-5
-  - image-de-soi
+  - "#micronote"
+  - "#tdah"
+  - "#trouble-opposition"
+  - "#top"
+  - "#dsm-5"
+  - "#image-de-soi"
 ---
 
 C'est sans doute la confusion la plus fréquente et la plus lourde de conséquences chez les parents : croire qu'un enfant qui dit non, qui négocie tout, ou qui pique une colère au supermarché, présente un trouble oppositionnel. Cette confusion mérite d'être traitée en profondeur, parce qu'elle entraîne deux dérives opposées et tout aussi problématiques : soit on pathologise un comportement parfaitement sain, soit à l'inverse on banalise pendant des années un trouble réel en se disant "ça va passer", ce qui retarde d'autant la prise en charge.
@@ -52,3 +52,7 @@ Garder à l'esprit qu'un enfant TOP reste, la majorité du temps, un enfant qui 
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Causes du trouble oppositionnel avec provocation - TOP]]
 - [[Trouble de l'opposition et image de soi]]
+
+## Référence
+
+American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, **Oppositional Defiant Disorder** (code F91.3), Fifth Edition (DSM-5) American Psychiatric Publishing, 2013 (et sa version révisée DSM-5-TR, 2022)

@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T08:20:11.432+02:00
+modified: 2026-07-29T19:18:07.623+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#trouble-opposition"
-  - "#autisme"
-  - "#anxiete"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - top
+  - trouble-opposition
+  - autisme
+  - anxiete
+  - impulsivite
 ---
 
-Le TDAH ne vient (presque) jamais seul. Un chiffre à retenir en premier, parce qu'il change complètement la façon de penser le TDAH : le TDAH touche 3 à 8 % des enfants d'âge scolaire, et dans plus de deux tiers des cas, on retrouve au moins un trouble associé. D'autres sources vont plus loin encore, avec une présence de trouble associé évaluée entre 65 et 89 %. Autrement dit, le TDAH "pur", isolé de tout autre trouble, est presque l'exception plutôt que la règle. Cela a une conséquence directe et importante : chercher systématiquement d'autres troubles associés au moment du diagnostic n'est pas optionnel, c'est une étape normale de l'évaluation.
+Le TDAH ne vient (presque) jamais seul. Une proportion à retenir en premier, parce qu'elle change complètement la façon de penser le TDAH dans plus de deux tiers des cas, on retrouve au moins un trouble associé.
+
+D'autres sources vont plus loin encore, avec une présence de trouble associé évaluée entre 65 et 89 %. Autrement dit, le TDAH "pur", isolé de tout autre trouble, est presque l'exception plutôt que la règle. Cela a une conséquence directe et importante : chercher systématiquement d'autres troubles associés au moment du diagnostic n'est pas optionnel, c'est une étape normale de l'évaluation.
 
 #### Pourquoi autant de comorbidités
 
@@ -24,7 +26,7 @@ Ensuite, un effet domino. Le TDAH est lui-même un facteur de risque pour dével
 
 Un enfant qui accumule les échecs scolaires, les remarques négatives et les rejets sociaux à cause de son TDAH non repéré ou non accompagné a statistiquement plus de risques de développer, en réaction, de l'anxiété, une dépression, ou un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel]]. Ici, la comorbidité n'est pas d'origine biologique directe, elle se construit dans le temps.
 
-#### Des comorbidités qui changent avec l'âge\*\*
+#### Des comorbidités qui changent avec l'âge
 
 C'est un point souvent sous-estimé : le paysage des troubles associés au TDAH n'est pas figé, il évolue avec le développement. Durant la petite enfance, ce sont le [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel avec provocation]] et les troubles du langage qui dominent. Plus tard viennent s'ajouter les troubles des apprentissages, puis à l'adolescence et à l'âge adulte, le tableau se déplace vers les troubles anxieux, les troubles de l'humeur, et les conduites addictives. À l'âge adulte, les changements dans la maturation cérébrale, les nouvelles attentes sociales, et l'accumulation d'expériences négatives viennent modifier ce profil de comorbidités.
 

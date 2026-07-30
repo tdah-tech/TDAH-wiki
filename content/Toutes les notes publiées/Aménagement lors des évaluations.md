@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-28T15:53:01.335+02:00
+modified: 2026-07-30T07:50:43.571+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -13,7 +13,7 @@ Lors des évaluations scolaires, les recommandations destinées aux élèves pr�
 
 **Le temps majoré** constitue l’un des aménagements les plus fréquemment retenus. Une majoration pouvant atteindre le tiers du temps normalement prévu permet de compenser la lenteur d’exécution, les pertes de concentration, le besoin de recentrage et d'introduire des pauses brèves et planifiées au cours de l’épreuve pour restaurer l’attention et de réduire la fatigue cognitive.
 
-**Proposer des temps de relecture obligatoires**, des [[Grilles de relectures|check-lists de vérification]], ou encore un temps majoré explicitement dédié à la vérification permettent de compenser partiellement l'[[Altération des processus métacognitifs chez les TDAH|déficit d’auto-évaluation]] des TDAH. L’objectif n’est pas de se substituer à l’élève, mais de lui fournir un étayage externe temporaire jusqu’à ce qu’il intériorise progressivement des stratégies de monitoring plus efficaces.
+**Proposer des temps de relecture obligatoires**, des [[Grilles de relectures|check-lists de vérification]], ou encore un temps majoré explicitement dédié à la vérification permettent de compenser partiellement un [[Altération des processus métacognitifs chez les TDAH|déficit d’auto-évaluation]] des TDAH. L’objectif n’est pas de se substituer à l’élève, mais de lui fournir un étayage externe temporaire jusqu’à ce qu’il intériorise progressivement des stratégies de contrôle plus efficaces.
 
 **L’environnement dans lequel se déroule l’évaluation joue un rôle déterminant**. Installer l’élève dans un espace calme, à l’écart des sources de distraction, ou dans une salle séparée lorsque cela est possible, limite les interférences auditives et visuelles. La place près de l’enseignant ou dans une zone peu fréquentée reste pertinente.
 

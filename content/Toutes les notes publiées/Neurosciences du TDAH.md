@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-27T11:56:28.918+02:00
+modified: 2026-07-29T19:13:21.471+02:00
 tags:
   - micronote
   - tdah
@@ -19,7 +19,7 @@ tags:
 
 ## Facteur Neurotrophique Dérivé du Cerveau
 
-- [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans]]
+- [[Retard de maturation cérébrale — 2 à 3 ans]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
 

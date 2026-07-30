@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T18:29:39.571+02:00
+modified: 2026-07-30T08:59:31.775+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -18,11 +18,9 @@ La deuxième dimension concerne la **capacité à estimer la durée d'une tâche
 
 La troisième dimension, la plus étudiée, touche à la **capacité à se projeter dans le futur** — ce que Russell Barkley a théorisé sous la forme d'une pensée en deux catégories temporelles quasi étanches, [[La pensée maintenant-pas maintenant|« maintenant » et « pas maintenant »]]. Le « maintenant » désigne ce qui est immédiat et concret ; le « pas maintenant » regroupe tout le reste, indépendamment de son échéance réelle. Une échéance dans trois jours et une échéance dans trois semaines peuvent ainsi être traitées cognitivement de la même façon : toutes deux restent abstraites et peu motivantes tant qu'elles ne basculent pas dans l'urgence. Le futur lointain n'a tout simplement pas, pour un cerveau TDAH, le même poids émotionnel et motivationnel que pour une personne neurotypique.
 
-Ces trois difficultés ne relèvent pas de l'anecdote clinique isolée : elles sont confirmées par de nombreuses études et méta-analyses scientifiques (notamment Zheng et al., 2022, sur la perception du temps chez l'enfant et l'adolescent). C'est Russell Barkley — l'un des plus grands spécialistes du TDAH — qui les a popularisées sous le nom de **time blindness** (cécité temporelle), allant jusqu'à parler de **« myopie temporelle »** pour décrire cette difficulté à voir clairement au-delà de l'instant présent.
+Ces trois difficultés ne relèvent pas de l'anecdote clinique isolée : elles sont confirmées par de nombreuses études et méta-analyses scientifiques (notamment Zheng et al., 2022, sur la perception du temps chez l'enfant et l'adolescent). C'est Russell Barkley — l'un des plus grands spécialistes du TDAH — qui les a popularisées sous le nom de **time blindness** (cécité temporelle), allant jusqu'à parler de **« myopie temporelle »** pour décrire cette difficulté à voir clairement au-delà de l'instant présent. En français, le terme le plus utilisé et le plus largement accepté pour désigner l'ensemble de ces trois dimensions reste **« cécité temporelle »**.
 
 Ce phénomène n'est **pas** un critère diagnostique officiel du DSM-5, mais il est largement reconnu comme une manifestation importante des dysfonctions exécutives sous-jacentes au TDAH.
-
-En français, le terme le plus utilisé et le plus largement accepté pour désigner l'ensemble de ces trois dimensions reste **« cécité temporelle »**.
 
 ## Pour aller plus loin
 
@@ -38,3 +36,6 @@ En français, le terme le plus utilisé et le plus largement accepté pour dési
 ## Références
 
 - Zheng, Q., Wang, X., Chiu, K. Y., & Shum, K. K., Time Perception Deficits in Children and Adolescents with ADHD: A Meta-analysis, Journal of Attention Disorders, 2022
+- Barkley R.A., Executive Functions: What They Are, How They Work, and Why They Evolved, Guilford Press, 2012
+- Noreika V., Falter C.M., Rubia K. Timing deficits in attention-deficit/hyperactivity disorder (ADHD): Evidence from neurocognitive and neuroimaging studies Neuropsychologia, 2013 (revue importante sur les déficits de timing)
+- Toplak M.E., Dockstader C., Tannock R. Temporal information processing in ADHD: Findings to date and new methods Journal of Neuroscience Methods, 2006

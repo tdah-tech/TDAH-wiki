@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T17:43:48.999+02:00
+modified: 2026-07-30T09:07:34.763+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,7 +27,9 @@ Les adolescents et adultes avec TDAH rapportent en moyenne des scores d’auto-e
 
 Pourtant, la science montre aussi que le renforcement de la croyance en soi produit des effets mesurables et parfois plus marqués chez les personnes avec TDAH que dans la population générale.
 
-L’étude de référence de Martin, Burns et Collie, publiée en 2017 dans _Contemporary Educational Psychology_, illustre particulièrement bien ce point. Ces chercheurs ont examiné, dans un large échantillon australien comprenant 164 élèves diagnostiqués TDAH et 4658 pairs sans diagnostic, les liens entre l’auto-efficacité (croyance en sa capacité à réussir le travail scolaire), le soutien relationnel des enseignants et les résultats académiques mesurés par des tests standardisés . **Ils ont constaté que l’auto-efficacité prédisait positivement la réussite scolaire dans les deux groupes**. Cependant, le coefficient  était significativement **plus élevé chez les élèves avec TDAH** (environ 0,30 contre 0,08 chez les enfants non diagnostiqués). **Autrement dit, une même augmentation de la croyance en ses capacités se traduisait par un gain académique proportionnellement plus important chez les jeunes TDAH**. Le soutien relationnel des enseignants montrait le même schéma différentiel.
+L’étude de référence de Martin, Burns et Collie, publiée en 2017 dans _Contemporary Educational Psychology_, illustre particulièrement bien ce point. Ces chercheurs ont examiné, dans un large échantillon australien comprenant 164 élèves diagnostiqués TDAH et 4658 éléves sans diagnostic, les liens entre l’auto-efficacité (croyance en sa capacité à réussir le travail scolaire), le soutien relationnel des enseignants et les résultats académiques mesurés par des tests standardisés .
+
+**Ils ont constaté que la croyance en sa capacité à réussir le travail scolaire prédisait positivement la réussite scolaire dans les deux groupes**. Cependant, le coefficient  était significativement **plus élevé chez les élèves avec TDAH** (environ 0,30 contre 0,08 chez les enfants non diagnostiqués). **Autrement dit, une même augmentation de la croyance en ses capacités se traduisait par un gain académique proportionnellement plus important chez les jeunes TDAH**. Le soutien relationnel des enseignants montrait le même schéma différentiel.
 
 Plus généralement, les revues de littérature portant sur les troubles spécifiques des apprentissages et le TDAH montrent que **les croyances "de réussite"  prédisent des niveaux plus élevés d’auto-efficacité générale et académique, un investissement d’effort accru et de meilleures performances**.
 
@@ -48,3 +50,6 @@ Il convient toutefois de souligner que l'’auto-efficacité n’est pas une ill
 ## Références
 
 - Martin, A. J., Burns, E. C., & Collie, R. J., ADHD, personal and interpersonal agency, and achievement: Exploring links from a social cognitive theory perspective, Contemporary Educational Psychology, 2017
+- Lackaye T. et al. (ou la revue 2025) Self-efficacy in Specific Learning Disabilities: a Systematic Review of Cross-sectional, Longitudinal and Experimental Evidence Contemporary School Psychology, 2025
+- DuPaul G.J. / Weyandt L.L. , Promoting academic success in college students with ADHD and LD: A systematic literature review to identify intervention targets Journal of American College Health, 2021/2022
+- Idan O., Margalit M. The hope theory and specific learning disorders and/or attention deficit disorders (SLD/ADHD): Developmental perspectives Current Opinion in Psychology, 2022

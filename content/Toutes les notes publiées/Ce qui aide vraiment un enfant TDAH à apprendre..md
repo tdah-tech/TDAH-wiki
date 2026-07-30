@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T17:43:48.996+02:00
+modified: 2026-07-30T08:53:35.635+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,7 +28,7 @@ La référence en la matière est la revue de **Dunlosky, Rawson, Marsh, Nathan 
 | Résumé | Rédiger un résumé du texte à apprendre | Faible |
 | Mnémonique par mot-clé | Associer un mot-image à un mot à retenir | Faible |
 | Imagerie mentale pour un texte | Se former des images mentales du contenu | Faible |
-Les deux techniques qui ont un niveau de preuve élevés et qui sont considérées comme les meilleurs techniques pour apprendre sont **la récupération active** et la pratique **de mémorisation distribuée**. D'autres techniques comme l'auto-explication, l'interrogation élaborative ou la pratique entrelacée peuvent être pertinentes mais avec des niveau de preuve d'utilité moindre.
+Les deux techniques qui ont un niveau de preuve élevés et qui sont considérées comme les meilleurs techniques pour apprendre sont : **la récupération active** et la pratique **de mémorisation distribuée**. D'autres techniques comme l'auto-explication, l'interrogation élaborative ou la pratique entrelacée peuvent être pertinentes mais avec des niveau de preuve d'utilité moindre.
 
 ## Est-ce que ça fonctionne aussi chez un enfant TDAH ?
 
@@ -46,15 +46,15 @@ Les études postérieures à 2013 ont exploré plus spécifiquement l'efficacit�
 
 5. **Un effet compensatoire partiel.** Une étude de 2023 suggère que la récupération active profite aux étudiants avec TDAH, mais ne compense pas entièrement les difficultés d'encodage chez les personnes non médicamentées.
 
-Autrement dit, la récupération active n'échoue pas chez l'enfant TDAH et ce n'est pas une méthode à adapter ou à mettre en doute pour un enfant TDAH, elle est déjà validée pour ce profil sur les types de matériel les plus courants en contexte scolaire (vocabulaire, définitions, formules, leçons etc.).
+Autrement dit, la récupération active n'échoue pas chez l'enfant TDAH et peut être mise en application.
 
-Par ailleurs, il n'existe pas d'études spécifique au TDAH sur la **pratique distribuée** mais elle il est plausible de penser qu'elle est particulièrement prometteuse.
+Par ailleurs, il n'existe pas d'études spécifique au TDAH sur la **pratique distribuée** mais elle il est plausible de penser qu'elle soit particulièrement prometteuse.
 
 - **Elle implique une réduction de la charge cognitive immédiate** : le TDAH est associé à des déficits de mémoire de travail et d'attention soutenue. Fragmenter l'apprentissage en sessions courtes réduit la demande cognitive à un moment donné. Or, les élèves TDAH tirent plus de bénéfice de sessions d'étude plus courtes et plus fréquentes que de sessions longues et continues, précisément parce que les limites de leur [[Mémoire de travail et TDAH|mémoire de travail]] rendent difficile le stockage et la consolidation de nouvelles informations sur une session prolongée.
 
-- \*\* Elle évite l'errance mentale et le retour au [[Le réseau DMN|DMN]]\*\* : les sessions trop longues favorisent l'errance mentale lorsque la tâche devient redondante ou trop ardue ; la pratique espacée, en introduisant des intervalles, pourrait maintenir un niveau d'engagement plus élevé chez les TDAH. De fait, le vagabondage mental est bien documenté comme plus fréquent chez les personnes avec une symptomatologie TDAH-inattention, avec des effets délétères sur la performance, en particulier dans les tâches qui demandent une attention soutenue ou dans des tâches simples et peu stimulantes. Le raisonnement est cohérent avec ce qu'on sait par ailleurs, mais c'est une inférence théorique, pas un résultat empirique direct. À présenter comme tel plutôt que comme un fait établi.
+- Elle évite l'errance mentale et le retour au [[Le réseau DMN|DMN]]\*\* : les sessions trop longues favorisent l'errance mentale lorsque la tâche devient redondante ou trop ardue ; la pratique espacée, en introduisant des intervalles, pourrait maintenir un niveau d'engagement plus élevé chez les TDAH. De fait, le vagabondage mental est bien documenté comme plus fréquent chez les personnes avec une symptomatologie TDAH-inattention, avec des effets délétères sur la performance, en particulier dans les tâches qui demandent une attention soutenue ou dans des tâches simples et peu stimulantes. Le raisonnement est cohérent avec ce qu'on sait par ailleurs, mais c'est une inférence théorique, pas un résultat empirique direct. À présenter comme tel plutôt que comme un fait établi.
 
-La vraie question n'est donc pas de savoir s'il faut enseigner ces méthodes aux enfants TDAH , mais comment les rendre praticables pour un enfant qui n'a pas encore l'autonomie organisationnelle nécessaire pour les appliquer seul.
+La vraie question n'est donc pas de savoir s'il faut enseigner ces méthodes aux enfants TDAH , mais uniquement si nécessaire de savoir comment les rendre praticables pour un enfant qui n'a pas encore l'autonomie organisationnelle nécessaire pour les appliquer seul.
 
 Voici quelques pistes :
 
@@ -77,3 +77,6 @@ Voici quelques pistes :
 
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T., Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology, Psychological Science in the Public Interest, 2013
 - Knouse, L. E., Rawson, K. A., Vaughn, K. E., & Dunlosky, J., Does Testing Improve Learning for College Students With Attention-Deficit/Hyperactivity Disorder?, Clinical Psychological Science, 2016
+- Minear M.E., Coane J.H., Cooney L.H., Boland S.C., Serrano J.W., Is practice good enough? Retrieval benefits students with ADHD but does not compensate for poor encoding in unmedicated students Frontiers in Psychology, 2023
+- Knouse L.E., Rawson K.A., Dunlosky J. How much do college students with ADHD benefit from retrieval practice when learning key-term definitions? Learning and Instruction, 2020
+- Dudukovic N.M., Gottshall J.L., Cavanaugh P.A., Moody M.J. Diminished testing benefits in young adults with attention-deficit hyperactivity disorder Memory, 2015

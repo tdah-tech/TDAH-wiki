@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T08:18:28.480+02:00
+modified: 2026-07-30T08:04:34.678+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,5 +22,5 @@ Comprendre le phénomène de dissimulation, c’est donc reconnaître que le TDA
 ## Pour aller plus loin :
 
 - [[Vivre avec un TDAH]]
-- [[Toutes les notes publiées/Assumer pleinement son neuroatypisme et son TDAH]]
+- [[Assumer pleinement son neuroatypisme et son TDAH]]
 - [[La sensibilité au rejet (dysphorie)]]

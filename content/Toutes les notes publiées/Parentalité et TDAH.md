@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:18:28.604+02:00
+modified: 2026-07-29T19:22:46.045+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#parentalite"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
-  - "#index"
+  - micronote
+  - tdah
+  - parentalite
+  - top
+  - trouble-opposition
+  - cycle-coercitif
+  - index
 ---
 
-Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
+Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres au TDAH et au TOP.
 
 ## Le trouble oppositionnel avec provocation (TOP)
 

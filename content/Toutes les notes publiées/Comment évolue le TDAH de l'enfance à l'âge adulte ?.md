@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T18:52:56.717+02:00
+modified: 2026-07-30T09:02:56.245+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,11 @@ Lorsque l’on examine les taux de persistance, les chiffres varient selon la d�
 
 Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 10 % ou moins)**, et de nombreux individus connaissent un **parcours fluctuant**, avec des phases d’amélioration suivies de réapparitions des difficultés lorsque les exigences de l’environnement augmentent.
 
-**L’évolution la plus marquée concerne la [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|composante hyperactive]]**. Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique. Avec l’avancée en âge, ces manifestations externes s’atténuent nettement. L’hyperactivité se transforme progressivement en une forme plus interne : sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément.
+**L’évolution la plus marquée concerne la [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|composante hyperactive]]**.
+
+Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique.
+
+Avec l’avancée en âge, ces manifestations externes s’atténuent nettement. L’hyperactivité se transforme progressivement en une forme plus interne : sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément.
 
 **L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** : interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme.
 

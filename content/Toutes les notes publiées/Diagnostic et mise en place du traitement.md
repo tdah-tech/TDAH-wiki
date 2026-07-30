@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-29T08:18:28.479+02:00
+modified: 2026-07-30T09:11:13.071+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#traitement"
 ---
 
-Le diagnostic du trouble déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) en France est une démarche strictement clinique.
+Le diagnostic du trouble déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) en France est une démarche strictement clinique effectué par des médécins.
 
 Les recommandations de bonne pratique de la Haute Autorité de Santé publiées en septembre 2024 pour les enfants et les adolescents ont clarifié et harmonisé ce processus sur l’ensemble du territoire.
 
@@ -64,3 +64,7 @@ En cas d’inefficacité, d’intolérance ou de contre-indication au méthylph�
 - [[L'importance de la psychoéducation]]
 - [[Les aménagements scolaires]]
 - [[Méthylphénidate et croissance]]
+
+## Référence
+
+**Haute Autorité de Santé (HAS)**, [Trouble du neurodéveloppement / TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et des adolescents](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents), Recommandations de bonne pratique, septembre 2024
