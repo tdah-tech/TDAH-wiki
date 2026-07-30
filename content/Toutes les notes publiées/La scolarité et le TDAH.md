@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T13:52:27.624+02:00
+modified: 2026-07-30T14:04:30.108+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,28 +11,33 @@ tags:
   - "#méthylphénidate"
 ---
 
-## Apprendre et étudier avec un TDAH
+## Réussite / échec scolaire
 
-- [[Ce qui aide vraiment un enfant TDAH à apprendre.]]
+- [[Réussite et échec scolaire]]
+- [[L’effet Pygmalion et l'effet Golem]]
+- [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
+
+## Aménagements et dispositifs administratifs
+
 - [[Les aménagements scolaires]]
 - [[Aménagement lors des évaluations]]
 - [[Le PAP et le PPS]]
 - [[Dossier MDPH]]
-- [[Altération des processus métacognitifs chez les TDAH]]
-- [[L’étayage métacognitif]]
-- [[Grilles de relectures]]
-- [[Réussite et échec scolaire]]
-- [[L’effet Pygmalion et l'effet Golem]]
-- [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 
 ## Le méthylphénidate à l'école
 
 - [[Méthylphénidate et réussite scolaire des enfants TDAH]]
 
+## Apprendre et étudier avec un TDAH
+
+- [[Ce qui aide vraiment un enfant TDAH à apprendre.]]
+- [[Altération des processus métacognitifs chez les TDAH]]
+- [[L’étayage métacognitif]]
+- [[Grilles de relectures]]
+
 ## Outils sensoriels en classe ou pour les devoirs
 
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
-- [[L'utilisation de bruit blanc, rose ou marron]]
 
 ## Pour aller plus loin
 

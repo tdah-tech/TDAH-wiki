@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T10:21:39.747+02:00
+modified: 2026-07-30T18:33:59.371+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,6 +29,7 @@ Sur le plan théorique, on peut raisonnablement supposer que le même mécanisme
 ## Pour aller plus loin :
 
 - [[La scolarité et le TDAH]]
+- [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
 
 ## Références

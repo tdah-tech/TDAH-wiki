@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T18:25:56.334+02:00
+modified: 2026-07-30T14:04:43.332+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,9 @@ tags:
 
 #### Effet à court terme : des effets positifs solidement établis
 
-Les essais contrôlés randomisés convergent sur ce point : le [méthylphénidate](https://publish.obsidian.md/tdah-ai/Ressources/Micronotes+V2/Toutes+les+notes+publi%C3%A9es/Le+m%C3%A9thylph%C3%A9nidate+comme+traitement+du+TDAH) améliore nettement le comportement en classe et la quantité de travail produite : temps sur tâche accru, perturbations réduites, devoirs achevés plus souvent. C'est la conclusion la plus robuste de tout le champ de recherche. La revue la plus large et la plus récente jamais menée sur le sujet le confirme : après analyse de plus de 200 méta-analyses, les chercheurs ont trouvé que les médicaments du TDAH restent l'option la plus fiable pour les enfants comme pour les adultes, portée par des données de haute qualité. Sur ce plan, le méthylphénidate surpasse toute autre forme de soutien.
+Les essais contrôlés randomisés convergent sur ce point : le [méthylphénidate](https://publish.obsidian.md/tdah-ai/Ressources/Micronotes+V2/Toutes+les+notes+publi%C3%A9es/Le+m%C3%A9thylph%C3%A9nidate+comme+traitement+du+TDAH) améliore nettement le comportement en classe et la quantité de travail produite : temps sur tâche accru, perturbations réduites, devoirs achevés plus souvent. C'est la conclusion la plus robuste de tout le champ de recherche.
+
+La revue la plus large et la plus récente jamais menée sur le sujet le confirme : après analyse de plus de 200 méta-analyses, les chercheurs ont trouvé que les médicaments du TDAH restent l'option la plus fiable pour les enfants comme pour les adultes, portée par des données de haute qualité. Sur ce plan, le méthylphénidate surpasse toute autre forme de soutien.
 
 #### Effet à long terme sur la réussite scolaire : une absence de preuves, pas une preuve d'absence
 

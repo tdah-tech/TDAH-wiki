@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T10:55:51.962+02:00
+modified: 2026-07-30T18:33:47.890+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,6 +42,7 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 
 - [[Couvertures lestées et TDAH]]
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
+- [[L'utilisation de bruit blanc, rose ou marron]]
 - [[S'autoriser à gribouiller]]
 
 ## Gérer l'impulsivité et l'environnement social
@@ -57,3 +58,4 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Vivre avec un TDAH]]
 - [[L'alimentation et le TDAH]]
+- [[Parentalité et TDAH]]
