@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T10:47:26.732+02:00
+modified: 2026-07-30T13:52:27.624+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,6 +17,7 @@ tags:
 - [[Les aménagements scolaires]]
 - [[Aménagement lors des évaluations]]
 - [[Le PAP et le PPS]]
+- [[Dossier MDPH]]
 - [[Altération des processus métacognitifs chez les TDAH]]
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]

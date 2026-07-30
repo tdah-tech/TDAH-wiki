@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-27T11:53:05.140+02:00
+modified: 2026-07-30T13:01:52.224+02:00
 tags:
-  - micronote
-  - tdah
-  - hyperactivite
-  - sommeil
-  - dopamine
-  - dysregulation-emotionnelle
-  - fonctions-executives
+  - "#micronote"
+  - "#tdah"
+  - "#hyperactivite"
+  - "#sommeil"
+  - "#dopamine"
+  - "#dysregulation-emotionnelle"
+  - "#fonctions-executives"
 ---
 
 Le trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) et le sommeil entretiennent une relation étroite, complexe et bidirectionnelle qui influence profondément le fonctionnement quotidien des personnes concernées.
@@ -35,3 +35,13 @@ En définitive, considérer le sommeil comme une dimension à part entière du T
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Les fonctions éxécutives - définition]]
 - [[Couvertures lestées et TDAH]]
+
+## Références
+
+- **Van der Heijden K.B., Smits M.G., Van Someren E.J., et al.** Idiopathic chronic sleep onset insomnia in attention-deficit/hyperactivity disorder: a circadian rhythm sleep disorder Chronobiology International, 2005 / 2007
+
+- Bijlenga D., Vollebregt M.A., Kooij J.J.S., Arns M. The role of the circadian system in the etiology and pathophysiology of ADHD: time to redefine ADHD? ADHD Attention Deficit and Hyperactivity Disorders, 2019
+
+- **Van Veen M.M., Kooij J.J.S., et al.** Delayed circadian rhythm in adults with attention-deficit/hyperactivity disorder and chronic sleep-onset insomnia Biological Psychiatry, 2010
+
+- **Luu B., et al.** ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy Frontiers in Psychiatry, 2025

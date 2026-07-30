@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:19:13.488+02:00
+modified: 2026-07-30T13:05:06.952+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -9,9 +9,9 @@ tags:
   - "#hyper-concentration"
 ---
 
-L'hyperfocus, désigne un état où l'attention de la personne TDAH se verrouille complètement sur une seule activité, parfois au point de perdre la [[Cécité temporelle chez les personnes TDAH|notion du temps]], de ne pas réagir aux signaux de faim ou fatigue, ou d'ignorer ce qui se passe autour de soi. Ce n'est pas de la volonté ni de la passion ordinaire — c'est comme involontaire, presque mécanique : le cerveau s'enferme dans une tâche et ne veut plus en sortir.
+L'hyperfocus, désigne un état où l'attention de la personne TDAH se verrouille complètement sur une seule activité, parfois au point de perdre la [[Cécité temporelle chez les personnes TDAH|notion du temps]], de ne pas réagir aux signaux de faim ou fatigue, ou d'ignorer ce qui se passe autour de soi. Ce n'est pas de la volonté ni de la passion ordinaire — il y a une dimenssion involontaire, presque mécanique : le cerveau s'enferme dans une tâche et ne veut plus en sortir.
 
-Il convient de rappeler que l'hyperfocus n'est pas un critère diagnostique officiel du TDAH. C'est un phénomène largement décrit cliniquement et par les personnes concernées elles-mêmes, mais qui manque encore d'une définition standardisée dans la recherche et qui n'est pas reconnu comme un symptôme du TDAH.
+Il convient de rappeler que l'hyperfocus n'est pas un critère diagnostique officiel du TDAH. C'est un phénomène largement décrit cliniquement et par les personnes concernées elles-mêmes, mais qui manque encore d'une définition standardisée dans la recherche.
 
 **Ce que l'hyperfocus ce n'est pas**
 

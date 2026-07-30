@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.586+02:00
+modified: 2026-07-30T12:58:04.305+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,3 +31,7 @@ L’idée de personnaliser l’accompagnement (médication, thérapies, et aussi
 - [[Profil sévère combiné avec dysrégulation émotionnelle]]
 - [[Prévalence du TDAH et écart garçons-filles]]
 - [[Neurosciences du TDAH]]
+
+## Référence
+
+Pan N., et al. Mapping ADHD Heterogeneity and Biotypes by Topological Deviations in Morphometric Similarity Networks (JAMA Psychiatry ou publication associée, 2026

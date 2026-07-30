@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T14:05:22.970+02:00
+modified: 2026-07-30T13:50:53.022+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -72,6 +72,7 @@ tags:
 - [[Entrepreunariat et TDAH]]
 - [[Métiers adaptés aux TDAH]]
 - [[La RQTH (reconnaissance de la qualité de travailleur handicapé) et le TDAH]]
+- [[Dossier MDPH]]
 
 ## Surcharge mentale et gestion de projets
 
