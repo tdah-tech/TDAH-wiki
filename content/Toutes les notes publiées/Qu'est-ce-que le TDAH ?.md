@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T15:35:22.412+02:00
+modified: 2026-07-31T16:03:57.935+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -14,7 +14,7 @@ tags:
 
 Le TDAH, Trouble du [[Le déficit d'attention chez les TDA|déficit de l'attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
 
-Il associe, à des degrés divers, trois grandes dimensions : le [[Le déficit d'attention chez les TDA|déficit de l'attention]], l'[[L'hyperactivité chez le TDAH|hyperactivité]] et l'[[L'impulsivité chez le TDAH|impulsivité]].
+Il associe, à des degrés divers, trois grandes dimensions : le déficit de l'attention, l'hyperactivité et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les deux profils. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
 
@@ -68,8 +68,9 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 
 ## Intelligence et cognition
 
-- [[Les intelligences multiples face au TDAH]]
 - [[TDAH et intelligence]]
+
+* [[Les intelligences multiples face au TDAH]]
 
 ## L'hyperfocus
 
@@ -109,7 +110,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Distinguer l'opposition développementale normale du trouble oppositionnel avec provocation]]
 - [[Trouble de l'opposition et système DMN-TPN]]
 - [[Trouble de l'opposition et image de soi]]
-- [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 
 ## Pour aller plus loin
 
