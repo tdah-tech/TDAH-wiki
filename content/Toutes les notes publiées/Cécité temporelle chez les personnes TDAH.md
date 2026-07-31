@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-30T08:59:31.775+02:00
+modified: 2026-07-31T12:02:29.180+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,6 +25,7 @@ Ce phénomène n'est **pas** un critère diagnostique officiel du DSM-5, mais il
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
 - [[Le mode attente]]
 - [[Matérialiser le temps qui passe]]
 - [[Les fonctions éxécutives - définition]]

@@ -1,19 +1,19 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T19:21:50.733+02:00
+modified: 2026-07-31T10:45:56.987+02:00
 tags:
-  - micronote
-  - tdah
-  - sommeil
-  - activité-physique
-  - omega-3
-  - micro-aliments
-  - bdnf
-  - noradrenaline
-  - zinc
-  - magnesium
-  - méthylphénidate
+  - "#micronote"
+  - "#tdah"
+  - "#sommeil"
+  - "#activité-physique"
+  - "#omega-3"
+  - "#micro-aliments"
+  - "#bdnf"
+  - "#noradrenaline"
+  - "#zinc"
+  - "#magnesium"
+  - "#méthylphénidate"
 ---
 
 1. **Adapter les attentes à l'« âge exécutif » réel** — Calibrer les demandes sur un âge exécutif estimé à 2-3 ans de moins (heuristique de Barkley, ~30%) plutôt que sur l'âge chronologique. Cela réduit la surcharge du préfrontal immature et les échecs répétés générateurs de frustration. À utiliser comme ajustement du niveau de défi, pas comme prétexte pour ne plus rien exiger — l'objectif reste de pousser la progression, pas de la geler.
@@ -44,7 +44,7 @@ tags:
 
 - [[L'alimentation et le TDAH]]
 - [[Parentalité et TDAH]]
-- [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans]]
+- [[Retard de maturation cérébrale — 2 à 5 ans]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Sport et TDAH]]
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]

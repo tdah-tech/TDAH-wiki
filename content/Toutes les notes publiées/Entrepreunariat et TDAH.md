@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T08:35:37.023+02:00
+modified: 2026-07-31T14:47:25.797+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,6 +28,7 @@ Plusieurs entrepreneurs de renommée mondiale ont publiquement évoqué leur TDA
 
 - [[Vivre avec un TDAH]]
 - [[Métiers adaptés aux TDAH]]
+- [[TDAH et prise de risque]]
 
 ## Références
 

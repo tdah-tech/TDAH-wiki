@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T08:35:37.041+02:00
+modified: 2026-07-31T11:21:20.854+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,11 +35,11 @@ L’umbrella review publiée dans _The BMJ_ en 2025 (qui alimente la plateforme 
 
 Chez l’adulte, le méthylphénidate conserve une efficacité significative (effets de taille moyenne), avec une certitude d’évidence modérée.
 
-Ces résultats confirment les conclusions de la  meta-analysise de référence de Cortese et al. (2018) publiée dans _The Lancet Psychiatry_, qui plaçait déjà le méthylphénidate comme option de première intention chez l’enfant et l’adolescent en raison du meilleur équilibre entre efficacité et tolérabilité.
+Ces résultats confirment les conclusions de la  meta-analysise de référence de Cortese et al. (2018) publiée dans _The Lancet Psychiatry_, qui plaçait déjà le méthylphénidate comme option **de première intention** chez l’enfant et l’adolescent en raison du meilleur équilibre entre efficacité et tolérabilité.
 
 La plateforme interactive EBI-ADHD permet de visualiser en détail les tailles d’effet, les niveaux de certitude et les données de tolérabilité pour chaque tranche d’âge et chaque type d’évaluateur.
 
-Un pillule miracle ?
+**Un pillule miracle ?**
 
 Le méthylphénidate n'est pas une pillule miracle.
 
@@ -60,7 +60,7 @@ Les effets secondaires de la molécule **les plus courants** sont une baisse de 
 - [[Dopamine et TDAH]]
 - [[Noradrénaline et TDAH]]
 - [[Le modèle TPN-DMN]]
-- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
+- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense]]
 - [[Méthylphénidate et réussite scolaire des enfants TDAH]]
 - [[Neurosciences du TDAH]]
 - [[Méthylphénidate et croissance]]

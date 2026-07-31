@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T08:36:34.724+02:00
+modified: 2026-07-31T14:51:40.862+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -23,7 +23,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le déficit d'attention chez les TDA]]
 - [[L'hyperactivité chez le TDAH]]
 - [[L'impulsivité chez le TDAH]]
-- [[Comment évolue le TDAH de l'enfance à l'âge adulte ?]]
 
 ## Les trois profils cliniques du TDAH
 
@@ -31,6 +30,11 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Profil sévère combiné avec dysrégulation émotionnelle]]
 - [[Profil à prédominance hyperactive - impulsive]]
 - [[Profil à prédominance inattentive - tdah]]
+
+## Evolution du TDAH avec l'âge
+
+[[Comment évolue le TDAH de l'enfance à l'âge adulte ?]]
+[[Retard de maturation cérébrale — 2 à 5 ans]]
 
 ## Épidémiologie et prévalence
 
@@ -47,35 +51,39 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 
 - [[Diagnostic et mise en place du traitement]]
 - [[Le méthylphénidate comme traitement du TDAH]]
-- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et croissance]]
+- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense]]
 
-## Thérapie / Coaching / Guidance
+## Thérapie / Coaching / Guidance parentale
 
 - [[Les thérapies cognitivo-comportementale (TCC)]]
 - [[Le coaching TDAH]]
-- [[La méthode Barkley]]
+- [[Guidance parentale - La méthode Barkley]]
 
 ## Trouble, dysrégulation ou variation neurodéveloppementale ?
 
-- [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
+- - [[Trouble ou neurodivergence ?]]
 - [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
-- [[Trouble ou neurodivergence ?]]
 
 ## Intelligence et cognition
 
 - [[Les intelligences multiples face au TDAH]]
-- [[TDAH et quotient intellectuelle (QI)]]
+- [[TDAH et intelligence]]
 
-## L'hyperfocus et la pensée rapide
+## L'hyperfocus
 
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
+- [[Durée de l'hyperfocus]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
 - [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
-- [[Durée de l'hyperfocus]]
-- [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
+
+## La pensée TDAH
+
+- [[Les TDAH pensent-ils vraiment plus vite ?]]
+- [[Créativité - pensée divergente et TDAH]]
+- [[Pensée en arborescence et TDAH]]
 
 ## La perception du temps
 
@@ -85,14 +93,16 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Comorbidités du TDAH
 
 - [[Les comorbidités du TDAH]]
+- [[La dysrégulation émotionnelle dans le TDAH]]
+- [[Les troubles du sommeil chez les TADH]]
 - [[TDAH et autisme]]
 - [[Troubles anxieux et dépression]]
 - [[Ruminations et TDAH]]
 - [[Association entre TDAH et délinquance]]
 - [[Association entre TDAH et conduites addictives]]
-- [[Les troubles du sommeil chez les TADH]]
+- [[TDAH et prise de risque]]
 
-#### Le trouble oppositionnel avec provocation (TOP)
+## Le trouble oppositionnel avec provocation (TOP)
 
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
 - [[Causes du trouble oppositionnel avec provocation - TOP]]

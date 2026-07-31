@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T19:13:21.471+02:00
+modified: 2026-07-31T10:45:56.944+02:00
 tags:
-  - micronote
-  - tdah
-  - neurosciences
-  - dopamine
-  - fonctions-executives
-  - dmn-tpn
-  - index
+  - "#micronote"
+  - "#tdah"
+  - "#neurosciences"
+  - "#dopamine"
+  - "#fonctions-executives"
+  - "#dmn-tpn"
+  - "#index"
 ---
 
 ## Neurotransmetteurs et circuits de récompense
@@ -19,7 +19,7 @@ tags:
 
 ## Facteur Neurotrophique Dérivé du Cerveau
 
-- [[Retard de maturation cérébrale — 2 à 3 ans]]
+- [[Retard de maturation cérébrale — 2 à 5 ans]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T08:18:28.624+02:00
+modified: 2026-07-31T11:27:20.228+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -20,7 +20,7 @@ Au cœur de cette démarche se trouve également un changement de posture intér
 
 [[L'importance de la psychoéducation|La psychoéducation des parents]] représente souvent le socle de toute démarche efficace. Comprendre précisément le fonctionnement neurobiologique du TDAH, les particularités du [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel]] lorsqu’il est associé, et les mécanismes de la charge mentale permet de **sortir du sentiment d’échec personnel**.
 
-**Les parents qui disposent d’un cadre explicatif clair cessent progressivement de s’attribuer l’entière responsabilité des difficultés de l’enfant et gagnent en capacité à choisir des réponses adaptées plutôt que réactives**. Cette compréhension s’acquiert généralement auprès de professionnels formés, au sein de groupes de parents ou par le biais de programmes structurés d’entraînement aux habiletés parentales, dont l’efficacité est largement documentée (**[[La méthode Barkley|programme de guidance parentale Barkley]]** par exemple).
+**Les parents qui disposent d’un cadre explicatif clair cessent progressivement de s’attribuer l’entière responsabilité des difficultés de l’enfant et gagnent en capacité à choisir des réponses adaptées plutôt que réactives**. Cette compréhension s’acquiert généralement auprès de professionnels formés, au sein de groupes de parents ou par le biais de programmes structurés d’entraînement aux habiletés parentales, dont l’efficacité est largement documentée (**[[Guidance parentale - La méthode Barkley|programme de guidance parentale Barkley]]** par exemple).
 
 Elle ouvre aussi la voie à un **abaissement volontaire du seuil d’exigence**. Accepter que l’enfant ne sera pas toujours concentré, ordonné ou conciliant, et **que soi-même on ne sera pas toujours patient, organisé ou disponible**, libère une énergie considérable jusqu’alors absorbée par la lutte contre une **image irréaliste**.
 
@@ -58,6 +58,6 @@ Ces différentes stratégies permettent de transformer une charge mentale écras
 - [[L'épuisement parental]]
 - [[L'importance de la psychoéducation]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
-- [[La méthode Barkley]]
+- [[Guidance parentale - La méthode Barkley]]
 - [[Mémoire de travail et TDAH]]
 - [[Parentalité et TDAH]]

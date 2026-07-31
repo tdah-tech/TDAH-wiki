@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-31T08:35:37.055+02:00
+modified: 2026-07-31T13:40:07.879+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,6 +35,7 @@ En synthèse, la littérature scientifique actuelle considère la rumination non
 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Neurosciences du TDAH]]
+- [[Créativité - pensée divergente et TDAH]]
 - [[Le réseau DMN]]
 - [[Le réseau TPN]]
 - [[Troubles anxieux et dépression]]

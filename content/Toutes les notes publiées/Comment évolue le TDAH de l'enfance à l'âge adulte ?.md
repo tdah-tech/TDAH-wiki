@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-31T08:35:37.020+02:00
+modified: 2026-07-31T14:50:34.710+02:00
 tags:
   - "#micronote"
   - "#tdah"
   - "#evolution"
 ---
 
-Le trouble [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte.
+Le trouble [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme **un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte**.
 
 Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Les synthèses classiques indiquent que si l’on exige le maintien strict des critères diagnostiques complets du syndrome, **une minorité seulement des enfants diagnostiqués conserve le tableau complet vers le jeune âge adulte** ; en revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, **la majorité continue d’être gênée**.
 
@@ -22,7 +22,7 @@ Avec l’avancée en âge, ces manifestations externes s’atténuent nettement.
 
 **L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** : interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme.
 
-En revanche, **les symptômes d’inattention se montrent nettement plus stables**. Les difficultés de concentration soutenue, les oublis fréquents, les problèmes d’organisation, de gestion du temps et de finalisation des tâches persistent de façon prédominante et constituent le noyau clinique le plus fréquent chez l’adulte.Les déficits des [[Les fonctions éxécutives - définition|fonctions exécutives]] – [[Mémoire de travail et TDAH|mémoire de travail]], inhibition, planification, [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?|flexibilité cognitive]] – continuent d’affecter le fonctionnement quotidien, même lorsque les symptômes les plus visibles ont diminué. Ces déficits se traduisent concrètement par des difficultés professionnelles (procrastination, désorganisation, oubli de délais), des problèmes relationnels et une sensibilité accrue au stress lorsque les structures externes de l’enfance (école, famille) disparaissent.
+En revanche, **les symptômes d’inattention se montrent nettement plus stables**. Les difficultés de concentration soutenue, les oublis fréquents, les problèmes d’organisation, de gestion du temps et de finalisation des tâches persistent de façon prédominante et constituent le noyau clinique le plus fréquent chez l’adulte.Les déficits des [[Les fonctions éxécutives - définition|fonctions exécutives]] – [[Mémoire de travail et TDAH|mémoire de travail]], inhibition, planification, [[Les TDAH pensent-ils vraiment plus vite ?|flexibilité cognitive]] – continuent d’affecter le fonctionnement quotidien, même lorsque les symptômes les plus visibles ont diminué. Ces déficits se traduisent concrètement par des difficultés professionnelles (procrastination, désorganisation, oubli de délais), des problèmes relationnels et une sensibilité accrue au stress lorsque les structures externes de l’enfance (école, famille) disparaissent.
 
 Cette transformation conduit à un changement du tableau clinique. Alors que la forme combinée (TDAH) prédomine souvent dans l’enfance, la [[Profil à prédominance inattentive - tdah|présentation à prédominance inattentive]] devient la plus courante à l’âge adulte (TDA).
 
@@ -34,13 +34,13 @@ Les [[Les comorbidités du TDAH|comorbidités]] évoluent également. Dans l’e
 
 À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure adaptation, sans pour autant faire disparaître complètement les difficultés sous-jacentes.
 
-Sur le plan neurobiologique, les données d’imagerie et les études de développement cortical montrent un [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans|retard de maturation]] des réseaux préfrontaux et fronto-striataux, particulièrement impliqués dans le contrôle exécutif et l’attention. **Ce retard explique en partie pourquoi les symptômes s’atténuent avec l’âge chez certains individus, sans que les différences cérébrales disparaissent complètement**.
+Sur le plan neurobiologique, les données d’imagerie et les études de développement cortical montrent un [[Retard de maturation cérébrale — 2 à 5 ans|retard de maturation]] des réseaux préfrontaux et fronto-striataux, particulièrement impliqués dans le contrôle exécutif et l’attention. **Ce retard explique en partie pourquoi les symptômes s’atténuent avec l’âge chez certains individus, sans que les différences cérébrales disparaissent complètement**.
 
 Ainsi, selon l’état actuel de la science, le TDAH de l’enfance ne disparaît pas magiquement à l’âge adulte. Il se transforme. L’agitation visible cède la place à une agitation intérieure et à des difficultés attentionnelles et organisationnelles plus subtiles, mais souvent tout aussi invalidantes.
 
 ## Pour aller plus loin :
 
-- [[Toutes les notes publiées/Retard de maturation cérébrale — 2 à 3 ans|Retard de maturation cérébrale — 2 à 3 ans]]
+- [[Retard de maturation cérébrale — 2 à 5 ans|Retard de maturation cérébrale — 2 à 5 ans]]
 - [[Qu'est-ce-que le TDAH ?]]
 
 ## Références

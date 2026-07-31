@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T08:35:37.024+02:00
+modified: 2026-07-31T14:50:34.712+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -47,7 +47,7 @@ Voici les principales [[Les fonctions éxécutives - définition|fonctions exéc
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Les fonctions éxécutives - définition]]
 - [[Mémoire de travail et TDAH]]
-- [[La flexibilité, l'agilité, la pensée rapide un atout insoupçonné du TDAH ?]]
+- [[Les TDAH pensent-ils vraiment plus vite ?]]
 
 ## Références
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-31T08:35:37.017+02:00
+modified: 2026-07-31T14:47:24.262+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -38,6 +38,7 @@ Concernant le traitement, la science a progressé de façon significative. **Le 
 - [[L'impulsivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
+- [[TDAH et prise de risque]]
 
 ## Références
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-31T08:35:37.050+02:00
+modified: 2026-07-31T10:52:43.374+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,7 @@ tags:
 
 **L’effet Pygmalion**, mis en évidence par Robert Rosenthal et Lenore Jacobson dans leur étude classique de 1968 intitulée _Pygmalion in the Classroom_, constitue l’un des exemples les plus cités de [[Croire en soi - Croire en eux - prophéties autoréalisatrices|prophétie autoréalisatrice]] dans le domaine éducatif.
 
-Dans cette expérience conduite dans une école élémentaire californienne, les enseignants ont reçu l’information, fausse et aléatoire, que certains de leurs élèves allaient connaître un « épanouissement intellectuel » particulièrement marqué au cours de l’année. Ces élèves, choisis au hasard et sans caractéristiques particulières, ont ensuite progressé davantage que leurs camarades aux [[TDAH et quotient intellectuelle (QI)|tests de quotient intellectuel]], avec des gains moyens de l’ordre de quatre points supplémentaires, les écarts les plus nets apparaissant chez les plus jeunes (première et deuxième années). **Les mécanismes identifiés par les chercheurs et confirmés par des travaux ultérieurs reposent sur des modifications subtiles mais systématiques du comportement des adultes : un climat relationnel plus chaleureux, une offre accrue de contenus stimulants, davantage d’occasions de s’exprimer et de feedbacks précis et encourageants. Ces interactions créent un environnement d’apprentissage plus favorable qui, à son tour, influence la motivation, l’effort et les performances des élèves**.
+Dans cette expérience conduite dans une école élémentaire californienne, les enseignants ont reçu l’information, fausse et aléatoire, que certains de leurs élèves allaient connaître un « épanouissement intellectuel » particulièrement marqué au cours de l’année. Ces élèves, choisis au hasard et sans caractéristiques particulières, ont ensuite progressé davantage que leurs camarades aux [[TDAH et intelligence|tests de quotient intellectuel]], avec des gains moyens de l’ordre de quatre points supplémentaires, les écarts les plus nets apparaissant chez les plus jeunes (première et deuxième années). **Les mécanismes identifiés par les chercheurs et confirmés par des travaux ultérieurs reposent sur des modifications subtiles mais systématiques du comportement des adultes : un climat relationnel plus chaleureux, une offre accrue de contenus stimulants, davantage d’occasions de s’exprimer et de feedbacks précis et encourageants. Ces interactions créent un environnement d’apprentissage plus favorable qui, à son tour, influence la motivation, l’effort et les performances des élèves**.
 
 Dans le contexte du TDAH, cet effet prend une dimension particulière. Les enseignants, les parents et, plus tard, les collègues ou les managers tendent souvent, de manière consciente ou non, à formuler des attentes plus basses une fois le diagnostic posé. Les comportements visibles d’[[Le déficit d'attention chez les TDA|inattention]], d’[[L'impulsivité chez le TDAH|impulsivité]] ou de désorganisation alimentent des stéréotypes qui réduisent le niveau d’exigence, diminuent les opportunités de responsabilités complexes et orientent les feedbacks vers les difficultés plutôt que vers les progrès. **Ce phénomène inverse, parfois appelé effet Golem, contribue à renforcer le cycle de confirmation négative déjà favorisé par une [[Croire en soi - Croire en eux - prophéties autoréalisatrices|auto-efficacité]] plus fragile**. À l’inverse, lorsque les adultes de référence maintiennent des attentes élevées tout en restant réalistes — c’est-à-dire calibrées sur le potentiel de l’enfant et accompagnées des soutiens nécessaires ([[Les aménagements scolaires|aménagements]], stratégies de compensation, feedbacks différenciés) —, **Ils transmettent un message de confiance qui s’articule directement avec le renforcement interne de la croyance en soi**.
 
@@ -30,7 +30,7 @@ Bien entendu des attentes irréalistes, déconnectées des difficultés réelles
 - [[Vivre avec un TDAH]]
 - [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 - [[Les aménagements scolaires]]
-- [[TDAH et quotient intellectuelle (QI)]]
+- [[TDAH et intelligence]]
 
 ## Références
 

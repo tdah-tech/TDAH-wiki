@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T14:04:43.332+02:00
+modified: 2026-07-31T11:21:20.885+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -37,7 +37,7 @@ Le médicament n'améliore donc pas la qualité de l'apprentissage par minute de
 
 - [[La scolarité et le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
-- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
+- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense]]
 - [[Ce qui aide vraiment un enfant TDAH à apprendre.]]
 - [[Neurosciences du TDAH]]
 

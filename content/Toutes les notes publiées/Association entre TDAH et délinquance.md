@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-31T08:35:37.018+02:00
+modified: 2026-07-31T14:47:22.317+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,6 +34,7 @@ En résumé, la science décrit une association claire, mesurable et multifactor
 - [[L'impulsivité chez le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
+- [[TDAH et prise de risque]]
 
 ## Références
 
