@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T08:35:37.061+02:00
+modified: 2026-07-31T14:54:09.546+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#heritabilite"
 ---
 
-Dans le couple, les données longitudinales et les méta-analyses indiquent que les adultes présentant un TDAH rapportent **davantage d’insatisfaction relationnelle, de conflits et de ruptures que la population générale**. Plusieurs études observent **un risque de divorce environ deux fois plus élevé, et parfois jusqu’à trois fois plus élevé lorsque le diagnostic a été posé dès l’enfance**.
+Dans leur couple, les données longitudinales et les méta-analyses indiquent que les adultes présentant un TDAH rapportent **davantage d’insatisfaction relationnelle, de conflits et de ruptures que la population générale**. Plusieurs études observent **un risque de divorce environ deux fois plus élevé, et parfois jusqu’à trois fois plus élevé lorsque le diagnostic a été posé dès l’enfance**.
 
 Les partenaires non-TDAH décrivent fréquemment le sentiment de devoir compenser les oublis, les difficultés d’organisation, la [[Cécité temporelle chez les personnes TDAH|gestion du temps]] ou les responsabilités domestiques. Ce déséquilibre aboutit souvent à une dynamique dans laquelle l’un des partenaires devient le « gestionnaire » de l’autre. Cette configuration, bien documentée dans la littérature clinique et empirique, nourrit de la frustration, du ressentiment et un sentiment d’épuisement chez le conjoint non-TDAH. Le traitement du TDAH (médicamenteux et comportemental) réduit cependant de façon notable ces frictions, et les couples qui apprennent des stratégies spécifiques au trouble retrouvent des niveaux de satisfaction comparables à ceux des couples sans TDAH.
 

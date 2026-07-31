@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T13:50:53.022+02:00
+modified: 2026-07-31T15:27:00.745+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,6 +17,7 @@ tags:
 
 - [[Le TDAH est livré sans manuel]]
 - [[L'importance de la psychoéducation]]
+- [[Faire de la psychoéducation avec son enfant]]
 
 ## Métaphores pour comprendre l'expérience TDAH
 

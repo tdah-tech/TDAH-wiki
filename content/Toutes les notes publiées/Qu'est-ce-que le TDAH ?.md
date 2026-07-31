@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T14:51:40.862+02:00
+modified: 2026-07-31T15:35:22.412+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -110,7 +110,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Trouble de l'opposition et système DMN-TPN]]
 - [[Trouble de l'opposition et image de soi]]
 - [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
-- [[Boite à outils Trouble oppositionnel]]
 
 ## Pour aller plus loin
 

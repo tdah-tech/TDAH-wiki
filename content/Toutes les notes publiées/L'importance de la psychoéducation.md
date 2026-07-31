@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T08:35:37.027+02:00
+modified: 2026-07-31T15:27:08.939+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,6 +28,8 @@ Il convient enfin de souligner que la psychoéducation n’est pas un acte uniqu
 
 - [[Le TDAH est livré sans manuel]]
 - [[Vivre avec un TDAH]]
+- [[Faire de la psychoéducation avec son enfant]]
+- [[Parentalité et TDAH]]
 - [[Le TDAH n'est pas de la paresse]]
 - [[Les thérapies cognitivo-comportementale (TCC)]]
 

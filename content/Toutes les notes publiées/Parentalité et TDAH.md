@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T11:27:20.211+02:00
+modified: 2026-07-31T15:36:05.165+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,19 +14,15 @@ tags:
 
 Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres au TDAH et au TOP.
 
-## Le trouble oppositionnel avec provocation (TOP)
+## Faire face au  trouble oppositionnel avec provocation (TOP)
 
-- [[Le trouble oppositionnel avec provocation et le TDAH]]
-- [[Causes du trouble oppositionnel avec provocation - TOP]]
-- [[Distinguer l'opposition développementale normale du trouble oppositionnel avec provocation]]
-- [[Trouble de l'opposition et image de soi]]
 - [[Boite à outils Trouble oppositionnel]]
+- [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 
-## Le cycle d'escalade et comment en sortir
+## Le cycle d'escalade et comment en sortir ?
 
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
 - [[Eviter l'escalade et le conflit]]
-- [[Trouble de l'opposition et système DMN-TPN]]
 - [[Time-in - Time-out]]
 
 ## Le renforcement positif / négatif
@@ -35,7 +31,6 @@ tags:
 - [[L'importance du renforcement positif]]
 - [[Bien calibrer le renforcement positif]]
 - [[Les systèmes de jetons et chartes de comportement - pourquoi ils s'essoufflent si vite ?]]
-- [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]
 
 ## L'épuisement parental
 
@@ -43,15 +38,12 @@ tags:
 - [[La charge mentale des parents d'enfants TDAH]]
 - [[Stratégies pour diminuer la charge mentale]]
 
-## Vie de couple et transmission intergénérationnelle
-
-- [[Vie familiale et TDAH]]
-
 ## Faciliter le quotidien
 
 - [[Faciliter la transition entre les activités - les rituels de démarrage]]
 - [[Outils liées au retard de maturation TDAH]]
-- [[La doublure corporelle]]
+- [[Pratiquer le Body-doubling avec l'enfant]]
+- [[Faire de la psychoéducation avec son enfant]]
 
 ## Pour aller plus loin
 

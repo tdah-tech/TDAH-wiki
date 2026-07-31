@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-31T08:35:37.029+02:00
+modified: 2026-07-31T15:01:28.582+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -27,13 +27,15 @@ La pratique peut prendre des formes variées. Elle se déroule parfois dans la m
 
 La pratique peut prendre forme tout simplement en diffusant une vidéo déjà enregistrée (youtube do your homework with me). Certains utilisent même la présence d’un animal ou l’enregistrement d’eux-mêmes en train d’accomplir la tâche, créant ainsi un double virtuel.
 
-Pour les parents d’enfants ou d’adolescents présentant un TDAH, le body doubling offre une alternative précieuse aux rappels répétés et aux tensions habituelles autour des routines quotidiennes. Au lieu d’ordonner à l’enfant de ranger sa chambre ou de commencer ses devoirs, puis de le laisser seul face à la difficulté d’initiation, le parent peut simplement s’installer dans la même pièce et s’occuper de sa propre activité, qu’il s’agisse de lire, de répondre à des messages ou de plier du linge. Cette présence calme et non intrusive agit comme un ancrage externe qui aide l’enfant à franchir le seuil de la tâche sans que l’adulte n’ait besoin de diriger, de corriger ou de faire à sa place. Avec le temps, cette posture réduit les conflits, diminue le sentiment d’échec chez l’enfant et transforme des moments souvent conflictuels en occasions de co-présence soutenante, tout en respectant le rythme et l’autonomie en construction du jeune.
+Pour les parents d’enfants ou d’adolescents présentant un TDAH, le body doubling offre une alternative précieuse aux rappels répétés et aux tensions habituelles autour des routines quotidiennes.
 
 Il convient de rester lucide quant aux limites. Les preuves scientifiques rigoureuses restent encore peu nombreuses. La plupart des témoignages et des recommandations de coachs spécialisés ou de cliniciens reposent sur l’expérience clinique et le vécu des personnes concernées plutôt que sur de vastes essais contrôlés. Certaines études exploratoires récentes donnent des résultats mitigés, et le body doubling ne convient pas à tout le monde. Pour certaines personnes, la présence d’autrui peut au contraire devenir une source de distraction supplémentaire, surtout si le double se met à discuter ou si la relation sociale prend le dessus.
 
 ## Pour aller plus loin :
 
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]
+- [[Pratiquer le Body-doubling avec l'enfant]]
+- [[Parentalité et TDAH]]
 
 ## Références
 
