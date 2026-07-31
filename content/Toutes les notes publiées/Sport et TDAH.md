@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-07-29T18:29:39.570+02:00
+modified: 2026-07-31T08:35:37.057+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -13,7 +13,7 @@ tags:
   - "#cortex-prefrontal"
 ---
 
-Le sport représente l’une des interventions non médicamenteuses **les mieux documentées** dans la prise en charge du Trouble [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|Déficit de l’Attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|Hyperactivité]] (TDAH). Chez les enfants, adolescents et adultes concernés, l’activité physique régulière ne se contente pas d’améliorer la forme physique : elle agit directement sur les circuits cérébraux déficitaires, en stimulant la production de **[[Dopamine et TDAH|dopamine]]** et de \*\*[[Noradrénaline et TDAH|noradrénaline]]\*\*\*\*, ces neurotransmetteurs essentiels à l’attention, à la motivation et au contrôle des impulsions. Des méta-analyses d’interventions confirment que l’activité physique peut améliorer les symptômes centraux du TDAH (surtout l’inattention dans les essais avec groupe contrôle), avec des tailles d’effet souvent **modérées** — les bénéfices se consolidant avec une pratique régulière, sans en faire une solution unique ni « la plus puissante » de façon absolue.
+Le sport représente l’une des interventions non médicamenteuses **les mieux documentées** dans la prise en charge du Trouble [[Le déficit d'attention chez les TDA|Déficit de l’Attention]] avec ou sans [[L'hyperactivité chez le TDAH|Hyperactivité]] (TDAH). Chez les enfants, adolescents et adultes concernés, l’activité physique régulière ne se contente pas d’améliorer la forme physique : elle agit directement sur les circuits cérébraux déficitaires, en stimulant la production de **[[Dopamine et TDAH|dopamine]]** et de \*\*[[Noradrénaline et TDAH|noradrénaline]]\*\*\*\*, ces neurotransmetteurs essentiels à l’attention, à la motivation et au contrôle des impulsions. Des méta-analyses d’interventions confirment que l’activité physique peut améliorer les symptômes centraux du TDAH (surtout l’inattention dans les essais avec groupe contrôle), avec des tailles d’effet souvent **modérées** — les bénéfices se consolidant avec une pratique régulière, sans en faire une solution unique ni « la plus puissante » de façon absolue.
 
 De plus lorsque l’on fait du sport, le corps libère une substance naturelle appelée **[[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]]** (facteur neurotrophique dérivé du cerveau). On peut l’imaginer comme un engrais puissant pour les neurones. Ce [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] nourrit les cellules nerveuses, les aide à se renforcer et à créer de nouvelles connexions entre elles. C’est ce qu’on appelle la neuroplasticité : la capacité du cerveau à se réorganiser, à s’adapter et à se développer, même à l’âge adulte.
 

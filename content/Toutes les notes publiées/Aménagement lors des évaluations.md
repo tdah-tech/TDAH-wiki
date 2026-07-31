@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T07:50:43.571+02:00
+modified: 2026-07-31T08:35:37.016+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ Lors des évaluations scolaires, les recommandations destinées aux élèves pr�
 
 **Lorsque l’orthographe, la graphie ou la mise en forme ne constituent pas l’objet de l’évaluation**, ces aspects ne devraient pas être pénalisés.
 
-**La présence d’un AESH** pendant une évaluation peut s’avérer pertinente pour un élève présentant un TDAH, notamment afin de s’assurer que les consignes ont bien été comprises et d’éviter un rendu trop rapide lié à l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] ou à la difficulté de maintenir l’effort jusqu’au bout. Cette possibilité n’est toutefois ni automatique ni illimitée ; elle s’inscrit dans un cadre précis qui distingue les contrôles en classe des examens officiels.
+**La présence d’un AESH** pendant une évaluation peut s’avérer pertinente pour un élève présentant un TDAH, notamment afin de s’assurer que les consignes ont bien été comprises et d’éviter un rendu trop rapide lié à l’[[L'impulsivité chez le TDAH|impulsivité]] ou à la difficulté de maintenir l’effort jusqu’au bout. Cette possibilité n’est toutefois ni automatique ni illimitée ; elle s’inscrit dans un cadre précis qui distingue les contrôles en classe des examens officiels.
 
 Dans le cadre des évaluations quotidiennes ou des devoirs surveillés, l’AESH intervient sous la responsabilité pédagogique de l’enseignant. Si le Projet Personnalisé de Scolarisation ou le Plan d’Accompagnement Personnalisé prévoit explicitement une aide humaine pour les situations d’évaluation, **l’accompagnant peut rappeler discrètement les consignes, reformuler une instruction complexe sans en modifier le sens, ou encourager l’élève à relire son travail avant de le rendre**. Ces interventions correspondent au rôle de recentrage et de gestion du temps déjà reconnu dans l’accompagnement quotidien. Elles doivent rester brèves, non directives sur le contenu, et viser à restaurer l’attention plutôt qu’à remplacer le raisonnement de l’élève. L’objectif demeure de favoriser une progressive autonomie : l’AESH ne surveille pas le travail, ne corrige pas et ne suggère pas de réponses.
 

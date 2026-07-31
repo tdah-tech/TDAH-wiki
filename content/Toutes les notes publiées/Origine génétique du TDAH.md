@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T17:43:49.003+02:00
+modified: 2026-07-31T08:35:37.053+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,7 +17,7 @@ tags:
 
 Le TDAH a une origine génétique estimée à environ 70 % à 80 % (souvent autour de 74 % dans les méta-analyses d’études portant sur des jumeaux).
 
-Un mécanisme génétique précis a été identifié comme composante de cette hérédité : le gène du transporteur de [[Dopamine et TDAH|dopamine]] (DAT1), la protéine chargée de la recapture de la [[Dopamine et TDAH|dopamine]] dans les synapses. Une variante longue de ce gène — l'allèle 7R du récepteur D4, surnommé le "gène explorateur" — est associée au TDAH ainsi qu'à la recherche de nouveauté, l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]], la curiosité et la prise de risque.
+Un mécanisme génétique précis a été identifié comme composante de cette hérédité : le gène du transporteur de [[Dopamine et TDAH|dopamine]] (DAT1), la protéine chargée de la recapture de la [[Dopamine et TDAH|dopamine]] dans les synapses. Une variante longue de ce gène — l'allèle 7R du récepteur D4, surnommé le "gène explorateur" — est associée au TDAH ainsi qu'à la recherche de nouveauté, l'[[L'hyperactivité chez le TDAH|hyperactivité]], la curiosité et la prise de risque.
 
 Une étude de 1999 (UC Irvine, 2 320 individus dans 39 populations à travers le monde) a montré que les groupes ayant une longue histoire migratoire, installés aux confins du monde (Sibérie, Terre de Feu, Polynésie), présentaient une prédominance de cet allèle — porté par environ 20 % de la population générale.
 

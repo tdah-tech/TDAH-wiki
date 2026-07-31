@@ -1,22 +1,22 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T09:02:56.245+02:00
+modified: 2026-07-31T08:35:37.020+02:00
 tags:
   - "#micronote"
   - "#tdah"
   - "#evolution"
 ---
 
-Le trouble [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte.
+Le trouble [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte.
 
 Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Les synthèses classiques indiquent que si l’on exige le maintien strict des critères diagnostiques complets du syndrome, **une minorité seulement des enfants diagnostiqués conserve le tableau complet vers le jeune âge adulte** ; en revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, **la majorité continue d’être gênée**.
 
 Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 10 % ou moins)**, et de nombreux individus connaissent un **parcours fluctuant**, avec des phases d’amélioration suivies de réapparitions des difficultés lorsque les exigences de l’environnement augmentent.
 
-**L’évolution la plus marquée concerne la [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|composante hyperactive]]**.
+**L’évolution la plus marquée concerne la [[L'hyperactivité chez le TDAH|composante hyperactive]]**.
 
-Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique.
+Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[L'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique.
 
 Avec l’avancée en âge, ces manifestations externes s’atténuent nettement. L’hyperactivité se transforme progressivement en une forme plus interne : sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément.
 

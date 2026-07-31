@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-29T15:15:36.708+02:00
+modified: 2026-07-31T08:35:37.061+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#psychoeducation"
 ---
 
-Le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) ne se limite presque jamais à un ensemble isolé de symptômes attentionnels, d’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] ou d’hyperactivité. Chez une proportion importante des personnes concernées, il s’accompagne notamment de comorbidités anxieuses et dépressives.
+Le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) ne se limite presque jamais à un ensemble isolé de symptômes attentionnels, d’[[L'impulsivité chez le TDAH|impulsivité]] ou d’hyperactivité. Chez une proportion importante des personnes concernées, il s’accompagne notamment de comorbidités anxieuses et dépressives.
 
 Sur le plan épidémiologique, les données de cohorte et les méta-analyses convergent pour indiquer qu’environ **40 à 50 % des enfants et adolescents présentant un TDAH répondent également aux critères d’un trouble anxieux, et que cette proportion reste élevée à l’âge adulte**.
 

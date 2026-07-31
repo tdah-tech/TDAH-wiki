@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T11:55:47.117+02:00
+modified: 2026-07-31T08:35:37.034+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,7 +17,7 @@ L'idée centrale repose sur le constat que **l'attention des personnes concerné
 
 Le cerveau TDAH, dans cette optique, n'est pas « en panne » d'attention ; il est particulièrement sensible aux stimulus. Lorsqu'un stimulus est suffisamment engageant, la concentration devient exceptionnelle (voir [[Qu'est-ce-que l'hyperfocus ?]]) ; lorsqu'il est monotone ou insuffisamment stimulant, l'attention se disperse.
 
-Cette reformulation vise explicitement à sortir du langage pathologique associé au terme « trouble [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] ».
+Cette reformulation vise explicitement à sortir du langage pathologique associé au terme « trouble [[Le déficit d'attention chez les TDA|déficit de l'attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] ».
 
 En parlant de « trait » plutôt que de « trouble » et de « variable » plutôt que de « déficit », Hallowell et Ratey cherchent à réduire la stigmatisation et à mettre en lumière les forces souvent associées à ce fonctionnement cérébral : curiosité, créativité, capacité d'adaptation rapide, intensité émotionnelle et aptitude à l'innovation.
 

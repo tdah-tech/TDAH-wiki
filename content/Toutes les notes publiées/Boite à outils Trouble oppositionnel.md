@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-29T08:19:13.479+02:00
+modified: 2026-07-31T08:35:37.019+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -41,7 +41,7 @@ Concrètement, cette approche pousse à identifier les situations récurrentes d
 
 ### Ne pas négliger le TDAH lui-même
 
-Un point souvent oublié : une partie non négligeable de l'opposition découle directement des symptômes du TDAH mal régulés. Quand l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et la difficulté à gérer la frustration diminuent, grâce à un accompagnement adapté ou un traitement quand il est indiqué, le nombre de déclencheurs de conflit baisse mécaniquement. Travailler uniquement le comportement oppositionnel sans s'occuper du TDAH sous-jacent, c'est un peu écoper un bateau sans colmater la fuite.
+Un point souvent oublié : une partie non négligeable de l'opposition découle directement des symptômes du TDAH mal régulés. Quand l'[[L'impulsivité chez le TDAH|impulsivité]] et la difficulté à gérer la frustration diminuent, grâce à un accompagnement adapté ou un traitement quand il est indiqué, le nombre de déclencheurs de conflit baisse mécaniquement. Travailler uniquement le comportement oppositionnel sans s'occuper du TDAH sous-jacent, c'est un peu écoper un bateau sans colmater la fuite.
 
 ### La cohérence entre les adultes
 

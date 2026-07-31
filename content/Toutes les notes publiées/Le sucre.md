@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T17:43:48.998+02:00
+modified: 2026-07-31T08:35:37.045+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,7 +15,7 @@ Ce qui a réellement mis fin au débat scientifique, ce sont les essais en doubl
 
 Un résultat complémentaire, tout aussi instructif, vient d'une étude de milich et Pelham : quand des chercheurs annonçaient à des parents que leur enfant venait de recevoir du sucre, alors qu'il s'agissait en réalité d'un placebo, ces parents jugeaient leur enfant plus agité. L'effet n'existait que dans leur perception. Ce biais d'attente explique en grande partie pourquoi la croyance populaire a survécu aussi longtemps à son démenti scientifique.
 
-Le TDAH est un trouble neurodéveloppemental à forte composante génétique, et aucune étude de qualité n'a établi que la consommation de sucre en soit la cause. Les auteurs suggèrent même une explication inverse : les enfants déjà diagnostiqués consommeraient davantage de sucre en raison de leur [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de leur recherche de récompense immédiate, plutôt que l'inverse.
+Le TDAH est un trouble neurodéveloppemental à forte composante génétique, et aucune étude de qualité n'a établi que la consommation de sucre en soit la cause. Les auteurs suggèrent même une explication inverse : les enfants déjà diagnostiqués consommeraient davantage de sucre en raison de leur [[L'impulsivité chez le TDAH|impulsivité]] et de leur recherche de récompense immédiate, plutôt que l'inverse.
 
 Il n'existe aucune justification à interdire le sucre ou à culpabiliser une famille sur cette base tant que la consommation est modérée. Les excès de sucre restent problématiques pour la santé dentaire, le poids, le risque métabolique à long terme, chez les TDAH comme pour n'importe qui. Réduire les boissons sucrées et les aliments ultra-transformés reste par ailleurs pertinent pour la santé métabolique en générale.
 
@@ -28,7 +28,7 @@ Il est cependant plausible que les TDAH soient plus sensibles aux coups de fatig
 - [[L'alimentation à indice glycémique bas]]
 - [[TDAH et déséquilibres alimentaires]]
 - [[Dopamine et TDAH]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 
 ## Références
 

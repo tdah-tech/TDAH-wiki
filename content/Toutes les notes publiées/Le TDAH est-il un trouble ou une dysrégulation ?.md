@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-30T11:58:15.077+02:00
+modified: 2026-07-31T08:35:37.034+02:00
 tags:
-  - micronote
-  - tdah
-  - dysregulation
-  - dysrégulation-attention
-  - hyperfocus
+  - "#micronote"
+  - "#tdah"
+  - "#dysregulation"
+  - "#dysrégulation-attention"
+  - "#hyperfocus"
 ---
 
-Le nom même du trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) induit en erreur, et cette observation est largement partagée par les cliniciens spécialisés comme par les personnes concernées.
+Le nom même du trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) induit en erreur, et cette observation est largement partagée par les cliniciens spécialisés comme par les personnes concernées.
 
 L’appellation officielle, héritée des classifications diagnostiques, suggère un manque d’attention, alors que l’expérience vécue et les données cliniques convergent vers une tout autre réalité. La majorité des adultes et des adolescents qui en parlent ne décrivent pas un manque, mais un afflux permanent et désordonné de pensées, d’images, de souvenirs et de stimuli internes ou externes qui se disputent constamment la direction de l’attention. **Ce n’est pas l’attention qui fait défaut ; c’est la capacité à la réguler, à la filtrer, à la maintenir ou à la détourner de manière volontaire et adaptée au contexte**.
 

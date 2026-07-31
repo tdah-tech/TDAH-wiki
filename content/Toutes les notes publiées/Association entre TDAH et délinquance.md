@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-30T08:02:48.285+02:00
+modified: 2026-07-31T08:35:37.018+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,13 +12,13 @@ tags:
   - "#comorbidite"
 ---
 
-Le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisociaux ou délinquants au cours de la vie.
+Le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisociaux ou délinquants au cours de la vie.
 
 Les méta-analyses longitudinales, fondées sur des données officielles d’arrestations, de condamnations et d’incarcérations, montrent de manière cohérente que les individus ayant reçu un diagnostic de TDAH dans l’enfance **présentent un risque multiplié par deux à trois d’être arrêtés, condamnés ou incarcérés à l’adolescence et à l’âge adulte par rapport à la population générale**.
 
 Ce sur-risque s’observe aussi bien pour les infractions violentes que non violentes, avec un âge de début plus précoce et un taux de récidive plus élevé. **Dans les populations carcérales, la prévalence du TDAH atteint fréquemment 20 à 40 %, soit plusieurs fois le taux observé dans la population adulte générale (environ 2 à 5 %)**.
 
-**Le mécanisme principal réside dans le déficit d’autocontrôle et d’inhibition comportementale**. **[[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification, la faible régulation émotionnelle et les altérations des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] rendent plus probable le passage à l’acte dans des situations de frustration, de provocation ou d’opportunité immédiate**.
+**Le mécanisme principal réside dans le déficit d’autocontrôle et d’inhibition comportementale**. **[[L'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification, la faible régulation émotionnelle et les altérations des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] rendent plus probable le passage à l’acte dans des situations de frustration, de provocation ou d’opportunité immédiate**.
 
 Les délits les plus fréquemment associés sont donc de **nature réactive et impulsive** : vols, agressions, infractions liées aux substances ou aux armes, plutôt que des crimes ou délis prémédités. Lorsque le TDAH s’accompagne d’un [[Les comorbidités du TDAH|trouble des conduites]] dans l’enfance ou d’une consommation problématique de substances à l’adolescence, le risque s’élève encore nettement.
 
@@ -31,7 +31,7 @@ En résumé, la science décrit une association claire, mesurable et multifactor
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Association entre TDAH et conduites addictives]]
 - [[Les comorbidités du TDAH]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 

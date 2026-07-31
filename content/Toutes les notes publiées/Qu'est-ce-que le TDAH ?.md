@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T15:15:22.574+02:00
+modified: 2026-07-31T08:36:34.724+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -12,32 +12,32 @@ tags:
   - "#index"
 ---
 
-Le TDAH, Trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
+Le TDAH, Trouble du [[Le déficit d'attention chez les TDA|déficit de l'attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
 
-Il associe, à des degrés divers, trois grandes dimensions : le [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l'attention]], l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]].
+Il associe, à des degrés divers, trois grandes dimensions : le [[Le déficit d'attention chez les TDA|déficit de l'attention]], l'[[L'hyperactivité chez le TDAH|hyperactivité]] et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les deux profils. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
 
-## Les trois profils cliniques
+## Les trois dimensions cliniques du TDAH
+
+- [[Le déficit d'attention chez les TDA]]
+- [[L'hyperactivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
+- [[Comment évolue le TDAH de l'enfance à l'âge adulte ?]]
+
+## Les trois profils cliniques du TDAH
 
 - [[Les trois profils types du TDAH]]
 - [[Profil sévère combiné avec dysrégulation émotionnelle]]
 - [[Profil à prédominance hyperactive - impulsive]]
 - [[Profil à prédominance inattentive - tdah]]
 
-## Les trois dimensions cliniques
-
-- [[Qu'est-ce qu'un déficit d'attention chez les TDA ?]]
-- [[Qu'est-ce-que l'hyperactivité chez le TDAH ?]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
-- [[Comment évolue le TDAH de l'enfance à l'âge adulte ?]]
-
 ## Épidémiologie et prévalence
 
 - [[Prévalence du TDAH et écart garçons-filles]]
 - [[Idée fausse - L'épidémie de TDAH]]
 
-## Origine et approche historique
+## Origine et approche historique du TDAH
 
 - [[Origine génétique du TDAH]]
 - [[Théorie évolutionniste du TDAH]]
@@ -50,12 +50,9 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense, et non sur les réseaux cérébraux de l'attention eux-mêmes]]
 - [[Méthylphénidate et croissance]]
 
-## Thérapie
+## Thérapie / Coaching / Guidance
 
 - [[Les thérapies cognitivo-comportementale (TCC)]]
-
-## Coaching / Guidance
-
 - [[Le coaching TDAH]]
 - [[La méthode Barkley]]
 

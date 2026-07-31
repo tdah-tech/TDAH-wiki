@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-30T11:06:55.122+02:00
+modified: 2026-07-31T08:35:37.038+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#methylphenidate"
 ---
 
-Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) constitue l’un des axes de recherche bien documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
+Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) constitue l’un des axes de recherche bien documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
 
 Depuis les travaux pionniers de Konofal et collaborateurs en 2004, qui montraient déjà des concentrations moyennes de ferritine sérique deux fois plus basses chez des enfants présentant un TDAH (23 ng/mL en moyenne) que chez les personnes non TDAH s (44 ng/mL), avec une proportion de valeurs inférieures à 30 ng/mL atteignant 84 % dans le groupe clinique, de nombreuses études observationnelles, méta-analyses et essais d’intervention ont précisé la nature et les limites de cette association.
 

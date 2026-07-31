@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.152+02:00
+modified: 2026-07-31T08:35:37.054+02:00
 tags:
-  - micronote
-  - tdah
-  - profil
-  - dysregulation-emotionnelle
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#profil"
+  - "#dysregulation-emotionnelle"
+  - "#impulsivite"
 ---
 
 C’est le biotype TDAH le plus marqué sur le plan cérébral. Les scanners montrent des altérations étendues (jusqu’à 45 zones différentes dans certaines analyses), principalement dans les circuits de régulation des émotions et du contrôle des impulsions.
@@ -16,7 +16,7 @@ Les régions les plus touchées sont le **cortex préfrontal médial** (impliqu�
 
 **Sur le plan clinique**, ces enfants (ou adultes) présentent souvent :
 
-- Une combinaison d’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]] et d’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]/[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]
+- Une combinaison d’[[Le déficit d'attention chez les TDA|inattention]] et d’[[L'hyperactivité chez le TDAH|hyperactivité]]/[[L'impulsivité chez le TDAH|impulsivité]]
 - Des réactions émotionnelles très intenses et difficiles à calmer (colères explosives, crises de larmes, frustration disproportionnée)
 - Une grande sensibilité au stress ou à la surcharge
 - Des symptômes qui tendent à persister plus longtemps dans le temps

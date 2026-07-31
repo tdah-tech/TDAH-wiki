@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-30T07:58:14.950+02:00
+modified: 2026-07-31T08:35:37.017+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#methylphenidate"
 ---
 
-La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité, pornographie)**.
+La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité, pornographie)**.
 
 Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque significativement accru de développer un trouble de l’usage de substances au cours de leur vie**. **Parmi les personnes suivies pour une addiction, environ 20 à 25 % d'entre elles répondent aux critères diagnostiques du TDAH** , proportion qui peut être plus élevée dans certaines addictions comportementales.
 
@@ -24,7 +24,7 @@ Les études de cohorte qui ont suivi des enfants diagnostiqués TDAH jusqu’à 
 
 Plusieurs mécanismes biologiques et psychologiques expliquent cette vulnérabilité partagée notamment le dysfonctionnement du [[Dopamine et TDAH|système de récompense dopaminergique]],  qui se traduit par une **hypostimulation chronique et une recherche permanente de stimulations intenses ou immédiates**.
 
-**[[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification et le déficit de contrôle inhibiteur**, dimensions centrales du TDAH, constituent également des facteurs de risque majeurs pour l’entrée dans les conduites addictives.
+**[[L'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification et le déficit de contrôle inhibiteur**, dimensions centrales du TDAH, constituent également des facteurs de risque majeurs pour l’entrée dans les conduites addictives.
 
 [[La dysrégulation émotionnelle dans le TDAH|La dysrégulation émotionnelle]], fréquente dans le TDAH, pousse également certains patients **vers une forme d’automédication : l’usage de substances ou de comportements répétitifs vient temporairement apaiser l’agitation intérieure, l’ennui ou l’anxiété, au prix d’un renforcement secondaire de la dépendance**.
 
@@ -35,7 +35,7 @@ Concernant le traitement, la science a progressé de façon significative. **Le 
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Association entre TDAH et délinquance]]
 - [[Dopamine et TDAH]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 

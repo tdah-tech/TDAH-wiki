@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T17:45:10.579+02:00
+modified: 2026-07-31T08:35:37.021+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,7 +25,7 @@ Au-delà du sommeil lui-même, l'intervention a aussi amélioré le maintien du 
 
 En complément, une étude de registre suédoise a montré que les adultes TDAH utilisant **une couverture lestée réduisaient leur recours aux médicaments hypnotiques courants**, et qu'ils avaient tendance à conserver l'usage de leur couverture plus longtemps que d'autres profils cliniques — un signe indirect mais cohérent d'un bénéfice perçu réel sur le sommeil.
 
-L'intérêt principal de la couverture lestée pour le TDAH se situe donc clairement du côté du sommeil, et non des symptômes cognitifs diurnes (attention, [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]) pour lesquels il n'existe aucune preuve. C'est un outil qui agit sur le sommeil — faciliter l'endormissement et réduire l'agitation nocturne — avec des effets qui pourraient ensuite rejaillir indirectement sur la journée (moins de fatigue, meilleure régulation émotionnelle).
+L'intérêt principal de la couverture lestée pour le TDAH se situe donc clairement du côté du sommeil, et non des symptômes cognitifs diurnes (attention, [[L'impulsivité chez le TDAH|impulsivité]]) pour lesquels il n'existe aucune preuve. C'est un outil qui agit sur le sommeil — faciliter l'endormissement et réduire l'agitation nocturne — avec des effets qui pourraient ensuite rejaillir indirectement sur la journée (moins de fatigue, meilleure régulation émotionnelle).
 
 ## Pour aller plus loin :
 

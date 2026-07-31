@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-30T09:25:42.558+02:00
+modified: 2026-07-31T08:35:37.023+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#hyperactivite"
 ---
 
-La science a progressivement éclairé les liens entre le TDAH et l’entrepreneuriat, passant d’observations anecdotiques à des analyses empiriques rigoureuses. Une méta-analyse récente de 2025, s’appuyant sur 47 études, montre que les symptômes de TDAH, particulièrement l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] et l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], sont positivement associés aux attitudes entrepreneuriales et aux comportements de création d’entreprise. En revanche, l’inattention tend à nuire aux résultats une fois l’entreprise lancée.
+La science a progressivement éclairé les liens entre le TDAH et l’entrepreneuriat, passant d’observations anecdotiques à des analyses empiriques rigoureuses. Une méta-analyse récente de 2025, s’appuyant sur 47 études, montre que les symptômes de TDAH, particulièrement l’[[L'hyperactivité chez le TDAH|hyperactivité]] et l’[[L'impulsivité chez le TDAH|impulsivité]], sont positivement associés aux attitudes entrepreneuriales et aux comportements de création d’entreprise. En revanche, l’inattention tend à nuire aux résultats une fois l’entreprise lancée.
 
 Ces résultats confirment une tendance déjà observée : les personnes présentant des symptômes élevés de TDAH **sont plus susceptibles de s’orienter vers l’entrepreneuriat que vers un emploi salarié traditionnel**. L’une des raisons majeures de ce choix réside dans le fait que l’entrepreneuriat permet d’échapper à un cadre salarial où le TDAH est souvent mal compris, peu accommodé, voire pathologisé. Dans de nombreuses organisations hiérarchiques, les difficultés d’attention soutenue sur des tâches répétitives, l’impulsivité ou le besoin de stimulation sont interprétés comme un manque de discipline ou de professionnalisme, ce qui génère des difficultés professionnels. En créant sa propre structure, la personne concernée peut aménager son rythme, ses méthodes de travail et son environnement selon ses forces et ses limites, sans devoir constamment se justifier auprès d’un supérieur qui ignore les mécanismes du trouble.
 

@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T14:16:13.768+02:00
+modified: 2026-07-31T08:35:37.053+02:00
 tags:
-  - micronote
-  - tdah
-  - perfectionnisme
-  - fonctions-executives
-  - sensibilite-au-rejet
-  - dysregulation-emotionnelle
+  - "#micronote"
+  - "#tdah"
+  - "#perfectionnisme"
+  - "#fonctions-executives"
+  - "#sensibilite-au-rejet"
+  - "#dysregulation-emotionnelle"
 ---
 
-Le perfectionnisme et le TDAH forment un couple clinique assez fréquent, bien que rarement mis en avant dans les descriptions classiques du trouble. Longtemps considérés comme incompatibles — l’un renvoyant à l’exigence de contrôle et de précision, l’autre à la dispersion et à l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] —, ces deux réalités se rencontrent pourtant chez de nombreuses personnes concernées. La science a progressivement clarifié cette association, en montrant qu’elle n’est ni paradoxale ni anecdotique, mais qu’elle s’inscrit dans des mécanismes précis liés aux [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]], à l’histoire des échecs répétés et à la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]].
+Le perfectionnisme et le TDAH forment un couple clinique assez fréquent, bien que rarement mis en avant dans les descriptions classiques du trouble. Longtemps considérés comme incompatibles — l’un renvoyant à l’exigence de contrôle et de précision, l’autre à la dispersion et à l’[[L'impulsivité chez le TDAH|impulsivité]] —, ces deux réalités se rencontrent pourtant chez de nombreuses personnes concernées. La science a progressivement clarifié cette association, en montrant qu’elle n’est ni paradoxale ni anecdotique, mais qu’elle s’inscrit dans des mécanismes précis liés aux [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]], à l’histoire des échecs répétés et à la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]].
 
 Relevons tout d'abord que le perfectionnisme n’est pas un construit unidimensionnel. Les modèles de Hewitt et Flett distinguent **le perfectionnisme orienté vers soi** (exigences personnelles extrêmes accompagnées d’une autocritique sévère), **le perfectionnisme orienté vers autrui** (attentes rigides imposées aux autres) et le **perfectionnisme prescrit socialement** (croyance que l’entourage exige la perfection  et jugera sévèrement tout manquement).
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-28T11:17:31.083+02:00
+modified: 2026-07-31T08:35:37.036+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#fonctions-executives"
 ---
 
-Le coaching TDAH constitue une approche d’accompagnement non clinique spécifiquement conçue pour aider les personnes présentant un trouble du déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] à développer des stratégies concrètes et durables face aux défis du quotidien.
+Le coaching TDAH constitue une approche d’accompagnement non clinique spécifiquement conçue pour aider les personnes présentant un trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] à développer des stratégies concrètes et durables face aux défis du quotidien.
 
 Dans la pratique, le coaching TDAH s’appuie sur une relation collaborative et orientée vers des objectifs précis, définis conjointement par le coaché et le coach. Les séances, souvent hebdomadaires ou bihebdomadaires, permettent d’identifier les obstacles concrets rencontrés dans la vie personnelle, scolaire ou professionnelle, puis de construire des outils personnalisés. Ces outils peuvent inclure par exemple des systèmes de planification adaptés au fonctionnement cérébral atypique, des techniques de découpage des tâches en étapes plus petites, des stratégies de gestion des distractions ou encore des [[Faciliter la transition entre les activités - les rituels de démarrage|rituels de démarrage et de clôture]] destinés à faciliter les transitions.
 

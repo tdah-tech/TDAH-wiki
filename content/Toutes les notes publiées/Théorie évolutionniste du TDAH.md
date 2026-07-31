@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T08:44:24.439+02:00
+modified: 2026-07-31T08:35:37.060+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#neurodiversite"
 ---
 
-La théorie évolutionniste appliquée au TDAH part d’une observation simple et pourtant essentielle : si les traits associés à ce trouble – distractibilité, [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], besoin de mouvement et forte attraction pour la nouveauté – étaient purement nuisibles, la sélection naturelle aurait dû les faire disparaître au fil des générations.
+La théorie évolutionniste appliquée au TDAH part d’une observation simple et pourtant essentielle : si les traits associés à ce trouble – distractibilité, [[L'impulsivité chez le TDAH|impulsivité]], besoin de mouvement et forte attraction pour la nouveauté – étaient purement nuisibles, la sélection naturelle aurait dû les faire disparaître au fil des générations.
 
 Or ils persistent à une fréquence élevée dans la population humaine. **Les chercheurs en psychiatrie évolutionniste proposent donc que ces traits ont longtemps représenté un avantage dans les environnements où notre espèce a passé l’essentiel de son histoire**.
 
@@ -31,6 +31,6 @@ Cela  permet d'appréhender les difficultés des TDAH non comme des défaults ma
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Origine génétique du TDAH]]
 - [[Dopamine et TDAH]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[Retard de maturation cérébrale — 2 à 3 ans]]
 - [[Trouble ou neurodivergence ?]]

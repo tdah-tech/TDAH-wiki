@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-30T10:58:26.756+02:00
+modified: 2026-07-31T08:35:37.029+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,7 @@ tags:
 
 Le body doubling, parfois traduit en français par « doublure corporelle », désigne une stratégie de soutien à la productivité dans laquelle une personne réalise une tâche en présence d’une autre, que cette présence soit physique ou virtuelle.
 
-La personne présente, appelée "double", n’intervient généralement pas dans le contenu du travail. Elle ne corrige pas, n’aide pas activement et n’échange pas nécessairement. Sa simple existence dans l’espace partagé suffit. Cette technique s’est largement diffusée dans les communautés de personnes vivant avec un trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]], où elle est reconnue comme un outil particulièrement adapté aux particularités du fonctionnement attentionnel et exécutif.
+La personne présente, appelée "double", n’intervient généralement pas dans le contenu du travail. Elle ne corrige pas, n’aide pas activement et n’échange pas nécessairement. Sa simple existence dans l’espace partagé suffit. Cette technique s’est largement diffusée dans les communautés de personnes vivant avec un trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]], où elle est reconnue comme un outil particulièrement adapté aux particularités du fonctionnement attentionnel et exécutif.
 
 Rappelons que chez les personnes présentant un TDAH, les difficultés ne relèvent pas d’un manque de volonté, mais d’une dysrégulation des [[Les fonctions éxécutives - définition|fonctions exécutives]]. L’initiation d’une tâche, surtout lorsqu’elle est perçue comme ennuyeuse, répétitive ou trop vaste, peut se heurter à une véritable paralysie. La motivation interne peine à se mettre en marche, la [[Dopamine et TDAH|dopamine]] disponible dans les circuits de la récompense et de l’attention reste insuffisante, et l’esprit dérive facilement vers des stimulations plus immédiates.
 

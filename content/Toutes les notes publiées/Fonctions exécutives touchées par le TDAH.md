@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T18:32:17.515+02:00
+modified: 2026-07-31T08:35:37.024+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ Ce qui varie aussi beaucoup également c'est le phénomène d'[[Qu'est-ce-que l'
 
 Voici les principales [[Les fonctions éxécutives - définition|fonctions exécutives]] touchées par le TDA/H, avec leur manifestation concrète :
 
-**Inhibition (contrôle des impulsions)** — difficulté à retenir une réaction, une parole ou un geste ; [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] verbale ou comportementale.
+**Inhibition (contrôle des impulsions)** — difficulté à retenir une réaction, une parole ou un geste ; [[L'impulsivité chez le TDAH|impulsivité]] verbale ou comportementale.
 
 **[[Mémoire de travail et TDAH|Mémoire de travail]]** — oublier une consigne en cours de route, perdre le fil d'une tâche ou d'une conversation, difficulté à garder plusieurs informations en tête simultanément.
 

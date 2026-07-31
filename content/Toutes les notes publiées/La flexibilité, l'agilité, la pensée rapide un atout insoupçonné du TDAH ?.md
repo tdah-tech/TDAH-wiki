@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T08:19:13.488+02:00
+modified: 2026-07-31T08:35:37.029+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -38,7 +38,7 @@ L'implication la plus utile de cette lecture, pour quiconque vit avec un TDAH, n
 
 Ceci est une lecture plus honnête intellectuellement que celle du superpouvoir. Elle explique pourquoi le même "don" qui rend quelqu'un brillant en réunion de brain storming ou réunion de crise peut l'épuiser dans un poste qui exige une routine stricte. Il n'y a pas ici de contradiction à résoudre — ce sont les deux faces prévisibles d'un seul et même trait neurocognitif.
 
-Il faut enfin garder une réserve méthodologique. L'essentiel de ces constats sur les forces du TDAH vient d'études qualitatives, de corrélations en population générale ou d'auto-évaluations, pas d'essais contrôlés à grande échelle. Le champ de recherche sur les atouts du TDAH est jeune, bien moins développé que celui, déjà considérable, sur ses déficits. Le présenter comme un fait établi au même titre que les données sur l'[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]] ou l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] serait une erreur — mais l'ignorer serait tout aussi malhonnête, tant les témoignages convergents et les mécanismes neuroscientifiques identifiés dessinent, ensemble, une hypothèse solide et cohérente.
+Il faut enfin garder une réserve méthodologique. L'essentiel de ces constats sur les forces du TDAH vient d'études qualitatives, de corrélations en population générale ou d'auto-évaluations, pas d'essais contrôlés à grande échelle. Le champ de recherche sur les atouts du TDAH est jeune, bien moins développé que celui, déjà considérable, sur ses déficits. Le présenter comme un fait établi au même titre que les données sur l'[[Le déficit d'attention chez les TDA|inattention]] ou l'[[L'impulsivité chez le TDAH|impulsivité]] serait une erreur — mais l'ignorer serait tout aussi malhonnête, tant les témoignages convergents et les mécanismes neuroscientifiques identifiés dessinent, ensemble, une hypothèse solide et cohérente.
 
 En somme, le TDAH n'est ni un cerveau plus lent ni un cerveau plus rapide. **C'est un cerveau qui régule moins ce qu'il génère, en continu**. Cette non-régulation est parfois un atout spectaculaire et parfois un fardeau, souvent dans la même journée — et c'est précisément cette ambivalence, plutôt qu'un supposé don, qui mérite d'être soulignée.
 
@@ -48,6 +48,6 @@ En somme, le TDAH n'est ni un cerveau plus lent ni un cerveau plus rapide. **C'e
 - [[Le modèle TPN-DMN]]
 - [[Le réseau DMN]]
 - [[Le réseau TPN]]
-- [[Qu'est-ce qu'un déficit d'attention chez les TDA ?]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[Le déficit d'attention chez les TDA]]
+- [[L'impulsivité chez le TDAH]]
 - [[Neurosciences du TDAH]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T11:32:00.473+02:00
+modified: 2026-07-31T08:35:37.040+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -56,7 +56,7 @@ Cette étude change complètement l'interprétation causale du bénéfice observ
 
 C'est aussi ce qui explique, dans ce même modèle, pourquoi un enfant TDAH peut être en [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] parfait sur un jeu vidéo et incapable de tenir cinq minutes sur un exercice de grammaire : le projecteur (étage 1) est rigoureusement le même dans les deux cas. Ce qui change, c'est uniquement le résultat du vote à l'étage 2 — le jeu vidéo gagne ce vote sans effort, l'exercice de grammaire le perd systématiquement, sauf si quelque chose (le stimulant, ou un enjeu personnel fort, une échéance, etc.) vient artificiellement gonfler sa valeur perçue au moment du vote.
 
-### Effet sur l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]
+### Effet sur l'[[L'hyperactivité chez le TDAH|hyperactivité]]
 
 Pourquoi un stimulant calme-t-il un enfant hyperactif au lieu de l'exciter davantage ? Les auteurs proposent une explication cohérente avec leurs données : l'agitation ne serait pas tant un problème moteur qu'un problème de motivation — l'enfant se lève, change d'activité, cherche sans cesse quelque chose de plus gratifiant à faire. En rendant la tâche en cours plus « payante » sur le plan de la récompense perçue, le stimulant réduirait l'envie de changer de tâche — d'où moins d'agitation, sans qu'il y ait besoin d'un frein moteur direct.
 

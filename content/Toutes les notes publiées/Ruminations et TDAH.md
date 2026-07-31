@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-29T17:44:48.786+02:00
+modified: 2026-07-31T08:35:37.055+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,7 +15,7 @@ La science contemporaine établit de manière convergente une association signif
 
 **La rumination se définit comme un mode de pensée répétitif, passif et souvent involontaire, centré sur des aspects négatifs de soi, d’événements passés ou de difficultés actuelles, sans déboucher sur une résolution de problème ni sur une prise de distance constructive**. Elle se distingue du simple vagabondage mental par son caractère émotionnel négatif et pénible et son caractère stérile, bien que les deux phénomènes se chevauchent fréquemment et s’entretiennent mutuellement chez les personnes présentant un TDAH.
 
-Les données empiriques confirment que les symptômes et traits de TDAH, en particulier la dimension d’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]], sont positivement corrélés à une propension accrue à ruminer. Une étude transversale de grande envergure publiée en 2025 dans _Scientific Reports_, portant sur un échantillon de trois mille adultes japonais âgés de 18 à 50 ans, a mis en évidence **des corrélations positives significatives entre les traits de TDAH, l’auto-rumination  et les symptômes dépressifs**. Les analyses  ont montré que l’auto-rumination expliquait une part substantielle du lien entre les traits de TDAH et la dépression,.
+Les données empiriques confirment que les symptômes et traits de TDAH, en particulier la dimension d’[[Le déficit d'attention chez les TDA|inattention]], sont positivement corrélés à une propension accrue à ruminer. Une étude transversale de grande envergure publiée en 2025 dans _Scientific Reports_, portant sur un échantillon de trois mille adultes japonais âgés de 18 à 50 ans, a mis en évidence **des corrélations positives significatives entre les traits de TDAH, l’auto-rumination  et les symptômes dépressifs**. Les analyses  ont montré que l’auto-rumination expliquait une part substantielle du lien entre les traits de TDAH et la dépression,.
 
 Dans le même temps, \*\*les réflexions sur soi \*\* — consistant à examiner ses propres pensées, émotions, motivations ou comportements de manière exploratoire, flexible et non jugeante, dans le but de mieux se comprendre ou de résoudre un problème de façon constructive. — exerçait un effet protecteur chez les personnes TDAH.   Ces résultats indiquent que ce n’est pas la simple quantité de pensées centrées sur soi qui pose problème, mais bien leur qualité positive ou négative. Ils confirment également [[L'importance de la psychoéducation|l'importance de la psycho-éducation]].
 

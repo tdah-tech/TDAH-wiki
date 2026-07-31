@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T09:29:13.265+02:00
+modified: 2026-07-31T08:35:37.062+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#alimentation"
 ---
 
-Le cerveau, et plus particulièrement celui d’une personne présentant un TDAH, fonctionne de manière optimale lorsqu’il reçoit un apport énergétique régulier et prévisible. Le glucose constitue son principal carburant. Lorsque la glycémie s’élève trop rapidement puis chute de façon abrupte, cet apport devient irrégulier. Les neurones des régions préfrontales, déjà souvent en déficit relatif de régulation chez les personnes avec TDAH, se retrouvent alors temporairement en situation de sous-alimentation énergétique. Il en résulte fréquemment une baisse de la vigilance, une diminution de la capacité de [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|concentration soutenue]], une irritabilité accrue ou un sentiment de brouillard mental. Ces fluctuations ne créent pas le TDAH, mais elles en amplifient les manifestations quotidiennes.
+Le cerveau, et plus particulièrement celui d’une personne présentant un TDAH, fonctionne de manière optimale lorsqu’il reçoit un apport énergétique régulier et prévisible. Le glucose constitue son principal carburant. Lorsque la glycémie s’élève trop rapidement puis chute de façon abrupte, cet apport devient irrégulier. Les neurones des régions préfrontales, déjà souvent en déficit relatif de régulation chez les personnes avec TDAH, se retrouvent alors temporairement en situation de sous-alimentation énergétique. Il en résulte fréquemment une baisse de la vigilance, une diminution de la capacité de [[Le déficit d'attention chez les TDA|concentration soutenue]], une irritabilité accrue ou un sentiment de brouillard mental. Ces fluctuations ne créent pas le TDAH, mais elles en amplifient les manifestations quotidiennes.
 
 L’[[L'alimentation à indice glycémique bas|indice glycémique]] d’un aliment mesure la vitesse à laquelle les glucides qu’il contient élèvent la glycémie après ingestion. Un aliment à indice glycémique élevé libère rapidement son glucose dans le sang. Le pancréas répond par une sécrétion importante d’insuline, ce qui provoque ensuite une descente parfois trop marquée. À l’inverse, un aliment à indice glycémique bas libère le glucose de façon progressive, permettant une glycémie plus stable sur plusieurs heures. Ce n’est donc pas la présence de glucides qui pose problème, mais la rapidité de leur absorption.
 

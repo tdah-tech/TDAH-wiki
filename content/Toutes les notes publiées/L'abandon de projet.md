@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-30T10:55:52.017+02:00
+modified: 2026-07-31T08:35:37.025+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#motivation"
 ---
 
-L’abandon de projet constitue l’une des manifestations les plus fréquentes et les plus douloureuses du trouble déficitaire de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. Chez la personne présentant un TDAH, le cerveau n’orchestre pas de la même manière la motivation, la persévérance et la régulation des émotions face aux tâches prolongées. Ce qui commence souvent dans un élan d’enthousiasme intense se heurte rapidement à une baisse de [[Dopamine et TDAH|dopamine]], et à une saturation cognitive.
+L’abandon de projet constitue l’une des manifestations les plus fréquentes et les plus douloureuses du trouble déficitaire de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]]. Chez la personne présentant un TDAH, le cerveau n’orchestre pas de la même manière la motivation, la persévérance et la régulation des émotions face aux tâches prolongées. Ce qui commence souvent dans un élan d’enthousiasme intense se heurte rapidement à une baisse de [[Dopamine et TDAH|dopamine]], et à une saturation cognitive.
 
 Le projet, naguère porteur de sens, devient alors une source d’évitement et d’abandon.
 

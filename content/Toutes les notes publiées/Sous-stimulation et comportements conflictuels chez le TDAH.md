@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T08:18:28.623+02:00
+modified: 2026-07-31T08:35:37.057+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ Concrètement, une tâche répétitive, une réunion qui s'éternise, une consig
 
 C'est là que le lien avec les comportements conflictuels s'établit. Face à la sous-stimulation, le cerveau TDAH cherche activement une sortie : bouger, parler, changer de sujet, ou... provoquer une réaction chez autrui.
 
-Lancer un débat, contredire, chercher la petite bête dans les propos d'un proche peut, sans que la personne en ait toujours conscience, procurer la charge de stimulation et d'adrénaline qui manquait l'instant d'avant chez la personne TDAH. Ce mécanisme se combine à deux autres traits fréquents du TDAH : l'**[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]**, qui pousse à réagir avant de peser les mots, et la **[[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]**, qui rend la frustration plus intense et plus difficile à contenir.
+Lancer un débat, contredire, chercher la petite bête dans les propos d'un proche peut, sans que la personne en ait toujours conscience, procurer la charge de stimulation et d'adrénaline qui manquait l'instant d'avant chez la personne TDAH. Ce mécanisme se combine à deux autres traits fréquents du TDAH : l'**[[L'impulsivité chez le TDAH|impulsivité]]**, qui pousse à réagir avant de peser les mots, et la **[[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]**, qui rend la frustration plus intense et plus difficile à contenir.
 
 Aussi, chez les personnes TDAH argumenter avec les figures d'autorité, contester les règles, s'opposer systématiquement ne sont pas nécessairement de la provocation gratuite. Ils peuvent être une stratégie, consciente ou non, pour créer de la stimulation et reprendre un sentiment de contrôle dans une situation vécue comme insuffisamment engageante ou trop contraignante. Le conflit et l’argumentation apportent de l’intensité,des enjeux immédiats, des réaction rapide, parfois un sentiment de « gagner » ou de reprendre le contrôle.
 

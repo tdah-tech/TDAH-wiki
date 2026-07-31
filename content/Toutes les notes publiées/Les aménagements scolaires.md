@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-29T08:19:31.897+02:00
+modified: 2026-07-31T08:35:37.046+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,7 +25,7 @@ Les aménagements ne visent pas à modifier les exigences du programme, mais à 
 
 **Vérification de l’agenda pour les devoirs** et le matériel inhabituel constitue une vigilance quotidienne.
 
-**Mettre en place un code entre l'élève et l'enseignant**. Un code non verbal convenu à l’avance — un signe discret — permet d’intervenir/alerter l'enseignant avant que l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] ne s’emballe.
+**Mettre en place un code entre l'élève et l'enseignant**. Un code non verbal convenu à l’avance — un signe discret — permet d’intervenir/alerter l'enseignant avant que l’[[L'impulsivité chez le TDAH|impulsivité]] ne s’emballe.
 
 **Autoriser des déplacements contrôlés et des pauses motrices**, sans jamais priver l’élève de récréation ou de sport, contribue à la régulation attentionnelle. L’énergie de l’élève peut être canalisée de façon constructive en lui confiant des missions utiles, comme distribuer les cahiers ou effacer le tableau. Dans certains cas, **un coin calme ou un espace de retrait temporaire peut être aménagé, permettant à l’élève de se recentrer sans quitter durablement le groupe**. Certains élèves bénéficient de possibilités de mouvement discret, comme une bande élastique sous la chaise ou un [[Fidgets et casques anti-bruit — que dit vraiment la recherche|objet fidgétique]] silencieux, afin de répondre à leurs besoins de régulation sensorielle.
 

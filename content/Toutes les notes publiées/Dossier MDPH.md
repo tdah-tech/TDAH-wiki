@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-30
-modified: 2026-07-30T13:52:45.997+02:00
+modified: 2026-07-31T08:35:37.023+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -23,7 +23,7 @@ Les statistiques disponibles indiquent qu’une proportion significative des dos
 
 Pour constituer un dossier, il convient de rassembler le formulaire unique de demande (Cerfa n° 1569&#x32;_&#x30;1), le certificat médical (Cerfa n° 1569&#x35;_&#x30;1) daté de moins de douze mois et renseigné de préférence par un psychiatre, un pédopsychiatre ou un médecin connaissant bien le parcours de la personne, un justificatif d’identité et un justificatif de domicile.
 
-Le certificat médical doit décrire non seulement le diagnostic (forme inattentive, hyperactive-impulsive ou combinée, critères retenus) mais surtout les limitations fonctionnelles observées : difficultés de maintien de l’attention soutenue, troubles de l’organisation et de la planification, [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], fatigabilité cognitive, retentissement sur les interactions sociales.
+Le certificat médical doit décrire non seulement le diagnostic (forme inattentive, hyperactive-impulsive ou combinée, critères retenus) mais surtout les limitations fonctionnelles observées : difficultés de maintien de l’attention soutenue, troubles de l’organisation et de la planification, [[L'impulsivité chez le TDAH|impulsivité]], fatigabilité cognitive, retentissement sur les interactions sociales.
 
 Un questionnaire complémentaire spécifiquement conçu pour les altérations des fonctions mentales, cognitives et psychiques, y compris les troubles du neurodéveloppement, est fortement recommandé. Il comporte une partie destinée au médecin et une autre destinée à la personne ou à son entourage ; ces documents permettent de détailler le retentissement domaine par domaine (vie quotidienne, scolarité ou emploi, relations, autonomie) et améliorent sensiblement la qualité de l’évaluation par l’équipe pluridisciplinaire de la MDPH.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-28T10:52:14.891+02:00
+modified: 2026-07-31T08:35:37.059+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,7 +15,7 @@ tags:
 
 Il faut savoir que plusieurs mécanismes propres au fonctionnement du cerveau TDAH favorisent des apports alimentaires déséquilibrés.
 
-**[[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]]** se traduit souvent par une recherche immédiate de récompense alimentaire, ce qui oriente vers des aliments ultra-transformés riches en [[Éviter la variation brutale de la glycémie|sucres rapides]] et pauvres en micronutriments essentiels.
+**[[L'impulsivité chez le TDAH|L’impulsivité]]** se traduit souvent par une recherche immédiate de récompense alimentaire, ce qui oriente vers des aliments ultra-transformés riches en [[Éviter la variation brutale de la glycémie|sucres rapides]] et pauvres en micronutriments essentiels.
 
 **La sélectivité alimentaire**, fréquemment liée à des aversions sensorielles (textures, odeurs, goûts ou températures mal tolérées) ou à une forme de néophobie, restreint chez certaine personnes considérablement le répertoire alimentaire. Ces particularités sensorielles, bien documentées dans le TDAH et parfois proches des profils observés dans le trouble de l’évitement conduisent à une consommation répétée des mêmes aliments familiers, au détriment de sources variées de fer, de [[Zinc|zinc]], de [[Le magnésium|magnésium]] ou d’acides gras [[Les omega-3|oméga-3]].
 
@@ -32,7 +32,7 @@ Le sommeil, souvent perturbé dans le TDAH (et par les stimulants eux-mêmes), i
 - [[L'alimentation et le TDAH]]
 - [[L'alimentation à indice glycémique bas]]
 - [[Éviter la variation brutale de la glycémie]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[Les fonctions éxécutives - définition]]
 - [[Zinc]]
 - [[Supplémentation alimentaire - priviligier les formules à large spectre]]

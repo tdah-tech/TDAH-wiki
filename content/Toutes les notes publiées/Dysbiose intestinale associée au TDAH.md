@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-30T09:22:11.402+02:00
+modified: 2026-07-31T08:35:37.023+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,7 +21,7 @@ Au-delà des bactéries, des travaux plus récents se sont intéressés au mycob
 
 Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique et pourraient alors aggraver les symptômes du TDAH.
 
-Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH.
+Une dysbiose peut donc, en théorie, contribuer aux altérations de l’attention, de l’[[L'impulsivité chez le TDAH|impulsivité]] et de la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]] caractéristiques du TDAH.
 
 Il est cependant essentiel de souligner que la relation observée est, à ce stade, principalement associationnelle. La causalité n’est pas encore définitivement établie. On ignore dans quelle mesure la dysbiose précède et favorise le TDAH, ou si elle en constitue une conséquence liée au mode de vie, à l’alimentation, au stress ou aux traitements médicamenteux.
 

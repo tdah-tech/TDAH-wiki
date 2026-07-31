@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-30T09:52:12.519+02:00
+modified: 2026-07-31T08:35:37.025+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#idee-recue"
 ---
 
-L’idée selon laquelle nous assisterions à une épidémie de trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) s’est largement répandue ces dernières années.
+L’idée selon laquelle nous assisterions à une épidémie de trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) s’est largement répandue ces dernières années.
 
 Elle s’appuie sur l’observation d’une hausse spectaculaire du nombre de diagnostics posés, de consultations spécialisées et de prescriptions de traitements.
 

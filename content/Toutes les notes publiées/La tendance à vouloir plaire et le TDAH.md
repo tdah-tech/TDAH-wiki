@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-30T10:36:24.889+02:00
+modified: 2026-07-31T08:35:37.034+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -16,7 +16,7 @@ Au cœur de cette association se trouve la [[La dysrégulation émotionnelle dan
 
 Des études qualitatives récentes, notamment des explorations par groupes de discussion auprès d’étudiants diagnostiqués, montrent que ces moments se traduisent fréquemment **par un retrait préventif ou, à l’inverse, par un effort intense de dissimulation : on atténue ses besoins, on anticipe les désirs de l’autre, on s’excuse excessivement ou l’on accepte des demandes au-delà de ses ressources afin de neutraliser le risque de désapprobation**.
 
-Ces schémas s’ancrent souvent dans l’histoire de la personnes TDAH. Les enfants présentant un TDAH grandissent statistiquement dans des environnements où les critiques sont très fréquentes. Souvent l’enfant apprend très tôt que son comportement « naturel » génère de la friction. L’adaptation la plus économique devient alors de chercher activement l’approbation, de se rendre utile, agréable ou invisible dans ses difficultés. Ce qui commence comme une stratégie de survie relationnelle se cristallise, à l’âge adulte, en un automatisme difficile à interrompre, renforcé par l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] (le « oui » qui sort avant d'avoir réfléchi aux conséquences) et par la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]] qui empêche d’anticiper le coût de l’engagement.
+Ces schémas s’ancrent souvent dans l’histoire de la personnes TDAH. Les enfants présentant un TDAH grandissent statistiquement dans des environnements où les critiques sont très fréquentes. Souvent l’enfant apprend très tôt que son comportement « naturel » génère de la friction. L’adaptation la plus économique devient alors de chercher activement l’approbation, de se rendre utile, agréable ou invisible dans ses difficultés. Ce qui commence comme une stratégie de survie relationnelle se cristallise, à l’âge adulte, en un automatisme difficile à interrompre, renforcé par l’[[L'impulsivité chez le TDAH|impulsivité]] (le « oui » qui sort avant d'avoir réfléchi aux conséquences) et par la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]] qui empêche d’anticiper le coût de l’engagement.
 
 Il est important de conserver de la nuance. Toutes les personnes présentant un TDAH ne développent pas une tendance à vouloir plaire invalidante, et ce type de comportement n’est absolument pas spécifique au TDAH.
 
@@ -27,7 +27,7 @@ En résumé, la science actuelle décrit le vouloir plaire ou le people-pleasing
 - [[Vivre avec un TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[La sensibilité au rejet (dysphorie)]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[Cécité temporelle chez les personnes TDAH]]
 
 ## Référence

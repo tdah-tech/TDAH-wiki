@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-30T11:28:47.877+02:00
+modified: 2026-07-31T08:35:37.022+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#traitement"
 ---
 
-Le diagnostic du trouble déficit de l’attention avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) en France est une démarche strictement clinique effectué par des médécins.
+Le diagnostic du trouble déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) en France est une démarche strictement clinique effectué par des médécins.
 
 Les recommandations de bonne pratique de la Haute Autorité de Santé publiées en septembre 2024 pour les enfants et les adolescents ont clarifié et harmonisé ce processus sur l’ensemble du territoire.
 
@@ -22,7 +22,7 @@ Cette évolution vise à réduire les délais d’accès aux soins, qui restaien
 
 Le médecin explore le développement de l’enfant dans toutes ses dimensions – neurologique, psychomotrice, affective, cognitive et sociale – afin de situer les difficultés dans leur contexte global. Un examen clinique complet est réalisé, complété par un recueil systématique d’informations auprès des intervenants de la vie quotidienne de l’enfant, en particulier l’équipe éducative et, le cas échéant, les professionnels paramédicaux déjà impliqués.
 
-**Les critères retenus s’appuient sur les classifications internationales (DSM-5-TR ou CIM-11) : les symptômes d’inattention et/ou d’hyperactivité-[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] doivent être présents depuis plus de six mois, avoir débuté avant l’âge de douze ans, s’exprimer dans au moins deux environnements distincts, entraîner un retentissement significatif sur le fonctionnement scolaire, social ou familial, et ne pas être mieux expliqués par un autre trouble mental ou une pathologie somatique**.
+**Les critères retenus s’appuient sur les classifications internationales (DSM-5-TR ou CIM-11) : les symptômes d’inattention et/ou d’hyperactivité-[[L'impulsivité chez le TDAH|impulsivité]] doivent être présents depuis plus de six mois, avoir débuté avant l’âge de douze ans, s’exprimer dans au moins deux environnements distincts, entraîner un retentissement significatif sur le fonctionnement scolaire, social ou familial, et ne pas être mieux expliqués par un autre trouble mental ou une pathologie somatique**.
 
 Des outils d’évaluation standardisés peuvent guider la réflexion et aider à quantifier l’intensité des symptômes ou à rechercher des comorbidités, mais ils ne se substituent jamais au jugement clinique.
 

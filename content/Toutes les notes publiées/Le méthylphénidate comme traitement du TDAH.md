@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T11:47:15.103+02:00
+modified: 2026-07-31T08:35:37.041+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,7 +25,7 @@ Sur le plan des réseaux cérébraux, plusieurs études d'imagerie médicale mon
 
 **Effets attendus**
 
-Une amélioration de la concentration soutenue, une réduction de l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et de l'agitation motrice, et une meilleure régulation du temps de réaction sont généralement observées chez les répondeurs. L'effet est souvent visible rapidement, en quelques heures pour la prise, ce qui distingue le méthylphénidate d'un antidépresseur par exemple, dont l'effet met des semaines à s'installer.
+Une amélioration de la concentration soutenue, une réduction de l'[[L'impulsivité chez le TDAH|impulsivité]] et de l'agitation motrice, et une meilleure régulation du temps de réaction sont généralement observées chez les répondeurs. L'effet est souvent visible rapidement, en quelques heures pour la prise, ce qui distingue le méthylphénidate d'un antidépresseur par exemple, dont l'effet met des semaines à s'installer.
 
 **Efficacité**
 

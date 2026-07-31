@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-30T08:44:18.361+02:00
+modified: 2026-07-31T08:35:37.020+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,7 @@ tags:
 
 Il n'y a pas une cause unique au TOP, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.
 
-**Le terrain neurobiologique.** Les enfants avec un TDAH ont des difficultés de régulation des émotions et un contrôle inhibiteur plus faible, deux fonctions qui dépendent des mêmes circuits préfrontaux impliqués dans l'attention et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]].
+**Le terrain neurobiologique.** Les enfants avec un TDAH ont des difficultés de régulation des émotions et un contrôle inhibiteur plus faible, deux fonctions qui dépendent des mêmes circuits préfrontaux impliqués dans l'attention et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 Concrètement, cela veut dire que **la frustration monte plus vite et redescend plus lentement, et que le frein qui permettrait normalement de temporiser une réaction de colère fonctionne moins bien**.
 

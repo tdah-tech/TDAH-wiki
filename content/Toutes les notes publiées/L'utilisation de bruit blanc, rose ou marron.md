@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T18:33:59.371+02:00
+modified: 2026-07-31T08:35:37.028+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#bruit-marron"
 ---
 
-Le bruit blanc et le bruit rose appartiennent à la famille des bruits colorés, des sons dont le spectre de fréquences est défini de manière précise. Le bruit blanc répartit une intensité sonore égale sur l’ensemble des fréquences audibles, ce qui produit un sifflement uniforme comparable à celui d’un téléviseur sans signal ou d’un ventilateur puissant. Le bruit rose, en revanche, diminue progressivement d’intensité à mesure que la fréquence augmente ; il en résulte un son plus doux et plus naturel, proche d’une pluie fine, du vent dans les feuilles ou d’un flux d’eau régulier. Ces deux types de sons ont été étudiés dans le contexte du trouble du [[Qu'est-ce qu'un déficit d'attention chez les TDA ?|déficit de l’attention]] avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] (TDAH) parce qu’ils offrent un fond sonore constant capable, en théorie, de modifier le niveau d’activation cérébrale.
+Le bruit blanc et le bruit rose appartiennent à la famille des bruits colorés, des sons dont le spectre de fréquences est défini de manière précise. Le bruit blanc répartit une intensité sonore égale sur l’ensemble des fréquences audibles, ce qui produit un sifflement uniforme comparable à celui d’un téléviseur sans signal ou d’un ventilateur puissant. Le bruit rose, en revanche, diminue progressivement d’intensité à mesure que la fréquence augmente ; il en résulte un son plus doux et plus naturel, proche d’une pluie fine, du vent dans les feuilles ou d’un flux d’eau régulier. Ces deux types de sons ont été étudiés dans le contexte du trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) parce qu’ils offrent un fond sonore constant capable, en théorie, de modifier le niveau d’activation cérébrale.
 
 La science la plus solide disponible à ce jour provient d’une revue systématique et méta-analyse publiée en 2024 par Joel T. Nigg et ses collègues. En rassemblant treize études portant sur 335 enfants, adolescents et jeunes adultes présentant un diagnostic de TDAH ou des symptômes d’inattention élevés, les chercheurs ont observé **un bénéfice petit mais statistiquement significatif du bruit blanc ou du bruit rose sur les performances à des tâches d’attention et de [[Les fonctions éxécutives - définition|fonctions exécutives]]. L’effet moyen correspond à une amélioration de l’ordre de 8 à 10 %**. Fait remarquable, le même fond sonore produisait l’effet inverse chez les participants sans trouble de l’attention : leurs performances diminuaient légèrement. Aucune étude de qualité comparable n’a été identifiée pour le bruit brun dans cette synthèse.
 

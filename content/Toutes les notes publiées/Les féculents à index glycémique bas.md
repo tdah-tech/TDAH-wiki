@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T12:17:16.225+02:00
+modified: 2026-07-31T08:35:37.047+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -15,7 +15,7 @@ Privilégier les féculents à index glycémique bas est généralement une bonn
 
 Le cerveau fonctionne principalement grâce au glucose. Les féculents à index glycémique élevé, comme le pain blanc, le riz blanc, les pommes de terre ou les céréales raffinées, provoquent une montée rapide de la glycémie suivie d’une chute.
 
-Cette [[Éviter la variation brutale de la glycémie|variation]] peut entraîner une baisse d’attention, de la fatigue, de l’irritabilité ou une plus grande [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]. Chez les personnes avec un TDAH, ces fluctuations sont souvent plus gênantes, car le cerveau est déjà plus sensible aux variations d’énergie et de [[Dopamine et TDAH|dopamine]]. Stabiliser la glycémie n’agit pas directement sur le trouble lui-même, mais elle aide à éviter d’ajouter une source supplémentaire d’instabilité au quotidien.
+Cette [[Éviter la variation brutale de la glycémie|variation]] peut entraîner une baisse d’attention, de la fatigue, de l’irritabilité ou une plus grande [[L'impulsivité chez le TDAH|impulsivité]]. Chez les personnes avec un TDAH, ces fluctuations sont souvent plus gênantes, car le cerveau est déjà plus sensible aux variations d’énergie et de [[Dopamine et TDAH|dopamine]]. Stabiliser la glycémie n’agit pas directement sur le trouble lui-même, mais elle aide à éviter d’ajouter une source supplémentaire d’instabilité au quotidien.
 
 Les données scientifiques montrent que la qualité des glucides, c’est-à-dire leur charge glycémique, semble plus importante que leur quantité totale.
 

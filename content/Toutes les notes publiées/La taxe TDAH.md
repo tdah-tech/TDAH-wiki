@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T08:19:13.490+02:00
+modified: 2026-07-31T08:35:37.033+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -20,7 +20,7 @@ Ce que ça inclut concrètement:
 - Frais de retard, agios, pénalités (factures, loyer, impôts, crédits oubliés)
 - Remplacer des objets perdus ou cassés (clés, téléphone, lunettes, chargeurs, portefeuille…)
 - Achats en double (tu rachètes quelque chose que tu as déjà mais que tu ne retrouves plus)
-- Achats [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsifs]]
+- Achats [[L'impulsivité chez le TDAH|impulsifs]]
 - Abonnements oubliés
 - Livraisons express ou billets plus chers à cause de la procrastination
 - Des heures passées à chercher des affaires
@@ -31,6 +31,6 @@ Ce que ça inclut concrètement:
 ## Pour aller plus loin
 
 - [[Vivre avec un TDAH]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[Le TDAH n'est pas une excuse ou un blanc-seing]]

@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-27T11:53:05.159+02:00
+modified: 2026-07-31T08:35:37.055+02:00
 tags:
-  - micronote
-  - tdah
-  - dysregulation-emotionnelle
-  - sous-stimulation
-  - impulsivite
+  - "#micronote"
+  - "#tdah"
+  - "#dysregulation-emotionnelle"
+  - "#sous-stimulation"
+  - "#impulsivite"
 ---
 
 La sous-stimulation ne se combat pas uniquement une fois qu’elle a déjà dégénéré en irritabilité ou en conflit. Elle se prévient surtout en amont, en apprenant à reconnaître ses premiers signes et en lui offrant d’autres voies de sortie que l’argumentation.
 
-Tout commence par une **attention fine à ce qui se passe dans le corps et dans l’esprit**. Avant que la dispute n’éclate, il y a presque toujours des signaux discrets : une sensation d’ennui physique, des jambes qui s’agitent, un agacement soudain face à des détails anodins, une envie irrépressible de contredire ou de piquer. **Ces indices indiquent que le cerveau commence à manquer de stimulation**. Les identifier rapidement permet d’intervenir avant que l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] et la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] ne prennent le relais.
+Tout commence par une **attention fine à ce qui se passe dans le corps et dans l’esprit**. Avant que la dispute n’éclate, il y a presque toujours des signaux discrets : une sensation d’ennui physique, des jambes qui s’agitent, un agacement soudain face à des détails anodins, une envie irrépressible de contredire ou de piquer. **Ces indices indiquent que le cerveau commence à manquer de stimulation**. Les identifier rapidement permet d’intervenir avant que l’[[L'impulsivité chez le TDAH|impulsivité]] et la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] ne prennent le relais.
 
 À ce stade, une simple pause, accompagnée de la phrase intérieure « c’est de la sous-stimulation», ou bouger suffit souvent à interrompre la montée.
 

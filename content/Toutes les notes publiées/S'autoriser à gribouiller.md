@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-29T17:43:48.998+02:00
+modified: 2026-07-31T08:35:37.056+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -16,12 +16,12 @@ En 2009, Jackie Andrade, psychologue à l’Université de Plymouth, a publié d
 
 Dans l’expérience , les participants ne prenaient pas de notes libres : ils se contentaient de noircir des cases déjà tracées. Des recherches ultérieures ont d’ailleurs montré que la prise de notes structurée améliore davantage la rétention que le gribouillage libre, lequel peut parfois nuire à la performance si on ne veille pas à gribouiller et écouter.
 
-Pour les personnes qui vivent avec un TDAH, ces résultats sont précieux. L’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] mentale et la tendance au vagabondage de l’esprit — proche de l'activité du [[Le réseau DMN|réseau DMN]] — rendent particulièrement pénibles les tâches monotones. Une activité motrice légère et non concurrentielle — griffonner, colorier des formes, peut alors servir de régulateur d’attention. Elle maintient un niveau d’activation optimal sans saturer les [[Fonctions exécutives touchées par le TDAH|ressources exécutives]] déjà fragiles. L’important n’est pas de produire des dessins intelligibles, mais de **créer une boucle sensorimotrice continue qui ancre le corps et empêche l’esprit de dériver**. Cette stratégie, simple et peu coûteuse, s’inscrit dans une palette d’outils concrets destinés à soutenir la concentration lorsque le cerveau a du mal à rester sur une seule voie.
+Pour les personnes qui vivent avec un TDAH, ces résultats sont précieux. L’[[L'hyperactivité chez le TDAH|hyperactivité]] mentale et la tendance au vagabondage de l’esprit — proche de l'activité du [[Le réseau DMN|réseau DMN]] — rendent particulièrement pénibles les tâches monotones. Une activité motrice légère et non concurrentielle — griffonner, colorier des formes, peut alors servir de régulateur d’attention. Elle maintient un niveau d’activation optimal sans saturer les [[Fonctions exécutives touchées par le TDAH|ressources exécutives]] déjà fragiles. L’important n’est pas de produire des dessins intelligibles, mais de **créer une boucle sensorimotrice continue qui ancre le corps et empêche l’esprit de dériver**. Cette stratégie, simple et peu coûteuse, s’inscrit dans une palette d’outils concrets destinés à soutenir la concentration lorsque le cerveau a du mal à rester sur une seule voie.
 
 ## Pour aller plus loin :
 
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
-- [[Qu'est-ce-que l'hyperactivité chez le TDAH ?]]
+- [[L'hyperactivité chez le TDAH]]
 - [[Le réseau DMN]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[Bonnes pratiques, outils, astuces et méthodes du quotidien]]

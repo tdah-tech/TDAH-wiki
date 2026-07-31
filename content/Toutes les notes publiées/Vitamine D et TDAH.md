@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T18:25:20.661+02:00
+modified: 2026-07-31T08:35:37.062+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,11 +12,11 @@ tags:
   - "#méthylphénidate"
 ---
 
-La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]]. De nombreuses études et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
+La vitamine D suscite depuis plusieurs années un intérêt croissant chez les personnes qui vivent avec un trouble déficitaire de l’attention, avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]]. De nombreuses études et plusieurs méta-analyses montrent que les enfants et les adolescents présentant un TDAH ont en moyenne des taux sanguins de vitamine D plus bas que les jeunes du même âge sans ce diagnostic.
 
 L’écart observé se situe souvent autour de six à sept nanogrammes par millilitre. Cette différence n’est pas anodine, car la vitamine D agit bien au-delà du simple métabolisme osseux. Des récepteurs spécifiques se trouvent dans des régions cérébrales impliquées dans l’attention, le contrôle des impulsions et la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]]. La vitamine D participe également à la synthèse et à la modulation de la [[Dopamine et TDAH|dopamine]] et de la sérotonine, deux neurotransmetteurs centraux dans le fonctionnement attentionnel et l’humeur. Lorsqu’elle manque, ces voies peuvent être moins efficaces, ce qui peut amplifier la fatigue mentale, les difficultés de concentration ou l’irritabilité déjà présentes.
 
-Les données sur la supplémentation sont plus nuancées **mais encourageantes**. Plusieurs essais randomisés ont testé l’ajout de vitamine D au traitement habituel, le plus souvent au [[Le méthylphénidate comme traitement du TDAH|méthylphénidate]]. Les résultats indiquent en général une amélioration modeste mais statistiquement significative des scores globaux d’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]], parfois de l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] et du comportement, surtout le soir. **Ces bénéfices restent cependant limités** .
+Les données sur la supplémentation sont plus nuancées **mais encourageantes**. Plusieurs essais randomisés ont testé l’ajout de vitamine D au traitement habituel, le plus souvent au [[Le méthylphénidate comme traitement du TDAH|méthylphénidate]]. Les résultats indiquent en général une amélioration modeste mais statistiquement significative des scores globaux d’[[Le déficit d'attention chez les TDA|inattention]], parfois de l’[[L'hyperactivité chez le TDAH|hyperactivité]] et du comportement, surtout le soir. **Ces bénéfices restent cependant limités** .
 
 Aujourd’hui, la position la plus raisonnable est donc la suivante : le lien entre un statut bas en vitamine D et le TDAH est solide sur le plan observationnel, et la correction d’une carence documentée fait partie d’une prise en charge globale de qualité, d’autant plus que la vitamine D possède des bénéfices pour la santé osseuse, immunitaire. **En revanche, la supplémentation systématique chez des personnes dont le taux est déjà normal n’est pas soutenue par des preuves suffisantes pour être recommandée comme traitement spécifique du TDAH**.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T17:44:48.786+02:00
+modified: 2026-07-31T08:35:37.059+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -19,7 +19,7 @@ L’autisme, se définit par des **particularités durables dans la communicatio
 
 Contrairement à une idée encore répandue, l’autisme n’est pas un trouble de l’intelligence ; il existe sur un continuum très large de profils cognitifs (de faible QI à très haut par exemple).
 
-Les points de rencontre entre TDAH et autisme sont nombreux et constituent une source fréquente de confusion diagnostique. Les deux profils peuvent s’accompagner de difficultés de [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]], de particularités attentionnelles (distractibilité d’un côté, [[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] de l’autre), de stéréotypies ou de mouvements répétitifs, et de défis dans les interactions sociales. Dans le TDAH, les difficultés sociales découlent souvent de l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], de l’[[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]]. Dans l’autisme, elles renvoient davantage à une différence qualitative dans la compréhension et l’usage des codes sociaux implicites. De même, l’agitation observée dans certains profils autistiques peut être confondue avec l’[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] du TDAH, alors que ses causes sont différentes.
+Les points de rencontre entre TDAH et autisme sont nombreux et constituent une source fréquente de confusion diagnostique. Les deux profils peuvent s’accompagner de difficultés de [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]], de particularités attentionnelles (distractibilité d’un côté, [[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] de l’autre), de stéréotypies ou de mouvements répétitifs, et de défis dans les interactions sociales. Dans le TDAH, les difficultés sociales découlent souvent de l’[[L'impulsivité chez le TDAH|impulsivité]], de l’[[Le déficit d'attention chez les TDA|inattention]]. Dans l’autisme, elles renvoient davantage à une différence qualitative dans la compréhension et l’usage des codes sociaux implicites. De même, l’agitation observée dans certains profils autistiques peut être confondue avec l’[[L'hyperactivité chez le TDAH|hyperactivité]] du TDAH, alors que ses causes sont différentes.
 
 Malgré ces chevauchements, des différences structurantes existent. Le TDAH s’organise autour de la régulation de l’attention, de l’inhibition et de l’effort cognitif. L’autisme s’organise autour de la communication sociale et de la rigidité des intérêts et des routines. Une personne autiste peut maintenir une attention extrêmement soutenue et durable sur un centre d’intérêt spécifique, tandis qu’une personne avec TDAH a souvent du mal à rester concentrée sur une tâche peu stimulante, même si elle peut hyperfocaliser de façon intense mais plus volatile. Le rapport à la nouveauté et à la routine est également distinct : le besoin de prévisibilité est central dans l’autisme, alors que le TDAH s’accompagne fréquemment d’une recherche de stimulation et d’une difficulté à supporter la monotonie.
 
@@ -42,9 +42,9 @@ Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour l
 - [[Qu'est-ce-que le TDAH ?]]
 - [[Les comorbidités du TDAH]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
-- [[Qu'est-ce qu'un déficit d'attention chez les TDA ?]]
-- [[Qu'est-ce-que l'hyperactivité chez le TDAH ?]]
+- [[L'impulsivité chez le TDAH]]
+- [[Le déficit d'attention chez les TDA]]
+- [[L'hyperactivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
 - [[L'importance de la psychoéducation]]

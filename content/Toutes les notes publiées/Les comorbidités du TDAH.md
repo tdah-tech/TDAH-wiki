@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-30T12:16:50.265+02:00
+modified: 2026-07-31T08:35:37.047+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ Il y a plusieurs logiques différentes derrière cette accumulation, et elles ne
 
 D'abord, une origine commune. Le TDAH partage des facteurs étiologiques avec d'autres troubles du neurodéveloppement, notamment le trouble du spectre de l'autisme et les troubles des apprentissages, ainsi qu'avec certains troubles psychiatriques comme le trouble bipolaire ou les troubles addictifs. Ces troubles ne se rencontrent pas par hasard chez la même personne : ils partagent en partie les mêmes racines génétiques et neurodéveloppementales.
 
-Ensuite, un effet domino. Le TDAH est lui-même un facteur de risque pour développer d'autres troubles psychiatriques, à la fois à cause du profil cognitif particulier (la forte [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]], par exemple) et à cause des conséquences concrètes du TDAH sur le développement affectif et les expériences de vie.
+Ensuite, un effet domino. Le TDAH est lui-même un facteur de risque pour développer d'autres troubles psychiatriques, à la fois à cause du profil cognitif particulier (la forte [[L'impulsivité chez le TDAH|impulsivité]], par exemple) et à cause des conséquences concrètes du TDAH sur le développement affectif et les expériences de vie.
 
 Un enfant qui accumule les échecs scolaires, les remarques négatives et les rejets sociaux à cause de son TDAH non repéré ou non accompagné a statistiquement plus de risques de développer, en réaction, de l'anxiété, une dépression, ou un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel]]. Ici, la comorbidité n'est pas d'origine biologique directe, elle se construit dans le temps.
 

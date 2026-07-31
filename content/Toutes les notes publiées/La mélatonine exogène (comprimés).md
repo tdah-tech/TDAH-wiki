@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-30T10:30:03.846+02:00
+modified: 2026-07-31T08:35:37.030+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -13,7 +13,7 @@ tags:
 
 Les [[Les troubles du sommeil chez les TADH|troubles du sommeil]] constituent l’une des comorbidités les plus fréquentes du TDAH.
 
-Dans ce contexte, la mélatonine exogène est devenue un outil thérapeutique largement utilisé, surtout pour l’insomnie d’endormissement. Son mode d’action principal est double. À faible dose et administrée plusieurs heures avant l’heure de coucher souhaitée, elle exerce un effet chronobiotique qui permet d’avancer progressivement le rythme circadien. À dose un peu plus élevée et prise trente à soixante minutes avant le coucher, elle favorise l’endormissement par un effet hypnotique léger. Les essais cliniques et les méta-analyses disponibles montrent de façon assez constante une réduction du temps d’endormissement (souvent de vingt à quarante minutes) et, dans certains cas, une modestes augmentation de la durée totale de sommeil. En revanche, la mélatonine n’améliore pas de manière significative les symptômes coeurs du TDAH ([[Qu'est-ce qu'un déficit d'attention chez les TDA ?|inattention]], [[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]], [[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]]). Son intérêt reste donc strictement limité à la composante sommeil.
+Dans ce contexte, la mélatonine exogène est devenue un outil thérapeutique largement utilisé, surtout pour l’insomnie d’endormissement. Son mode d’action principal est double. À faible dose et administrée plusieurs heures avant l’heure de coucher souhaitée, elle exerce un effet chronobiotique qui permet d’avancer progressivement le rythme circadien. À dose un peu plus élevée et prise trente à soixante minutes avant le coucher, elle favorise l’endormissement par un effet hypnotique léger. Les essais cliniques et les méta-analyses disponibles montrent de façon assez constante une réduction du temps d’endormissement (souvent de vingt à quarante minutes) et, dans certains cas, une modestes augmentation de la durée totale de sommeil. En revanche, la mélatonine n’améliore pas de manière significative les symptômes coeurs du TDAH ([[Le déficit d'attention chez les TDA|inattention]], [[L'hyperactivité chez le TDAH|hyperactivité]], [[L'impulsivité chez le TDAH|impulsivité]]). Son intérêt reste donc strictement limité à la composante sommeil.
 
 En France, la Haute Autorité de Santé a récemment rendu un avis favorable au remboursement d’une spécialité de mélatonine à libération immédiate (VOQUILY) dans l’indication précise de l’insomnie d’endormissement chez les enfants et adolescents de six à dix-sept ans présentant un TDAH, après échec des mesures d’hygiène du sommeil.
 

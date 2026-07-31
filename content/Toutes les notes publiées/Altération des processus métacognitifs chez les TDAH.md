@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-28T15:47:50.266+02:00
+modified: 2026-07-31T08:35:37.015+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -20,7 +20,7 @@ Chez les personnes présentant un TDAH, **ces processus métacognitifs sont fré
 
 Cette altération de l’auto-évaluation a des conséquences concrètes et répétées en situation scolaire. **La relecture d’un texte, d’un exercice ou d’une copie constitue précisément une opération métacognitive exigeante pour un TDAH**. Elle demande de maintenir l’attention sur un matériel déjà traité, de comparer ce qui a été produit à un standard attendu, de détecter les incohérences et de décider des corrections à apporter. Lorsque le monitoring interne est défaillant, l’élève peut ressentir une saturation attentionnelle ou une impression prématurée d’avoir « fini », **ce qui le pousse à rendre rapidement sans vérification approfondie**.
 
-[[Qu'est-ce-que l'impulsivité chez le TDAH|L’impulsivité]], fréquemment associée au TDAH, renforce encore cette tendance en favorisant le passage à l’acte (rendre sa copie) avant que le contrôle ne soit complètement exercé.
+[[L'impulsivité chez le TDAH|L’impulsivité]], fréquemment associée au TDAH, renforce encore cette tendance en favorisant le passage à l’acte (rendre sa copie) avant que le contrôle ne soit complètement exercé.
 
 Les [[L’étayage métacognitif|étayages externes]] : [[Grilles de relectures|check-lists de vérification]], temps explicitement dédié à la relecture, consigne explique de l’enseignant ou de l’accompagnant de relire, peuvent aider l'enfant.
 

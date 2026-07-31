@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T10:29:43.913+02:00
+modified: 2026-07-31T09:44:32.785+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,13 +10,13 @@ tags:
   - "#hyperactivite"
 ---
 
-Le TDAH est officiellement défini par trois groupes de symptômes : le déficit attentionnel, l'[[Qu'est-ce-que l'hyperactivité chez le TDAH ?|hyperactivité]] motrice et l'[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]].
+Le TDAH est officiellement défini par trois groupes de symptômes : le déficit attentionnel, l'[[L'hyperactivité chez le TDAH|hyperactivité]] motrice et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 La dysrégulation émotionnelle — difficulté à réguler l'intensité, la durée ou l'expression des émotions — n'apparaît dans aucun critère diagnostique du DSM-5. Elle n'en est pas moins l'une des dimensions les plus fréquentes et les plus invalidantes du trouble : elle toucherait 34 à 70 % des adultes TDAH selon les études, et jusqu'à 75 % des enfants et adolescents.
 
-Cet écart entre fréquence clinique et reconnaissance diagnostique nourrit un débat toujours actif. Certains auteurs se demandent si la dysrégulation émotionnelle observée chez les adultes TDAH n'est pas simplement l'héritière d'un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel avec provocation]] associé durant l'enfance, plutôt qu'une dimension propre au TDAH lui-même. D'autres la considèrent comme un cinquième symptôme cardinal, non reconnu institutionnellement pour le moment mais cliniquement incontournable.
+Cet écart entre fréquence clinique et reconnaissance diagnostique nourrit un débat toujours actif. Certains auteurs se demandent si la dysrégulation émotionnelle observée chez les adultes TDAH n'est pas simplement l'héritière d'un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel avec provocation]] associé durant l'enfance, plutôt qu'une dimension propre au TDAH lui-même. **D'autres la considèrent comme un cinquième symptôme cardinal, non reconnu institutionnellement pour le moment mais cliniquement incontournable**.
 
-## Pourquoi parler de facteur « transdiagnostique »
+## Pourquoi parler de facteur « transdiagnostique »#\#
 
 La dysrégulation émotionnelle n'est pas spécifique au TDAH : on la retrouve dans le trouble bipolaire, les troubles de la personnalité (notamment borderline), la dépression et plusieurs autres tableaux psychiatriques. Cette absence de spécificité ne l'affaiblit pas comme objet clinique — au contraire, elle a fait émerger l'idée d'un facteur transdiagnostique : une vulnérabilité partagée entre plusieurs troubles, plutôt qu'une simple conséquence secondaire de chacun d'entre eux pris isolément.
 
@@ -41,7 +41,7 @@ L'échelle différencie significativement les enfants TDAH d'un groupe contrôle
 
 Les auteurs concluent que chez les personnes TDAH la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale  en complément du traitement pharmacologique classique.
 
-## Implications cliniques
+## Implications cliniques#\#
 
 Ces travaux convergent vers une même conclusion pratique : évaluer un TDAH sans questionner la régulation émotionnelle revient à laisser de côté une part importante du tableau clinique — potentiellement la plus invalidante en termes de qualité de vie et de fonctionnement relationnel. Ils suggèrent aussi que la dysrégulation émotionnelle ne se résume pas à « plus d'impulsivité » : elle a sa propre dynamique, ses propres facteurs prédictifs, et justifierait des prises en charge spécifiques plutôt qu'un simple  traitement du TDAH avec des stimulants.
 

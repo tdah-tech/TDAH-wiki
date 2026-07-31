@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T17:43:49.001+02:00
+modified: 2026-07-31T08:35:37.060+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -16,13 +16,13 @@ La méta-analyse de référence publiée en 2016 par Nazar et collaborateurs a s
 
 Ces résultats ont été corroborés par des études plus récentes qui confirment que le risque se situe régulièrement entre trois et cinq fois plus élevé, parfois un peu plus selon le sous-type de TCA et la méthode de diagnostic utilisée.
 
-Plusieurs mécanismes sont proposés pour expliquer cette [[Les comorbidités du TDAH|comorbidité]] : l’[[Qu'est-ce-que l'impulsivité chez le TDAH|impulsivité]] qui favorise les accès alimentaires compulsifs, les difficultés de [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]], les particularités de la récompense [[Dopamine et TDAH|dopaminergique]], et parfois des facteurs génétiques partagés. Le risque semble un peu plus marqué pour les troubles avec composante boulimique ou hyperphagique que pour l’anorexie restrictive pure, même si cette dernière reste également plus fréquente.
+Plusieurs mécanismes sont proposés pour expliquer cette [[Les comorbidités du TDAH|comorbidité]] : l’[[L'impulsivité chez le TDAH|impulsivité]] qui favorise les accès alimentaires compulsifs, les difficultés de [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]], les particularités de la récompense [[Dopamine et TDAH|dopaminergique]], et parfois des facteurs génétiques partagés. Le risque semble un peu plus marqué pour les troubles avec composante boulimique ou hyperphagique que pour l’anorexie restrictive pure, même si cette dernière reste également plus fréquente.
 
 ## Pour aller plus loin
 
 - [[L'alimentation et le TDAH]]
 - [[TDAH et déséquilibres alimentaires]]
-- [[Qu'est-ce-que l'impulsivité chez le TDAH]]
+- [[L'impulsivité chez le TDAH]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Dopamine et TDAH]]
 
