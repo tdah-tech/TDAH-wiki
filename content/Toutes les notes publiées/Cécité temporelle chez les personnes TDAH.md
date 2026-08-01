@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T12:02:29.180+02:00
+modified: 2026-08-01T16:14:13.023+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,7 +14,7 @@ Chez les personnes avec TDAH (TDA/H), la relation au temps est perturbée de fa�
 
 La première tient à la **capacité à sentir le temps qui passe**. La plupart des gens disposent d'une « horloge interne » qui permet d'évaluer approximativement combien de minutes se sont écoulées sans avoir à regarder une montre. Chez beaucoup de personnes avec TDAH, cette sensation est très affaiblie, voire absente. On peut ainsi rester concentré — surtout en [[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] — et ne réaliser qu'après coup qu'une heure trente ou deux heures se sont écoulées, alors que l'impression subjective était de quinze à vingt minutes. À l'inverse, sur une tâche ennuyeuse, le temps peut sembler s'étirer de façon démesurée : les mêmes minutes, vécues sans stimulation, paraissent interminables.
 
-La deuxième dimension concerne la **capacité à estimer la durée d'une tâche à venir**. Anticiper correctement le temps que va réellement prendre une activité est difficile : on sous-estime très souvent la durée nécessaire (« ça va me prendre dix minutes ») alors qu'il en faudra en réalité quarante ou cinquante. Cette erreur d'estimation se répète de façon systématique plutôt qu'occasionnelle, ce qui explique une bonne part des retards chroniques et des plannings qui finissent par exploser.
+La deuxième dimension concerne la **capacité à estimer la durée d'une tâche à venir**. Anticiper correctement le temps que va réellement prendre une activité est difficile : le TDAH sous-estime très souvent la durée nécessaire (« ça va me prendre dix minutes ») alors qu'il en faudra en réalité quarante ou cinquante. Cette erreur d'estimation se répète de façon systématique plutôt qu'occasionnelle, ce qui explique une bonne part des retards chroniques et des plannings non respectés.
 
 La troisième dimension, la plus étudiée, touche à la **capacité à se projeter dans le futur** — ce que Russell Barkley a théorisé sous la forme d'une pensée en deux catégories temporelles quasi étanches, [[La pensée maintenant-pas maintenant|« maintenant » et « pas maintenant »]]. Le « maintenant » désigne ce qui est immédiat et concret ; le « pas maintenant » regroupe tout le reste, indépendamment de son échéance réelle. Une échéance dans trois jours et une échéance dans trois semaines peuvent ainsi être traitées cognitivement de la même façon : toutes deux restent abstraites et peu motivantes tant qu'elles ne basculent pas dans l'urgence. Le futur lointain n'a tout simplement pas, pour un cerveau TDAH, le même poids émotionnel et motivationnel que pour une personne neurotypique.
 

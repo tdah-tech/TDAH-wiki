@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-31T14:47:24.262+02:00
+modified: 2026-08-01T16:51:51.222+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,13 +12,13 @@ tags:
   - "#methylphenidate"
 ---
 
-La science établit de manière robuste et convergente **une association forte entre le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité, pornographie)**.
+La science établit là aussi de manière robuste et convergente **une association forte entre TDAH et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité, pornographie)**.
 
 Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque significativement accru de développer un trouble de l’usage de substances au cours de leur vie**. **Parmi les personnes suivies pour une addiction, environ 20 à 25 % d'entre elles répondent aux critères diagnostiques du TDAH** , proportion qui peut être plus élevée dans certaines addictions comportementales.
 
 Cette comorbidité s’accompagne systématiquement d’une plus grande sévérité clinique.
 
-Chez les personnes TDAH **L’âge d’initiation aux substances est plus précoce, la transition vers un usage problématique est plus rapide, les consommations sont plus intenses et plus chroniques, et le pronostic global est moins favorable, avec un taux plus élevé de rechutes et de comorbidités psychiatriques associées (troubles de l’humeur, anxiété, troubles de la personnalité)**.
+Chez les personnes TDAH **l’âge d’initiation aux substances est plus précoce, la transition vers un usage problématique est plus rapide, les consommations sont plus intenses et plus chroniques, et le pronostic global est moins favorable, avec un taux plus élevé de rechutes et de comorbidités psychiatriques associées (troubles de l’humeur, anxiété, troubles de la personnalité)**.
 
 Les études de cohorte qui ont suivi des enfants diagnostiqués TDAH jusqu’à l’âge adulte confirment que ce sur-risque concerne aussi bien les garçons que les filles et s’étend à l’ensemble des substances psychoactives.
 

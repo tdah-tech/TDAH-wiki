@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-31T14:47:22.317+02:00
+modified: 2026-08-01T16:50:24.468+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#comorbidite"
 ---
 
-Le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisociaux ou délinquants au cours de la vie.
+Le TDAH n’est en aucun cas synonyme de délinquance. La grande majorité des personnes présentant un TDAH ne commettent jamais d’infractions pénales. La science établit cependant une association robuste entre ce trouble neurodéveloppemental et un risque accru d’implication dans des comportements antisociaux ou délinquants au cours de la vie.
 
 Les méta-analyses longitudinales, fondées sur des données officielles d’arrestations, de condamnations et d’incarcérations, montrent de manière cohérente que les individus ayant reçu un diagnostic de TDAH dans l’enfance **présentent un risque multiplié par deux à trois d’être arrêtés, condamnés ou incarcérés à l’adolescence et à l’âge adulte par rapport à la population générale**.
 
@@ -20,7 +20,7 @@ Ce sur-risque s’observe aussi bien pour les infractions violentes que non viol
 
 **Le mécanisme principal réside dans le déficit d’autocontrôle et d’inhibition comportementale**. **[[L'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification, la faible régulation émotionnelle et les altérations des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] rendent plus probable le passage à l’acte dans des situations de frustration, de provocation ou d’opportunité immédiate**.
 
-Les délits les plus fréquemment associés sont donc de **nature réactive et impulsive** : vols, agressions, infractions liées aux substances ou aux armes, plutôt que des crimes ou délis prémédités. Lorsque le TDAH s’accompagne d’un [[Les comorbidités du TDAH|trouble des conduites]] dans l’enfance ou d’une consommation problématique de substances à l’adolescence, le risque s’élève encore nettement.
+Les délits les plus fréquemment associés sont donc de **nature réactive et impulsive** : vols, agressions, infractions liées aux substances, délits routiers, plutôt que des crimes ou délits prémédités. Lorsque le TDAH s’accompagne d’un [[Les comorbidités du TDAH|trouble des conduites]] dans l’enfance ou d’une consommation problématique de substances à l’adolescence, le risque s’élève encore nettement.
 
 L’aspect le plus important sur le plan clinique et social concerne la possibilité de réduction du risque. **Les études de cohorte de grande envergure, démontrent que l’initiation précoce d’un [[Le méthylphénidate comme traitement du TDAH|traitement pharmacologique]]  est associée à une diminution significative des taux de criminalité, de récidive, d’accidents de la circulation et d’abus de substances**. Un traitement multimodal, combinant médication, interventions psychosociales et soutien éducatif, demeure donc l’approche la plus prometteuse pour interrompre les trajectoires négatives.
 

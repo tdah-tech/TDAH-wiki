@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-31T08:35:37.020+02:00
+modified: 2026-08-01T17:05:50.709+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,7 @@ tags:
   - "#impulsivite"
 ---
 
-Il n'y a pas une cause unique au TOP, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.
+Il n'y a pas une cause unique au TOP chez le TDAH, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.
 
 **Le terrain neurobiologique.** Les enfants avec un TDAH ont des difficultés de régulation des émotions et un contrôle inhibiteur plus faible, deux fonctions qui dépendent des mêmes circuits préfrontaux impliqués dans l'attention et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
@@ -21,6 +21,8 @@ Concrètement, cela veut dire que **la frustration monte plus vite et redescend 
 Le TOP n'est donc pas toujours un trouble "à part" : chez beaucoup d'enfants TDAH, il apparaît comme une conséquence directe de ces difficultés de régulation, plutôt que comme un problème de caractère ou d'éducation.
 
 Le TOP pourrait être lié à des perturbations dans les systèmes de neurotransmission sérotoninergique et [[Dopamine et TDAH|dopaminergique]] induisant un l'état émotionnel qui pourrait rendre les enfants et adolescents **plus enclins à des comportements de recherche de sensations, comme la transgression des règles.**
+
+Les personnes TDAH ont de plus une friction au démarrage des taches très importante, ce qui conduit souvent l'enfant à s'opposer lorqu'on lui demande d'initier une activité.
 
 **Le tempérament.** Certains enfants naissent avec une réactivité émotionnelle plus intense, une tolérance à la frustration plus basse, une sensibilité au rejet ou à l'échec plus marquée. Ce terrain tempéramental, combiné aux difficultés attentionnelles du TDAH, crée un terreau favorable à l'installation progressive de comportements oppositionnels.
 
@@ -32,7 +34,9 @@ Il ne s'agit pas d'accuser les parents, l'immense majorité de ces dynamiques se
 
 **Les facteurs de stress associés.** Un contexte familial difficile, une instabilité, un stress parental important ou des troubles psychologiques chez les parents peuvent augmenter le risque, sans pour autant être une cause en soi. Ce sont des facteurs qui viennent s'ajouter au tableau, pas des explications isolées.
 
-En résumé, le TOP associé au TDAH se comprend mieux comme **le résultat d'une rencontre entre une vulnérabilité neurodéveloppementale réelle et un environnement relationnel qui, souvent malgré lui, vient renforcer les comportements de défi plutôt que les apaiser**.\*\* C'est une distinction importante, parce qu'elle oriente directement vers le type de prise en charge qui est le plus susceptible de fonctionner  : renforcement positif, régulation émotionnelle et la reconstruction d'une relation moins conflictuelle avec l'entourage.
+En résumé, le TOP associé au TDAH se comprend mieux comme **le résultat d'une rencontre entre une vulnérabilité neurodéveloppementale réelle et un environnement relationnel qui, souvent malgré lui, vient renforcer les comportements de défi plutôt que les apaiser**.
+
+C'est une distinction importante, parce qu'elle oriente directement vers le type de prise en charge qui est le plus susceptible de fonctionner  : renforcement positif, régulation émotionnelle et  reconstruction d'une relation moins conflictuelle avec l'entourage.
 
 ## Pour aller plus loin
 
