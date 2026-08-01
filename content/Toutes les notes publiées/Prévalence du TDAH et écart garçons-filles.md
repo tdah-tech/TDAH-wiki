@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-29T15:19:21.146+02:00
+modified: 2026-08-01T10:38:15.904+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,5 +30,6 @@ La conséquence concrète de ce cumul de biais est un décalage d'âge du diagno
 ## Pour aller plus loin
 
 - [[Qu'est-ce-que le TDAH ?]]
+- [[Le TDAH chez les femmes]]
 - [[Idée fausse - L'épidémie de TDAH]]
 - [[Neurosciences du TDAH]]

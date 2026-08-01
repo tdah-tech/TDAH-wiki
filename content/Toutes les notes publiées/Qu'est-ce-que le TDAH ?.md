@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T09:25:07.025+02:00
+modified: 2026-08-01T10:41:13.262+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -36,9 +36,10 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 [[Comment évolue le TDAH de l'enfance à l'âge adulte ?]]
 [[Retard de maturation cérébrale — 2 à 5 ans]]
 
-## Épidémiologie et prévalence
+## Épidémiologie et prévalence hommes/femmes
 
 - [[Prévalence du TDAH et écart garçons-filles]]
+- [[Le TDAH chez les femmes]]
 - [[Idée fausse - L'épidémie de TDAH]]
 
 ## Origine et approche historique du TDAH
