@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-01T12:17:28.537+02:00
+modified: 2026-08-01T18:31:43.767+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,9 +42,9 @@ Dans certains contextes, notamment aux États-Unis, des préoccupations persiste
 
 Ainsi, le TDAH n’est donc pas un phénomène nouveau né des écrans, de la vie moderne, de l’industrie pharmaceutique, de parents laxistes ou incompétents.
 
-Des [[Le TDAH un phénomène ancien|descriptions cliniques de tableaux très proches existent d'ailleurs depuis le XVIIIe siècle]], et le trouble a d'ailleurs été progressivement conceptualisé tout au long du XXe siècle et non au début des années 2000.
+Des [[Le TDAH un phénomène ancien|descriptions cliniques de tableaux très proches existent depuis le XVIIIe siècle]], et le trouble a d'ailleurs été progressivement conceptualisé tout au long du XXe siècle et non au début des années 2000.
 
-Sa base neurodéveloppementale, largement influencée par des facteurs génétiques, prouvé par l'imagerie cérébrale, est aujourd’hui solidement établie avec des niveaux de preuves scientifiques élevés.
+Sa base neurodéveloppementale, prouvé par des analyses génétiques, prouvé par l'imagerie cérébrale, est aujourd’hui solidement établie avec des niveaux de preuves scientifiques élevés.
 
 Les facteurs environnementaux peuvent certes moduler l’expression des symptômes et leur retentissement, mais ils ne créent pas le trouble de toutes pièces.
 
