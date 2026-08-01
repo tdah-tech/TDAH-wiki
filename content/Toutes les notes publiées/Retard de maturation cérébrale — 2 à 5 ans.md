@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-07-31T10:49:46.147+02:00
+modified: 2026-07-31T18:25:55.468+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,7 +28,7 @@ Une étude plus récente de 2020 va plus loin. Les régions qui mûrissent en re
 ## Pour aller plus loin
 
 - [[Neurosciences du TDAH]]
-- [[Outils liées au retard de maturation TDAH]]
+- [[Tenir compte du retard de maturation TDAH]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Origine génétique du TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-07-31T15:01:09.454+02:00
+modified: 2026-07-31T18:52:46.648+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,7 @@ tags:
   - "#fonctions-executives"
 ---
 
-Le [[La doublure corporelle|body doubling]], parfois appelé doublage corporel, constitue une stratégie de soutien particulièrement pertinente pour les enfants présentant un trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]]. Il repose sur un principe simple mais puissant : la simple présence physique d’une autre personne, même passive, facilite l’engagement dans une tâche, le maintien de l’attention et la régulation de l’effort. Chez l’enfant avec TDAH, les circuits cérébraux qui gouvernent l’initiation de l’action, la persistance et la résistance aux distractions — portés en grande partie par les [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — fonctionnent de manière moins autonome. La présence d’un adulte ou d’un pair agit alors comme un régulateur externe, une sorte d’ancre attentionnelle qui réduit la charge cognitive liée à la motivation purement interne.
+Le [[La doublure corporelle|body doubling]], parfois appelé doublage corporel, constitue une autre stratégie de soutien particulièrement pertinente pour les enfants présentant un trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]]. Il repose sur un principe simple mais puissant : la simple présence physique d’une autre personne, même passive, facilite l’engagement dans une tâche, le maintien de l’attention et la régulation de l’effort. Chez l’enfant avec TDAH, les circuits cérébraux qui gouvernent l’initiation de l’action, la persistance et la résistance aux distractions — portés en grande partie par les [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — fonctionnent de manière moins autonome. La présence d’un adulte ou d’un pair agit alors comme un régulateur externe, une sorte d’ancre attentionnelle qui réduit la charge cognitive liée à la motivation purement interne.
 
 Cette présence n’exige ni supervision constante ni interventions verbales répétées. Elle peut prendre la forme d’un parent qui s’installe à la même table pendant les devoirs en lisant un livre ou en répondant à ses propres messages, d’un frère ou d’une sœur qui dessine tranquillement pendant que l’enfant range sa chambre, ou encore d’un enseignant qui reste dans la pièce pendant qu’un élève termine un exercice. L’essentiel réside dans la co-présence calme et prévisible. L’enfant perçoit inconsciemment que l’espace est partagé, que le temps est cadencé par quelqu’un d’autre, et que l’abandon de la tâche devient socialement plus coûteux. Cette dynamique diminue souvent la procrastination et les comportements d’évitement sans qu’il soit nécessaire de recourir à des rappels incessants.
 

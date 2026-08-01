@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T11:53:05.110+02:00
+modified: 2026-07-31T18:06:46.176+02:00
 tags:
-  - micronote
-  - tdah
-  - dmn
-  - tpn
-  - transition
-  - top
-  - trouble-opposition
-  - cycle-coercitif
+  - "#micronote"
+  - "#tdah"
+  - "#dmn"
+  - "#tpn"
+  - "#transition"
+  - "#top"
+  - "#trouble-opposition"
+  - "#cycle-coercitif"
 ---
 
 L'objectif de ces stratégies n'est pas de "faire obéir" l'enfant plus vite, mais de rendre la bascule [[Le réseau DMN|DMN]] vers [[Le réseau TPN|TPN]] moins coûteuse, pour qu'elle ne devienne pas systématiquement un terrain de conflit.
 
-**Anticiper au lieu d'exiger l'instantané.** Une demande brutale et immédiate ("arrête et viens maintenant") est le pire scénario possible pour un cerveau qui a besoin de temps pour désengager le mode par défaut (DMN). Prévenir plusieurs minutes à l'avance, avec des rappels successifs qui se rapprochent (dix minutes, cinq minutes, une minute), donne au cerveau le temps d'amorcer la bascule vers le mode d'attention dirigée (TPN) en douceur plutôt que de la subir en urgence.
+**Anticiper au lieu d'exiger l'instantané.** Une demande brutale et immédiate ("arrête et viens maintenant") est le pire scénario possible pour un cerveau qui a besoin de temps pour désengager le mode par défaut (DMN) — voir [[Anticiper plutôt qu’exiger l’instantané|la fiche dédiée à cette stratégie]] pour le détail du mécanisme et sa mise en pratique.
 
 **Utiliser un support visuel plutôt que verbal.** Un minuteur visuel, un sablier, une horloge avec un compte à rebours coloré, permet à l'enfant de voir le temps s'écouler sans qu'un adulte ait besoin de répéter la consigne. Ça retire l'aspect relationnel du rappel (qui peut être vécu comme une pression ou un ordre) et le remplace par un repère neutre, externe, sur lequel il n'y a rien à négocier.
 
@@ -34,6 +34,8 @@ Aucune de ces stratégies n'élimine complètement la difficulté de transition.
 ## Pour aller plus loin
 
 - [[Parentalité et TDAH]]
+- [[Anticiper plutôt qu’exiger l’instantané]]
+- [[Mettre en place des routines]]
 - [[Trouble de l'opposition et système DMN-TPN]]
 - [[Le réseau DMN]]
 - [[Le réseau TPN]]
