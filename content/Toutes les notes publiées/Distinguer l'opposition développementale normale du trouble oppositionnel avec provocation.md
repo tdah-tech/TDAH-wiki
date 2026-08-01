@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-01T17:08:37.340+02:00
+modified: 2026-08-01T17:14:44.434+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -37,9 +37,7 @@ Le DSM-5 pose des critères précis, et ce sont eux qui permettent de sortir du 
 
 **La souffrance ou l'altération du fonctionnement.** Le critère le plus important sur le plan clinique, et le plus souvent oublié dans les discussions informelles : le comportement doit causer une détresse réelle à l'enfant lui-même ou à son entourage, ou perturber concrètement son fonctionnement scolaire, social ou familial. Un enfant "caractériel" mais qui a des amis, qui réussit à l'école, et dont la famille fonctionne malgré les tensions, ne coche pas nécessairement cette case, même s'il coche les autres.
 
-Pris ensemble, ces critères transforment une question de perception ("il est plus difficile que la moyenne") en une question structurée : depuis quand, à quelle fréquence pour son âge, dans combien de contextes, et avec quel impact réel. C'est cette structure qui permet de sortir du jugement impressionniste, souvent influencé par la fatigue du moment ou la comparaison avec d'autres enfants.
-
-### Même avec un TOP diagnostiqué, toute opposition n'est pas pathologique
+**Même avec un TOP diagnostiqué, toute opposition n'est pas pathologique :**
 
 Ce point mérite d'être dit clairement, parce qu'il est presque toujours oublié une fois le diagnostic posé. Un enfant qui reçoit un diagnostic de TOP ne devient pas pour autant un enfant dont chaque "non" relève du trouble. Il reste, avant tout, un enfant qui traverse les mêmes étapes de développement que n'importe quel autre : il peut avoir une mauvaise journée, être fatigué, tester une limite normale pour son âge, ou simplement ne pas avoir envie de faire quelque chose, comme n'importe quel enfant sans trouble le ferait aussi.
 

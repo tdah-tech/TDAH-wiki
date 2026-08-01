@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-07-31T18:23:26.780+02:00
+modified: 2026-08-01T17:37:27.731+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -10,7 +10,9 @@ tags:
   - "#fonctions-executives"
 ---
 
-Chez l’enfant ou l’adolescent qui présente un TDAH, les difficultés d’organisation, de gestion du temps et d’anticipation rendent les journées particulièrement fragiles. La science montre que le cerveau TDAH peine à maintenir une structure interne stable. C’est pourquoi les recommandations internationales, issues des programmes de formation parentale comportementale et des guidelines cliniques, placent les routines au cœur de l’accompagnement quotidien. Une routine n’est pas une rigidité artificielle ; c’est un cadre externe qui compense les [[Fonctions exécutives touchées par le TDAH|déficits exécutifs]] et libère de l’énergie mentale pour l’enfant comme pour les parents.
+Chez l’enfant ou l’adolescent qui présente un TDAH, les difficultés d’organisation, de gestion du temps et d’anticipation rendent les journées particulièrement fragiles.
+
+La science montre que le cerveau TDAH peine à maintenir une structure interne stable. C’est pourquoi les recommandations internationales, issues des programmes de formation parentale comportementale et des guidelines cliniques, placent les routines au cœur de l’accompagnement quotidien. Une routine n’est pas une rigidité artificielle ; c’est un cadre externe qui compense les [[Fonctions exécutives touchées par le TDAH|déficits exécutifs]] et libère de l’énergie mentale pour l’enfant comme pour les parents.
 
 Les données convergent sur un point essentiel : la prévisibilité réduit les conflits, diminue l’opposition et améliore le fonctionnement global. Lorsque les moments de transition, les repas, les devoirs et le coucher suivent un enchaînement régulier, l’enfant n’a plus à réinventer chaque étape. Son système nerveux, déjà sollicité par l’inattention et l’impulsivité, trouve des repères concrets qui stabilisent l’attention et l’émotion. Les études sur les interventions comportementales montrent que cette structure externe produit des effets mesurables sur les [[Le trouble oppositionnel avec provocation et le TDAH|comportements oppositionnels]] et sur le [[L'épuisement parental|stress parental]], même si elle n’efface pas les symptômes centraux du TDAH.
 

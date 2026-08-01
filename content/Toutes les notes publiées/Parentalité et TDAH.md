@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T18:25:55.447+02:00
+modified: 2026-08-01T17:59:07.454+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,7 +12,16 @@ tags:
   - "#index"
 ---
 
-Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP) s'y ajoute — expose à des dynamiques relationnelles bien identifiées et suppose pour les parents d'acquérir des compétences parentales propres .
+Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP)ou d'autre comorbidités s'y ajoutent — expose à des dynamiques relationnellesplus compliquées que d'ordinaire et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
+
+## Faciliter le quotidien
+
+- [[Faire de la psychoéducation avec son enfant]]
+- [[Tenir compte du retard de maturation TDAH]]
+- [[Mettre en place des routines]]
+- [[Faciliter la transition entre les activités - les rituels de démarrage]]
+- [[Anticiper plutôt qu’exiger l’instantané]]
+- [[Pratiquer le Body-doubling avec l'enfant]]
 
 ## Faire face au  trouble oppositionnel avec provocation (TOP)
 
@@ -23,7 +32,6 @@ tags:
 
 - [[Le cycle d'escalade ou cycle coercitif dans la relation parent enfant TDAH]]
 - [[Eviter l'escalade et le conflit]]
-- [[Time-in - Time-out]]
 
 ## Le renforcement positif / négatif
 
@@ -31,21 +39,13 @@ tags:
 - [[L'importance du renforcement positif]]
 - [[Bien calibrer le renforcement positif]]
 - [[Les systèmes de jetons et chartes de comportement - pourquoi ils s'essoufflent si vite ?]]
+- [[Time-in - Time-out]]
 
 ## L'épuisement parental
 
 - [[L'épuisement parental]]
 - [[La charge mentale des parents d'enfants TDAH]]
 - [[Stratégies pour diminuer la charge mentale]]
-
-## Faciliter le quotidien
-
-- [[Faciliter la transition entre les activités - les rituels de démarrage]]
-- [[Anticiper plutôt qu’exiger l’instantané]]
-- [[Mettre en place des routines]]
-- [[Tenir compte du retard de maturation TDAH]]
-- [[Pratiquer le Body-doubling avec l'enfant]]
-- [[Faire de la psychoéducation avec son enfant]]
 
 ## Pour aller plus loin
 

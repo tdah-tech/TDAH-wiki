@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-31T18:06:46.176+02:00
+modified: 2026-08-01T17:36:42.899+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,7 +21,7 @@ L'objectif de ces stratégies n'est pas de "faire obéir" l'enfant plus vite, ma
 
 **Créer un sas de transition, toujours identique.** Plutôt que de demander à l'enfant de passer directement d'une activité à une autre, insérer une micro-routine fixe entre les deux (ranger un objet précis, boire un verre d'eau, faire trois sauts) donne au cerveau une séquence prévisible à exécuter, qui sert de pont entre DMN et TPN. La prévisibilité réduit la charge cognitive de la transition elle-même, parce que l'enfant n'a pas à décider comment démarrer, il suit une séquence qu'il connaît déjà.
 
-**Passer par le corps plutôt que par la volonté.** Un mouvement physique bref avant une tâche cognitive (se lever, marcher jusqu'à la table, manipuler un objet) aide souvent à débrayer le mode par défaut (DMN) plus efficacement qu'un effort de concentration pure. C'est plus fiable de demander à un enfant de "aller chercher son cahier" que de lui demander de "se concentrer maintenant".
+**Passer par le corps plutôt que par la volonté.** Un mouvement physique bref avant une tâche cognitive (se lever, marcher jusqu'à la table, manipuler un objet) aide souvent à débrayer le mode par défaut (DMN) plus efficacement qu'un effort de concentration pure. C'est plus fiable de demander à un enfant "d'aller chercher son cahier" que de lui demander de "de commencer ses devoirs".
 
 **Réduire la première étape à presque rien.** Le coût de la bascule est souvent concentré sur le tout premier geste, pas sur la tâche entière. Demander d'écrire une ligne plutôt que "faire les devoirs", ou de sortir juste le matériel sans commencer à travailler, abaisse la marche à franchir pour entrer en mode d'attention dirigée (TPN). Une fois engagé, le maintien de l'attention est souvent plus facile que le démarrage.
 
