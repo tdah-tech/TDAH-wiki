@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T16:03:57.935+02:00
+modified: 2026-08-01T09:25:07.025+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -12,11 +12,11 @@ tags:
   - "#index"
 ---
 
-Le TDAH, Trouble du [[Le déficit d'attention chez les TDA|déficit de l'attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
+Le TDAH, Trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.
 
-Il associe, à des degrés divers, trois grandes dimensions : le déficit de l'attention, l'hyperactivité et l'[[L'impulsivité chez le TDAH|impulsivité]].
+Il associe, à des degrés divers, trois grandes dimensions : le [[Le déficit d'attention chez les TDA|déficit de l'attention]], l'[[L'hyperactivité chez le TDAH|hyperactivité]] et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
-Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les deux profils. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
+Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les difficultés. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
 
 ## Les trois dimensions cliniques du TDAH
 
