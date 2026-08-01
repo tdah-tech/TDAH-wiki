@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T10:41:13.262+02:00
+modified: 2026-08-01T15:05:30.530+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -53,7 +53,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Diagnostic et mise en place du traitement]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 - [[Méthylphénidate et croissance]]
-- [[Le méthylphénidate agirait sur les circuits de l'éveil et de récompense]]
 
 ## Thérapie / Coaching / Guidance parentale
 
@@ -64,7 +63,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 ## Trouble, dysrégulation ou variation neurodéveloppementale ?
 
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
-- - [[Trouble ou neurodivergence ?]]
+- [[Trouble ou neurodivergence ?]]
 - [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
 
 ## Intelligence et cognition
