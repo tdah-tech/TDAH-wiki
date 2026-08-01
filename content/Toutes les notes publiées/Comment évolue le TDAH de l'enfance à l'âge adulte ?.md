@@ -1,48 +1,54 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-31T14:50:34.710+02:00
+modified: 2026-08-01T11:08:48.901+02:00
 tags:
   - "#micronote"
   - "#tdah"
   - "#evolution"
 ---
 
-Le trouble [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans hyperactivité, ou TDAH, est aujourd’hui reconnu par la communauté scientifique comme **un trouble neurodéveloppemental dont les racines se situent dans l’enfance, et qui persiste à l'âge adulte**.
+Le TDAH est aujourd’hui reconnu par la communauté scientifique comme **un trouble neurodéveloppemental dont les racines se situent donc dans l’enfance, et qui persiste à l'âge adulte**.
 
-Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Les synthèses classiques indiquent que si l’on exige le maintien strict des critères diagnostiques complets du syndrome, **une minorité seulement des enfants diagnostiqués conserve le tableau complet vers le jeune âge adulte** ; en revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, **la majorité continue d’être gênée**.
+Lorsque l’on examine les taux de persistance, les chiffres varient selon la définition retenue. Les synthèses classiques indiquent que si l’on exige le maintien strict des critères diagnostiques complets du syndrome, **une minorité seulement des enfants diagnostiqués conserve le tableau complet vers le jeune âge adulte** ; en revanche, lorsqu’on prend en compte la présence de symptômes résiduels encore handicapants, **la majorité des personnes TDAH diagnostiquée dans l'enfance continue d’être affectées**.
 
-Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 10 % ou moins)**, et de nombreux individus connaissent un **parcours fluctuant**, avec des phases d’amélioration suivies de réapparitions des difficultés lorsque les exigences de l’environnement augmentent.
+Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 9 à 10 % )**.
 
-**L’évolution la plus marquée concerne la [[L'hyperactivité chez le TDAH|composante hyperactive]]**.
+**Près des deux tiers des personnes (64 %)** suivent un parcours symptomatique  en dents de scie à savoir des phases où les symptômes s'atténuent, parfois pendant des années, puis des phases où ils resurgissent. Les périodes où les symptômes s'amenuisent coïncident souvent avec des moments de vie **plus exigeants** — le lycée, les premières responsabilités professionnelles. I
+
+C'est plutôt quand l'environnement est moins exigeants, ou quand la structure externe disparaît (famille, école, emploi, retraite), que les difficultés ont tendance à refaire surface.
+
+**L’évolution la plus marquée chez les TDAH concerne la [[L'hyperactivité chez le TDAH|composante hyperactive]]**.
 
 Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[L'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique.
 
-Avec l’avancée en âge, ces manifestations externes s’atténuent nettement. L’hyperactivité se transforme progressivement en une forme plus interne : sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément.
+**Avec l’avancée en âge, ces manifestations externes s’atténuent nettement**. L’hyperactivité se transforme progressivement en une forme plus interne ( sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément).
 
-**L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** : interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme.
+**L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** ( interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme).
 
-En revanche, **les symptômes d’inattention se montrent nettement plus stables**. Les difficultés de concentration soutenue, les oublis fréquents, les problèmes d’organisation, de gestion du temps et de finalisation des tâches persistent de façon prédominante et constituent le noyau clinique le plus fréquent chez l’adulte.Les déficits des [[Les fonctions éxécutives - définition|fonctions exécutives]] – [[Mémoire de travail et TDAH|mémoire de travail]], inhibition, planification, [[Les TDAH pensent-ils vraiment plus vite ?|flexibilité cognitive]] – continuent d’affecter le fonctionnement quotidien, même lorsque les symptômes les plus visibles ont diminué. Ces déficits se traduisent concrètement par des difficultés professionnelles (procrastination, désorganisation, oubli de délais), des problèmes relationnels et une sensibilité accrue au stress lorsque les structures externes de l’enfance (école, famille) disparaissent.
+En revanche, **les symptômes d’inattention se montrent nettement plus stables**. Les difficultés de concentration soutenue, les oublis fréquents, les problèmes d’organisation, de gestion du temps et de finalisation des tâches persistent de façon prédominante et constituent le noyau clinique le plus fréquent chez l’adulte.
 
-Cette transformation conduit à un changement du tableau clinique. Alors que la forme combinée (TDAH) prédomine souvent dans l’enfance, la [[Profil à prédominance inattentive - tdah|présentation à prédominance inattentive]] devient la plus courante à l’âge adulte (TDA).
+Les déficits des [[Les fonctions éxécutives - définition|fonctions exécutives]] – [[Mémoire de travail et TDAH|mémoire de travail]], inhibition, planification, [[Les TDAH pensent-ils vraiment plus vite ?|flexibilité cognitive]] – continuent d’affecter le fonctionnement quotidien, même lorsque les symptômes les plus visibles ont diminué. Ces déficits se traduisent concrètement par des difficultés professionnelles (procrastination, désorganisation, oubli de délais), des problèmes relationnels et une sensibilité accrue au stress.
 
-Les [[Les comorbidités du TDAH|comorbidités]] évoluent également. Dans l’enfance, les [[Le trouble oppositionnel avec provocation et le TDAH|troubles oppositionnels]] et les troubles des conduites sont fréquents.
+Cette transformation/évolution conduit à un changement du tableau clinique au fil du temps. **Alors que la forme combinée (TDAH) prédomine souvent dans l’enfance, la [[Profil à prédominance inattentive - tdah|présentation à prédominance inattentive]] devient la plus courante à l’âge adulte (TDA)**.
 
-**À l’adolescence et à l’âge adulte, on observe davantage de troubles anxieux, de dépression, de troubles de l’usage de substances et, dans certains cas, de [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] marquée**.
+**Les [[Les comorbidités du TDAH|comorbidités]] évoluent également**. Dans l’enfance, les [[Le trouble oppositionnel avec provocation et le TDAH|troubles oppositionnels]] et les troubles des conduites sont fréquents. À l’adolescence et à l’âge adulte, on observe davantage de troubles anxieux, de dépression, de troubles de l’usage de substances et, dans certains cas, de [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] marquée.
 
-\*\*Les facteurs qui prédisent le mieux la persistance des symptômes à l’âge adulte sont la sévérité initiale du TDAH, la présence de comorbidités précoces.
+\*\*Il semblerait que les facteurs qui prédisent le mieux la persistance des symptômes du TDAH à l’âge adulte sont la sévérité initiale du TDAH durant l'enfance, et la présence de comorbidités précoces.
 
-À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure adaptation, sans pour autant faire disparaître complètement les difficultés sous-jacentes.
+À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure évolution, sans pour autant faire disparaître complètement les difficultés sous-jacentes au TDAH.
 
-Sur le plan neurobiologique, les données d’imagerie et les études de développement cortical montrent un [[Retard de maturation cérébrale — 2 à 5 ans|retard de maturation]] des réseaux préfrontaux et fronto-striataux, particulièrement impliqués dans le contrôle exécutif et l’attention. **Ce retard explique en partie pourquoi les symptômes s’atténuent avec l’âge chez certains individus, sans que les différences cérébrales disparaissent complètement**.
+De plus, sur le plan neurobiologique, les données d’imagerie et les études de développement cortical montrent un [[Retard de maturation cérébrale — 2 à 5 ans|retard de maturation]] des réseaux préfrontaux et fronto-striataux, particulièrement impliqués dans le contrôle exécutif et l’attention. **Ce retard est pour partie rattrapé vers l'âge adulte, et explique en partie pourquoi les symptômes s’atténuent avec l’âge chez certains individus**.
 
-Ainsi, selon l’état actuel de la science, le TDAH de l’enfance ne disparaît pas magiquement à l’âge adulte. Il se transforme. L’agitation visible cède la place à une agitation intérieure et à des difficultés attentionnelles et organisationnelles plus subtiles, mais souvent tout aussi invalidantes.
+Ainsi, selon l’état actuel de la science, le TDAH de l’enfance ne disparaît pas magiquement à l’âge adulte. Il évolue, se transforme et fluctue.
+
+## Références
+
+- **Hechtman L, Swanson JM, Sibley MH, et al.** _Variable Patterns of Remission From ADHD in the Multimodal Treatment Study of ADHD._ Am J Psychiatry. 2021
+
+* \***Sibley MH, Kennedy TM, Swanson JM, et al.** _Characteristics and Predictors of Fluctuating Attention-Deficit/Hyperactivity Disorder in the Multimodal Treatment of ADHD (MTA) Study._ J Clin Psychiatry. 2024;
 
 ## Pour aller plus loin :
 
 - [[Retard de maturation cérébrale — 2 à 5 ans|Retard de maturation cérébrale — 2 à 5 ans]]
 - [[Qu'est-ce-que le TDAH ?]]
-
-## Références
-
-- Sibley, M. H., Arnold, L. E., Swanson, J. M., Hechtman, L. T., Kennedy, T. M., Owens, E., Molina, B. S. G., Jensen, P. S., Hinshaw, S. P., Roy, A., Chronis-Tuscano, A., Newcorn, J. H., Rohde, L. A., & MTA Cooperative Group, Variable Patterns of Remission From ADHD in the Multimodal Treatment Study of ADHD, American Journal of Psychiatry, 2022
