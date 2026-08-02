@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T15:09:04.400+02:00
+modified: 2026-08-02T16:12:38.387+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,6 +17,7 @@ tags:
 
 - [[Le TDAH est livré sans manuel]]
 - [[L'importance de la psychoéducation]]
+- [[Apprendre à nommer les parts actives du TDAH]]
 
 ## Assumer sa neuroatypie
 
@@ -36,10 +37,6 @@ tags:
 - [[Métaphore du chef d'orchestre]]
 - [[Analogie du lézard pour le TDAH]]
 - [[Métaphore du verre ou réservoir émotionnel du TDAH]]
-
-## Nommer les parts de soi
-
-- [[Apprendre à nommer les parts actives du TDAH]]
 
 ## Savoir reconnaitre la sous-stimulation
 
@@ -73,7 +70,7 @@ tags:
 
 - [[La pensée tout ou rien]]
 - [[La pensée maintenant-pas maintenant]]
-- [[Perfectionnisme et le TDAH]]
+- [[Perfectionnisme et TDAH]]
 
 ## Vie de couple et vie familiale
 

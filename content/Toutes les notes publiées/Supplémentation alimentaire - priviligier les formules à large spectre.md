@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:01:25.483+02:00
+modified: 2026-08-02T15:23:51.811+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -11,7 +11,7 @@ tags:
   - "#omega-3"
 ---
 
-Les micronutriments individuels (fer, [[Zinc|zinc]], [[Le magnésium|magnésium]], [[Vitamine D et TDAH|vitamine D]], [[Les omega-3|omega-3]] etc.) montrent principalement un bénéfice lorsqu’une carence est objectivée par un dosage sanguin. **En l’absence de déficit documenté, les essais de supplémentation isolée donnent des résultats faibles, inconsistants ou nuls sur les symptômes cardinaux du TDAH**.
+Les micronutriments individuels (fer, [[Le Zinc|zinc]], [[Le magnésium|magnésium]], [[La Vitamine D|vitamine D]], [[Les omega-3|omega-3]] etc.) montrent principalement un bénéfice lorsqu’une carence est objectivée par un dosage sanguin. **En l’absence de déficit documenté, les essais de supplémentation isolée donnent des résultats faibles, inconsistants ou nuls sur les symptômes cardinaux du TDAH**.
 
 En revanche, les formules multivitamines-multiminéraux à large spectre, contenant un éventail complet de vitamines et de minéraux essentiels à des doses modérées (situées entre les apports recommandés et les limites de sécurité), ont fait l’objet de plusieurs essais contrôlés randomisés en double aveugle. **Ces études, menées chez des enfants et des adultes présentant un TDAH, souvent avec une [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] associée, rapportent des améliorations significatives sur le fonctionnement global, la régulation émotionnelle, l’irritabilité, l’agressivité et, dans une moindre mesure, l’[[Le déficit d'attention chez les TDA|inattention]]**.
 
@@ -26,8 +26,8 @@ L’hypothèse avancée est que l’apport simultané de nombreux cofacteurs opt
 ## Pour aller plus loin
 
 - [[L'alimentation et le TDAH]]
-- [[Vitamine D et TDAH]]
-- [[Zinc]]
+- [[La Vitamine D]]
+- [[Le Zinc]]
 - [[TDAH et déséquilibres alimentaires]]
 - [[La dysrégulation émotionnelle dans le TDAH]]
 - [[Dopamine et TDAH]]

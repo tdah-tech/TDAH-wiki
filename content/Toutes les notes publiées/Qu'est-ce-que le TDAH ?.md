@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-02T13:18:48.150+02:00
+modified: 2026-08-02T17:10:06.818+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -65,31 +65,6 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Trouble ou neurodivergence ?]]
 - [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
-
-## Intelligence et cognition
-
-- [[TDAH et intelligence]]
-
-* [[Les intelligences multiples face au TDAH]]
-
-## L'hyperfocus chez le TDAH
-
-- [[Qu'est-ce-que l'hyperfocus ?]]
-- [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
-- [[Durée de l'hyperfocus]]
-- [[Qu'est-ce qui déclenche l'hyperfocus]]
-- [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
-
-## La pensée TDAH
-
-- [[Les TDAH pensent-ils vraiment plus vite ?]]
-- [[Créativité - pensée divergente et TDAH]]
-- [[Pensée en arborescence et TDAH]]
-
-## La perception du temps
-
-- [[Cécité temporelle chez les personnes TDAH]]
-- [[La pensée maintenant-pas maintenant]]
 
 ## Comorbidités du TDAH
 

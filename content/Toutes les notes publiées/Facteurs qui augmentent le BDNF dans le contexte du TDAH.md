@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-02T09:07:26.611+02:00
+modified: 2026-08-02T15:23:51.780+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,7 +32,7 @@ L’exposition à la **lumière naturelle le matin** et la **réduction du stres
 - [[Neurosciences du TDAH]]
 - [[Sport et TDAH]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
-- [[Vitamine D et TDAH]]
+- [[La Vitamine D]]
 
 ## Références
 

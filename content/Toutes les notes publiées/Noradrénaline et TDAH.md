@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T08:35:37.052+02:00
+modified: 2026-08-02T16:14:45.963+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,7 +25,7 @@ Ce système participe aussi au contrôle des impulsions : un tonus mal calibré 
 
 C'est pour cette raison que certains traitements ciblent directement ce circuit, comme l'atomoxétine ou la guanfacine, qui n'augmentent pas la motivation (contrairement aux stimulants dopaminergiques) mais aident à stabiliser l'éveil et à mieux filtrer les distractions.
 
-En résumé : la [[Dopamine et TDAH|dopamine]] explique pourquoi une tâche peine à motiver, la noradrénaline explique pourquoi il est difficile de rester concentré une fois engagé, sans se laisser distraire par tout ce qui se passe autour.
+En résumé : la dérégulation de la [[Dopamine et TDAH|dopamine]] explique pourquoi une tâche peine à motiver, la dérégulation de la noradrénaline explique pourquoi il est difficile de rester concentré une fois la tâche engagée.
 
 ## Pour aller plus loin
 

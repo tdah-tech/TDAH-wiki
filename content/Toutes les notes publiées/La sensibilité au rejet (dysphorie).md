@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-02T09:01:25.464+02:00
+modified: 2026-08-02T15:59:51.944+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,7 +35,7 @@ Sur le plan psychologique, les thérapies cognitives et comportementales, la ple
 
 - [[Vivre avec un TDAH]]
 - [[La tendance à vouloir plaire et le TDAH]]
-- [[Perfectionnisme et le TDAH]]
+- [[Perfectionnisme et TDAH]]
 - [[Dissimulation - camouflage du TDAH (masking)]]
 
 ## Références

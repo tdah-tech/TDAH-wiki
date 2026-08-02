@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T09:01:25.467+02:00
+modified: 2026-08-02T15:24:16.278+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,11 +43,11 @@ En résumé, la science établit aujourd’hui une association robuste, bien que
 ## Pour aller plus loin :
 
 - [[L'alimentation et le TDAH]]
-- [[Zinc]]
+- [[Le Zinc]]
 - [[Le magnésium]]
-- [[Vitamine D et TDAH]]
-- [[Vitamine C]]
-- [[Vitamines B]]
+- [[La Vitamine D]]
+- [[La vitamine C]]
+- [[Les vitamines B]]
 - [[Dopamine et TDAH]]
 - [[Le méthylphénidate comme traitement du TDAH]]
 
