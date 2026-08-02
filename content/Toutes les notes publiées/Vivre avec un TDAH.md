@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T15:27:00.745+02:00
+modified: 2026-08-01T18:33:01.049+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,7 +17,6 @@ tags:
 
 - [[Le TDAH est livré sans manuel]]
 - [[L'importance de la psychoéducation]]
-- [[Faire de la psychoéducation avec son enfant]]
 
 ## Métaphores pour comprendre l'expérience TDAH
 
@@ -40,7 +39,7 @@ tags:
 - [[Le TDAH n'est pas une excuse ou un blanc-seing]]
 - [[Ne pas idéaliser les personnes neurotypiques]]
 
-## Reconnaitre la sous-stimulation
+## Savoir reconnaitre la sous-stimulation
 
 - [[Sous-stimulation et comportements conflictuels chez le TDAH]]
 - [[Repérer les situations de sous-stimulation susceptible de dégénérer en situation conflictuelle]]

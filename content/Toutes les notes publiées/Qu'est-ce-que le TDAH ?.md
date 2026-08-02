@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T15:05:30.530+02:00
+modified: 2026-08-02T08:57:17.841+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -72,7 +72,7 @@ Certaines personnes présentent surtout des difficultés attentionnelles, sans a
 
 * [[Les intelligences multiples face au TDAH]]
 
-## L'hyperfocus
+## L'hyperfocus chez le TDAH
 
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
