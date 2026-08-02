@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T17:13:56.623+02:00
+modified: 2026-08-02T17:21:38.709+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,7 +17,7 @@ tags:
 - [[Dopamine et TDAH]]
 - [[Noradrénaline et TDAH]]
 
-## Facteur Neurotrophique Dérivé du Cerveau
+## Retard de maturation cérébrale
 
 - [[Retard de maturation cérébrale — 2 à 5 ans]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
@@ -49,13 +49,13 @@ tags:
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
 - [[L'urgence et la peur pour déclencher l’hyperfocus ?]]
 
-## Une pensée différente, pas déficiente\*\*
+## Une pensée différente, pas déficiente
 
 - [[Les TDAH pensent-ils vraiment plus vite ?]]
 - [[Créativité - pensée divergente et TDAH]]
 - [[Pensée en arborescence et TDAH]]
 
-## La perception du temps
+## La perception du temps chez les personnes TDAH
 
 - [[Cécité temporelle chez les personnes TDAH]]
 - [[La pensée maintenant-pas maintenant]]

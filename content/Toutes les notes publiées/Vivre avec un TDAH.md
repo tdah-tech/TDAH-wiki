@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T16:12:38.387+02:00
+modified: 2026-08-02T17:22:29.850+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -58,7 +58,7 @@ tags:
 - [[La RQTH (reconnaissance de la qualité de travailleur handicapé) et le TDAH]]
 - [[Redéfinir ce que signifie "travailler" "étudier" pour un TDAH]]
 
-## Surcharge mentale et choix des projets
+## Surcharge mentale et multiplication des projets
 
 - [[Surcharge mentale et TDAH]]
 - [[Le mode attente]]
