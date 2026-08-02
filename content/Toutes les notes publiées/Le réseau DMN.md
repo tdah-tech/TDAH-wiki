@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:01:25.470+02:00
+modified: 2026-08-02T14:35:47.090+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,10 +21,8 @@ Sa particularité, centrale pour comprendre son rôle dans le TDAH, réside dans
 
 - [[Neurosciences du TDAH]]
 - [[Ruminations et TDAH]]
-- [[Ne pas nourrir le lutin malicieux]]
 - [[Le modèle TPN-DMN]]
 - [[Le réseau TPN]]
-- [[Le lutin malicieux]]
 
 ## Références
 

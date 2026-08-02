@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T13:16:35.486+02:00
+modified: 2026-08-02T13:48:12.636+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,6 +17,7 @@ tags:
 ## Faciliter le quotidien
 
 - [[Faire de la psychoéducation avec son enfant]]
+- [[Personnifier les parts actives du TDAH chez l'enfant]]
 - [[Tenir compte du retard de maturation cérébral]]
 - [[Mettre en place des routines]]
 - [[Essayer, observer, ajuster, abandonner]]

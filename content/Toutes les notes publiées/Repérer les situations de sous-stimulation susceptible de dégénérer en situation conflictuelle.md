@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-31T08:35:37.055+02:00
+modified: 2026-08-02T15:14:36.624+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -16,7 +16,7 @@ Tout commence par une **attention fine à ce qui se passe dans le corps et dans 
 
 À ce stade, une simple pause, accompagnée de la phrase intérieure « c’est de la sous-stimulation», ou bouger suffit souvent à interrompre la montée.
 
-Ensuite, il s’agit **d’anticiper les situations à risque plutôt que de les subir**. Les réunions, les repas interminables, les tâches répétitives, les silences prolongés sont des terrains fertiles pour la sous-stimulation. On peut alors y injecter volontairement de la stimulation : prendre des notes manuscrites, dessiner en écoutant, proposer de marcher en parlant, poser une ou deux questions, bouger discrètement les pieds, se lever régulièrement. Ces petits ajustements empêchent le cerveau d’atteindre le point où il cherche désespérément une charge d’adrénaline.
+Ensuite, il s’agit **d’anticiper les situations à risque plutôt que de les subir**. Les réunions, les repas interminables, les tâches répétitives, les silences prolongés sont des terrains fertiles pour la sous-stimulation. On peut alors y injecter volontairement de la stimulation : prendre des notes manuscrites, dessiner en écoutant, proposer de marcher en parlant, poser des questions, bouger discrètement les pieds, se lever régulièrement. Ces petits ajustements empêchent le cerveau d’atteindre le point où il cherche désespérément une charge d’adrénaline.
 
 Lorsque l’envie de chercher la petite bête surgit malgré tout, il est utile d’avoir des alternatives toutes prêtes. Se lever pour boire un verre d’eau, changer de pièce.
 

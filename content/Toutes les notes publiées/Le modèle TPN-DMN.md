@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:07:26.615+02:00
+modified: 2026-08-02T14:35:50.750+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,9 +34,6 @@ Le modèle [[Le réseau DMN|DMN]]/[[Le réseau TPN|TPN]] n'est cependant pas une
 ## Pour aller plus loin
 
 - [[Neurosciences du TDAH]]
-- [[Ne pas nourrir le lutin malicieux]]
-- [[Le lutin bienveillant]]
-- [[Le lutin malicieux]]
 - [[Les TDAH pensent-ils vraiment plus vite ?]]
 - [[Qu'est-ce-que le TDAH ?]]
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T09:09:34.896+02:00
+modified: 2026-08-02T15:08:13.436+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -21,13 +21,15 @@ Choisir un projet n’est donc pas un simple acte de sélection rationnelle. C�
 
 Chez beaucoup de personnes avec un TDAH, cette étape de choix est freinée par la peur de manquer une opportunité ou par le sentiment que refuser une idée revient à se priver d’une stimulation. L’excitation initiale agit comme un aimant puissant, et renoncer à s’engager peut être vécu comme une restriction injuste. Pourtant, choisir délibérément certains projets et en laisser d’autres de côté n’est pas une limitation. C’est un acte de protection de la capacité d’attention et de motivation.
 
-**En concentrant les ressources sur un nombre plus restreint d’engagements alignés, on préserve la possibilité d’un hyperfocus productif plutôt que dispersé, et on réduit le sentiment d’incompétence lié à l’accumulation de chantiers inachevés**.
+**En concentrant ses ressources sur un nombre plus restreint d’engagements alignés, on préserve la possibilité d’un hyperfocus productif plutôt que dispersé, et on réduit le sentiment d’incompétence lié à l’accumulation de chantiers inachevés**.
 
-Pour soutenir concrètement ce processus de sélection, la technique du [[Le brain dump|brain dump]] s’avère particulièrement adaptée. Elle consiste à **externaliser** 1sans filtre ni jugement l’ensemble des idées, projets, envies et obligations qui occupent l’espace mental. En les posant sur le papier ou dans un document numérique, on allège la charge cognitive et **on crée une distance nécessaire à l’évaluation**. Une fois le flux d’idées vidé, il devient plus aisé de les observer avec lucidité, de repérer celles qui répondent à un réel alignement et celles qui relèvent surtout d’une stimulation passagère. Cette mise à plat permet de transformer le chaos intérieur en matière organisable, facilitant ainsi le choix conscient plutôt que la réaction impulsive.
+Pour soutenir concrètement ce processus de sélection, la technique du [[Le brain dump|brain dump]] s’avère particulièrement adaptée. Elle consiste à **externaliser** sans filtre ni jugement l’ensemble des idées, projets, envies et obligations qui occupent l’espace mental.
 
-Cette compétence se construit progressivement. Elle repose sur une pratique répétée de clarification intérieure, où l’on apprend à observer ses propres réactions émotionnelles face à une nouvelle idée sans s’y laisser immédiatement emporter, et où le brain dump sert d’outil régulier pour sortir de l’urgence mentale.
+En les posant sur le papier ou dans un document numérique, on allège la charge cognitive et **on crée une distance nécessaire à l’évaluation**. Une fois le flux d’idées vidé, il devient plus aisé de les observer avec lucidité, de repérer celles qui répondent à un réel alignement et celles qui relèvent surtout d’une stimulation passagère. Cette mise à plat permet de transformer le chaos intérieur en matière organisable, facilitant ainsi le choix conscient plutôt que la réaction impulsive.
 
-Avec le temps, la personne développe une forme de lucidité qui lui permet de reconnaître plus tôt les projets porteurs de sens durable et ceux qui risquent de devenir des fardeaux. En cultivant cette capacité de choix, soutenue par des techniques d’externalisation comme le brain dump, elle passe d’une logique d’ouverture quasi illimitée et dans tous les sens à une logique de sélection lucide. Ce mouvement transforme la tendance à la dispersion en une force de concentration plus stable, et ouvre la voie à des engagements plus justes, plus soutenables et plus satisfaisants sur la durée.
+Cette compétence se construit progressivement. Elle repose sur une pratique répétée de clarification intérieure, où l’on apprend à observer ses propres réactions émotionnelles face à une nouvelle idée sans s’y laisser immédiatement emporter.
+
+Avec le temps, la personne développe une forme de lucidité qui lui permet de reconnaître plus tôt les projets porteurs de sens durable et ceux qui risquent de devenir des fardeaux. En cultivant cette capacité de choix, soutenue par des techniques d’externalisation comme le brain dump, elle passe d’une logique d’ouverture quasi illimitée et dans tous les sens à une logique de sélection lucide. Ce mouvement transforme la tendance à la dispersion bien connu chez les TDAH en une force de concentration plus stable, et ouvre la voie à des engagements plus justes, plus soutenables et plus satisfaisants sur la durée.
 
 ## Pour aller plus loin :
 
