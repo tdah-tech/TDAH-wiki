@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T09:40:29.409+02:00
+modified: 2026-08-02T09:07:26.612+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,4 +34,4 @@ L'hyperactivité résulte donc d’une **différence de fonctionnement neurologi
 
 ## Références
 
-- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, **Attention-Deficit/Hyperactivity Disorder** (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing, 2013
+- American Psychiatric Association, (2013), Diagnostic and Statistical Manual of Mental Disorders, **Attention-Deficit/Hyperactivity Disorder** (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing

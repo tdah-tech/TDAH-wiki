@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T11:59:42.322+02:00
+modified: 2026-08-02T09:07:26.617+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,5 +43,5 @@ L'intérêt agit comme un **aimant neurologique** : plus il est vif, plus la por
 
 ## Références
 
-- Ozel-Kizil, E. T. et al., Hyperfocusing as a dimension of adult attention deficit hyperactivity disorder, Research in Developmental Disabilities, 2016
-- Hupfeld, K. E., Abagis, T. R., & Shah, P., Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders, 2019
+- Ozel-Kizil, E. T. et al., (2016), Hyperfocusing as a dimension of adult attention deficit hyperactivity disorder, Research in Developmental Disabilities
+- Hupfeld, K. E., Abagis, T. R., & Shah, P., (2019), Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders

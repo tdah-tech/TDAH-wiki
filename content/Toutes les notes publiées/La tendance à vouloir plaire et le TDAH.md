@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-31T08:35:37.034+02:00
+modified: 2026-08-02T09:07:26.613+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,4 +32,4 @@ En résumé, la science actuelle décrit le vouloir plaire ou le people-pleasing
 
 ## Référence
 
-- Rowney-Smith A., Sutton B., Quadt L., Eccles J.A. The lived experience of rejection sensitivity in ADHD – A qualitative exploration PLOS One, 2026
+- Rowney-Smith A., Sutton B., Quadt L., Eccles J.A., (2026), The lived experience of rejection sensitivity in ADHD – A qualitative exploration PLOS One

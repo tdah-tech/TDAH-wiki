@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-31T08:35:37.056+02:00
+modified: 2026-08-02T09:03:19.372+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,4 +28,4 @@ Pour les personnes qui vivent avec un TDAH, ces résultats sont précieux. L’[
 
 ## Références
 
-- Andrade, J., What does doodling do?, Applied Cognitive Psychology, 2009
+- Andrade J., (2009), What does doodling do?, Applied Cognitive Psychology

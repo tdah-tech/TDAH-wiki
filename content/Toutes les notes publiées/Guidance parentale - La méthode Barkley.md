@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-01T14:58:35.232+02:00
+modified: 2026-08-02T09:01:25.456+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -45,4 +45,4 @@ La méthode souligne également l’importance d’un éventuel [[Le méthylphé
 
 ## Références
 
-- Barkley, R. A., Defiant Children: A Clinician's Manual for Assessment and Parent Training, Third Edition, Guilford Press, 2013
+- Barkley, R. A., (2013), Defiant Children: A Clinician's Manual for Assessment and Parent Training, Third Edition, Guilford Press

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-01
-modified: 2026-08-01T10:38:02.752+02:00
+modified: 2026-08-02T09:01:25.465+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -41,21 +41,21 @@ Une évaluation sensible au sexe, qui explore les symptômes internalisés, la d
 
 ## Références
 
-Young, S., Adamo, N., Ásgeirsdóttir, B. B., Branney, P., et al., . Females with ADHD: An expert consensus statement taking a lifespan approach providing guidance for the identification and treatment of attention-deficit/hyperactivity disorder in girls and women. BMC Psychiatry, 2020
+Young, S., Adamo, N., Ásgeirsdóttir, B. B., Branney, P., et al., (2020), Females with ADHD: An expert consensus statement taking a lifespan approach providing guidance for the identification and treatment of attention-deficit/hyperactivity disorder in girls and women. BMC Psychiatry
 
-Quinn, P. O., & Madhoo, M.. A Review of Attention-Deficit/Hyperactivity Disorder in Women and Girls: Uncovering This Hidden Diagnosis. The Primary Care Companion for CNS Disorders, 2014
+Quinn, P. O., & Madhoo, M.., (2014), A Review of Attention-Deficit/Hyperactivity Disorder in Women and Girls: Uncovering This Hidden Diagnosis. The Primary Care Companion for CNS Disorders
 
-Quinn, P. O., . Treating adolescent girls and women with ADHD : gender-specific issues. Journal of Clinical Psychology, 2005
+Quinn, P. O., (2005), Treating adolescent girls and women with ADHD : gender-specific issues. Journal of Clinical Psychology
 
-Dalsgaard, S., Østergaard, S. D., Leckman, J. F., Mortensen, P. B., & Pedersen, M. G., Mortality in children, adolescents, and adults with attention deficit hyperactivity disorder: a nationwide cohort study. The Lancet, 2015
+Dalsgaard, S., Østergaard, S. D., Leckman, J. F., Mortensen, P. B., & Pedersen, M. G., (2015), Mortality in children, adolescents, and adults with attention deficit hyperactivity disorder: a nationwide cohort study. The Lancet
 
 Chronis-Tuscano, A., Molina, B. S. G., Pelham, W. E., et al. (2010). Very early predictors of adolescent depression and suicide attempts in children with attention-deficit/hyperactivity disorder. Archives of General Psychiatry, 2010
 
-Sedgwick, J. A., Merwood, A., & Asherson, P.,  Adverse experiences of women with undiagnosed ADHD and the invaluable role of diagnosis. Scientific Reports, 2025
+Sedgwick, J. A., Merwood, A., & Asherson, P., (2025), Adverse experiences of women with undiagnosed ADHD and the invaluable role of diagnosis. Scientific Reports
 
-Hinshaw, S. P., Nguyen, P. T., O’Grady, S. M., & Rosenthal, E. A.,  Annual Research Review: Attention-deficit/hyperactivity disorder in girls and women: underrepresentation, longitudinal processes, and key directions. Journal of Child Psychology and Psychiatry, 2022
+Hinshaw, S. P., Nguyen, P. T., (2022), O’Grady, S. M., & Rosenthal, E. A.,  Annual Research Review: Attention-deficit/hyperactivity disorder in girls and women: underrepresentation, longitudinal processes, and key directions. Journal of Child Psychology and Psychiatry
 
-Williams, T., Horstmann, L., Kayani, L., et al.,. An item-level systematic review of the presentation of ADHD in females. Neuroscience & Biobehavioral Reviews, 2025
+Williams, T., Horstmann, L., Kayani, L., et al.,., (2025), An item-level systematic review of the presentation of ADHD in females. Neuroscience & Biobehavioral Reviews
 
 Osianlis, E., Thomas, E. H. X., Jenkins, L. M., & Gurvich, C. (2025). ADHD and Sex Hormones in Females: A Systematic Review. Journal of Attention Disorders, 2025
 

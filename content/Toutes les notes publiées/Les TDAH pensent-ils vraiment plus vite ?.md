@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-01T15:56:11.481+02:00
+modified: 2026-08-02T09:01:25.471+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,5 +39,5 @@ En somme, le TDAH n'a pas un cerveau plus rapide : **il a un cerveau moins filtr
 
 ## Références
 
-- Kofler, M. J. et al., Reaction time variability in ADHD: A meta-analytic review of 319 studies, Clinical Psychology Review, 2013
-- Willcutt, E. G., Doyle, A. E., Nigg, J. T., & Faraone, S. V., Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, Biological Psychiatry, 2005
+- Kofler, M. J. et al., (2013), Reaction time variability in ADHD: A meta-analytic review of 319 studies, Clinical Psychology Review
+- Willcutt, E. G., Doyle, A. E., Nigg, J. T., & Faraone, S. V., (2005), Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, Biological Psychiatry

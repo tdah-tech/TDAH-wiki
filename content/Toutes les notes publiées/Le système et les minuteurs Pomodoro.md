@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-30T11:54:20.046+02:00
+modified: 2026-08-02T09:08:27.683+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,10 +29,10 @@ Il est toutefois rare que la version stricte de vingt-cinq minutes convienne à 
 
 ## Références
 
-- \***Cirillo F.** The Pomodoro Technique Self-published / Cirillo Consulting, 2006
+- Cirillo F, (2006), The Pomodoro Technique Self-published / Cirillo Consulting
 
-- \***Zheng Q., Wang X., et al.** Time perception deficits in children and adolescents with ADHD: A meta-analysis Journal of Attention Disorders, 2022
+- Zheng Q., Wang X., et al, (2022), Time perception deficits in children and adolescents with ADHD: A meta-analysis Journal of Attention Disorders
 
-- \***Barkley R.A.** Executive Functions: What They Are, How They Work, and Why They Evolved Guilford Press, 2012 (et ses travaux sur l’externalisation des fonctions exécutives)
+- \***Barkley R.A.**, (2012), Executive Functions: What They Are, How They Work, and Why They Evolved, Guilford Press (et ses travaux sur l’externalisation des fonctions exécutives)
 
-- \***Abikoff H., Gallagher R., et al.** Remediating Organizational Functioning in Children With ADHD: Immediate and Long-Term Effects From a Randomized Controlled Trial Journal of Consulting and Clinical Psychology, 2013
+- Abikoff H., Gallagher R., et al, (2013), Remediating Organizational Functioning in Children With ADHD: Immediate and Long-Term Effects From a Randomized Controlled Trial Journal of Consulting and Clinical Psychology

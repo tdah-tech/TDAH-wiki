@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-01T17:14:44.434+02:00
+modified: 2026-08-02T09:07:26.610+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -55,4 +55,4 @@ Garder à l'esprit qu'un enfant TOP reste, la majorité du temps, un enfant qui 
 
 ## Référence
 
-American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, **Oppositional Defiant Disorder** (code F91.3), Fifth Edition (DSM-5) American Psychiatric Publishing, 2013 (et sa version révisée DSM-5-TR, 2022)
+American Psychiatric Association, (2022), Diagnostic and Statistical Manual of Mental Disorders, **Oppositional Defiant Disorder** (code F91.3), Fifth Edition (DSM-5) American Psychiatric Publishing, 2013 (et sa version révisée DSM-5-TR

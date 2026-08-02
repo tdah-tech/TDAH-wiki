@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T16:14:13.023+02:00
+modified: 2026-08-02T09:08:17.615+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -36,7 +36,7 @@ Ce phénomène n'est **pas** un critère diagnostique officiel du DSM-5, mais il
 
 ## Références
 
-- Zheng, Q., Wang, X., Chiu, K. Y., & Shum, K. K., Time Perception Deficits in Children and Adolescents with ADHD: A Meta-analysis, Journal of Attention Disorders, 2022
-- Barkley R.A., Executive Functions: What They Are, How They Work, and Why They Evolved, Guilford Press, 2012
-- Noreika V., Falter C.M., Rubia K. Timing deficits in attention-deficit/hyperactivity disorder (ADHD): Evidence from neurocognitive and neuroimaging studies Neuropsychologia, 2013 (revue importante sur les déficits de timing)
-- Toplak M.E., Dockstader C., Tannock R. Temporal information processing in ADHD: Findings to date and new methods Journal of Neuroscience Methods, 2006
+- Zheng, Q., Wang, X., Chiu, K. Y., & Shum, K. K., (2022), Time Perception Deficits in Children and Adolescents with ADHD: A Meta-analysis, Journal of Attention Disorders
+- Barkley R.A., (2012), Executive Functions: What They Are, How They Work, and Why They Evolved, Guilford Press
+- Noreika V., Falter C.M., Rubia K., (2013), Timing deficits in attention-deficit/hyperactivity disorder (ADHD): Evidence from neurocognitive and neuroimaging studies, Neuropsychologia (revue importante sur les déficits de timing)
+- Toplak M.E., Dockstader C., Tannock R., (2006), Temporal information processing in ADHD: Findings to date and new methods Journal of Neuroscience Methods

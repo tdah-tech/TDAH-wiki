@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.058+02:00
+modified: 2026-08-02T09:01:25.483+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,5 +34,5 @@ L’hypothèse avancée est que l’apport simultané de nombreux cofacteurs opt
 
 ## Références
 
-- Johnstone, J. M., Hatsu, I., Tost, G., et al., Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial, Journal of the American Academy of Child and Adolescent Psychiatry, 2022
-- Rucklidge, J. J., Eggleston, M. J. F., Johnstone, J. M., Darling, K., & Frampton, C. M., Vitamin-mineral treatment improves aggression and emotional regulation in children with ADHD: a fully blinded, randomized, placebo-controlled trial, Journal of Child Psychology and Psychiatry, 2018
+- Johnstone, J. M., Hatsu, I., Tost, G., et al., (2022), Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial, Journal of the American Academy of Child and Adolescent Psychiatry
+- Rucklidge, J. J., Eggleston, M. J. F., Johnstone, J. M., Darling, K., & Frampton, C. M., (2018), Vitamin-mineral treatment improves aggression and emotional regulation in children with ADHD: a fully blinded, randomized, placebo-controlled trial, Journal of Child Psychology and Psychiatry

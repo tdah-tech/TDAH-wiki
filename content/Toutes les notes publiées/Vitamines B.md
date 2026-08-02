@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T18:41:53.257+02:00
+modified: 2026-08-02T09:01:25.491+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -47,5 +47,5 @@ Ainsi, les vitamines du groupe B font partie du paysage scientifique du TDAH, pr
 
 ## Références
 
-- Rucklidge, J. J., Frampton, C. M., Gorman, B., & Boggis, A., Vitamin-mineral treatment of attention-deficit hyperactivity disorder in adults: double-blind randomised placebo-controlled trial, The British Journal of Psychiatry, 2014
-- Johnstone, J. M., Hatsu, I., Tost, G., et al., Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial, Journal of the American Academy of Child and Adolescent Psychiatry, 2022
+- Rucklidge, J. J., Frampton, C. M., Gorman, B., & Boggis, A., (2014), Vitamin-mineral treatment of attention-deficit hyperactivity disorder in adults: double-blind randomised placebo-controlled trial, The British Journal of Psychiatry
+- Johnstone, J. M., Hatsu, I., Tost, G., et al., (2022), Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial, Journal of the American Academy of Child and Adolescent Psychiatry

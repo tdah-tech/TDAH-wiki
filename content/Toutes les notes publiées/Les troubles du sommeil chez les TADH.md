@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-01T16:34:39.164+02:00
+modified: 2026-08-02T09:07:26.616+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -46,10 +46,10 @@ Une personne dont le sommeil est stabilisé dispose de ressources attentionnelle
 
 ## Références
 
-- **Van der Heijden K.B., Smits M.G., Van Someren E.J., et al.** Idiopathic chronic sleep onset insomnia in attention-deficit/hyperactivity disorder: a circadian rhythm sleep disorder Chronobiology International, 2005 / 2007
+- Van der Heijden K.B., Smits M.G., Van Someren E.J., et al, (2007), Idiopathic chronic sleep onset insomnia in attention-deficit/hyperactivity disorder: a circadian rhythm sleep disorder Chronobiology International, 2005 /
 
-- Bijlenga D., Vollebregt M.A., Kooij J.J.S., Arns M. The role of the circadian system in the etiology and pathophysiology of ADHD: time to redefine ADHD? ADHD Attention Deficit and Hyperactivity Disorders, 2019
+- Bijlenga D., Vollebregt M.A., Kooij J.J.S., Arns M., (2019), The role of the circadian system in the etiology and pathophysiology of ADHD: time to redefine ADHD? ADHD Attention Deficit and Hyperactivity Disorders
 
-- **Van Veen M.M., Kooij J.J.S., et al.** Delayed circadian rhythm in adults with attention-deficit/hyperactivity disorder and chronic sleep-onset insomnia Biological Psychiatry, 2010
+- Van Veen M.M., Kooij J.J.S., et al, (2010), Delayed circadian rhythm in adults with attention-deficit/hyperactivity disorder and chronic sleep-onset insomnia Biological Psychiatry
 
-- **Luu B., et al.** ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy Frontiers in Psychiatry, 2025
+- Luu B., et al, (2025), ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy Frontiers in Psychiatry

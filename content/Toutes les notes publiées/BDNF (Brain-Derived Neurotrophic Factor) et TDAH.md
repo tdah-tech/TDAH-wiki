@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-31T14:48:31.862+02:00
+modified: 2026-08-02T09:07:26.610+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,10 +30,10 @@ Le BDNF représente ainsi un **lien biologique plausible** entre le retard de ma
 
 ## Références
 
-Shaw P., Eckstrand K., Sharp W., Blumenthal J., Lerch J.P., Greenstein D., Clasen L., Evans A., Giedd J., Rapoport J.L.,Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation Proceedings of the National Academy of Sciences (PNAS), 2007
+Shaw P., Eckstrand K., Sharp W., Blumenthal J., Lerch J.P., Greenstein D., Clasen L., Evans A., Giedd J., Rapoport J.L., (2007), Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation Proceedings of the National Academy of Sciences (PNAS)
 
-Zhang J., Luo W., Li Q., Xu R., Wang Q., Huang Q. Peripheral brain-derived neurotrophic factor in attention-deficit/hyperactivity disorder: A comprehensive systematic review and meta-analysis Journal of Affective Disorders, 2018
+Zhang J., Luo W., Li Q., Xu R., Wang Q., Huang Q., (2018), Peripheral brain-derived neurotrophic factor in attention-deficit/hyperactivity disorder: A comprehensive systematic review and meta-analysis Journal of Affective Disorders
 
-Lucca M.S. et al., Brain-derived neurotrophic factor (BDNF) levels in children and adolescents before and after stimulant use: a systematic review and metanalysis Progress in Neuro-Psychopharmacology and Biological Psychiatry, 2023
+Lucca M.S. et al., (2023), Brain-derived neurotrophic factor (BDNF) levels in children and adolescents before and after stimulant use: a systematic review and metanalysis Progress in Neuro-Psychopharmacology and Biological Psychiatry
 
-Corominas-Roso M., Ramos-Quiroga J.A., Ribases M., Sanchez-Mora C., Palomar G., Valero S., Bosch R., Casas M., Decreased serum levels of brain-derived neurotrophic factor in adults with attention-deficit hyperactivity disorder, International Journal of Neuropsychopharmacology, 2013
+Corominas-Roso M., Ramos-Quiroga J.A., Ribases M., Sanchez-Mora C., Palomar G., Valero S., Bosch R., Casas M., (2013), Decreased serum levels of brain-derived neurotrophic factor in adults with attention-deficit hyperactivity disorder, International Journal of Neuropsychopharmacology

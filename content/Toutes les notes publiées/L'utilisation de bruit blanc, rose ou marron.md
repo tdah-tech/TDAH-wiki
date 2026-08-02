@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-31T08:35:37.028+02:00
+modified: 2026-08-02T09:01:25.459+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,4 +34,4 @@ Sur le plan théorique, on peut raisonnablement supposer que le même mécanisme
 
 ## Références
 
-- Nigg, J. T., Bruton, A., Kozlowski, M. B. et al., Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?, Journal of the American Academy of Child and Adolescent Psychiatry, 2024
+- Nigg, J. T., Bruton, A., Kozlowski, M. B. et al., (2024), Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?, Journal of the American Academy of Child and Adolescent Psychiatry

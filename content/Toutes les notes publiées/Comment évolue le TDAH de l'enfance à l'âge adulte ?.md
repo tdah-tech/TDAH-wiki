@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-01T11:08:48.901+02:00
+modified: 2026-08-02T09:08:12.778+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -44,9 +44,9 @@ Ainsi, selon l’état actuel de la science, le TDAH de l’enfance ne disparaî
 
 ## Références
 
-- **Hechtman L, Swanson JM, Sibley MH, et al.** _Variable Patterns of Remission From ADHD in the Multimodal Treatment Study of ADHD._ Am J Psychiatry. 2021
+- Hechtman L, Swanson JM, Sibley MH, et al, (2021), _Variable Patterns of Remission From ADHD in the Multimodal Treatment Study of ADHD._ Am J Psychiatry
 
-* \***Sibley MH, Kennedy TM, Swanson JM, et al.** _Characteristics and Predictors of Fluctuating Attention-Deficit/Hyperactivity Disorder in the Multimodal Treatment of ADHD (MTA) Study._ J Clin Psychiatry. 2024;
+* \***Sibley MH, Kennedy TM, Swanson JM, et al.**, (2024), _Characteristics and Predictors of Fluctuating Attention-Deficit/Hyperactivity Disorder in the Multimodal Treatment of ADHD (MTA) Study._ J Clin Psychiatry
 
 ## Pour aller plus loin :
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-01T12:04:01.024+02:00
+modified: 2026-08-02T09:10:57.023+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -26,19 +26,19 @@ Plusieurs mécanismes expliquent ce sous-diagnostic des filles, et ils sont docu
 
 Ensuite un biais de repérage : **parents et enseignants orientent davantage vers un dépistage les enfants qui perturbent visiblement le cadre, ce qui favorise mécaniquement les garçons, statistiquement plus hyperactifs-impulsifs**. S'ajoute à cela un phénomène de masquage : plusieurs études suggèrent que les filles développent plus tôt des stratégies de compensation — être appliquée, discrète, en sur-contrôle — qui atténuent l'expression visible des difficultés sans les résoudre. Enfin, certains travaux pointent un seuil diagnostique implicitement plus élevé pour les filles : **à sévérité fonctionnelle égale, elles doivent souvent présenter des symptômes plus marqués que les garçons pour recevoir le même diagnostic**.
 
-La conséquence concrète de ce cumul de biais est un décalage d'âge du diagnostic bien documenté : les filles TDAH sont en moyenne diagnostiquées plus tard que les garçons, parfois à l'âge adulte seulement, après des années de compensation silencieuse — un point qui a pris une place importante dans le débat public ces dernières années, à mesure que davantage de [[Le TDAH chez les femmes|femmes adultes reçoivent un diagnostic tardif]].
+La conséquence concrète de ce cumul de biais est un décalage d'âge du diagnostic bien documenté. Les filles TDAH sont en moyenne diagnostiquées plus tard que les garçons, parfois à l'âge adulte seulement, après des années de compensation silencieuse — un point qui a pris une place importante dans le débat public ces dernières années, à mesure que davantage de [[Le TDAH chez les femmes|femmes adultes reçoivent un diagnostic tardif]].
 
 ## Références
 
-**Haute Autorité de Santé (HAS).** , Trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) de l'enfant et de l'adolescent\_. Fiche d'information 2025.
+**Haute Autorité de Santé (HAS)**, (2025), Trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) de l'enfant et de l'adolescent, Fiche d'information
 
-**Caci, H.** (2023). Prevalence rate of ADHD in France: Review of the literature and results from ChiP-ARD study. _L'Encéphale_, _49_(6), 624–631, 2023.
+**Caci, H.**, (2023), Prevalence rate of ADHD in France: Review of the literature and results from ChiP-ARD study, L'Encéphale, 49(6), 624–631
 
-**Organisation mondiale de la Santé (OMS).**, Troubles de l'attention et hyperactivité - Fiche d'information (2019)
+**Organisation mondiale de la Santé (OMS)**, (2019), Troubles de l'attention et hyperactivité - Fiche d'information
 
-**Song, P., Zha, M., Yang, Q., Zhang, Y., Li, X., & Rudan, I.**, . The prevalence of adult attention-deficit hyperactivity disorder: A global systematic review and meta-analysis. _Journal of Global Health_, _11_, 04009. 2021
+**Song, P., Zha, M., Yang, Q., Zhang, Y., Li, X., & Rudan, I.**, (2021), The prevalence of adult attention-deficit hyperactivity disorder: A global systematic review and meta-analysis, Journal of Global Health, 11, 04009
 
-**Fayyad, J., De Graaf, R., Kessler, R., Alonso, J., Angermeyer, M., Demyttenaere, K., De Girolamo, G., Haro, J. M., Karam, E. G., Lara, C., Lépine, J. P., Ormel, J., Posada-Villa, J., Zaslavsky, A. M., & Jin, R.**,  Cross-national prevalence and correlates of adult attention-deficit hyperactivity disorder. _The British Journal of Psychiatry_, _190_(5), 402–409. 2007
+**Fayyad, J., De Graaf, R., Kessler, R., Alonso, J., Angermeyer, M., Demyttenaere, K., De Girolamo, G., Haro, J. M., Karam, E. G., Lara, C., Lépine, J. P., Ormel, J., Posada-Villa, J., Zaslavsky, A. M., & Jin, R.**, (2007), Cross-national prevalence and correlates of adult attention-deficit hyperactivity disorder, The British Journal of Psychiatry, 190(5), 402–409
 
 ## Pour aller plus loin
 

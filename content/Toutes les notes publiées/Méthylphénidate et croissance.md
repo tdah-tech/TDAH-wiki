@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-01T14:47:05.421+02:00
+modified: 2026-08-02T09:01:25.477+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,6 +34,6 @@ Les recommandations françaises et européennes convergent vers une mesure de la
 
 ## Références
 
-- Greenhill, L. L., Swanson, J. M., Hechtman, L., et al. (MTA Cooperative Group), Trajectories of Growth Associated With Long-Term Stimulant Medication in the Multimodal Treatment Study of Attention-Deficit/Hyperactivity Disorder, Journal of the American Academy of Child and Adolescent Psychiatry, 2020
-- Carucci, S., Balia, C., Gagliano, A., et al. (ADDUCE Consortium), Long term methylphenidate exposure and growth in children and adolescents with ADHD: a systematic review and meta-analysis, Neuroscience & Biobehavioral Reviews, 2021
-- Man, K. K. C., Häge, A., Banaschewski, T., et al. (ADDUCE Consortium), Long-term safety of methylphenidate in children and adolescents with ADHD: 2-year outcomes of the Attention Deficit Hyperactivity Disorder Drugs Use Chronic Effects (ADDUCE) study, The Lancet Psychiatry, 2023
+- Greenhill, L. L., Swanson, J. M., Hechtman, L., et al. (MTA Cooperative Group), (2020), Trajectories of Growth Associated With Long-Term Stimulant Medication in the Multimodal Treatment Study of Attention-Deficit/Hyperactivity Disorder, Journal of the American Academy of Child and Adolescent Psychiatry
+- Carucci, S., Balia, C., Gagliano, A., et al. (ADDUCE Consortium), (2021), Long term methylphenidate exposure and growth in children and adolescents with ADHD: a systematic review and meta-analysis, Neuroscience & Biobehavioral Reviews
+- Man, K. K. C., Häge, A., Banaschewski, T., et al. (ADDUCE Consortium), (2023), Long-term safety of methylphenidate in children and adolescents with ADHD: 2-year outcomes of the Attention Deficit Hyperactivity Disorder Drugs Use Chronic Effects (ADDUCE) study, The Lancet Psychiatry

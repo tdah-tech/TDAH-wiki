@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T14:47:25.797+02:00
+modified: 2026-08-02T09:07:26.611+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,8 +32,8 @@ Plusieurs entrepreneurs de renommée mondiale ont publiquement évoqué leur TDA
 
 ## Références
 
-- Tran, M. H., Wiklund, J., Antshel, K., Jhawar, N., & Montgomery, C., Entrepreneurship and ADHD: A Meta-Analytical Assessment of the State-of-the-Art and Suggestions for the Future, Entrepreneurship Theory and Practice, 2025
-- Lerner D.A., Verheul I., Thurik R. Entrepreneurship and attention deficit/hyperactivity disorder: a large-scale study involving the clinical condition of ADHD Small Business Economics, 2019
-- Verheul I., Block J., Burmeister-Lamp K., Thurik R., Tiemeier H., Turturea R. ADHD-like behavior and entrepreneurial intentions Small Business Economics, 2015
-- Wiklund J., Yu W., Tucker R., Marino L.D. ADHD, impulsivity and entrepreneurship Journal of Business Venturing, 2017
-- Business Development Bank of Canada (BDC) Survey on the Mental Health of Canadian Entrepreneurs 2025
+- Tran, M. H., Wiklund, J., Antshel, K., Jhawar, N., & Montgomery, C., (2025), Entrepreneurship and ADHD: A Meta-Analytical Assessment of the State-of-the-Art and Suggestions for the Future, Entrepreneurship Theory and Practice
+- Lerner D.A., Verheul I., Thurik R., (2019), Entrepreneurship and attention deficit/hyperactivity disorder: a large-scale study involving the clinical condition of ADHD Small Business Economics
+- Verheul I., Block J., Burmeister-Lamp K., Thurik R., Tiemeier H., Turturea R., (2015), ADHD-like behavior and entrepreneurial intentions, Small Business Economics
+- Wiklund J., Yu W., Tucker R., Marino L.D., (2017), ADHD, impulsivity and entrepreneurship Journal of Business Venturing
+- Business Development Bank of Canada (BDC), (2025), Survey on the Mental Health of Canadian Entrepreneurs

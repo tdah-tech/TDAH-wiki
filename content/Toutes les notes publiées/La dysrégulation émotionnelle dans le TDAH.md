@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-01T16:31:55.592+02:00
+modified: 2026-08-02T09:01:25.461+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -55,7 +55,7 @@ Ces travaux convergent vers une même conclusion pratique : **évaluer un TDAH s
 
 ## Références
 
-- Shaw P., Stringaris A., Nigg J., Leibenluft E. Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry, 2014
-- Solérte L., et al. , Evidence of emotion dysregulation as a core symptom of adult ADHD: A systematic review PLOS One, 2023
-- Courrèges, M. et al., Validation d'une échelle de dysrégulation émotionnelle chez les enfants atteints de trouble déficit de l'attention avec ou sans hyperactivité (TDAH), Neuropsychiatrie de l'Enfance et de l'Adolescence, 2025
-- Landi, P., Olivola, M., De Ciechi, A., et al. (incl. Dell'Osso, B.), Emotional Dysregulation as a Clinically Relevant Dimension of Adult ADHD: A Multidimensional Clinical Study, Brain Sciences, 2026
+- Shaw P., Stringaris A., Nigg J., Leibenluft E., (2014), Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry
+- Solérte L., et al., (2023), Evidence of emotion dysregulation as a core symptom of adult ADHD: A systematic review PLOS One
+- Courrèges, M. et al., (2025), Validation d'une échelle de dysrégulation émotionnelle chez les enfants atteints de trouble déficit de l'attention avec ou sans hyperactivité (TDAH), Neuropsychiatrie de l'Enfance et de l'Adolescence
+- Landi, P., Olivola, M., De Ciechi, A., et al. (incl. Dell'Osso, B.), (2026), Emotional Dysregulation as a Clinically Relevant Dimension of Adult ADHD: A Multidimensional Clinical Study, Brain Sciences

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-31T14:50:34.712+02:00
+modified: 2026-08-02T09:01:25.455+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -51,4 +51,4 @@ Voici les principales [[Les fonctions éxécutives - définition|fonctions exéc
 
 ## Références
 
-- Willcutt, E. G., Doyle, A. E., Nigg, J. T., Faraone, S. V., & Pennington, B. F., Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, Biological Psychiatry, 2005
+- Willcutt, E. G., Doyle, A. E., Nigg, J. T., Faraone, S. V., & Pennington, B. F., (2005), Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, Biological Psychiatry

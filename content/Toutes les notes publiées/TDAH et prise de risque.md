@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-01T17:00:18.406+02:00
+modified: 2026-08-02T09:01:25.484+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -50,7 +50,7 @@ Les [[Le méthylphénidate comme traitement du TDAH|traitements médicamenteux]]
 
 Dekkers, T. J., Popma, A., Agelink van Rentergem, J. A., Bexkens, A., & Huizenga, H. M. (2016). Risky decision making in Attention-Deficit/Hyperactivity Disorder: A meta-regression analysis. _Clinical Psychology Review_, 2016
 
-Dekkers, T. J., Agelink van Rentergem, J. A., Huizenga, H. M., Raber, H., Shoham, R., Popma, A., & Pollak, Y. , Decision-making deficits in ADHD are not related to risk seeking but to suboptimal decision-making: Meta-analytical and novel experimental evidence. _Journal of Attention Disorders_, 2021
+Dekkers, T. J., Agelink van Rentergem, J. A., Huizenga, H. M., Raber, H., Shoham, R., Popma, A., & Pollak, Y., (2021), Decision-making deficits in ADHD are not related to risk seeking but to suboptimal decision-making: Meta-analytical and novel experimental evidence. _Journal of Attention Disorders_
 
 Nejati, V., Peyvandi, A., Nazari, N., et al. (2025). Cognitive correlates of risky decision-making in individuals with and without ADHD: A meta-analysis. _Neuropsychology Review_, 2024
 

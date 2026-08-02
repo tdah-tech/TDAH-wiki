@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T14:02:31.535+02:00
+modified: 2026-08-02T09:06:25.506+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,10 +33,10 @@ Chez ceux dont le trouble est moins invalidant et qui développent précocement 
 
 ## Références
 
-**Klein R.G., et al.** Clinical and Functional Outcome of Childhood Attention-Deficit/Hyperactivity Disorder 33 Years Later JAMA Psychiatry, 2012
+**Klein R.G., et al.**, (2012), Clinical and Functional Outcome of Childhood Attention-Deficit/Hyperactivity Disorder 33 Years Later, JAMA Psychiatry
 
-**Barbaresi W.J., et al.** Academic Achievement in Adults with a History of Childhood Attention-Deficit/Hyperactivity Disorder: A Population-Based Prospective Study Journal of Developmental & Behavioral Pediatrics / études associées, 2013–2017
+**Barbaresi W.J., et al.**, (2013–2017), Academic Achievement in Adults with a History of Childhood Attention-Deficit/Hyperactivity Disorder: A Population-Based Prospective Study, Journal of Developmental & Behavioral Pediatrics / études associées
 
-**Kuriyan A.B., et al.** Young Adult Educational and Vocational Outcomes of Children Diagnosed with ADHD Journal of Abnormal Child Psychology, 2013
+**Kuriyan A.B., et al.**, (2013), Young Adult Educational and Vocational Outcomes of Children Diagnosed with ADHD, Journal of Abnormal Child Psychology
 
-**Frazier T.W., et al.** ADHD and Achievement: Meta-Analysis of the Child, Adolescent, and Adult Literatures Journal of Learning Disabilities, 2007
+**Frazier T.W., et al.**, (2007), ADHD and Achievement: Meta-Analysis of the Child, Adolescent, and Adult Literatures, Journal of Learning Disabilities

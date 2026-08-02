@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T09:56:01.888+02:00
+modified: 2026-08-02T09:07:26.611+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,6 +33,6 @@ En résumé, l'alimentation à indice glycémique bas n'est ni un mythe ni une s
 
 ## Références
 
-- Ríos-Hernández A., Alda J.A., Farran-Codina A., et al. The Mediterranean Diet and ADHD in Children and Adolescents Pediatrics, 2017
-- Khoshbakht Y., Moghtaderi F., et al. The effect of dietary approaches to stop hypertension (DASH) diet on attention-deficit hyperactivity disorder (ADHD) symptoms: a randomized controlled clinical trial European Journal of Nutrition, 2021
-- Panayotova G.G., Hachmeriyan A. Dietary Carbohydrates and ADHD Symptoms: A Systematic Review, Nutrients, 2026
+- Ríos-Hernández A., Alda J.A., Farran-Codina A., et al., (2017), The Mediterranean Diet and ADHD in Children and Adolescents Pediatrics
+- Khoshbakht Y., Moghtaderi F., et al., (2021), The effect of dietary approaches to stop hypertension (DASH) diet on attention-deficit hyperactivity disorder (ADHD) symptoms: a randomized controlled clinical trial European Journal of Nutrition
+- Panayotova G.G., Hachmeriyan A., (2026), Dietary Carbohydrates and ADHD Symptoms: A Systematic Review, Nutrients

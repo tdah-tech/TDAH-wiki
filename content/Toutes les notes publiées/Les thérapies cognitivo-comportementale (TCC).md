@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-01T14:50:38.137+02:00
+modified: 2026-08-02T09:01:25.473+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -52,5 +52,5 @@ Une TCC classique centrée uniquement sur les pensées anxieuses ou dépressives
 
 ## Références
 
-- Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W., Cognitive behavioral therapy vs relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: A randomized controlled trial, JAMA, 2010
-- Knouse, L. E., & Safren, S. A., Current status of cognitive behavioral therapy for adult attention-deficit hyperactivity disorder, Psychiatric Clinics of North America, 2010
+- Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W., (2010), Cognitive behavioral therapy vs relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: A randomized controlled trial, JAMA
+- Knouse, L. E., & Safren, S. A., (2010), Current status of cognitive behavioral therapy for adult attention-deficit hyperactivity disorder, Psychiatric Clinics of North America

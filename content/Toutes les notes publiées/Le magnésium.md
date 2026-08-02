@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.039+02:00
+modified: 2026-08-02T09:07:26.614+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,8 +29,8 @@ En résumé, le magnésium semble surtout utile pour corriger une carence réell
 
 ## Références
 
-- El Baza, F., AlShahawi, H. A., Zahra, S., & AbdelHakim, R. A., Magnesium supplementation in children with attention deficit hyperactivity disorder, Egyptian Journal of Medical Human Genetics, 2016
-- Effatpanah, M. et al., Magnesium status and attention deficit hyperactivity disorder (ADHD): A meta-analysis, Psychiatry Research, 2019
-- Hemamy, M., Pahlavani, N., Amanollahi, A. et al., The effect of vitamin D and magnesium supplementation on the mental health status of attention-deficit hyperactive children: a randomized controlled trial, BMC Pediatrics, 2021
-- **Huang Y.H., et al.** Significantly lower serum and hair magnesium levels in children with attention deficit hyperactivity disorder than controls: A systematic review and meta-analysis Progress in Neuro-Psychopharmacology and Biological Psychiatry, 2019
-- **Surman C., et al.** L-Threonic Acid Magnesium Salt Supplementation in ADHD: An Open-Label Pilot Study Journal of Dietary Supplements, 2021
+- El Baza, F., AlShahawi, H. A., Zahra, S., & AbdelHakim, R. A., (2016), Magnesium supplementation in children with attention deficit hyperactivity disorder, Egyptian Journal of Medical Human Genetics
+- Effatpanah, M. et al., (2019), Magnesium status and attention deficit hyperactivity disorder (ADHD): A meta-analysis, Psychiatry Research
+- Hemamy, M., Pahlavani, N., Amanollahi, A. et al., (2021), The effect of vitamin D and magnesium supplementation on the mental health status of attention-deficit hyperactive children: a randomized controlled trial, BMC Pediatrics
+- Huang Y.H., et al, (2019), Significantly lower serum and hair magnesium levels in children with attention deficit hyperactivity disorder than controls: A systematic review and meta-analysis Progress in Neuro-Psychopharmacology and Biological Psychiatry
+- Surman C., et al, (2021), L-Threonic Acid Magnesium Salt Supplementation in ADHD: An Open-Label Pilot Study Journal of Dietary Supplements

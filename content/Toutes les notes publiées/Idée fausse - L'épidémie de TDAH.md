@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-01T18:31:43.767+02:00
+modified: 2026-08-02T09:01:25.456+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -56,4 +56,4 @@ Les facteurs environnementaux peuvent certes moduler l’expression des symptôm
 
 ## Références
 
-- Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A., ADHD prevalence estimates across three decades: an updated systematic review and meta-regression analysis, International Journal of Epidemiology, 2014
+- Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A., (2014), ADHD prevalence estimates across three decades: an updated systematic review and meta-regression analysis, International Journal of Epidemiology

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T09:45:33.620+02:00
+modified: 2026-08-02T09:07:26.613+02:00
 tags:
-  - micronote
-  - tdah
-  - impulsivite
-  - achats-impulsifs
-  - cortex-prefrontal
+  - "#micronote"
+  - "#tdah"
+  - "#impulsivite"
+  - "#achats-impulsifs"
+  - "#cortex-prefrontal"
 ---
 
 L'impulsivité  est l'un des traits du TDAH le plus mal compris.
@@ -47,5 +47,5 @@ Ce qui a fait dire au psychiatre **Edward Hallowell** que le TDAH s'apparente à
 
 ## Références
 
-- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, Attention-Deficit/Hyperactivity Disorder (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing, 2013
-- Hallowell, E. M., & Ratey, J. J., ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction—From Childhood through Adulthood, Ballantine Books, 2021
+- American Psychiatric Association, (2013), Diagnostic and Statistical Manual of Mental Disorders, Attention-Deficit/Hyperactivity Disorder (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing
+- Hallowell, E. M., & Ratey, J. J., (2021), ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction—From Childhood through Adulthood, Ballantine Books

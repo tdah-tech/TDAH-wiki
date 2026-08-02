@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T08:45:11.407+02:00
+modified: 2026-08-02T09:01:25.484+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,5 +35,5 @@ En résumé, le trouble va influencer les scores obtenus aux tests classiques, p
 
 ## Références
 
-- Frazier, T. W., Demaree, H. A., & Youngstrom, E. A., Meta-analysis of intellectual and neuropsychological test performance in attention-deficit/hyperactivity disorder, Neuropsychology, 2004
-- Bridgett, D. J., & Walker, M. E., Intellectual functioning in adults with ADHD: A meta-analytic examination of full scale IQ differences between adults with and without ADHD, Psychological Assessment, 2006
+- Frazier, T. W., Demaree, H. A., & Youngstrom, E. A., (2004), Meta-analysis of intellectual and neuropsychological test performance in attention-deficit/hyperactivity disorder, Neuropsychology
+- Bridgett, D. J., & Walker, M. E., (2006), Intellectual functioning in adults with ADHD: A meta-analytic examination of full scale IQ differences between adults with and without ADHD, Psychological Assessment

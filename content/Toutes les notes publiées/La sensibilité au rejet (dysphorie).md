@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-31T08:35:37.032+02:00
+modified: 2026-08-02T09:01:25.464+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -40,6 +40,6 @@ Sur le plan psychologique, les thérapies cognitives et comportementales, la ple
 
 ## Références
 
-- Dodson W.W., Modestino E.J., et al., Rejection Sensitivity Dysphoria in Attention-Deficit/Hyperactivity Disorder: A Case Series Acta Scientific Neurology, 2024
+- Dodson W.W., Modestino E.J., et al., (2024), Rejection Sensitivity Dysphoria in Attention-Deficit/Hyperactivity Disorder: A Case Series Acta Scientific Neurology
 
-* Shaw P., Stringaris A., Nigg J., Leibenluft E., Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry, 2014
+* Shaw P., Stringaris A., Nigg J., Leibenluft E., (2014), Emotion Dysregulation in Attention Deficit Hyperactivity Disorder American Journal of Psychiatry

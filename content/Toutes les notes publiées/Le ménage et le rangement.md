@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T08:35:37.040+02:00
+modified: 2026-08-02T09:07:26.615+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,7 +30,7 @@ Dans le contexte du TDAH, les bénéfices de mettre en place des routines ménag
 
 ## Références
 
-- Spaulding S.L., Fruitman K., Rapoport E., Soled D., Adesman A. Impact of ADHD on Household Chores Journal of Attention Disorders, 2021
+- Spaulding S.L., Fruitman K., Rapoport E., Soled D., Adesman A., (2021), Impact of ADHD on Household Chores Journal of Attention Disorders
 
-* \***Tse A.C.Y., et al.**, Cross-sectional associations of housework with cognitive, physical and sensorimotor functions in younger and older community-dwelling adults BMJ Open, 2021
-* \***Tepper D.L., et al.** Executive functions and household chores: Does engagement in chores predict children’s cognition? Australian Occupational Therapy Journal, 2022
+* Tse A.C.Y., et al, (2021), Cross-sectional associations of housework with cognitive, physical and sensorimotor functions in younger and older community-dwelling adults BMJ Open
+* Tepper D.L., et al, (2022), Executive functions and household chores: Does engagement in chores predict children’s cognition? Australian Occupational Therapy Journal

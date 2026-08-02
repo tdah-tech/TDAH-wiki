@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T18:02:04.820+02:00
+modified: 2026-08-02T09:01:25.492+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,6 +32,6 @@ Enfin, une technique de respiration simple et rapide peut offrir un soutien imm�
 
 ## Références
 
-- Chou, C.-C., & Huang, C.-J., Effects of an 8-week yoga program on sustained attention and discrimination function in children with attention deficit hyperactivity disorder, PeerJ, 2017
-- Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y.-Y., Weber, J., & Kober, H., Meditation experience is associated with differences in default mode network activity and connectivity, Proceedings of the National Academy of Sciences (PNAS), 2011
-- Hölzel, B. K. et al., Mindfulness practice leads to increases in regional brain gray matter density, Psychiatry Research: Neuroimaging, 2011
+- Chou, C., (2017), -C., & Huang, C.-J., Effects of an 8-week yoga program on sustained attention and discrimination function in children with attention deficit hyperactivity disorder, PeerJ
+- Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y., (2011), -Y., Weber, J., & Kober, H., Meditation experience is associated with differences in default mode network activity and connectivity, Proceedings of the National Academy of Sciences (PNAS)
+- Hölzel, B. K. et al., (2011), Mindfulness practice leads to increases in regional brain gray matter density, Psychiatry Research: Neuroimaging

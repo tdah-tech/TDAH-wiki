@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.045+02:00
+modified: 2026-08-02T09:01:25.470+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,4 +32,4 @@ Il est cependant plausible que les TDAH soient plus sensibles aux coups de fatig
 
 ## Références
 
-- Wolraich, M. L., Wilson, D. B., & White, J. W., The Effect of Sugar on Behavior or Cognition in Children: A Meta-analysis, JAMA, 1995
+- Wolraich, M. L., Wilson, D. B., & White, J. W., (1995), The Effect of Sugar on Behavior or Cognition in Children: A Meta-analysis, JAMA

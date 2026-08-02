@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-08-01T16:51:51.222+02:00
+modified: 2026-08-02T09:01:25.449+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,5 +42,5 @@ Concernant le traitement, la science a progressé de façon significative. **Le 
 
 ## Références
 
-- Lee, S. S., Humphreys, K. L., Flory, K., Liu, R., & Glass, K., Prospective association of childhood attention-deficit/hyperactivity disorder (ADHD) and substance use and abuse/dependence: A meta-analytic review, Clinical Psychology Review, 2011
-- van Emmerik-van Oortmerssen, K., van de Glind, G., van den Brink, W., Smit, F., Crunelle, C. L., Swets, M., & Schoevers, R. A., Prevalence of attention-deficit hyperactivity disorder in substance use disorder patients: A meta-analysis and meta-regression analysis, Drug and Alcohol Dependence, 2012
+- Lee, S. S., Humphreys, K. L., Flory, K., Liu, R., & Glass, K., (2011), Prospective association of childhood attention-deficit/hyperactivity disorder (ADHD) and substance use and abuse/dependence: A meta-analytic review, Clinical Psychology Review
+- van Emmerik-van Oortmerssen, K., van de Glind, G., van den Brink, W., Smit, F., Crunelle, C. L., Swets, M., & Schoevers, R. A., (2012), Prevalence of attention-deficit hyperactivity disorder in substance use disorder patients: A meta-analysis and meta-regression analysis, Drug and Alcohol Dependence

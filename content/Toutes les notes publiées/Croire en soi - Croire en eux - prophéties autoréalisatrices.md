@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-30T09:07:34.763+02:00
+modified: 2026-08-02T09:08:15.058+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -49,7 +49,7 @@ Il convient toutefois de souligner que l'’auto-efficacité n’est pas une ill
 
 ## Références
 
-- Martin, A. J., Burns, E. C., & Collie, R. J., ADHD, personal and interpersonal agency, and achievement: Exploring links from a social cognitive theory perspective, Contemporary Educational Psychology, 2017
-- Lackaye T. et al. (ou la revue 2025) Self-efficacy in Specific Learning Disabilities: a Systematic Review of Cross-sectional, Longitudinal and Experimental Evidence Contemporary School Psychology, 2025
-- DuPaul G.J. / Weyandt L.L. , Promoting academic success in college students with ADHD and LD: A systematic literature review to identify intervention targets Journal of American College Health, 2021/2022
-- Idan O., Margalit M. The hope theory and specific learning disorders and/or attention deficit disorders (SLD/ADHD): Developmental perspectives Current Opinion in Psychology, 2022
+- Martin, A. J., Burns, E. C., & Collie, R. J., (2017), ADHD, personal and interpersonal agency, and achievement: Exploring links from a social cognitive theory perspective, Contemporary Educational Psychology
+- Lackaye T. et al. (ou la revue 2025), (2025), Self-efficacy in Specific Learning Disabilities: a Systematic Review of Cross-sectional, Longitudinal and Experimental Evidence Contemporary School Psychology
+- DuPaul G.J. / Weyandt L.L., (2021–2022), Promoting academic success in college students with ADHD and LD: A systematic literature review to identify intervention targets, Journal of American College Health
+- Idan O., Margalit M., (2022), The hope theory and specific learning disorders and/or attention deficit disorders (SLD/ADHD): Developmental perspectives Current Opinion in Psychology

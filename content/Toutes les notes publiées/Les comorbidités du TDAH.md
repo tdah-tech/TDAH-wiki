@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-01T16:27:03.133+02:00
+modified: 2026-08-02T09:01:25.472+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -72,4 +72,4 @@ Les troubles spécifiques des apprentissages, **dyslexie, dysorthographie, dysca
 
 ## Références
 
-Njardvik U., Wergeland G.J., Riise E.N., Hannesdottir D.K., Öst L.G. Psychiatric comorbidity in children and adolescents with ADHD: A systematic review and meta-analysis Clinical Psychology Review, 2025
+Njardvik U., Wergeland G.J., Riise E.N., Hannesdottir D.K., Öst L.G., (2025), Psychiatric comorbidity in children and adolescents with ADHD: A systematic review and meta-analysis Clinical Psychology Review

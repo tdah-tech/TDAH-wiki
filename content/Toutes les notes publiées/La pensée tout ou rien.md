@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T18:18:01.066+02:00
+modified: 2026-08-02T09:01:25.463+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,4 +31,4 @@ Ce type de pensées alimente la paralysie de l’action : une tâche qui pourrai
 
 ## Références
 
-- Pan, M. R., Zhang, S. Y., Chen, C. L., et al., Bidirectional Associations between Maladaptive Cognitions and Emotional Symptoms, and Their Mediating Role on the Quality of Life in Adults with ADHD: A Mediation Model, Frontiers in Psychiatry, 2023
+- Pan, M. R., Zhang, S. Y., Chen, C. L., et al., (2023), Bidirectional Associations between Maladaptive Cognitions and Emotional Symptoms, and Their Mediating Role on the Quality of Life in Adults with ADHD: A Mediation Model, Frontiers in Psychiatry

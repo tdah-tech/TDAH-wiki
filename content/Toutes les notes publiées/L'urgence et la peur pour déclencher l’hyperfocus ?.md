@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-31T12:03:17.526+02:00
+modified: 2026-08-02T09:08:19.050+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,6 +35,6 @@ Ces mécanismes sont réels et méritent d’être connus. Ils expliquent pourqu
 
 ## Références
 
-- Hupfeld K.E., Abagis T.R., Shah P. Living “in the zone”: hyperfocus in adult ADHD ADHD Attention Deficit and Hyperactivity Disorders, 2019
-- Tripp G., Wickens J.R. Research review: Dopamine transfer deficit: a neurobiological theory of altered reinforcement mechanisms in ADHD Journal of Child Psychology and Psychiatry, 2008
-- Dodson W. Secrets of the ADHD Brain ADDitude Magazine (et publications associées), 2010s
+- Hupfeld K.E., Abagis T.R., Shah P., (2019), Living “in the zone”: hyperfocus in adult ADHD ADHD Attention Deficit and Hyperactivity Disorders
+- Tripp G., Wickens J.R., (2008), Research review: Dopamine transfer deficit: a neurobiological theory of altered reinforcement mechanisms in ADHD Journal of Child Psychology and Psychiatry
+- Dodson W., (2010s), Secrets of the ADHD Brain, ADDitude Magazine (et publications associées)

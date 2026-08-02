@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-31T15:42:16.502+02:00
+modified: 2026-08-02T09:01:25.451+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -60,4 +60,4 @@ Enfin, ces enfants sont particulièrement sensibles aux incohérences entre les 
 
 ## Références
 
-- Greene, R. W., The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children, 5th Edition, Harper, 2014
+- Greene, R. W., (2014), The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children, 5th Edition, Harper

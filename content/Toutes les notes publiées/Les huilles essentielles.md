@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-30T12:50:11.390+02:00
+modified: 2026-08-02T09:06:14.837+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -36,12 +36,10 @@ Ces huiles ne remplacent en aucun cas un diagnostic, un traitement médicamenteu
 
 ## Références
 
-**Shimizu K., et al.** Essential oil of lavender inhibited the decreased attention during a long-term task in humans Bioscience, Biotechnology, and Biochemistry, 2008
+**Shimizu K., et al.**, (2008), Essential oil of lavender inhibited the decreased attention during a long-term task in humans, Bioscience, Biotechnology, and Biochemistry
 
-**Moss M., et al.** Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults International Journal of Neuroscience, 2003
+**Moss M., et al.**, (2003), Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults, International Journal of Neuroscience
 
-**Romarin à cinéole** **Moss M., et al.** Plasma 1,8-cineole correlates with cognitive performance following exposure to rosemary essential oil aroma Therapeutic Advances in Psychopharmacology, 2012
+**Romarin à cinéole** **Moss M., et al.**, (2012), Plasma 1,8-cineole correlates with cognitive performance following exposure to rosemary essential oil aroma, Therapeutic Advances in Psychopharmacology
 
-**Moss M., et al.** Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults International Journal of Neuroscience, 2003
-
-**Kennedy D., et al.** Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha × Piperita L. Essential Oil with In Vitro Properties Relevant to Central Nervous System Function Nutrients, 2018
+**Kennedy D., et al.**, (2018), Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha × Piperita L. Essential Oil with In Vitro Properties Relevant to Central Nervous System Function, Nutrients

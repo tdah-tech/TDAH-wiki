@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T10:10:20.301+02:00
+modified: 2026-08-02T09:04:46.764+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -26,5 +26,5 @@ L’organisation temporelle de la tâche offre également un support métacognit
 
 ## Références
 
-- Reddy L.A., et al. A critical review of self-regulated learning interventions for children with attention-deficit hyperactivity disorder Psychology in the Schools, 2018
-- Lenartowicz A., DeSchepper B., Simpson G.V. Training of Awareness in ADHD: Leveraging Metacognition Journal of Psychiatric and Brain Science, 2024
+- Reddy L.A., et al., (2018), A critical review of self-regulated learning interventions for children with attention-deficit hyperactivity disorder Psychology in the Schools
+- Lenartowicz A., DeSchepper B., Simpson G.V., (2024), Training of Awareness in ADHD: Leveraging Metacognition, Journal of Psychiatric and Brain Science

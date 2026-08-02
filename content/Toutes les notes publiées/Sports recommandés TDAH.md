@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-31T08:35:37.057+02:00
+modified: 2026-08-02T09:01:25.483+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,4 +30,4 @@ Lorsque cela est possible il convient de priviligier les activités de plein air
 
 ## Références
 
-- Xie, Y., Gao, X., Song, Y., Zhu, X., Chen, M., Yang, L., & Ren, Y., Effectiveness of Physical Activity Intervention on ADHD Symptoms: A Systematic Review and Meta-Analysis, Frontiers in Psychiatry, 2021
+- Xie, Y., Gao, X., Song, Y., Zhu, X., Chen, M., Yang, L., & Ren, Y., (2021), Effectiveness of Physical Activity Intervention on ADHD Symptoms: A Systematic Review and Meta-Analysis, Frontiers in Psychiatry

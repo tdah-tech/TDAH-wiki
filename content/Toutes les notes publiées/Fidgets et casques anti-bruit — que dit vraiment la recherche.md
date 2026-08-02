@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-30T09:46:43.828+02:00
+modified: 2026-08-02T09:06:08.688+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,7 +42,7 @@ Ce qui existe, ce sont surtout des données qualitatives et des projets pilotes 
 
 ## Références
 
-- Hulac D.M., Aspiranti K., Kriescher S., et al. A Multisite Study of the Effect of Fidget Spinners on Academic Performance Contemporary School Psychology, 2021
-- Driesen et al. ,Tools or Toys? The Effect of Fidget Spinners and Bouncy Bands on the Academic Performance in Children With Varying ADHD, Symptomatology Contemporary Educational Psychology, 2023
-- Graziano P.A., Garcia A.M., Landis T.D. To Fidget or Not to Fidget, That Is the Question: A Systematic Classroom Evaluation of Fidget Spinners Among Young Children With ADHD Journal of Attention Disorders, 2020
-- Ikuta N., Iwanaga R., Tokunaga A., et al. Effectiveness of Earmuffs and Noise-cancelling Headphones for Coping with Hyper-reactivity to Auditory Stimuli in Children with Autism Spectrum Disorder: A Preliminary Study Hong Kong Journal of Occupational Therapy, 2016
+- Hulac D.M., Aspiranti K., Kriescher S., et al., (2021), A Multisite Study of the Effect of Fidget Spinners on Academic Performance Contemporary School Psychology
+- Driesen et al., (2023), Tools or Toys? The Effect of Fidget Spinners and Bouncy Bands on the Academic Performance in Children With Varying ADHD, Symptomatology Contemporary Educational Psychology
+- Graziano P.A., Garcia A.M., Landis T.D., (2020), To Fidget or Not to Fidget, That Is the Question: A Systematic Classroom Evaluation of Fidget Spinners Among Young Children With ADHD Journal of Attention Disorders
+- Ikuta N., Iwanaga R., Tokunaga A., et al., (2016), Effectiveness of Earmuffs and Noise-cancelling Headphones for Coping with Hyper-reactivity to Auditory Stimuli in Children with Autism Spectrum Disorder: A Preliminary Study Hong Kong Journal of Occupational Therapy

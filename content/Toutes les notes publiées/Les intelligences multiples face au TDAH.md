@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T08:54:48.332+02:00
+modified: 2026-08-02T09:01:25.472+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -58,5 +58,5 @@ D’autres, grâce à un environnement soutenant et à des stratégies adaptées
 
 ## Références
 
-- Gardner, H., Frames of Mind: The Theory of Multiple Intelligences, Basic Books, 1983
-- Najafi, M. et al., Multiple Intelligences Profiles of Children with Attention Deficit and Hyperactivity Disorder in Comparison with Nonattention Deficit and Hyperactivity Disorder, Advanced Biomedical Research, 2017
+- Gardner, H., (1983), Frames of Mind: The Theory of Multiple Intelligences, Basic Books
+- Najafi, M. et al., (2017), Multiple Intelligences Profiles of Children with Attention Deficit and Hyperactivity Disorder in Comparison with Nonattention Deficit and Hyperactivity Disorder, Advanced Biomedical Research

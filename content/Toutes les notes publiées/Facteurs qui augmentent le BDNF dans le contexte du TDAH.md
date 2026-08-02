@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-30T09:40:44.667+02:00
+modified: 2026-08-02T09:07:26.611+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -36,12 +36,12 @@ L’exposition à la **lumière naturelle le matin** et la **réduction du stres
 
 ## Références
 
-- Gómez-Pinilla, F., Brain foods: the effects of nutrients on brain function, Nature Reviews Neuroscience, 2008
-- Dinoff A., Herrmann N., Swardfager W., Lanctôt K.L. The effect of acute exercise on blood concentrations of brain-derived neurotrophic factor in healthy adults: a meta-analysis European Journal of Neuroscience, 2017
-- Pedersen B.K. Physical activity and muscle–brain crosstalk Nature Reviews Endocrinology, 2019
-- Guzman-Marin R., Ying Z., Suntsova N., et al. Suppression of hippocampal plasticity-related gene expression by sleep deprivation in rats Journal of Physiology, 2006
-- Ziaei S., Mohammadi S., Hasani M., et al. A systematic review and meta-analysis of the omega-3 fatty acids effects on brain-derived neurotrophic factor (BDNF) Nutritional Neuroscience, 2024
-- Gómez-Pinilla F. Brain foods: the effects of nutrients on brain function Nature Reviews Neuroscience, 2008
-- Sánchez-Villegas A., et al. The effect of the Mediterranean diet on plasma brain-derived neurotrophic factor (BDNF) levels: The PREDIMED-NAVARRA randomized trial Nutritional Neuroscience, 2011
-- Rehfeld K., Lüders A., Hökelmann A., et al. Dance training is superior to repetitive physical exercise in inducing brain plasticity in the elderly PLOS One, 2018
-- Novkovic T., Mittmann T., Manahan-Vaughan D. BDNF contributes to the facilitation of hippocampal synaptic plasticity and learning enabled by environmental enrichment Hippocampus, 2015
+- Gómez-Pinilla, F., (2008), Brain foods: the effects of nutrients on brain function, Nature Reviews Neuroscience
+- Dinoff A., Herrmann N., Swardfager W., Lanctôt K.L., (2017), The effect of acute exercise on blood concentrations of brain-derived neurotrophic factor in healthy adults: a meta-analysis European Journal of Neuroscience
+- Pedersen B.K., (2019), Physical activity and muscle–brain crosstalk Nature Reviews Endocrinology
+- Guzman-Marin R., Ying Z., Suntsova N., et al., (2006), Suppression of hippocampal plasticity-related gene expression by sleep deprivation in rats Journal of Physiology
+- Ziaei S., Mohammadi S., Hasani M., et al., (2024), A systematic review and meta-analysis of the omega-3 fatty acids effects on brain-derived neurotrophic factor (BDNF) Nutritional Neuroscience
+- Gómez-Pinilla F., (2008), Brain foods: the effects of nutrients on brain function Nature Reviews Neuroscience
+- Sánchez-Villegas A., et al., (2011), The effect of the Mediterranean diet on plasma brain-derived neurotrophic factor (BDNF) levels: The PREDIMED-NAVARRA randomized trial Nutritional Neuroscience
+- Rehfeld K., Lüders A., Hökelmann A., et al., (2018), Dance training is superior to repetitive physical exercise in inducing brain plasticity in the elderly PLOS One
+- Novkovic T., Mittmann T., Manahan-Vaughan D., (2015), BDNF contributes to the facilitation of hippocampal synaptic plasticity and learning enabled by environmental enrichment, Hippocampus

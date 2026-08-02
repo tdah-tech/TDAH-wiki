@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-31T08:35:37.038+02:00
+modified: 2026-08-02T09:01:25.467+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -53,6 +53,6 @@ En résumé, la science établit aujourd’hui une association robuste, bien que
 
 ## Références
 
-- Konofal, E., Lecendreux, M., Arnulf, I., & Mouren, M. C., Iron deficiency in children with attention-deficit/hyperactivity disorder, Archives of Pediatrics & Adolescent Medicine, 2004
-- Wang, Y., Huang, L., Zhang, L., Qu, Y., & Mu, D., Iron Status in Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis, PLoS ONE, 2017
-- Tseng, P. T. et al., Peripheral iron levels in children with attention-deficit hyperactivity disorder: a systematic review and meta-analysis, Scientific Reports, 2018
+- Konofal, E., Lecendreux, M., Arnulf, I., & Mouren, M. C., (2004), Iron deficiency in children with attention-deficit/hyperactivity disorder, Archives of Pediatrics & Adolescent Medicine
+- Wang, Y., Huang, L., Zhang, L., Qu, Y., & Mu, D., (2017), Iron Status in Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis, PLoS ONE
+- Tseng, P. T. et al., (2018), Peripheral iron levels in children with attention-deficit hyperactivity disorder: a systematic review and meta-analysis, Scientific Reports

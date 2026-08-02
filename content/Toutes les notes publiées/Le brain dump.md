@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-30T10:39:50.661+02:00
+modified: 2026-08-02T09:08:24.878+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -36,6 +36,6 @@ Cette seconde phase n’est cependant pas obligatoire : pour de nombreuses perso
 
 ## Références
 
-- Alderson R.M., et al. Attention-deficit/hyperactivity disorder (ADHD) and working memory in adults: A meta-analytic review Neuropsychology, 2013 (ou revues similaires)
+- Alderson R.M., et al., (2013), Attention-deficit/hyperactivity disorder (ADHD) and working memory in adults: A meta-analytic review, Neuropsychology (ou revues similaires)
 
-- Masicampo E.J., Baumeister R.F. Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals Journal of Personality and Social Psychology, 2011
+- Masicampo E.J., Baumeister R.F., (2011), Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals Journal of Personality and Social Psychology

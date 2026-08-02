@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-01T17:05:50.709+02:00
+modified: 2026-08-02T09:10:44.963+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -48,10 +48,10 @@ C'est une distinction importante, parce qu'elle oriente directement vers le type
 
 ## Références
 
-- Shaw P. et al., Emotion Dysregulation in Attention Deficit Hyperactivity Disorder, American Journal of Psychiatry, 2014
-- Graziano & Garcia, Emotion dysregulation and ADHD, Clinical Psychology Review, 2016 (méta-analyse)
-- Inhibitory Control Mediates the Association Between Emotion Dysregulation and Symptoms of ADHD and ODD, Advances in Neurodevelopmental Disorders, 2023
-- Joseph H.M. et al., Research Review: A systematic review and meta-analysis of infant and toddler temperament as predictors of childhood ADHD, Journal of Child Psychology and Psychiatry, 2023
-- Patterson G.R., Coercive Family Process, 1982
-- Patterson G.R., Reid J.B., Dishion T.J., Antisocial Boys, 1992
-- Burke J.D. et al., Reciprocal relationships between parenting behavior and disruptive psychopathology from childhood through adolescence, Journal of Abnormal Child Psychology, 2008
+- Shaw P. et al., (2014), Emotion Dysregulation in Attention Deficit Hyperactivity Disorder, American Journal of Psychiatry
+- Graziano & Garcia, (2016), Emotion dysregulation and ADHD, Clinical Psychology Review (méta-analyse)
+- Singh, A. D., Bedard, A. C. V., & Andrade, B. F., (2023), Inhibitory Control Mediates the Association Between Emotion Dysregulation and Symptoms of ADHD and ODD in Children with Disruptive Behavior, Advances in Neurodevelopmental Disorders, 7(4), 579–590
+- Joseph H.M. et al., (2023), Research Review: A systematic review and meta-analysis of infant and toddler temperament as predictors of childhood ADHD, Journal of Child Psychology and Psychiatry
+- Patterson G.R., (1982), Coercive Family Process
+- Patterson G.R., Reid J.B., Dishion T.J., (1992), Antisocial Boys
+- Burke J.D. et al., (2008), Reciprocal relationships between parenting behavior and disruptive psychopathology from childhood through adolescence, Journal of Abnormal Child Psychology

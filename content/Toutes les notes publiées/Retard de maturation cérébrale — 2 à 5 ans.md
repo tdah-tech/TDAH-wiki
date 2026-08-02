@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-08-01T11:24:46.903+02:00
+modified: 2026-08-02T09:01:25.480+02:00
 tags:
-  - micronote
-  - tdah
-  - maturation
-  - cortex-prefrontal
-  - parentalite
+  - "#micronote"
+  - "#tdah"
+  - "#maturation"
+  - "#cortex-prefrontal"
+  - "#parentalite"
 ---
 
 Le cerveau des personnes avec TDAH se développe selon le même schéma que celui des personnes neurotypiques, mais avec un **décalage temporel** significatif.
@@ -36,5 +36,5 @@ Une étude plus récente de 2020 (Kakuszi et al.) apporte un éclairage complém
 
 ## Références
 
-- Shaw, P., Eckstrand, K., Sharp, W., Blumenthal, J., Lerch, J. P., Greenstein, D., Clasen, L., Evans, A., Giedd, J., & Rapoport, J. L., Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation, Proceedings of the National Academy of Sciences, 2007
-- Kakuszi, B., Szuromi, B., Bitter, I., & Czobor, P., _Attention deficit hyperactivity disorder: Last in, first out – delayed brain maturation with an accelerated decline?_, European Neuropsychopharmacology, 2020
+- Shaw, P., Eckstrand, K., Sharp, W., Blumenthal, J., Lerch, J. P., Greenstein, D., Clasen, L., Evans, A., Giedd, J., & Rapoport, J. L., (2007), Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation, Proceedings of the National Academy of Sciences
+- Kakuszi, B., Szuromi, B., Bitter, I., & Czobor, P., (2020), _Attention deficit hyperactivity disorder: Last in, first out – delayed brain maturation with an accelerated decline?_, European Neuropsychopharmacology

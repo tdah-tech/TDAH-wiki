@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-08-01T16:48:00.256+02:00
+modified: 2026-08-02T09:07:26.618+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,5 +43,5 @@ Certaines données indiquent que le statut de [[Le méthylphénidate comme trait
 
 ## Références
 
-- Tamura, T., Takagi, S., Takahashi, H., & Sugihara, G., The role of self-rumination and self-reflection in depressive symptoms among individuals with attention-deficit/hyperactivity disorder traits, Scientific Reports, 2025
-- Kandeğer, A. et al., Excessive mind wandering, rumination, and mindfulness mediate the relationship between ADHD symptoms and anxiety and depression in adults with ADHD, Clinical Psychology & Psychotherapy, 2024
+- Tamura, T., Takagi, S., Takahashi, H., & Sugihara, G., (2025), The role of self-rumination and self-reflection in depressive symptoms among individuals with attention-deficit/hyperactivity disorder traits, Scientific Reports
+- Kandeğer, A. et al., (2024), Excessive mind wandering, rumination, and mindfulness mediate the relationship between ADHD symptoms and anxiety and depression in adults with ADHD, Clinical Psychology & Psychotherapy

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.062+02:00
+modified: 2026-08-02T09:07:26.618+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -30,8 +30,8 @@ L’objectif n’est pas d’éliminer les glucides ni de calculer en permanence
 
 ## Références
 
-Zametkin A.J., Nordahl T.E., Gross M., et al. Cerebral Glucose Metabolism in Adults with Hyperactivity of Childhood Onset New England Journal of Medicine, 1990
+Zametkin A.J., Nordahl T.E., Gross M., et al., (1990), Cerebral Glucose Metabolism in Adults with Hyperactivity of Childhood Onset New England Journal of Medicine
 
-Khoshbakht Y., Bahreynian M., et al. The effect of dietary approaches to stop hypertension (DASH) diet on attention-deficit hyperactivity disorder (ADHD) symptoms: a randomized controlled clinical trial European Journal of Nutrition, 2021
+Khoshbakht Y., Bahreynian M., et al., (2021), The effect of dietary approaches to stop hypertension (DASH) diet on attention-deficit hyperactivity disorder (ADHD) symptoms: a randomized controlled clinical trial European Journal of Nutrition
 
-Del-Ponte B., et al.,Sugar consumption, sugar sweetened beverages and Attention Deficit Hyperactivity Disorder: A systematic review and meta-analysis Complementary Therapies in Medicine, 2020
+Del-Ponte B., et al., (2020), Sugar consumption, sugar sweetened beverages and Attention Deficit Hyperactivity Disorder: A systematic review and meta-analysis Complementary Therapies in Medicine

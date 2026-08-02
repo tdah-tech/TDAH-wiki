@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T15:04:13.418+02:00
+modified: 2026-08-02T09:08:22.632+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -49,8 +49,8 @@ Cette perspective permet également de sortir de la logique purement déficitair
 
 ## Références
 
-- \***Dodson W.** Secrets of the ADHD Brain ADDitude Magazine (et publications associées), 2013 / actualisations ultérieures (concept de « interest-based nervous system »)
+- \***Dodson W.**, (2013), Secrets of the ADHD Brain, ADDitude Magazine (et publications associées) / actualisations ultérieures (concept de « interest-based nervous system »)
 
-- \***Barkley R.A.** Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment Guilford Press, 2015 (4ᵉ édition)
+- \***Barkley R.A.**, (2015), Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment, Guilford Press (4ᵉ édition)
 
-- \***Brown T.E.** Attention Deficit Disorder: The Unfocused Mind in Children and Adults Yale University Press, 2005
+- Brown T.E, (2005), Attention Deficit Disorder: The Unfocused Mind in Children and Adults Yale University Press

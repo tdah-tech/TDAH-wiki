@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-01T09:59:48.665+02:00
+modified: 2026-08-02T09:07:26.616+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,5 +42,5 @@ Ces trois biotypes ne font pas encore l'objet d’un consensus. Les présentatio
 
 ## Références
 
-- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, **Attention-Deficit/Hyperactivity Disorder** (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing, 2013
-- Pan N., et al. Mapping ADHD Heterogeneity and Biotypes by Topological Deviations in Morphometric Similarity Networks (JAMA Psychiatry ou publication associée, 2026)
+- American Psychiatric Association, (2013), Diagnostic and Statistical Manual of Mental Disorders, **Attention-Deficit/Hyperactivity Disorder** (code F90.x), Fifth Edition (DSM-5), American Psychiatric Publishing
+- Pan N., et al., (2026), Mapping ADHD Heterogeneity and Biotypes by Topological Deviations in Morphometric Similarity Networks (JAMA Psychiatry ou publication associée

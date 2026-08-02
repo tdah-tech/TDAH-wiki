@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T08:35:37.023+02:00
+modified: 2026-08-02T09:15:59.699+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,9 +35,8 @@ Des études longitudinales et des essais d’intervention, qu’il s’agisse de
 
 ## Références
 
-- Wang, L. J. et al., Gut mycobiome dysbiosis and its impact on intestinal permeability in attention-deficit/hyperactivity disorder, Journal of Child Psychology and Psychiatry, 2023
-- Kumperscak H.G. et al. A Pilot Randomized Controlled Trial of Lactobacillus rhamnosus GG in Children with ADHD (études sur LGG et qualité de vie / symptômes émotionnels)
-- Wang L.J. et al. Effect of Bifidobacterium bifidum on Clinical Characteristics and Gut Microbiota in Attention-Deficit/Hyperactivity Disorder Frontiers in Psychiatry, 2022
-- Kumperscak H.G., Gricar G.R., Duh M., Micetic-Turk D. A Pilot Randomized Control Trial With the Probiotic Strain Lactobacillus rhamnosus GG (LGG) in ADHD: Children and Adolescents Report Better Health-Related Quality of Life Frontiers in Psychiatry, 2020
-- Arteaga-Henríquez G., Ramos-Sayalero C., Ibañez-Jimenez P., et al. Efficacy of a synbiotic in the management of adults with Attention-Deficit and Hyperactivity Disorder and/or Borderline Personality Disorder and high levels of irritability: Results from a multicenter, randomized, placebo-controlled, “basket” trial Brain, Behavior, and Immunity, 2024
-- Liang S.C., et al. Therapeutic efficacy of probiotics for symptoms of attention-deficit hyperactivity disorder in children and adolescents: meta-analysis BJPsych Open, 2024
+- Wang, L. J. et al., (2023), Gut mycobiome dysbiosis and its impact on intestinal permeability in attention-deficit/hyperactivity disorder, Journal of Child Psychology and Psychiatry
+- Wang L.J. et al., (2022), Effect of Bifidobacterium bifidum on Clinical Characteristics and Gut Microbiota in Attention-Deficit/Hyperactivity Disorder, Frontiers in Psychiatry
+- Kumperscak H.G., Gricar G.R., Duh M., Micetic-Turk D., (2020), A Pilot Randomized Control Trial With the Probiotic Strain Lactobacillus rhamnosus GG (LGG) in ADHD: Children and Adolescents Report Better Health-Related Quality of Life, Frontiers in Psychiatry
+- Arteaga-Henríquez G., Ramos-Sayalero C., Ibañez-Jimenez P., et al., (2024), Efficacy of a synbiotic in the management of adults with Attention-Deficit and Hyperactivity Disorder and/or Borderline Personality Disorder and high levels of irritability: Results from a multicenter, randomized, placebo-controlled, “basket” trial, Brain, Behavior, and Immunity
+- Liang S.C., et al., (2024), Therapeutic efficacy of probiotics for symptoms of attention-deficit hyperactivity disorder in children and adolescents: meta-analysis BJPsych Open

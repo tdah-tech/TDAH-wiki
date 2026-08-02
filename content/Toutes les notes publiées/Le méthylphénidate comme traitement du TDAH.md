@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-01T14:42:19.869+02:00
+modified: 2026-08-02T09:08:26.312+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -90,11 +90,11 @@ Les effets secondaires de la molécule **les plus courants** (non exhaustif) son
 
 ## Références
 
-Ostinelli E.G., et al., Benefits and harms of ADHD interventions: umbrella review and platform for shared decision making The BMJ, 2025
+Ostinelli E.G., et al., (2025), Benefits and harms of ADHD interventions: umbrella review and platform for shared decision making The BMJ
 
-Cortese S., et al., Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis The Lancet Psychiatry, 2018
+Cortese S., et al., (2018), Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis The Lancet Psychiatry
 
-Kay B.P., et al., Stimulant medications affect arousal and reward, not attention networks, Cell, 2025, DOI: 10.1016/j.cell.2025.11.039
+Kay B.P., et al., (2025), Stimulant medications affect arousal and reward, not attention networks, Cell, DOI: 10.1016/j.cell.2025.11.039
 
 [EBI-ADHD : Interventions for ADHD | Evidence Matrix](https://ebiadhd-database.org/ebiadhd) — plateforme interactive associée à l'umbrella review d'Ostinelli et al., permettant de visualiser les tailles d'effet et niveaux de certitude par intervention
 

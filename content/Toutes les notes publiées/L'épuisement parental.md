@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-30T10:07:36.618+02:00
+modified: 2026-08-02T09:01:25.460+02:00
 tags:
-  - micronote
-  - tdah
-  - epuisement-parental
-  - stress-parental
-  - top
-  - trouble-opposition
+  - "#micronote"
+  - "#tdah"
+  - "#epuisement-parental"
+  - "#stress-parental"
+  - "#top"
+  - "#trouble-opposition"
 ---
 
 L'épuisement parental se définit par quatre dimensions mesurables :
@@ -40,6 +40,6 @@ Cette donnée vise à faire comprendre qu'un épuisement parental sévère n'est
 
 ## Références
 
-- Roskam I., Brianda M.E., Mikolajczak M. A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology, 2018
-- Mikolajczak M., Brianda M.E., Avalosse H., Roskam I. Consequences of parental burnout: Its specific effect on child neglect and violence Child Abuse & Neglect, 2018
-- Roskam I., Brianda M.E., Mikolajczak M. A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology, 2018
+- Roskam I., Brianda M.E., Mikolajczak M., (2018), A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology
+- Mikolajczak M., Brianda M.E., Avalosse H., Roskam I., (2018), Consequences of parental burnout: Its specific effect on child neglect and violence Child Abuse & Neglect
+- Roskam I., Brianda M.E., Mikolajczak M., (2018), A Step Forward in the Conceptualization and Measurement of Parental Burnout: The Parental Burnout Assessment (PBA) Frontiers in Psychology

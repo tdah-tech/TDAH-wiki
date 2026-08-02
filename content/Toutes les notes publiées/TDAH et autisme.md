@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-08-01T16:39:23.915+02:00
+modified: 2026-08-02T09:01:25.484+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -56,4 +56,4 @@ Sur le plan de l’accompagnement, il n’existe pas de traitement unique pour l
 
 ## Références
 
-- Canals, J. et al., Prevalence of comorbidity of autism and ADHD and associated characteristics in school population: EPINED study, Autism Research, 2024
+- Canals, J. et al., (2024), Prevalence of comorbidity of autism and ADHD and associated characteristics in school population: EPINED study, Autism Research

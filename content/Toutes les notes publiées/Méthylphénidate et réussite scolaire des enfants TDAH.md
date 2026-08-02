@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-01T13:49:08.901+02:00
+modified: 2026-08-02T09:07:26.617+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,6 +42,6 @@ Le médicament n'améliore donc pas la qualité de l'apprentissage par minute de
 
 ## Références
 
-- Prasad, V., Brogan, E., Mulvaney, C., Grainge, M., Stanton, W., & Sayal, K., How effective are drug treatments for children with ADHD at improving on-task behaviour and academic achievement in the school classroom? A systematic review and meta-analysis, European Child & Adolescent Psychiatry, 2013
-- Kortekaas-Rijlaarsdam, A. F., Luman, M., Sonuga-Barke, E., & Oosterlaan, J., Does methylphenidate improve academic performance? A systematic review and meta-analysis, European Child & Adolescent Psychiatry, 2019
-- Cortese, S., Adamo, N., Del Giovane, C., et al., Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis, The Lancet Psychiatry, 2018
+- Prasad, V., Brogan, E., Mulvaney, C., Grainge, M., Stanton, W., & Sayal, K., (2013), How effective are drug treatments for children with ADHD at improving on-task behaviour and academic achievement in the school classroom? A systematic review and meta-analysis, European Child & Adolescent Psychiatry
+- Kortekaas-Rijlaarsdam, A. F., Luman, M., Sonuga-Barke, E., & Oosterlaan, J., (2019), Does methylphenidate improve academic performance? A systematic review and meta-analysis, European Child & Adolescent Psychiatry
+- Cortese, S., Adamo, N., Del Giovane, C., et al., (2018), Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis, The Lancet Psychiatry

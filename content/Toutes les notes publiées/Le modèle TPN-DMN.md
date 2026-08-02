@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T14:50:34.715+02:00
+modified: 2026-08-02T09:07:26.615+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,5 +42,5 @@ Le modèle [[Le réseau DMN|DMN]]/[[Le réseau TPN|TPN]] n'est cependant pas une
 
 ## Références
 
-- Raichle, M. E. et al., A default mode of brain function, Proceedings of the National Academy of Sciences (PNAS), 2001
-- Sonuga-Barke, E. J. S., & Castellanos, F. X., Spontaneous attentional fluctuations in impaired states and pathological conditions: a neurobiological hypothesis, Neuroscience & Biobehavioral Reviews, 2007
+- Raichle, M. E. et al., (2001), A default mode of brain function, Proceedings of the National Academy of Sciences (PNAS)
+- Sonuga-Barke, E. J. S., & Castellanos, F. X., (2007), Spontaneous attentional fluctuations in impaired states and pathological conditions: a neurobiological hypothesis, Neuroscience & Biobehavioral Reviews

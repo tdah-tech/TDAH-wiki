@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.049+02:00
+modified: 2026-08-02T09:01:25.472+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,4 +31,4 @@ Sur le plan pratique, privilégier les sources alimentaires (poissons gras, huil
 
 ## Références
 
-- Gillies, D., Leach, M. J., & Perez Algorta, G., Polyunsaturated fatty acids (PUFA) for attention deficit hyperactivity disorder (ADHD) in children and adolescents, Cochrane Database of Systematic Reviews, 2023
+- Gillies, D., Leach, M. J., & Perez Algorta, G., (2023), Polyunsaturated fatty acids (PUFA) for attention deficit hyperactivity disorder (ADHD) in children and adolescents, Cochrane Database of Systematic Reviews

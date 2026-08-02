@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-29T18:50:36.012+02:00
+modified: 2026-08-02T09:07:26.618+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -33,5 +33,5 @@ Dans la pratique, une supplémentation en zinc n’est pas recommandée de mani�
 
 ## Références
 
-- Ghoreishy, S. M., Ebrahimi Mousavi, S., Asoudeh, F., & Mohammadi, H., Zinc status in attention-deficit/hyperactivity disorder: a systematic review and meta-analysis of observational studies, Scientific Reports, 2021
-- Warthon-Medina, M., Moran, V. H., Stammers, A. L., Dillon, S., Qualter, P., Nissensohn, M., Serra-Majem, L., & Lowe, N. M., Zinc intake, status and indices of cognitive function in adults and children: a systematic review and meta-analysis, European Journal of Clinical Nutrition, 2015
+- Ghoreishy, S. M., Ebrahimi Mousavi, S., Asoudeh, F., & Mohammadi, H., (2021), Zinc status in attention-deficit/hyperactivity disorder: a systematic review and meta-analysis of observational studies, Scientific Reports
+- Warthon-Medina, M., Moran, V. H., Stammers, A. L., Dillon, S., Qualter, P., Nissensohn, M., Serra-Majem, L., & Lowe, N. M., (2015), Zinc intake, status and indices of cognitive function in adults and children: a systematic review and meta-analysis, European Journal of Clinical Nutrition

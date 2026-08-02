@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T14:50:34.717+02:00
+modified: 2026-08-02T09:07:26.617+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -45,4 +45,4 @@ Il faut toutefois souligner que ces avantages ne se réalisent que lorsque les a
 
 ## Références
 
-- Hotte-Meunier, A. et al., Strengths and challenges to embrace attention-deficit/hyperactivity disorder in employment—A systematic review, Neurodiversity, 2024
+- Hotte-Meunier, A. et al., (2024), Strengths and challenges to embrace attention-deficit/hyperactivity disorder in employment—A systematic review, Neurodiversity

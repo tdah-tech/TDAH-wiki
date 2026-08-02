@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-07-31T10:52:43.374+02:00
+modified: 2026-08-02T09:01:25.474+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,4 +34,4 @@ Bien entendu des attentes irréalistes, déconnectées des difficultés réelles
 
 ## Références
 
-- Rosenthal, R., & Jacobson, L., Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development, Holt, Rinehart & Winston (ouvrage), 1968
+- Rosenthal, R., & Jacobson, L., (1968), Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development, Holt, Rinehart & Winston (ouvrage)

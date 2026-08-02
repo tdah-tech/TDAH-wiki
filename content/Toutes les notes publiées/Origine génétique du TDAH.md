@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-01T12:36:39.605+02:00
+modified: 2026-08-02T09:01:25.479+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -48,7 +48,7 @@ Les interactions gène-environnement et les mécanismes épigénétiques (modifi
 
 ## Références
 
-- Chen, C., Burton, M., Greenberger, E., & Dmitrieva, J., Population Migration and the Variation of Dopamine D4 Receptor (DRD4) Allele Frequencies Around the Globe, Evolution and Human Behavior, 1999
+- Chen, C., Burton, M., Greenberger, E., & Dmitrieva, J., (1999), Population Migration and the Variation of Dopamine D4 Receptor (DRD4) Allele Frequencies Around the Globe, Evolution and Human Behavior
 
 - **Faraone, S. V., & Larsson, H.** (2018). Genetics of attention deficit hyperactivity disorder. _Molecular Psychiatry_, _24_(4), 562–575.
 

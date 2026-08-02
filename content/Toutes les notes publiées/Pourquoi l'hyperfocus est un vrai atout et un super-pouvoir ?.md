@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T14:50:34.718+02:00
+modified: 2026-08-02T09:01:25.479+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -32,4 +32,4 @@ Selon ces auteurs, la vraie clé n'est pas l'hyperfocus en lui-même, mais dans 
 
 ## Références
 
-- Hupfeld, K. E., Abagis, T. R., & Shah, P., Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders, 2019
+- Hupfeld, K. E., Abagis, T. R., & Shah, P., (2019), Living "in the zone": hyperfocus in adult ADHD, ADHD Attention Deficit and Hyperactivity Disorders

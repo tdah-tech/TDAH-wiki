@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-01T16:19:09.970+02:00
+modified: 2026-08-02T09:04:43.181+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,5 +43,5 @@ Il est important de souligner que ce n’est pas un défaut de caractère. Le ce
 
 ## Références
 
-- Marx, I., Cortese, S., Koelch, M. G., & Hacker, T., Meta-analysis: Altered Perceptual Timing Abilities in Attention-Deficit/Hyperactivity Disorder, Journal of the American Academy of Child and Adolescent Psychiatry, 2022
-- Jackson, J. N. S., & MacKillop, J., Attention-Deficit/Hyperactivity Disorder and Monetary Delay Discounting: A Meta-Analysis of Case-Control Studies, Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2016
+- Marx, I., Cortese, S., Koelch, M. G., & Hacker, T., (2022), Meta-analysis: Altered Perceptual Timing Abilities in Attention-Deficit/Hyperactivity Disorder, Journal of the American Academy of Child and Adolescent Psychiatry
+- Jackson, J. N. S., & MacKillop, J., (2016), Attention-Deficit/Hyperactivity Disorder and Monetary Delay Discounting: A Meta-Analysis of Case-Control Studies, Biological Psychiatry: Cognitive Neuroscience and Neuroimaging

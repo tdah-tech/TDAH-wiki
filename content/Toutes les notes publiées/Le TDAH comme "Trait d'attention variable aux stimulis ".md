@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-01T15:10:31.438+02:00
+modified: 2026-08-02T09:01:25.466+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -42,4 +42,4 @@ Il reste cependant un outil de vulgarisation plutôt qu'un concept clinique opé
 
 ## Référence
 
-Hallowell E.M., Ratey J.J. , ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction – from Childhood through Adulthood, Ballantine Books, 2021
+Hallowell E.M., Ratey J.J., (2021), ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction – from Childhood through Adulthood, Ballantine Books

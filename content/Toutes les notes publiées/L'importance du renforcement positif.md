@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-07-31T11:27:20.206+02:00
+modified: 2026-08-02T09:01:25.458+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,5 +31,5 @@ Il importe toutefois de souligner que le renforcement positif n’est pas une so
 
 ## Références
 
-- Barkley R.A. Defiant Children: A Clinician’s Manual for Assessment and Parent Training Guilford Press, 2013
-- Groenman A.P., et al., Meta-analysis: Which Components of Parent Training Work for Children With Attention-Deficit/Hyperactivity Disorder?, Journal of the American Academy of Child & Adolescent Psychiatry, 2022
+- Barkley R.A., (2013), Defiant Children: A Clinician’s Manual for Assessment and Parent Training Guilford Press
+- Groenman A.P., et al., (2022), Meta-analysis: Which Components of Parent Training Work for Children With Attention-Deficit/Hyperactivity Disorder?, Journal of the American Academy of Child & Adolescent Psychiatry

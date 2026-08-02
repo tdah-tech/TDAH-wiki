@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-08-01T16:50:24.468+02:00
+modified: 2026-08-02T09:07:26.609+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -38,5 +38,5 @@ En résumé, la science décrit une association claire, mesurable et multifactor
 
 ## Références
 
-- Mohr-Jensen, C., & Steinhausen, H. C., A meta-analysis and systematic review of the risks associated with childhood attention-deficit hyperactivity disorder on long-term outcome of arrests, convictions, and incarcerations, Clinical Psychology Review, 2016
-- Young, S., Moss, D., Sedgwick, O., Fridman, M., & Hodgkins, P., A meta-analysis of the prevalence of attention deficit hyperactivity disorder in incarcerated populations, Psychological Medicine, 2015
+- Mohr-Jensen, C., & Steinhausen, H. C., (2016), A meta-analysis and systematic review of the risks associated with childhood attention-deficit hyperactivity disorder on long-term outcome of arrests, convictions, and incarcerations, Clinical Psychology Review
+- Young, S., Moss, D., Sedgwick, O., Fridman, M., & Hodgkins, P., (2015), A meta-analysis of the prevalence of attention deficit hyperactivity disorder in incarcerated populations, Psychological Medicine

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-07-31T08:35:37.057+02:00
+modified: 2026-08-02T09:01:25.482+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,4 +29,4 @@ En augmentant le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] grâc
 
 ## Références
 
-- Xie, Y., Gao, X., Song, Y., Zhu, X., Chen, M., Yang, L., & Ren, Y., Effectiveness of Physical Activity Intervention on ADHD Symptoms: A Systematic Review and Meta-Analysis, Frontiers in Psychiatry, 2021
+- Xie, Y., Gao, X., Song, Y., Zhu, X., Chen, M., Yang, L., & Ren, Y., (2021), Effectiveness of Physical Activity Intervention on ADHD Symptoms: A Systematic Review and Meta-Analysis, Frontiers in Psychiatry

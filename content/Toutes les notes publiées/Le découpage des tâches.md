@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-30T10:41:30.151+02:00
+modified: 2026-08-02T09:07:26.614+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,6 +34,6 @@ Le découpage, mal dimensionné ou réalisé sans soutien externe peut cependant
 
 ## Références
 
-- **Bikic A., Reichow B., McCauley S.A., Ibrahim K., Sukhodolsky D.G.** Meta-analysis of organizational skills interventions for children and adolescents with Attention-Deficit/Hyperactivity Disorder Clinical Psychology Review, 2017
+- Bikic A., Reichow B., McCauley S.A., Ibrahim K., Sukhodolsky D.G, (2017), Meta-analysis of organizational skills interventions for children and adolescents with Attention-Deficit/Hyperactivity Disorder Clinical Psychology Review
 
-- **Abikoff H., Gallagher R., Wells K.C., et al.** Remediating Organizational Functioning in Children With ADHD: Immediate and Long-Term Effects From a Randomized Controlled Trial Journal of Consulting and Clinical Psychology, 2013
+- Abikoff H., Gallagher R., Wells K.C., et al, (2013), Remediating Organizational Functioning in Children With ADHD: Immediate and Long-Term Effects From a Randomized Controlled Trial Journal of Consulting and Clinical Psychology

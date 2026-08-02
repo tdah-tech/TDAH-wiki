@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T17:43:49.004+02:00
+modified: 2026-08-02T09:01:25.465+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -43,4 +43,4 @@ En pratique, **le Flowtime fonctionne particulièrement bien pour les activités
 
 ## Références
 
-- Smits, E. J. C., Wenzel, N., & de Bruin, A., Investigating the Effectiveness of Self-Regulated, Pomodoro, and Flowtime Break-Taking Techniques Among Students, Behavioral Sciences, 2025
+- Smits, E. J. C., Wenzel, N., & de Bruin, A., (2025), Investigating the Effectiveness of Self-Regulated, Pomodoro, and Flowtime Break-Taking Techniques Among Students, Behavioral Sciences

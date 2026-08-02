@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-30T08:53:35.635+02:00
+modified: 2026-08-02T09:01:25.451+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -75,8 +75,8 @@ Voici quelques pistes :
 
 ## Références
 
-- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T., Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology, Psychological Science in the Public Interest, 2013
-- Knouse, L. E., Rawson, K. A., Vaughn, K. E., & Dunlosky, J., Does Testing Improve Learning for College Students With Attention-Deficit/Hyperactivity Disorder?, Clinical Psychological Science, 2016
-- Minear M.E., Coane J.H., Cooney L.H., Boland S.C., Serrano J.W., Is practice good enough? Retrieval benefits students with ADHD but does not compensate for poor encoding in unmedicated students Frontiers in Psychology, 2023
-- Knouse L.E., Rawson K.A., Dunlosky J. How much do college students with ADHD benefit from retrieval practice when learning key-term definitions? Learning and Instruction, 2020
-- Dudukovic N.M., Gottshall J.L., Cavanaugh P.A., Moody M.J. Diminished testing benefits in young adults with attention-deficit hyperactivity disorder Memory, 2015
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T., (2013), Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology, Psychological Science in the Public Interest
+- Knouse, L. E., Rawson, K. A., Vaughn, K. E., & Dunlosky, J., (2016), Does Testing Improve Learning for College Students With Attention-Deficit/Hyperactivity Disorder?, Clinical Psychological Science
+- Minear M.E., Coane J.H., Cooney L.H., Boland S.C., Serrano J.W., (2023), Is practice good enough? Retrieval benefits students with ADHD but does not compensate for poor encoding in unmedicated students Frontiers in Psychology
+- Knouse L.E., Rawson K.A., Dunlosky J., (2020), How much do college students with ADHD benefit from retrieval practice when learning key-term definitions? Learning and Instruction
+- Dudukovic N.M., Gottshall J.L., Cavanaugh P.A., Moody M.J., (2015), Diminished testing benefits in young adults with attention-deficit hyperactivity disorder Memory

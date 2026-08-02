@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-31T15:27:08.939+02:00
+modified: 2026-08-02T09:07:26.612+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -35,6 +35,6 @@ Il convient enfin de souligner que la psychoéducation n’est pas un acte uniqu
 
 ## Références
 
-- Haute Autorité de Santé, Trouble du neurodéveloppement/TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents Recommandations de bonne pratique, 2024
+- Haute Autorité de Santé, (2024), Trouble du neurodéveloppement/TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et adolescents Recommandations de bonne pratique
 
-- Dahl V., Ramakrishnan A., Spears A.P., Jorge A., Lu J., Bigio N.A., Chacko A., Psychoeducation Interventions for Parents and Teachers of Children and Adolescents with ADHD: a Systematic Review of the Literature Journal of Developmental and Physical Disabilities, 2019
+- Dahl V., Ramakrishnan A., Spears A.P., Jorge A., Lu J., Bigio N.A., Chacko A., (2019), Psychoeducation Interventions for Parents and Teachers of Children and Adolescents with ADHD: a Systematic Review of the Literature Journal of Developmental and Physical Disabilities

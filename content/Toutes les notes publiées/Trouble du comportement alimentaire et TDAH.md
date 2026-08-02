@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-07-31T08:35:37.060+02:00
+modified: 2026-08-02T09:01:25.485+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -28,4 +28,4 @@ Plusieurs mécanismes sont proposés pour expliquer cette [[Les comorbidités du
 
 ## Références
 
-- Nazar, B. P., Bernardes, C., Peachey, G., Sergeant, J., Mattos, P., & Treasure, J., The risk of eating disorders comorbid with attention-deficit/hyperactivity disorder: A systematic review and meta-analysis, International Journal of Eating Disorders, 2016
+- Nazar, B. P., Bernardes, C., Peachey, G., Sergeant, J., Mattos, P., & Treasure, J., (2016), The risk of eating disorders comorbid with attention-deficit/hyperactivity disorder: A systematic review and meta-analysis, International Journal of Eating Disorders

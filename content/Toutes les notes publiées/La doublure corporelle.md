@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-31T15:01:28.582+02:00
+modified: 2026-08-02T09:04:41.032+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,6 +39,6 @@ Il convient de rester lucide quant aux limites. Les preuves scientifiques rigour
 
 ## Références
 
-- Eagle T., Baltaxe-Admony L.B., Ringland K.E., “It Was Something I Naturally Found Worked and Heard About Later”: An Investigation of Body Doubling with Neurodivergent Participants (ACM Conference / journal HCI, 2024)
+- Eagle T., Baltaxe-Admony L.B., Ringland K.E., (2024), “It Was Something I Naturally Found Worked and Heard About Later”: An Investigation of Body Doubling with Neurodivergent Participants (ACM Conference / journal HCI
 
-- Ara Z., Rahim I.B., Zhou P., Yu L., Esmaeili B., Yu L.-F., Hong S.R. You Are Not Alone: Designing Body Doubling for ADHD in Virtual Reality arXiv, 2025
+- Ara Z., Rahim I.B., Zhou P., Yu L., Esmaeili B., Yu L.-F., Hong S.R., (2025), You Are Not Alone: Designing Body Doubling for ADHD in Virtual Reality, arXiv
