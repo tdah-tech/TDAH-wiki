@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T18:33:47.890+02:00
+modified: 2026-08-02T17:57:12.580+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -40,7 +40,6 @@ Au-delà des grands leviers déjà couverts ailleurs dans le dossier ([[L'alimen
 
 ## Outils sensoriels
 
-- [[Couvertures lestées et TDAH]]
 - [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
 - [[L'utilisation de bruit blanc, rose ou marron]]
 - [[S'autoriser à gribouiller]]
