@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-30T14:04:30.108+02:00
+modified: 2026-08-02T17:33:56.429+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,10 +34,6 @@ tags:
 - [[Altération des processus métacognitifs chez les TDAH]]
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]
-
-## Outils sensoriels en classe ou pour les devoirs
-
-- [[Fidgets et casques anti-bruit — que dit vraiment la recherche]]
 
 ## Pour aller plus loin
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T17:21:38.709+02:00
+modified: 2026-08-02T17:36:30.908+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -17,9 +17,8 @@ tags:
 - [[Dopamine et TDAH]]
 - [[Noradrénaline et TDAH]]
 
-## Retard de maturation cérébrale
+## Le BDNF, l'engrais du cerveau
 
-- [[Retard de maturation cérébrale — 2 à 5 ans]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
 
