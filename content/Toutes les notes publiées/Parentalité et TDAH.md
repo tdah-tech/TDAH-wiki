@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-01T17:59:07.454+02:00
+modified: 2026-08-02T13:16:35.486+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -12,13 +12,17 @@ tags:
   - "#index"
 ---
 
-Élever un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP)ou d'autre comorbidités s'y ajoutent — expose à des dynamiques relationnellesplus compliquées que d'ordinaire et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
+Éduquer un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP )ou d'autre comorbidités s'y ajoutent — expose à des dynamiques relationnelles plus compliquées que d'ordinaire et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
 
 ## Faciliter le quotidien
 
 - [[Faire de la psychoéducation avec son enfant]]
-- [[Tenir compte du retard de maturation TDAH]]
+- [[Tenir compte du retard de maturation cérébral]]
 - [[Mettre en place des routines]]
+- [[Essayer, observer, ajuster, abandonner]]
+- [[Consignes orales simples]]
+- [[Capturer l'attention et initier l'action par le contact physique]]
+- [[Utiliser des supports visuels]]
 - [[Faciliter la transition entre les activités - les rituels de démarrage]]
 - [[Anticiper plutôt qu’exiger l’instantané]]
 - [[Pratiquer le Body-doubling avec l'enfant]]

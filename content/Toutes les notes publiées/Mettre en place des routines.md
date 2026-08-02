@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-01T17:37:27.731+02:00
+modified: 2026-08-02T13:16:38.797+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -31,6 +31,8 @@ En résumé, les routines constituent l’un des leviers les plus robustes que l
 ## Pour aller plus loin :
 
 - [[Parentalité et TDAH]]
+- [[Consignes orales simples]]
+- [[Utiliser des supports visuels]]
 - [[Faciliter la transition entre les activités - les rituels de démarrage]]
 - [[Anticiper plutôt qu’exiger l’instantané]]
 - [[Fonctions exécutives touchées par le TDAH]]

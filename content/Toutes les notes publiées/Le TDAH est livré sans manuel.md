@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T08:18:28.495+02:00
+modified: 2026-08-02T09:36:11.696+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,6 +22,7 @@ Une autre façon de voir les choses : Vivre avec un cerveau TDAH sans en connaî
 ## Pour aller plus loin
 
 - [[Vivre avec un TDAH]]
+- [[Essayer, observer, ajuster, abandonner]]
 - [[L'importance de la psychoéducation]]
 - [[Le TDAH n'est pas une excuse ou un blanc-seing]]
 - [[Métaphore de la Ferrari]]

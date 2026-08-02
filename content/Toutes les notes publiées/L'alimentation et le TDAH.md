@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-31T18:25:55.407+02:00
+modified: 2026-08-02T10:24:24.697+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -61,7 +61,7 @@ La stabilité glycémique constitue un autre levier intéressant indépendant de
 
 - [[Facteurs qui augmentent le BDNF dans le contexte du TDAH]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
-- [[Tenir compte du retard de maturation TDAH]]
+- [[Tenir compte du retard de maturation cérébral]]
 
 ## Pour aller plus loin
 

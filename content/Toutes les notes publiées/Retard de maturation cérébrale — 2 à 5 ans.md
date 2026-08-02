@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-18
-modified: 2026-08-02T09:01:25.480+02:00
+modified: 2026-08-02T10:24:24.703+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -29,7 +29,7 @@ Une étude plus récente de 2020 (Kakuszi et al.) apporte un éclairage complém
 ## Pour aller plus loin
 
 - [[Neurosciences du TDAH]]
-- [[Tenir compte du retard de maturation TDAH]]
+- [[Tenir compte du retard de maturation cérébral]]
 - [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH]]
 - [[Origine génétique du TDAH]]
 - [[Fonctions exécutives touchées par le TDAH]]
