@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-30T13:52:35.355+02:00
+modified: 2026-08-03T09:23:47.889+02:00
 tags:
   - "#micronote"
   - "#tdah"
 ---
 
-Le PAP et le PPS constituent les deux principaux dispositifs d’accompagnement scolaire pour les élèves présentant un TDAH, mais ils répondent à des situations différentes et n’ouvrent pas les mêmes droits. Comprendre leur distinction est essentiel pour orienter correctement les démarches et obtenir les aménagements adaptés.
+Le PAP et le PPS constituent les deux principaux dispositifs d’accompagnement scolaire pour les élèves présentant un TDAH, mais ils répondent à des situations différentes et n’ouvrent pas les mêmes droits. Comprendre leur distinction est essentiel pour orienter correctement les démarches dont peut bénéficier l'enfant pour obtenir les aménagements adaptés à sa situation.
 
 **Le Plan d’Accompagnement Personnalisé**, ou PAP, s’adresse aux élèves dont les difficultés scolaires durables découlent d’un trouble des apprentissages ou d’un trouble du neurodéveloppement, comme le TDAH, sans que le handicap ait été reconnu par la [[Dossier MDPH|Maison Départementale des Personnes Handicapées]]. Il s’agit d’un dispositif interne à l’établissement, mis en place après avis du médecin de l’éducation nationale. Sa procédure est relativement rapide, souvent de l’ordre de quelques semaines. Le PAP formalise des aménagements pédagogiques : placement préférentiel, consignes adaptées, fragmentations des tâches, [[Aménagement lors des évaluations|temps majoré lors des évaluations]] en classe, allègement de la charge de travail ou supports photocopiés. Il ne permet en principe ni l’attribution d’un AESH ni l’accès automatique aux aménagements des examens nationaux, mais il constitue l’outil le plus couramment utilisé et souvent suffisant pour la majorité des élèves avec TDAH.
 
