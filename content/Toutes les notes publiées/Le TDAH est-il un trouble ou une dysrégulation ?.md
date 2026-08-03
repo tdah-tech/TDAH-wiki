@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-02T09:08:22.632+02:00
+modified: 2026-08-03T07:48:56.567+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -16,13 +16,13 @@ L’appellation officielle, héritée des classifications diagnostiques, suggèr
 
 La majorité des adultes et des adolescents qui en parlent ne décrivent pas un manque d'attention, mais un afflux permanent et désordonné de pensées, d’images, de souvenirs et de stimuli internes ou externes qui se disputent constamment la direction de l’attention. **Ce n’est pas l’attention qui fait défaut ; c’est la capacité à la réguler, à la filtrer, à la maintenir ou à la détourner de manière volontaire et adaptée au contexte**.
 
-On est donc en présence d’une **dysrégulation** de l’attention plutôt que d’un **déficit**.
+Pour beaucoup on serait donc en présence d’une **dysrégulation** de l’attention plutôt qu'en présence d’un **déficit**.
 
 **En fait, le système attentionnel des personnes TDAH fonctionne de façon variable et contextuelle**.\*\* Il peut basculer brusquement d’un état de dispersion extrême, où l’esprit vagabonde sans cesse, à un état d’absorption intense (**[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]**) dans lequel le temps, les obligations extérieures et même les signaux corporels (faim soif, fatigue) s’effacent.
 
 Cette dualité n’est pas une contradiction  ; elle constitue au contraire l’une des caractéristiques centrales du fonctionnement attentionnel TDAH.
 
-Plusieurs auteurs, dont le psychiatre William Dodson, ont proposé de parler de système nerveux **fondé sur l’intérêt plutôt que sur l’importance**.
+Plusieurs auteurs, dont le psychiatre William Dodson, ont ainsi proposé de parler de système nerveux **fondé sur l’intérêt plutôt que sur l’importance**.
 
 Chez la plupart des personnes neurotypiques, l’attention peut être mobilisée par le sentiment d’obligation, de priorité ou de conséquence à long terme. Chez les personnes TDAH, ces leviers sont souvent insuffisants.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-07-29T08:18:28.480+02:00
+modified: 2026-08-03T07:44:26.054+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -22,7 +22,7 @@ C’est précisément dans ces conditions que l’hyperfocus peut conduire à de
 
 ## Pour aller plus loin
 
-- [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
+- [[Pourquoi l'hyperfocus est un "super-pouvoir" ?]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Qu'est-ce qui déclenche l'hyperfocus]]
 - [[Qu'est-ce-que le TDAH ?]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-02T17:10:06.818+02:00
+modified: 2026-08-03T07:53:02.908+02:00
 tags:
   - "#tdah"
   - "#definition"
@@ -17,6 +17,12 @@ Le TDAH, Trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) e
 Il associe, à des degrés divers, trois grandes dimensions : le [[Le déficit d'attention chez les TDA|déficit de l'attention]], l'[[L'hyperactivité chez le TDAH|hyperactivité]] et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 Certaines personnes présentent surtout des difficultés attentionnelles, sans agitation particulière ; d'autres sont avant tout hyperactives et impulsives ; beaucoup combinent les difficultés. C'est pourquoi les manifestations du TDAH [[Les trois profils types du TDAH|diffèrent d'une personne à l'autre]].
+
+## Trouble, dysrégulation ou variation neurodéveloppementale ?
+
+- [[Le TDAH est-il un trouble ou une dysrégulation ?]]
+- [[Trouble ou neurodivergence ?]]
+- [[Le TDAH comme "Trait d'attention variable aux stimulis "]]
 
 ## Les trois dimensions cliniques du TDAH
 

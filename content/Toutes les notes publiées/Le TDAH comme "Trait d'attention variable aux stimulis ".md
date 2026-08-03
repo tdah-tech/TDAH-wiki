@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:01:25.466+02:00
+modified: 2026-08-03T07:44:26.060+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -25,7 +25,7 @@ Cette reformulation vise explicitement à sortir du langage pathologique associ�
 
 En parlant de « trait » plutôt que de « trouble » et de « variable » plutôt que de « déficit », Hallowell et Ratey cherchent à réduire la stigmatisation et à mettre en lumière les forces souvent associées à ce fonctionnement cérébral : **curiosité, créativité, capacité d'adaptation rapide, intensité émotionnelle et aptitude à l'innovation**.
 
-Ils insistent sur le fait que les mêmes caractéristiques qui génèrent des difficultés dans un environnement peu stimulant peuvent devenir des atouts majeurs dans un contexte adapté. (voir [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]])
+Ils insistent sur le fait que les mêmes caractéristiques qui génèrent des difficultés dans un environnement peu stimulant peuvent devenir des atouts majeurs dans un contexte adapté. (voir [[Pourquoi l'hyperfocus est un "super-pouvoir" ?]])
 
 Le concept de VAST a été  salué pour son intention destigmatisante et pour avoir répandu l'idée que le TDAH comporte une dimension de force et pas seulement une dimension de handicap.
 
@@ -38,7 +38,7 @@ Il reste cependant un outil de vulgarisation plutôt qu'un concept clinique opé
 - [[Le TDAH est-il un trouble ou une dysrégulation ?]]
 - [[Neurosciences du TDAH]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
-- [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
+- [[Pourquoi l'hyperfocus est un "super-pouvoir" ?]]
 
 ## Référence
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-02T09:07:26.611+02:00
+modified: 2026-08-03T07:47:06.417+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -37,3 +37,4 @@ Plusieurs entrepreneurs de renommée mondiale ont publiquement évoqué leur TDA
 - Verheul I., Block J., Burmeister-Lamp K., Thurik R., Tiemeier H., Turturea R., (2015), ADHD-like behavior and entrepreneurial intentions, Small Business Economics
 - Wiklund J., Yu W., Tucker R., Marino L.D., (2017), ADHD, impulsivity and entrepreneurship Journal of Business Venturing
 - Business Development Bank of Canada (BDC), (2025), Survey on the Mental Health of Canadian Entrepreneurs
+- Yu, W., Wiklund, J., & Pérez-Luño, A. (2021). ADHD symptoms, entrepreneurial orientation (EO), and firm performance. _Entrepreneurship Theory and Practice_, 45(1), 92–117

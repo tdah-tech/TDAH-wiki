@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-01T15:09:23.309+02:00
+modified: 2026-08-03T07:51:30.236+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -18,9 +18,7 @@ Les difficultés apparaissent surtout lorsqu’il se heurte à des environnement
 
 Dans d’autres contextes en effets, les mêmes caractéristiques du TDAH peuvent devenir des atouts : intensité, créativité, capacité d’immersion, réactivité face à l’urgence ou à la nouveauté. Sous cet angle, on passe alors **d’une logique de déficit à une logique de différence**, et le terme de **neuroatypie** rend mieux compte de cette réalité.
 
-Trouble et neuroatypie ne s’excluent pas nécessairement. Elles se situent plutôt sur un continuum. **Ce qui justifie parfois une intervention clinique, ce n’est pas la simple présence de ces traits, mais le fait qu’ils génèrent une détresse significative ou un handicap dans le contexte de vie de la personne. La reconnaissance du trouble permet de reconnaitre le handicap.**
-
-**Reconnaître la dimension neuroatypique permet elle d’éviter la stigmatisation et de valoriser les forces**.
+Trouble et neuroatypie ne s’excluent pas nécessairement. Elles se situent plutôt sur un continuum. **Ce qui justifie parfois une intervention clinique, ce n’est pas la simple présence de ces traits, mais le fait qu’ils génèrent une détresse significative ou un handicap dans le contexte de vie de la personne. La reconnaissance du trouble permet de reconnaitre le handicap, et reconnaître la dimension neuroatypique permet elle d’éviter la stigmatisation et de valoriser les forces des personnes TDAH**.
 
 L’enjeu actuel n’est donc plus de choisir entre les deux vocables, mais de tenir ensemble la complexité du TDAH : un fonctionnement cérébral différent qui, selon les circonstances et le degré d’intensité, peut être source de richesse ou de véritable souffrance.
 

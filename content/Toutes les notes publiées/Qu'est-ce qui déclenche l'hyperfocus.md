@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T09:07:26.617+02:00
+modified: 2026-08-03T07:44:26.079+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -34,7 +34,7 @@ L'intérêt agit comme un **aimant neurologique** : plus il est vif, plus la por
 
 ## Pour aller plus loin
 
-- [[Pourquoi l'hyperfocus est un vrai atout et un super-pouvoir ?]]
+- [[Pourquoi l'hyperfocus est un "super-pouvoir" ?]]
 - [[Qu'est-ce-que l'hyperfocus ?]]
 - [[Durée de l'hyperfocus]]
 - [[Qu'est-ce-que le TDAH ?]]
