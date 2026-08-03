@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T17:33:56.429+02:00
+modified: 2026-08-03T10:25:08.099+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -20,8 +20,9 @@ tags:
 ## Aménagements et dispositifs administratifs
 
 - [[Les aménagements scolaires]]
-- [[Aménagement lors des évaluations]]
 - [[Le PAP et le PPS]]
+- [[Le renforcement positif fréquent de l'enseignant]]
+- [[Aménagement lors des évaluations]]
 - [[Dossier MDPH]]
 
 ## Le méthylphénidate à l'école

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-31T11:27:20.090+02:00
+modified: 2026-08-03T10:10:38.786+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -39,6 +39,7 @@ Un renforcement spécifique mais rare reste trop peu fréquent pour rééquilibr
 ## Pour aller plus loin
 
 - [[Parentalité et TDAH]]
+- [[Le renforcement positif fréquent de l'enseignant]]
 - [[L'importance du renforcement positif]]
 - [[Guidance parentale - La méthode Barkley]]
 - [[Le trouble oppositionnel avec provocation et le TDAH]]
