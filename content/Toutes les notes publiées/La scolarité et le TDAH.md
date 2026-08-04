@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-03T10:25:08.099+02:00
+modified: 2026-08-03T21:26:04.819+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -14,6 +14,7 @@ tags:
 ## Réussite / échec scolaire
 
 - [[Réussite et échec scolaire]]
+- [[Contextualiser l'influence du TDAH sur la réussite scolaire]]
 - [[L’effet Pygmalion et l'effet Golem]]
 - [[Croire en soi - Croire en eux - prophéties autoréalisatrices]]
 
@@ -35,6 +36,7 @@ tags:
 - [[Altération des processus métacognitifs chez les TDAH]]
 - [[L’étayage métacognitif]]
 - [[Grilles de relectures]]
+- [[L’importance des automatismes]]
 
 ## Pour aller plus loin
 

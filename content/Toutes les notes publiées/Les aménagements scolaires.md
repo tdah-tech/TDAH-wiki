@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-03T09:47:20.395+02:00
+modified: 2026-08-03T12:32:39.212+02:00
 tags:
   - "#micronote"
   - "#tdah"
@@ -38,8 +38,6 @@ Voici quelques aménagements possibles :
 **Mettre en place un code entre l'élève et l'enseignant**. Un code non verbal convenu à l’avance — un signe discret — permet d’intervenir/alerter l'enseignant avant que l’[[L'impulsivité chez le TDAH|impulsivité]] ne s’emballe.
 
 **Autoriser des déplacements contrôlés et des pauses motrices**, sans jamais priver l’élève de récréation ou de sport, contribue à la régulation attentionnelle. L’énergie de l’élève peut de même être canalisée de façon constructive en lui confiant des missions utiles, comme distribuer les cahiers ou effacer le tableau. Dans certains cas, **un coin calme ou un espace de retrait temporaire peut être aménagé, permettant à l’élève de se recentrer sans quitter durablement le groupe**. Certains élèves bénéficient de possibilités de mouvement discret, comme une bande élastique sous la chaise ou un [[Fidgets et casques anti-bruit — que dit vraiment la recherche|objet fidgétique]] silencieux, afin de répondre à leurs besoins de régulation sensorielle.
-
-**[[Bien calibrer le renforcement positif|Le renforcement positif]] fréquent demeure un levier majeur**. Un élève TDAH subit plus de remarques négatives que la moyenne des éléves, ce qui peut le pousse. Concrètement, cela passe par féliciter à chaque étape terminée, poser une main encourageante sur l'épaule, valoriser les efforts plutôt que uniquement le résultat, et confier des rôles positifs au sein de la classe : autant de leviers qui renforcent l'estime de soi et maintiennent l'engagement.
 
 Un système de suivi quotidien/hebdomadaire/mensuel partagé avec les parents prolonge la cohérence éducative au-delà de la classe.
 
