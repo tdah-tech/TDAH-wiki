@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-08-02T15:24:16.280+02:00
+modified: 2026-08-07T11:02:27.075+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vitamines-b"
-  - "#folate"
-  - "#micronutriments"
-  - "#dopamine"
-  - "#noradrenaline"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - vitamines-b
+  - folate
+  - micronutriments
+  - dopamine
+  - noradrenaline
+  - alimentation
 ---
 
 La science s’intéresse depuis plusieurs années au lien possible entre les vitamines du groupe B et le trouble du déficit de l’attention avec ou sans hyperactivité.
@@ -23,11 +23,11 @@ Chez les enfants comme chez les adultes, **des études observationnelles rapport
 
 Sur le plan expérimental, les données d’intervention les plus solides portent sur des **[[Supplémentation alimentaire - priviligier les formules à large spectre|formules de micronutriments à large spectre]]** (associant plusieurs vitamines B, d’autres vitamines et des minéraux), plutôt que sur une vitamine B isolée.
 
-**Chez l’adulte, un essai randomisé contrôlé en double aveugle (Rucklidge et coll.) a montré une amélioration statistiquement significative des symptômes de TDAH et du fonctionnement global avec une formule multivitamino-minérale par rapport au placebo**. Chez l’enfant, des essais similaires (dont un essai multicentrique) ont rapporté  des gains particulièrement notables sur la régulation émotionnelle et le fonctionnement global. **Ces formules élèvent souvent les taux sanguins de B12 et de folate, ce qui est cohérent avec un effet biologique. Cependant, il est difficile d’isoler la contribution spécifique des vitamines B au sein de ces mélanges complexes**.
+**Chez l’adulte, un essai randomisé contrôlé en double aveugle (Rucklidge et coll.) a montré une amélioration statistiquement significative des symptômes de TDAH et du fonctionnement global avec une formule multivitamino-minérale par rapport au placebo**. Chez l’enfant, des essais similaires (dont un essai multicentrique) ont rapporté des gains particulièrement notables sur la régulation émotionnelle et le fonctionnement global. **Ces formules élèvent souvent les taux sanguins de B12 et de folate, ce qui est cohérent avec un effet biologique. Cependant, il est difficile d’isoler la contribution spécifique des vitamines B au sein de ces mélanges complexes**.
 
-**Les données concernant une supplémentation isolée en vitamines B sont plus rares et moins concluantes**. Certaines revues systématiques regroupant des interventions vitaminiques dans les troubles neurodéveloppementaux indiquent un **effet global positif des vitamines B**, mais les analyses de sous-groupes montrent souvent un bénéfice plus marqué pour le trouble du spectre de l’autisme que pour le TDAH, **où la [[La Vitamine D|vitamine D]] apparaît plus fréquemment associée à des améliorations**. Aucune recommandation de pratique clinique de haut niveau ne place actuellement les vitamines B comme traitement de première intention du TDAH. **Les recommendations internationales les considèrent, qu'elles doivent être envisagée surtout en cas de carence documentée**.
+**Les données concernant une supplémentation isolée en vitamines B sont plus rares et moins concluantes**. Certaines revues systématiques regroupant des interventions vitaminiques dans les troubles neurodéveloppementaux indiquent un **effet global positif des vitamines B**, mais les analyses de sous-groupes montrent souvent un bénéfice plus marqué pour le trouble du spectre de l’autisme que pour le TDAH, **où la [[La Vitamine D|vitamine D]] apparaît plus fréquemment associée à des améliorations**. Aucune recommandation de pratique clinique de haut niveau ne place actuellement les vitamines B comme traitement de première intention du TDAH. **Les recommandations internationales les considèrent, qu'elles doivent être envisagées surtout en cas de carence documentée**.
 
-La science actuelle invite à une attitude nuancée. \*\*Il est pertinent de vérifier, chez une personne avec TDAH, le statut en vitamines B9 et B12, surtout en présence de facteurs de risque (régime restrictif, malabsorption, tabagisme, grossesse, traitements médicamenteux interférents).
+La science actuelle invite à une attitude nuancée. **Il est pertinent de vérifier, chez une personne avec TDAH, le statut en vitamines B9 et B12, surtout en présence de facteurs de risque (régime restrictif, malabsorption, tabagisme, grossesse, traitements médicamenteux interférents)**.
 
 Une carence avérée doit être corrigée, car elle peut aggraver la fatigue cognitive, l’irritabilité ou les difficultés attentionnelles. En revanche, la supplémentation systématique à doses élevées chez des personnes ayant des taux normaux n’est pas soutenue par des preuves robustes d’efficacité spécifique. **Les bénéfices observés dans les essais de micronutriments à large spectre semblent liés à une optimisation globale du statut nutritionnel plutôt qu’à une action ciblée d’une seule vitamine B.**
 

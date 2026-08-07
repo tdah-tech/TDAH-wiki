@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-29T08:19:13.484+02:00
+modified: 2026-08-07T10:20:14.208+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#opposition"
-  - "#trouble-opposition"
-  - "#escalade"
-  - "#cycle-opposition"
-  - "#cycle-escalade"
+  - micronote
+  - tdah
+  - opposition
+  - trouble-opposition
+  - escalade
+  - cycle-opposition
+  - cycle-escalade
 ---
 
-Beaucoup de parents d'enfant TDAH le vivent au quotidien. On demande à son enfant de ranger ses chaussures, de venir à table ou de commencer ses devoirs. La réponse ? Un "attend", un « non » , ou pire, un silence total, comme si on n’avait rien dit. Le parent répète. Une fois. Deux fois. trois fois. Le ton monte. Les menaces arrivent. Et en quelques minutes, la maison est en pleine tempête.
+Beaucoup de parents d'enfant TDAH le vivent au quotidien. On demande à son enfant de ranger ses chaussures, de venir à table ou de commencer ses devoirs. La réponse ? Un "attend", un « non », ou pire, un silence total, comme si on n’avait rien dit. Le parent répète. Une fois. Deux fois. Trois fois. Le ton monte. Les menaces arrivent. Et en quelques minutes, la maison est en pleine tempête.
 
 C’est un mécanisme bien identifié en psychologie, qu’on appelle le **cycle d’escalade** (ou cycle coercitif).
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-02T09:01:25.483+02:00
+modified: 2026-08-07T10:23:14.674+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#sport"
-  - "#mémoire-de-travail"
-  - "#exercice"
+  - micronote
+  - tdah
+  - sport
+  - mémoire-de-travail
+  - exercice
 ---
 
 Tous les sports sont bons pour les TDAH mais certains sports reviennent plus fréquemment dans les recommandations pour les TDAH :
@@ -18,9 +18,9 @@ Tous les sports sont bons pour les TDAH mais certains sports reviennent plus fr�
 
 **La natation** pour les effets calmant de l'eau.
 
-**Les sports cardio classique** (natation, vélo, course, corde à sauter, danse) sont efficace et accessible, surtout en format court et intense.
+**Les sports cardio classiques** (natation, vélo, course, corde à sauter, danse) sont efficaces et accessibles, surtout en format court et intense.
 
-Lorsque cela est possible il convient de priviligier les activités de plein air avec des environnement changeant et stimulant.
+Lorsque cela est possible il convient de privilégier les activités de plein air avec des environnements changeants et stimulants.
 
 ## Pour aller plus loin
 

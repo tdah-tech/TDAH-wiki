@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-27T11:53:05.142+02:00
+modified: 2026-08-07T10:24:00.164+02:00
 tags:
   - micronote
   - tdah
@@ -12,7 +12,7 @@ tags:
 
 Dans le fonctionnement cérébral, l’image du **chef d’orchestre et de ses musiciens** offre une métaphore particulièrement juste pour comprendre le TDAH. Imaginez un grand orchestre symphonique. Chaque partie de l'orchestre — les cordes, les vents, les percussions, les cuivres — représente une fonction cognitive précise : l’attention soutenue, la [[Mémoire de travail et TDAH|mémoire de travail]], la régulation émotionnelle, le contrôle des impulsions, la planification ou encore la motivation. Les musiciens sont talentueux, parfois brillants, capables de produire des phrases d’une grande richesse. Ils savent jouer. Pourtant, pour que l’ensemble donne une œuvre cohérente, il faut un chef d’orchestre qui marque le tempo et permet aux musiciens de jouer ensemble.
 
-Dans un cerveau neurotypique, ce chef d’orchestre — que l’on peut identifier aux **[[Les fonctions éxécutives - définition|fonctions exécutives]] situées** principalement dans le cortex préfrontal — dispose d’une partition claire et d’une autorité stable. Il sait quand faire taire les cuivres trop enthousiastes, quand relancer les cordes , quand ralentir le rythme . Le résultat la partition est jouée correctement.
+Dans un cerveau neurotypique, ce chef d’orchestre — que l’on peut identifier aux **[[Les fonctions éxécutives - définition|fonctions exécutives]] situées** principalement dans le cortex préfrontal — dispose d’une partition claire et d’une autorité stable. Il sait quand faire taire les cuivres trop enthousiastes, quand relancer les cordes, quand ralentir le rythme. Le résultat la partition est jouée correctement.
 
 Chez la personne vivant avec un TDAH, le chef d’orchestre est présent, mais sa baguette bat parfois dans le vide. Il se laisse distraire par un bruit dans la salle, il perd le fil de la partition, il donne des indications trop tardives ou trop rapides. Les musiciens, laissés à eux-mêmes, continuent de jouer selon leur propre logique : l’attention s’envole vers une idée brillante puis disparaît, l’émotion prend le devant de la scène sans prévenir, l’impulsion se lance dans un solo improvisé pendant que la [[Mémoire de travail et TDAH|mémoire de travail]] oublie de tourner la page. Il ne s’agit pas d’une absence de talent ni d’une mauvaise volonté des musiciens. Au contraire, certains d’entre eux excellent dans leurs domaines. Le problème réside dans la coordination. La musique qui en résulte peut être d’une beauté sauvage, pleine de surprises et d’intensité, mais elle peine à respecter la structure attendue par le monde extérieur : les délais, les priorités, les transitions, la constance.
 

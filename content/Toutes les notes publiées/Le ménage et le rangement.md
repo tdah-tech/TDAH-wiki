@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-02T09:07:26.615+02:00
+modified: 2026-08-07T10:21:53.873+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#menage"
-  - "#rangement"
-  - "#fonctions-executives"
-  - "#surcharge-mentale"
-  - "#organisation"
+  - micronote
+  - tdah
+  - menage
+  - rangement
+  - fonctions-executives
+  - surcharge-mentale
+  - organisation
 ---
 
 Le ménage et le rangement constituent un domaine particulièrement révélateur des difficultés rencontrées dans le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]]. Ce qui apparaît comme une série de gestes simples et répétitifs pour la majorité des personnes se transforme, pour celles qui vivent avec un TDAH, en un défi cognitif et émotionnel complexe.
@@ -20,7 +20,7 @@ Les études empiriques confirment la réalité de ces difficultés. Les enfants 
 
 Pourtant, le ménage n’est pas dénué de vertus. La science lui attribue des effets positifs mesurables. Sur le plan physique, il constitue une activité d’intensité légère à modérée qui mobilise le corps, favorise la circulation et contribue à la régulation de l’humeur par la libération d’endorphines. **Sur le plan psychologique, un environnement ordonné réduit les niveaux de cortisol et allège la charge cognitive générée par le désordre**. Chaque objet hors de place capte une part d’attention ; un espace plus clair libère donc des ressources attentionnelles précieuses. Par ailleurs, l’acte de nettoyer ou de ranger produit un sentiment tangible de contrôle et d’accomplissement, activant les circuits de récompense. Des travaux expérimentaux sur de jeunes adultes non diagnostiqués TDAH ont montré qu’un épisode de tâches ménagères pouvait améliorer transitoirement certaines performances des fonctions exécutives, avec une activation accrue de régions préfrontales.
 
-Dans le contexte du TDAH, les bénéfices de mettre en place des routines ménages prennent une dimension particulière. Le désordre aggravant la surcharge sensorielle et cognitive, et intensifiant précisément les difficultés attentionnelles et organisationnelles déjà présentes, **ranger son bureau et son espace de travail** constitue un minimum bénéfique favorable au fonctionnement exécutif. Cette logique s’étend naturellement à l’ensemble des environnements de vie. Qu’il s’agisse de la cuisine, de l’appartement ou de la maison dans son ensemble, ou encore de l’organisation des fichiers et des dossiers sur un ordinateur, ou du cartable.
+Dans le contexte du TDAH, les bénéfices de mettre en place des routines ménagères prennent une dimension particulière. Le désordre aggravant la surcharge sensorielle et cognitive, et intensifiant précisément les difficultés attentionnelles et organisationnelles déjà présentes, **ranger son bureau et son espace de travail** constitue un minimum bénéfique favorable au fonctionnement exécutif. Cette logique s’étend naturellement à l’ensemble des environnements de vie. Qu’il s’agisse de la cuisine, de l’appartement ou de la maison dans son ensemble, ou encore de l’organisation des fichiers et des dossiers sur un ordinateur, ou du cartable.
 
 ## Pour aller plus loin :
 

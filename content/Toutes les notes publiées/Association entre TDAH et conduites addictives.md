@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-08-02T09:01:25.449+02:00
+modified: 2026-08-07T10:18:17.389+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#addiction"
-  - "#dopamine"
-  - "#impulsivite"
-  - "#dysregulation-emotionnelle"
-  - "#methylphenidate"
+  - micronote
+  - tdah
+  - addiction
+  - dopamine
+  - impulsivite
+  - dysregulation-emotionnelle
+  - methylphenidate
 ---
 
 La science établit là aussi de manière robuste et convergente **une association forte entre TDAH et les addictions, qu’il s’agisse de troubles de l’usage de substances (alcool, tabac, cannabis, stimulants, opiacés) ou d’addictions comportementales (jeux d’argent, jeux vidéo, cyberdépendance, achats compulsifs, sexualité, pornographie)**.
 
-Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque significativement accru de développer un trouble de l’usage de substances au cours de leur vie**. **Parmi les personnes suivies pour une addiction, environ 20 à 25 % d'entre elles répondent aux critères diagnostiques du TDAH** , proportion qui peut être plus élevée dans certaines addictions comportementales.
+Les méta-analyses et les études longitudinales de grande envergure montrent que les personnes présentant un TDAH ont **un risque significativement accru de développer un trouble de l’usage de substances au cours de leur vie**. **Parmi les personnes suivies pour une addiction, environ 20 à 25 % d'entre elles répondent aux critères diagnostiques du TDAH**, proportion qui peut être plus élevée dans certaines addictions comportementales.
 
 Cette comorbidité s’accompagne systématiquement d’une plus grande sévérité clinique.
 
@@ -22,7 +22,7 @@ Chez les personnes TDAH **l’âge d’initiation aux substances est plus préco
 
 Les études de cohorte qui ont suivi des enfants diagnostiqués TDAH jusqu’à l’âge adulte confirment que ce sur-risque concerne aussi bien les garçons que les filles et s’étend à l’ensemble des substances psychoactives.
 
-Plusieurs mécanismes biologiques et psychologiques expliquent cette vulnérabilité partagée notamment le dysfonctionnement du [[Dopamine et TDAH|système de récompense dopaminergique]],  qui se traduit par une **hypostimulation chronique et une recherche permanente de stimulations intenses ou immédiates**.
+Plusieurs mécanismes biologiques et psychologiques expliquent cette vulnérabilité partagée notamment le dysfonctionnement du [[Dopamine et TDAH|système de récompense dopaminergique]], qui se traduit par une **hypostimulation chronique et une recherche permanente de stimulations intenses ou immédiates**.
 
 **[[L'impulsivité chez le TDAH|L’impulsivité]], la difficulté à différer la gratification et le déficit de contrôle inhibiteur**, dimensions centrales du TDAH, constituent également des facteurs de risque majeurs pour l’entrée dans les conduites addictives.
 

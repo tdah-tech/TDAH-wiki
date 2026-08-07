@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T09:06:06.811+02:00
+modified: 2026-08-07T10:58:07.065+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#diagnostic"
-  - "#has"
-  - "#methylphenidate"
-  - "#psychoeducation"
-  - "#traitement"
+  - micronote
+  - tdah
+  - diagnostic
+  - has
+  - methylphenidate
+  - psychoeducation
+  - traitement
 ---
 
-Le diagnostic du TDAH en France est une démarche strictement clinique effectué par des médecins.
+Le diagnostic du TDAH en France est une démarche strictement clinique effectuée par des médecins.
 
 Les recommandations de bonne pratique de la Haute Autorité de Santé publiées en septembre 2024 pour les enfants et les adolescents ont clarifié et harmonisé ce processus sur l’ensemble du territoire.
 
@@ -69,4 +69,4 @@ Chez l’adulte et souvent l'enfant, **un avis cardiologique préalable est gén
 
 **Haute Autorité de Santé (HAS)**, (2024), [Trouble du neurodéveloppement / TDAH : Diagnostic et interventions thérapeutiques auprès des enfants et des adolescents](https://www.has-sante.fr/jcms/p_3302482/fr/trouble-du-neurodeveloppement/tdah-diagnostic-et-interventions-therapeutiques-aupres-des-enfants-et-adolescents), Recommandations de bonne pratique
 
-[EBI-ADHD : Interventions for ADHD | Evidence Matrix](https://ebiadhd-database.org/ebiadhd) — base de données de synthèse (Université Paris Nanterre, Hôpital Robert-Debré, SCIENCES Lab, Université de Southampton) recensant plus de 30 interventions contre le TDAH — dont les traitements médicamenteux comme le méthylphénidate — à partir de plus de 200 méta-analyses
+[EBI-ADHD : Interventions for ADHD | Evidence Matrix](https://ebiadhd-database.org/ebiadhd)

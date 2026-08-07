@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-29T08:19:13.483+02:00
+modified: 2026-08-07T10:24:27.191+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#neurotypique"
-  - "#procrastination"
-  - "#hyperfocus"
-  - "#fonctions-executives"
-  - "#dopamine"
+  - micronote
+  - tdah
+  - neurotypique
+  - procrastination
+  - hyperfocus
+  - fonctions-executives
+  - dopamine
 ---
 
 Le trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) implique bel et bien des difficultés marquées dans le domaine de l'attention soutenue et des [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]]. Cette réalité est solidement documentée et ne doit pas être minimisée.
@@ -34,7 +34,7 @@ En réalité, le continuum des capacités attentionnelles et exécutives est lar
 
 Et cela va dans les deux sens. [[Qu'est-ce-que l'hyperfocus ?|L'hyperfocus]], souvent présenté comme caractéristique du TDAH, est également rapporté par une large majorité de personnes sans le trouble : une étude portant sur plus de 1100 adultes sans TDAH a ainsi trouvé une fréquence de près de **83 %, comparable à celle observée chez les personnes diagnostiquées**.
 
-Ce qui change avec le TDAH, c’est le contexte dans lequel cet hyperfocus apparaît, la façon dont il s’installe et surtout la difficulté à le réguler. Chez les personnes neurotypiques, la capacité à s’absorber profondément dans une tâche reste généralement plus modulable : on peut plus facilement entrer dans cet état lorsqu’on le souhaite et, surtout, **en sortir pour répondre à d’autres priorités**. Chez beaucoup de personnes avec TDAH, l’hyperfocus se déclenche de manière plus automatique face à des stimuli fortement intéressants, urgents ou nouveaux, et il devient alors difficile de s’en extraire. Les TDAH n'ont pas l'exclusivité de l'hyperfocus mais il peut être beaucoup plus intense parce que le frein attentionnel fonctionne moins bien. L’essentiel n’est donc pas la simple présence de l’hyperfocus, mais son caractère dysrégulé .
+Ce qui change avec le TDAH, c’est le contexte dans lequel cet hyperfocus apparaît, la façon dont il s’installe et surtout la difficulté à le réguler. Chez les personnes neurotypiques, la capacité à s’absorber profondément dans une tâche reste généralement plus modulable : on peut plus facilement entrer dans cet état lorsqu’on le souhaite et, surtout, **en sortir pour répondre à d’autres priorités**. Chez beaucoup de personnes avec TDAH, l’hyperfocus se déclenche de manière plus automatique face à des stimuli fortement intéressants, urgents ou nouveaux, et il devient alors difficile de s’en extraire. Les TDAH n'ont pas l'exclusivité de l'hyperfocus mais il peut être beaucoup plus intense parce que le frein attentionnel fonctionne moins bien. L’essentiel n’est donc pas la simple présence de l’hyperfocus, mais son caractère dysrégulé.
 
 Enfin, le contexte contemporain — saturation informationnelle, interruptions numériques constantes, met à l'épreuve les ressources cognitives de tout le monde, TDAH ou pas.
 

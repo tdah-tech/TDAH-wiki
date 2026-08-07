@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T15:08:13.436+02:00
+modified: 2026-08-07T10:23:08.672+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#abandon-de-projet"
-  - "#choix-de-projet"
-  - "#brain-dump"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - abandon-de-projet
+  - choix-de-projet
+  - brain-dump
+  - hyperfocus
 ---
 
 Savoir choisir ses projets représente, pour les personnes présentant un TDAH, une compétence complémentaire et tout aussi essentielle que celle de [[Savoir abandonner les projets|savoir abandonner]] ceux qui ne méritent plus d’être poursuivis.
@@ -29,7 +29,7 @@ En les posant sur le papier ou dans un document numérique, on allège la charge
 
 Cette compétence se construit progressivement. Elle repose sur une pratique répétée de clarification intérieure, où l’on apprend à observer ses propres réactions émotionnelles face à une nouvelle idée sans s’y laisser immédiatement emporter.
 
-Avec le temps, la personne développe une forme de lucidité qui lui permet de reconnaître plus tôt les projets porteurs de sens durable et ceux qui risquent de devenir des fardeaux. En cultivant cette capacité de choix, soutenue par des techniques d’externalisation comme le brain dump, elle passe d’une logique d’ouverture quasi illimitée et dans tous les sens à une logique de sélection lucide. Ce mouvement transforme la tendance à la dispersion bien connu chez les TDAH en une force de concentration plus stable, et ouvre la voie à des engagements plus justes, plus soutenables et plus satisfaisants sur la durée.
+Avec le temps, la personne développe une forme de lucidité qui lui permet de reconnaître plus tôt les projets porteurs de sens durable et ceux qui risquent de devenir des fardeaux. En cultivant cette capacité de choix, soutenue par des techniques d’externalisation comme le brain dump, elle passe d’une logique d’ouverture quasi illimitée et dans tous les sens à une logique de sélection lucide. Ce mouvement transforme la tendance à la dispersion bien connue chez les TDAH en une force de concentration plus stable, et ouvre la voie à des engagements plus justes, plus soutenables et plus satisfaisants sur la durée.
 
 ## Pour aller plus loin :
 

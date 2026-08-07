@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-02
-modified: 2026-08-02T13:16:03.886+02:00
+modified: 2026-08-07T11:00:35.455+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#parentalite"
-  - "#support-visuel"
-  - "#memoire-de-travail"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - parentalite
+  - support-visuel
+  - memoire-de-travail
+  - fonctions-executives
 ---
 
 Le planning de tâches sous forme de support visuel constitue l’un des outils les plus souvent recommandés pour compenser les déficits de [[Mémoire de travail et TDAH|mémoire de travail]] et de planification séquentielle chez les enfants présentant un TDAH.
@@ -19,7 +19,7 @@ Avec un support visuel l’enfant n’a plus à retenir l’ordre des actions et
 
 Les données scientifiques confirment l’intérêt de cette approche. Une revue systématique portant spécifiquement sur les enfants de 5 à 12 ans présentant un TDAH a montré que les interventions fondées sur les plannings d’activité visuelle réduisent les comportements problématiques, augmentent les comportements attendus, et améliorent la satisfaction des parents et des enseignants.
 
-Une  limite importante cependant est que\*\* **le support visuel n’agit pas sur la motivation ni sur la régulation émotionnelle** . Il externalise la séquence et réduit la charge cognitive liée au « quoi faire ensuite », mais il ne crée pas l’élan nécessaire au démarrage. Dans ces situations, le planning peut être parfaitement compris et néanmoins ignoré. C'est pourquoi il peut être utile de le coupler avec un [[L'importance du renforcement positif|système de récompenses motivant]].
+Une limite importante cependant est que **le support visuel n’agit pas sur la motivation ni sur la régulation émotionnelle**. Il externalise la séquence et réduit la charge cognitive liée au « quoi faire ensuite », mais il ne crée pas l’élan nécessaire au démarrage. Dans ces situations, le planning peut être parfaitement compris et néanmoins ignoré. C'est pourquoi il peut être utile de le coupler avec un [[L'importance du renforcement positif|système de récompenses motivant]].
 
 De plus, l’efficacité de ce type d'outils dépend fortement de la manière dont ils sont mis en place et maintenus. Un planning trop chargé, trop rigide, placé hors du champ de vision ou rarement actualisé perd rapidement son pouvoir.
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-01T17:55:34.745+02:00
+modified: 2026-08-07T10:24:59.952+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#body-doubling"
-  - "#parentalite"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - body-doubling
+  - parentalite
+  - fonctions-executives
 ---
 
 Le [[La doublure corporelle|body doubling]], parfois appelé doublage corporel, constitue une autre stratégie de soutien particulièrement pertinente pour les parents.
@@ -16,7 +16,7 @@ Il repose sur un principe simple mais puissant : la simple présence physique d�
 
 Chez l’enfant avec TDAH, les circuits cérébraux qui gouvernent l’initiation de l’action, la persistance et la résistance aux distractions — portés en grande partie par les [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] — fonctionnent de manière moins autonome. La présence d’un adulte ou d’un pair agit alors comme un régulateur externe, une sorte d’ancre attentionnelle qui réduit la charge cognitive liée à la motivation purement interne.
 
-Cette présence n’exige ni supervision constante ni interventions verbales répétées. Elle peut prendre la forme d’un parent qui s’installe à la même table pendant les devoirs, d’un frère ou d’une sœur qui dessine tranquillement pendant que l’enfant range sa chambre, ou encore d’un enseignant qui reste à coté de l'élève pendant qu’il termine un exercice.
+Cette présence n’exige ni supervision constante ni interventions verbales répétées. Elle peut prendre la forme d’un parent qui s’installe à la même table pendant les devoirs, d’un frère ou d’une sœur qui dessine tranquillement pendant que l’enfant range sa chambre, ou encore d’un enseignant qui reste à côté de l'élève pendant qu’il termine un exercice.
 
 L’essentiel réside dans la co-présence calme et prévisible. L’enfant perçoit inconsciemment que l’espace est partagé, que le temps est cadencé par quelqu’un d’autre, et que l’abandon de la tâche devient socialement plus coûteux.
 

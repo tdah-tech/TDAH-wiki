@@ -1,22 +1,22 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T09:01:25.456+02:00
+modified: 2026-08-07T11:01:06.113+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#barkley"
-  - "#pehp"
-  - "#guidance-parentale"
-  - "#renforcement-positif"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - barkley
+  - pehp
+  - guidance-parentale
+  - renforcement-positif
+  - fonctions-executives
 ---
 
 La guidance parentale inspirée des travaux de Russell A. Barkley désigne un programme structuré d’accompagnement des parents d’enfants TDAH, formalisé dans son ouvrage de référence _Defiant Children_ et largement diffusé en France sous le nom de Programme d’Entraînement aux Habiletés Parentales (PEHP). Il constitue l’application la plus construite de sa méthode auprès des familles.
 
-Cette méthode repose sur une conception du TDAH que Barkley a largement contribué à faire reconnaître : non un simple trouble de l’attention, mais un déficit primaire de l’inhibition comportementale et de l’autorégulation. Elle ne vise donc pas à développer une motivation intrinsèque fragile chez l’enfant, mais à créer autour de lui un environnement qui compense ses difficultés au point d’exécution ( des récompenses immédiates, fréquentes et tangibles, des rappels visibles, des tâches découpées et soutenues par des indices externes).
+Cette méthode repose sur une conception du TDAH que Barkley a largement contribué à faire reconnaître : non un simple trouble de l’attention, mais un déficit primaire de l’inhibition comportementale et de l’autorégulation. Elle ne vise donc pas à développer une motivation intrinsèque fragile chez l’enfant, mais à créer autour de lui un environnement qui compense ses difficultés au point d’exécution (des récompenses immédiates, fréquentes et tangibles, des rappels visibles, des tâches découpées et soutenues par des indices externes).
 
-Conçu pour les enfants de deux à douze ans présentant un TDAH souvent associé à des comportements oppositionnels, il se déroule généralement en dix séances hebdomadaires ou toutes les deux semaine d’environ une heure et demie, en groupe fermé ou en individuel, sous la conduite d’un professionnel formé. L’objectif est de réduire l’intensité des comportements problématiques, de restaurer des interactions parent-enfant plus sereines et d’augmenter la compétence parentale dans la gestion quotidienne.
+Conçu pour les enfants de deux à douze ans présentant un TDAH souvent associé à des comportements oppositionnels, il se déroule généralement en dix séances hebdomadaires ou toutes les deux semaines d’environ une heure et demie, en groupe fermé ou en individuel, sous la conduite d’un professionnel formé. L’objectif est de réduire l’intensité des comportements problématiques, de restaurer des interactions parent-enfant plus sereines et d’augmenter la compétence parentale dans la gestion quotidienne.
 
 Le programme progresse de manière séquentielle et strictement ordonnée. Les premières séances sont consacrées à la [[L'importance de la psychoéducation|psychoéducation]] : comprendre pourquoi l’enfant se comporte ainsi, saisir le rôle des déficits d’inhibition et de [[Mémoire de travail et TDAH|mémoire de travail]], et abandonner l’idée que l’opposition relève d’un simple manque de volonté.
 

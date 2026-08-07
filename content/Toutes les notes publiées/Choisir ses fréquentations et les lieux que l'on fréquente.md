@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-07-31T08:35:37.020+02:00
+modified: 2026-08-07T10:20:10.273+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#astuces-quotidien"
-  - "#fréquentation"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - astuces-quotidien
+  - fréquentation
+  - impulsivite
 ---
 
-[[L'impulsivité chez le TDAH|L’impulsivité]] constitue l’une des dimensions centrales du TDAH . Elle se manifeste notamment par une tendance à agir avant d’avoir pleinement évalué les conséquences, à céder rapidement à une envie ou à une pression externe, et à sous-estimer les risques dans le moment présent.
+[[L'impulsivité chez le TDAH|L’impulsivité]] constitue l’une des dimensions centrales du TDAH. Elle se manifeste notamment par une tendance à agir avant d’avoir pleinement évalué les conséquences, à céder rapidement à une envie ou à une pression externe, et à sous-estimer les risques dans le moment présent.
 
 Lorsque l’on fréquente des personnes qui encouragent la prise de risque, la consommation excessive, les conflits ou les comportements irréfléchis, l’impulsivité trouve un terrain fertile. L’influence du groupe agit alors comme un amplificateur : l’envie d’appartenir au groupe, le désir d’être accepté ou simplement l’excitation du moment peuvent faire passer au second plan les signaux d’alerte intérieurs.
 

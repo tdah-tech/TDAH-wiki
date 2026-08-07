@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-29T08:18:28.501+02:00
+modified: 2026-08-07T10:21:50.615+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#mode-attente"
-  - "#cecite-temporelle"
-  - "#fonctions-executives"
-  - "#memoire-de-travail"
+  - micronote
+  - tdah
+  - mode-attente
+  - cecite-temporelle
+  - fonctions-executives
+  - memoire-de-travail
 ---
 
-Le mode d’attente, désigne une expérience fréquemment rapportée par les personnes avec un TDAH : **l’incapacité à s’engager dans d’autres activités lorsqu’une échéance future, proche ou plus lointaine, occupe le champ mental**. Ce n’est pas un critère diagnostique officiel ni un symptôme formalisé dans les classifications internationales mais d’un terme issu des communautés concernées.
+Le mode d’attente, désigne une expérience fréquemment rapportée par les personnes avec un TDAH : **l’incapacité à s’engager dans d’autres activités lorsqu’une échéance future, proche ou plus lointaine, occupe le champ mental**. Ce n’est pas un critère diagnostique officiel ni un symptôme formalisé dans les classifications internationales mais un terme issu des communautés concernées.
 
 La science permet néanmoins d’en comprendre les bases. Plusieurs mécanismes solidement documentés dans le TDAH convergent pour expliquer cette paralysie.
 

@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T13:16:42.142+02:00
+modified: 2026-08-07T10:22:48.756+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dmn"
-  - "#tpn"
-  - "#transition"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
+  - micronote
+  - tdah
+  - dmn
+  - tpn
+  - transition
+  - top
+  - trouble-opposition
+  - cycle-coercitif
 ---
 
 L'objectif de ces stratégies de transition n'est pas de "faire obéir" l'enfant plus vite, mais de rendre la bascule [[Le réseau DMN|DMN]] vers [[Le réseau TPN|TPN]] moins coûteuse, pour qu'elle ne devienne pas systématiquement un terrain de conflit.
@@ -21,9 +21,9 @@ L'objectif de ces stratégies de transition n'est pas de "faire obéir" l'enfant
 
 **Créer un sas de transition, toujours identique.** Plutôt que de demander à l'enfant de passer directement d'une activité à une autre, insérer une micro-routine fixe entre les deux (ranger ou sortir un objet précis, prendre son goûter) donne au cerveau une séquence prévisible à exécuter, qui sert de pont entre DMN et TPN. La prévisibilité réduit la charge cognitive de la transition elle-même, parce que l'enfant n'a pas à décider comment démarrer, il suit une séquence qu'il connaît déjà.
 
-**Passer par le corps plutôt que par la volonté.** Un mouvement physique bref avant une tâche cognitive (se lever, marcher jusqu'à la table, manipuler un objet) aide souvent à débrayer le mode par défaut (DMN) plus efficacement qu'un effort de concentration pure. C'est plus fiable de demander à un enfant "d'aller chercher son cahier de devoirs" que de lui demander  "de commencer ses devoirs".
+**Passer par le corps plutôt que par la volonté.** Un mouvement physique bref avant une tâche cognitive (se lever, marcher jusqu'à la table, manipuler un objet) aide souvent à débrayer le mode par défaut (DMN) plus efficacement qu'un effort de concentration pure. C'est plus fiable de demander à un enfant "d'aller chercher son cahier de devoirs" que de lui demander "de commencer ses devoirs".
 
-**Réduire la première étape à presque rien.** Le coût de la bascule est souvent concentré sur le tout premier geste, pas sur la tâche entière. Demander d'écrire une ligne "la date et l'heure" ou de régler le minuteur par exemple, plutôt que "faire les devoirs",  abaisse la marche à franchir pour entrer en mode d'attention dirigée (TPN). Une fois engagé, le maintien de l'attention est souvent plus facile que le démarrage.
+**Réduire la première étape à presque rien.** Le coût de la bascule est souvent concentré sur le tout premier geste, pas sur la tâche entière. Demander d'écrire une ligne "la date et l'heure" ou de régler le minuteur par exemple, plutôt que "faire les devoirs", abaisse la marche à franchir pour entrer en mode d'attention dirigée (TPN). Une fois engagé, le maintien de l'attention est souvent plus facile que le démarrage.
 
 **Faire la transition à deux, au moins au début.** Démarrer une tâche en parallèle avec l'enfant, même sans intervenir sur son contenu, agit comme une forme de co-régulation : la présence de l'adulte engagé dans une activité similaire aide à stabiliser l'attention de l'enfant, sans qu'il ait à mobiliser seul l'effort de bascule. Le parent peut également faire le premier exercice avec l'enfant, ou lire l'énoncé avec lui.
 

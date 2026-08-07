@@ -1,21 +1,21 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-07-27T19:31:51.297+02:00
+modified: 2026-08-07T10:24:58.577+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#trouble-opposition"
-  - "#top"
-  - "#punition"
-  - "#image-de-soi"
+  - micronote
+  - tdah
+  - trouble-opposition
+  - top
+  - punition
+  - image-de-soi
 ---
 
 Ce qui distingue vraiment le profil TDAH avec TOP, ce n'est donc pas que la punition ne marche jamais, mais qu'elle est un outil beaucoup moins fiable et beaucoup plus fragile que chez un enfant sans ces difficultés, et qu'elle a de moins bonnes chances de produire un changement durable du comportement,
 
 #### Une sensibilité à la punition qui est altérée, pas simplement réduite
 
-L'idée reçue veut que l'enfant TDAH-TOP soit "insensible" à la punition. La réalité, telle qu'elle ressort de la recherche, est plus nuancée : on parle plutôt d'une sensibilité au renforcement globalement altérée, avec une balance qui penche souvent vers la recherche de récompense immédiate plutôt que vers l'évitement de la punition. D'où de nombreuses recommandation visant à valoriser les bon comportements par des systèmes de récompenses.
+L'idée reçue veut que l'enfant TDAH-TOP soit "insensible" à la punition. La réalité, telle qu'elle ressort de la recherche, est plus nuancée : on parle plutôt d'une sensibilité au renforcement globalement altérée, avec une balance qui penche souvent vers la recherche de récompense immédiate plutôt que vers l'évitement de la punition. D'où de nombreuses recommandations visant à valoriser les bons comportements par des systèmes de récompenses.
 
 Concrètement, le lien mental entre "j'ai fait ça" et "voilà ce qui m'arrive en conséquence" se construit moins bien chez ces enfants, ce qui rend l'apprentissage par la sanction structurellement moins efficace, indépendamment de la sévérité de la sanction elle-même.
 

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T09:06:08.688+02:00
+modified: 2026-08-07T10:23:00.848+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fidgets"
-  - "#casque-anti-bruit"
-  - "#outils-sensoriels"
-  - "#preuves-scientifiques"
+  - micronote
+  - tdah
+  - fidgets
+  - casque-anti-bruit
+  - outils-sensoriels
+  - preuves-scientifiques
 ---
 
 Il existe beaucoup d'outils extrêmement populaires, présentés presque partout comme des évidences pour le TDAH, alors que la réalité scientifique est beaucoup plus nuancée, et parfois carrément contraire à l'intuition.
@@ -23,7 +23,7 @@ Concernant les fidget spinners spécifiquement, l'objet le plus étudié dans ce
 
 Une revue plus large résume bien la situation : la recherche sur les objets à manipuler reste globalement mitigée, et dans la majorité des études, ces objets n'ont pas amélioré la performance académique des élèves.
 
-Il n'est pas a exclure une variabilité individuelle importante : certains enfants en tirent un bénéfice réel, d'autres voient leur attention se dégrader parce que l'objet devient lui-même une source de distraction supplémentaire. La bonne pratique n'est donc pas "donner un fidget systématiquement", mais tester au cas par cas et observer honnêtement si ça aide ou si ça nuit chez l' enfant, plutôt que de partir du principe que l'effet sera positif par défaut.
+Il n'est pas à exclure une variabilité individuelle importante : certains enfants en tirent un bénéfice réel, d'autres voient leur attention se dégrader parce que l'objet devient lui-même une source de distraction supplémentaire. La bonne pratique n'est donc pas "donner un fidget systématiquement", mais tester au cas par cas et observer honnêtement si ça aide ou si ça nuit chez l'enfant, plutôt que de partir du principe que l'effet sera positif par défaut.
 
 #### Les casques anti-bruit et bouchons d'oreilles
 

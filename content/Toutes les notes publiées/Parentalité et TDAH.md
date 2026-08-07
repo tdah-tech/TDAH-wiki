@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T13:48:12.636+02:00
+modified: 2026-08-07T10:24:37.870+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#parentalite"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
-  - "#index"
+  - micronote
+  - tdah
+  - parentalite
+  - top
+  - trouble-opposition
+  - cycle-coercitif
+  - index
 ---
 
-Éduquer un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP )ou d'autre comorbidités s'y ajoutent — expose à des dynamiques relationnelles plus compliquées que d'ordinaire et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
+Éduquer un enfant TDAH — plus encore lorsqu'un trouble oppositionnel avec provocation (TOP )ou d'autres comorbidités s'y ajoutent — expose à des dynamiques relationnelles plus compliquées que d'ordinaire et suppose pour les parents d'acquérir des compétences parentales propres au TDAH.
 
 ## Faciliter le quotidien
 
@@ -28,7 +28,7 @@ tags:
 - [[Anticiper plutôt qu’exiger l’instantané]]
 - [[Pratiquer le Body-doubling avec l'enfant]]
 
-## Faire face au  trouble oppositionnel avec provocation (TOP)
+## Faire face au trouble oppositionnel avec provocation (TOP)
 
 - [[Boite à outils Trouble oppositionnel]]
 - [[Pourquoi la punition est plus susceptible d'échouer avec les profils TDAH-TOP ?]]

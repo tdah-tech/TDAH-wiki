@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-03T21:26:04.819+02:00
+modified: 2026-08-07T10:19:37.580+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarite"
-  - "#apprentissage"
-  - "#index"
-  - "#méthylphénidate"
+  - micronote
+  - tdah
+  - scolarite
+  - apprentissage
+  - index
+  - méthylphénidate
 ---
 
 ## Réussite / échec scolaire

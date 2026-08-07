@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-03T12:32:39.212+02:00
+modified: 2026-08-07T11:01:07.473+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarité"
-  - "#amanagements-scolaires"
-  - "#pap"
-  - "#PPS"
+  - micronote
+  - tdah
+  - scolarité
+  - amanagements-scolaires
+  - pap
+  - PPS
 ---
 
 Les aménagements ne visent pas à modifier les exigences du programme, mais à réduire l’écart entre les ressources attentionnelles de l’élève et les exigences scolaires. Ils s’inscrivent le plus souvent dans le cadre d’un [[Le PAP et le PPS|Plan d’Accompagnement Personnalisé (PAP)]], élaboré en collaboration entre l’équipe pédagogique, la famille et, lorsque cela est pertinent, les professionnels de santé dans le cadre d'un PPS si la situation de handicap a été reconnue.
@@ -29,11 +29,11 @@ Voici quelques aménagements possibles :
 
 **Lors des évaluations faire accompagner l'enfant d'une AESH qui s'assurera que l'enfant a lu la consigne et ne rend pas sa copie trop rapidement sans se relire par exemple.**
 
-**Permettre à l'éléve de disposer d'un minuteur ou que la  pendule de la classe soit dans son champ de vision**.
+**Permettre à l'élève de disposer d'un minuteur ou que la pendule de la classe soit dans son champ de vision**.
 
 **L’organisation matérielle** : préférer le cahier au classeur, utiliser un code de couleur par matière, marquer le nom de l’élève sur chaque objet.
 
-**Vérification de l’agenda pour les devoirs** et s'assurer que l'éléve emporte le matériel pédagogique nécessaire pour qu'il puisse faire ses devoirs.
+**Vérification de l’agenda pour les devoirs** et s'assurer que l'élève emporte le matériel pédagogique nécessaire pour qu'il puisse faire ses devoirs.
 
 **Mettre en place un code entre l'élève et l'enseignant**. Un code non verbal convenu à l’avance — un signe discret — permet d’intervenir/alerter l'enseignant avant que l’[[L'impulsivité chez le TDAH|impulsivité]] ne s’emballe.
 
@@ -41,7 +41,7 @@ Voici quelques aménagements possibles :
 
 Un système de suivi quotidien/hebdomadaire/mensuel partagé avec les parents prolonge la cohérence éducative au-delà de la classe.
 
-**Une bonne qualité de l’air ( peu chargée en CO2)** contribuent également à soutenir la vigilance.
+**Une bonne qualité de l’air (peu chargée en CO2)** contribue également à soutenir la vigilance.
 
 ## Pour aller plus loin :
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T09:01:25.456+02:00
+modified: 2026-08-07T10:19:55.666+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#prevalence"
-  - "#epidemiologie"
-  - "#idee-recue"
+  - micronote
+  - tdah
+  - prevalence
+  - epidemiologie
+  - idee-recue
 ---
 
 L’idée selon laquelle nous assisterions à une épidémie de trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) s’est largement répandue ces dernières années.
@@ -44,7 +44,7 @@ Ainsi, le TDAH n’est donc pas un phénomène nouveau né des écrans, de la vi
 
 Des [[Le TDAH un phénomène ancien|descriptions cliniques de tableaux très proches existent depuis le XVIIIe siècle]], et le trouble a d'ailleurs été progressivement conceptualisé tout au long du XXe siècle et non au début des années 2000.
 
-Sa base neurodéveloppementale, prouvé par des analyses génétiques, prouvé par l'imagerie cérébrale, est aujourd’hui solidement établie avec des niveaux de preuves scientifiques élevés.
+Sa base neurodéveloppementale, prouvée par des analyses génétiques, prouvée par l'imagerie cérébrale, est aujourd’hui solidement établie avec des niveaux de preuves scientifiques élevés.
 
 Les facteurs environnementaux peuvent certes moduler l’expression des symptômes et leur retentissement, mais ils ne créent pas le trouble de toutes pièces.
 

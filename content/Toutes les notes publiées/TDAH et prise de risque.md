@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-02T09:01:25.484+02:00
+modified: 2026-08-07T10:20:29.824+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#prise-de-risque"
-  - "#impulsivite"
-  - "#dopamine"
+  - micronote
+  - tdah
+  - prise-de-risque
+  - impulsivite
+  - dopamine
 ---
 
 La science établit de manière robuste un lien (un de plus) entre le trouble du déficit de l’attention avec ou sans hyperactivité et une tendance accrue à la prise de risque.
@@ -22,17 +22,17 @@ S’y ajoutent des déficits d’inhibition, de [[Mémoire de travail et TDAH|m�
 
 **De plus, la dévalorisation accélérée des récompenses différées (discounting temporel plus raide) conduit à privilégier un gain immédiat**, même s’il est plus petit ou plus risqué, au détriment d’un gain plus important mais reporté.
 
-Ces mécanismes se traduisent, dans la vie réelle, par une surreprésentation de conduites à risque dans plusieurs domaines : conduite automobile dangereuse, relations sexuelles non protégées, [[Association entre TDAH et conduites addictives|consommation de substances]], jeux d’argent, décisions financières impulsives et, dans certains cas, comportements [[Association entre TDAH et délinquance|délinquants]]. Mais elle explique aussi leur gout pour l'[[Entrepreunariat et TDAH|entreprenariat]] et le lancement de projets.
+Ces mécanismes se traduisent, dans la vie réelle, par une surreprésentation de conduites à risque dans plusieurs domaines : conduite automobile dangereuse, relations sexuelles non protégées, [[Association entre TDAH et conduites addictives|consommation de substances]], jeux d’argent, décisions financières impulsives et, dans certains cas, comportements [[Association entre TDAH et délinquance|délinquants]]. Mais elle explique aussi leur goût pour l'[[Entrepreunariat et TDAH|entrepreneuriat]] et le lancement de projets.
 
 Au niveau neurobiologique, les données convergent  également vers une altération du [[Dopamine et TDAH|système dopaminergique]] de la récompense. On observe typiquement une hypoactivation du striatum ventral lors de l’anticipation d’une récompense, associée à une hyperréactivité lors de sa réception effective.
 
 Cette dissociation contribue à une sensibilité réduite aux indices prédictifs et à une recherche plus intense de stimulation immédiate. Des études d’imagerie montrent également une activation moindre de régions impliquées dans la conscience de soi et le monitoring interne juste avant une décision risquée, ce qui peut freiner la capacité à stopper l’impulsion.
 
-La présence de [[Les comorbidités du TDAH|comorbidités]],  amplifie nettement l’effet prise de risque. Le [[Profil sévère combiné avec dysrégulation émotionnelle|sous-type combiné]] du TDAH, plus chargé en impulsivité et en recherche de sensations, est également plus fortement associé à ces comportements que le [[Profil à prédominance inattentive - tdah|sous-type inattentif]].
+La présence de [[Les comorbidités du TDAH|comorbidités]], amplifie nettement l’effet prise de risque. Le [[Profil sévère combiné avec dysrégulation émotionnelle|sous-type combiné]] du TDAH, plus chargé en impulsivité et en recherche de sensations, est également plus fortement associé à ces comportements que le [[Profil à prédominance inattentive - tdah|sous-type inattentif]].
 
 L’âge n’atténue pas de façon systématique la différence : elle demeure observable de l’enfance à l’âge adulte, même si le contexte social et les exigences environnementales modulent son expression.
 
-Ces constats ont des implications cliniques directes. La reconnaissance de la dimension décisionnelle sous-optimale (je prend des risques mal évalués) plutôt qu'’ne simple « recherche de sensations » permet d’orienter les interventions vers **l’entraînement à l’évaluation des conséquences, le renforcement des capacités d’inhibition et la gestion des récompenses différées**.
+Ces constats ont des implications cliniques directes. La reconnaissance de la dimension décisionnelle sous-optimale (je prends des risques mal évalués) plutôt qu'une simple « recherche de sensations » permet d’orienter les interventions vers **l’entraînement à l’évaluation des conséquences, le renforcement des capacités d’inhibition et la gestion des récompenses différées**.
 
 Les [[Le méthylphénidate comme traitement du TDAH|traitements médicamenteux]], lorsqu’ils sont bien conduits, réduisent de façon mesurable certains risques concrets (accidents de la route, usage de stupéfiants, délinquance). La [[L'importance de la psychoéducation|psychoéducation]] et les [[Les thérapies cognitivo-comportementale (TCC)|approches cognitives-comportementales]] ciblant explicitement la prise de décision en situation émotionnelle complètent utilement ces approches.
 
@@ -56,4 +56,4 @@ Nejati, V., Peyvandi, A., Nazari, N., et al. (2025). Cognitive correlates of ris
 
 Pollak, Y., Shoham, R., Scheres, A., & Dekkers, T. J. (2023). ADHD and risk-taking behavior: Associations, mechanisms, and interventions. In _Clinical Handbook of ADHD Assessment and Treatment Across the Lifespan_, Springer, 2023
 
-Roberts, D. K., et al. (2021). Attention-deficit/hyperactivity disorder and risk-taking: A three-level meta-analytic review of behavioral, self-report, and virtual reality metrics. _Clinical Psychology Review_,  2021
+Roberts, D. K., et al. (2021). Attention-deficit/hyperactivity disorder and risk-taking: A three-level meta-analytic review of behavioral, self-report, and virtual reality metrics. _Clinical Psychology Review_, 2021

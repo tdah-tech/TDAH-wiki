@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-03T07:48:56.567+02:00
+modified: 2026-08-07T11:00:36.403+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dysregulation"
-  - "#dysrégulation-attention"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - dysregulation
+  - dysrégulation-attention
+  - hyperfocus
 ---
 
 Le nom même du trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) induit en erreur, et cette observation est largement partagée par les cliniciens spécialisés comme par les personnes concernées.
@@ -18,9 +18,9 @@ La majorité des adultes et des adolescents qui en parlent ne décrivent pas un 
 
 Pour beaucoup on serait donc en présence d’une **dysrégulation** de l’attention plutôt qu'en présence d’un **déficit**.
 
-**En fait, le système attentionnel des personnes TDAH fonctionne de façon variable et contextuelle**.\*\* Il peut basculer brusquement d’un état de dispersion extrême, où l’esprit vagabonde sans cesse, à un état d’absorption intense (**[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]**) dans lequel le temps, les obligations extérieures et même les signaux corporels (faim soif, fatigue) s’effacent.
+**En fait, le système attentionnel des personnes TDAH fonctionne de façon variable et contextuelle**. Il peut basculer brusquement d’un état de dispersion extrême, où l’esprit vagabonde sans cesse, à un état d’absorption intense (**[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]]**) dans lequel le temps, les obligations extérieures et même les signaux corporels (faim soif, fatigue) s’effacent.
 
-Cette dualité n’est pas une contradiction  ; elle constitue au contraire l’une des caractéristiques centrales du fonctionnement attentionnel TDAH.
+Cette dualité n’est pas une contradiction ; elle constitue au contraire l’une des caractéristiques centrales du fonctionnement attentionnel TDAH.
 
 Plusieurs auteurs, dont le psychiatre William Dodson, ont ainsi proposé de parler de système nerveux **fondé sur l’intérêt plutôt que sur l’importance**.
 

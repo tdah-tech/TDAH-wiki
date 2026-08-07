@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-02T15:23:51.780+02:00
+modified: 2026-08-07T10:22:50.391+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#bdnf"
-  - "#sommeil"
-  - "#exercice-physique"
-  - "#omega-3"
-  - "#curcumine"
-  - "#flavonoïdes"
-  - "#lumière-naturelle"
+  - micronote
+  - tdah
+  - bdnf
+  - sommeil
+  - exercice-physique
+  - omega-3
+  - curcumine
+  - flavonoïdes
+  - lumière-naturelle
 ---
 
 Dans le TDAH, plutôt que d’attendre passivement une maturation cérébrale qui arrive avec retard, il est possible d’agir activement sur le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] pour créer un environnement neurobiologiquement favorable. La période de l’enfance à la fin de la vingtaine reste une fenêtre privilégiée où ces stratégies peuvent maximiser le rattrapage développemental.
@@ -20,7 +20,7 @@ Parmi tous les facteurs étudiés, **l’exercice physique** constitue le plus p
 
 Le **sommeil de qualité** joue également un rôle majeur. Le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] augmente fortement pendant le sommeil à ondes lentes. La privation chronique de sommeil, fréquente dans le TDAH, réduit rapidement son expression, tandis qu’un sommeil suffisant (7-9h selon l’âge) favorise sa restauration (Guzman-Marin et al., 2006 ; Aalling et al., 2018).
 
-Sur le plan nutritionnel, plusieurs éléments pourrait être utiles. Les **[[L'alimentation et le TDAH|oméga-3]]** (EPA/DHA) augmentent l’expression du [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] et améliorent la fonction cognitive chez les personnes avec TDAH. La **curcumine** (curcuma), les **flavonoïdes** présents dans les myrtilles, le thé vert et le cacao, ainsi qu’un [[L'alimentation et le TDAH|régime méditerranéen]] global sont associés à des taux plus élevés de [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] dans des études observationnelles et interventionnelles (Gómez-Pinilla, 2008 ; Dias et al., 2012 ; Wittwer et al., 2021).
+Sur le plan nutritionnel, plusieurs éléments pourraient être utiles. Les **[[L'alimentation et le TDAH|oméga-3]]** (EPA/DHA) augmentent l’expression du [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] et améliorent la fonction cognitive chez les personnes avec TDAH. La **curcumine** (curcuma), les **flavonoïdes** présents dans les myrtilles, le thé vert et le cacao, ainsi qu’un [[L'alimentation et le TDAH|régime méditerranéen]] global sont associés à des taux plus élevés de [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] dans des études observationnelles et interventionnelles (Gómez-Pinilla, 2008 ; Dias et al., 2012 ; Wittwer et al., 2021).
 
 L’**apprentissage de nouvelles compétences** (musique, langue étrangère, danse) stimule également le [[BDNF (Brain-Derived Neurotrophic Factor) et TDAH|BDNF]] via l’enrichissement environnemental et la plasticité induite par la nouveauté.
 

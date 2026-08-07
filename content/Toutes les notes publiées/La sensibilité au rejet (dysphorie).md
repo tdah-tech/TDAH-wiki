@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-02T15:59:51.944+02:00
+modified: 2026-08-07T10:19:38.683+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#rejet"
-  - "#dysphorie-sensibilite-rejet"
+  - micronote
+  - tdah
+  - rejet
+  - dysphorie-sensibilite-rejet
 ---
 
 La dysphorie de sensibilité au rejet, plus connue sous l’acronyme anglais RSD (Rejection Sensitive Dysphoria), désigne une réaction émotionnelle d’une intensité exceptionnelle face au rejet, à la critique ou à l’échec, qu’ils soient réels ou simplement perçus.
@@ -27,7 +27,7 @@ Une troisième voie consiste à poursuivre une perfection absolue, travaillant s
 
 Bien que la RSD ne dispose pas de traitement spécifique homologué, elle répond souvent favorablement aux approches destinées au TDAH lui-même.
 
-Les médicaments stimulant peuvent, chez un certain nombre de personnes, atténuer notablement l’intensité des réactions émotionnelles en améliorant la régulation des circuits cérébraux concernés.
+Les médicaments stimulants peuvent, chez un certain nombre de personnes, atténuer notablement l’intensité des réactions émotionnelles en améliorant la régulation des circuits cérébraux concernés.
 
 Sur le plan psychologique, les thérapies cognitives et comportementales, la pleine conscience et le travail sur la compassion envers soi-même aident à créer un espace entre le déclencheur et la réaction, permettant de questionner les interprétations automatiques et de récupérer plus rapidement après un épisode.
 

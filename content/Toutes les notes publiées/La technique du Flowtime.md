@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-02T09:01:25.465+02:00
+modified: 2026-08-07T10:19:40.119+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#flowtime"
-  - "#gestion-du-temps"
-  - "#hyperfocus"
-  - "#cecite-temporelle"
-  - "#pomodoro"
+  - micronote
+  - tdah
+  - flowtime
+  - gestion-du-temps
+  - hyperfocus
+  - cecite-temporelle
+  - pomodoro
 ---
 
 La technique du Flowtime, parfois appelée Flowmodoro, a été conçue en 2016 par Zoë Read-Bivens, enseignante et spécialiste de la productivité. Elle l’a développée après avoir constaté que la méthode Pomodoro, avec ses sessions fixes de vingt-cinq minutes, interrompait systématiquement ses périodes de concentration profonde.
@@ -22,7 +22,7 @@ On note alors l’heure de fin et on s’accorde une pause proportionnelle à la
 
 Pour les personnes vivant avec un TDAH, cette approche peut présenter des avantages particulièrement intéressants. Le cerveau TDAH se caractérise souvent par une difficulté à démarrer une tâche, suivie, une fois engagé, d’épisodes d’[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]] où la concentration peut se prolonger bien au-delà de ce qu’un minuteur classique autoriserait. Interrompre ces moments rares et productifs génère de la frustration, un sentiment de perte de contrôle et parfois une résistance accrue aux systèmes de gestion du temps.
 
-Le Flowtime respecte ces vagues d’attention en les laissant se dérouler jusqu’à leur terme naturel. Il peut aider a combattre également la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]]. En notant systématiquement les heures de début et de fin, la personne construit progressivement une carte de ses propres rythmes d’attention. Elle découvre, par exemple, que certaines tâches cognitives maintiennent son focus pendant quarante-cinq minutes tandis que d’autres s’essoufflent dès cinq, dix, vingt minutes. Cette connaissance de soi devient un outil de régulation externe, moins rigide qu’une alarme fixe, mais plus structurant qu’une absence totale de repères.
+Le Flowtime respecte ces vagues d’attention en les laissant se dérouler jusqu’à leur terme naturel. Il peut aider à combattre également la [[Cécité temporelle chez les personnes TDAH|cécité temporelle]]. En notant systématiquement les heures de début et de fin, la personne construit progressivement une carte de ses propres rythmes d’attention. Elle découvre, par exemple, que certaines tâches cognitives maintiennent son focus pendant quarante-cinq minutes tandis que d’autres s’essoufflent dès cinq, dix, vingt minutes. Cette connaissance de soi devient un outil de régulation externe, moins rigide qu’une alarme fixe, mais plus structurant qu’une absence totale de repères.
 
 La technique n’est cependant pas sans exigences. Elle demande une capacité minimale d’auto-observation pour reconnaître le moment où l’attention dérive réellement, et non simplement le moment où l’envie de distraction apparaît. Chez les personnes TDAH, les [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]] étant souvent altérées, ce monitoring interne peut être fragile.
 

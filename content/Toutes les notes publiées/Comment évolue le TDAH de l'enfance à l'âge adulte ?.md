@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-08-02T09:08:12.778+02:00
+modified: 2026-08-07T11:03:18.874+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#evolution"
+  - micronote
+  - tdah
+  - evolution
 ---
 
 Le TDAH est aujourd’hui reconnu par la communauté scientifique comme **un trouble neurodéveloppemental dont les racines se situent donc dans l’enfance, et qui persiste à l'âge adulte**.
@@ -14,17 +14,17 @@ Lorsque l’on examine les taux de persistance, les chiffres varient selon la d�
 
 Des suivis de l’étude Multimodal Treatment of ADHD (MTA) précisent le tableau : **la rémission complète et durable demeure rare (de l’ordre de 9 à 10 % )**.
 
-**Près des deux tiers des personnes (64 %)** suivent un parcours symptomatique  en dents de scie à savoir des phases où les symptômes s'atténuent, parfois pendant des années, puis des phases où ils resurgissent. Les périodes où les symptômes s'amenuisent coïncident souvent avec des moments de vie **plus exigeants** — le lycée, les premières responsabilités professionnelles. I
+**Près des deux tiers des personnes (64 %)** suivent un parcours symptomatique en dents de scie à savoir des phases où les symptômes s'atténuent, parfois pendant des années, puis des phases où ils resurgissent. Les périodes où les symptômes s'amenuisent coïncident souvent avec des moments de vie **plus exigeants** — le lycée, les premières responsabilités professionnelles.
 
-C'est plutôt quand l'environnement est moins exigeants, ou quand la structure externe disparaît (famille, école, emploi, retraite), que les difficultés ont tendance à refaire surface.
+C'est plutôt quand l'environnement est moins exigeant, ou quand la structure externe disparaît (famille, école, emploi, retraite), que les difficultés ont tendance à refaire surface.
 
 **L’évolution la plus marquée chez les TDAH concerne la [[L'hyperactivité chez le TDAH|composante hyperactive]]**.
 
 Chez l’enfant, l’agitation motrice, le besoin permanent de bouger et l’[[L'impulsivité chez le TDAH|impulsivité]] physique dominent souvent le tableau clinique.
 
-**Avec l’avancée en âge, ces manifestations externes s’atténuent nettement**. L’hyperactivité se transforme progressivement en une forme plus interne ( sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément).
+**Avec l’avancée en âge, ces manifestations externes s’atténuent nettement**. L’hyperactivité se transforme progressivement en une forme plus interne (sensation d’impatience permanente, difficulté à rester assis longtemps sans bouger discrètement, besoin de changer souvent d’activité ou de s’engager dans plusieurs projets simultanément).
 
-**L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** ( interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme).
+**L’impulsivité, quant à elle, se déplace vers le domaine verbal et décisionnel** (interruptions dans les conversations, décisions précipitées, difficultés à différer une gratification ou à anticiper les conséquences à long terme).
 
 En revanche, **les symptômes d’inattention se montrent nettement plus stables**. Les difficultés de concentration soutenue, les oublis fréquents, les problèmes d’organisation, de gestion du temps et de finalisation des tâches persistent de façon prédominante et constituent le noyau clinique le plus fréquent chez l’adulte.
 
@@ -34,7 +34,7 @@ Cette transformation/évolution conduit à un changement du tableau clinique au 
 
 **Les [[Les comorbidités du TDAH|comorbidités]] évoluent également**. Dans l’enfance, les [[Le trouble oppositionnel avec provocation et le TDAH|troubles oppositionnels]] et les troubles des conduites sont fréquents. À l’adolescence et à l’âge adulte, on observe davantage de troubles anxieux, de dépression, de troubles de l’usage de substances et, dans certains cas, de [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]] marquée.
 
-\*\*Il semblerait que les facteurs qui prédisent le mieux la persistance des symptômes du TDAH à l’âge adulte sont la sévérité initiale du TDAH durant l'enfance, et la présence de comorbidités précoces.
+**Il semblerait que les facteurs qui prédisent le mieux la persistance des symptômes du TDAH à l’âge adulte sont la sévérité initiale du TDAH durant l'enfance, et la présence de comorbidités précoces**.
 
 À l’inverse, un environnement soutenant, un haut niveau de capacités cognitives et un accompagnement adapté peuvent favoriser une meilleure évolution, sans pour autant faire disparaître complètement les difficultés sous-jacentes au TDAH.
 

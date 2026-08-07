@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-02T09:01:25.477+02:00
+modified: 2026-08-07T10:24:04.876+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#methylphenidate"
-  - "#traitement-pharmacologique"
-  - "#croissance"
+  - micronote
+  - tdah
+  - methylphenidate
+  - traitement-pharmacologique
+  - croissance
 ---
 
-Le [[Le méthylphénidate comme traitement du TDAH|méthylphénidate]], principal médicament stimulants utilisé dans le traitement du TDAH, soulève depuis plusieurs décennies la question de son impact éventuel sur la croissance staturale des enfants et adolescents.
+Le [[Le méthylphénidate comme traitement du TDAH|méthylphénidate]], principal médicament stimulant utilisé dans le traitement du TDAH, soulève depuis plusieurs décennies la question de son impact éventuel sur la croissance staturale des enfants et adolescents.
 
 Les données accumulées par les suivis à long terme montrent qu’un **ralentissement modéré de la vitesse de croissance peut survenir**, particulièrement au cours des dix-huit à trente premiers mois de traitement.
 
-Le déficit de croissance est estimé entre **un et deux centimètres sur la trajectoire attendue** selon certaines études et **d'autres étude ne trouvent aucune différence**. Pour les études trouvant un déficit l’effet n’est pas uniforme il apparaît plus marqué chez les enfants qui n’ont jamais reçu auparavant de médicament stimulant car l'effet  tend à s’atténuer avec le temps. Le déficit serait plus marqué avec **un usage quotidien prolongé et à doses plus élevées**.
+Le déficit de croissance est estimé entre **un et deux centimètres sur la trajectoire attendue** selon certaines études et **d'autres études ne trouvent aucune différence**. Pour les études trouvant un déficit l’effet n’est pas uniforme il apparaît plus marqué chez les enfants qui n’ont jamais reçu auparavant de médicament stimulant car l'effet tend à s’atténuer avec le temps. Le déficit serait plus marqué avec **un usage quotidien prolongé et à doses plus élevées**.
 
 Ainsi, dans l’étude Multimodal Treatment of ADHD (MTA), le sous-groupe ayant reçu un traitement stimulant de façon quasi continue pendant seize ans présentait une taille adulte inférieure d’environ **deux à quatre centimètres** par rapport aux enfants non traités ou traités de façon intermittente. D’autres cohortes, dont une large étude coréenne récente, rapportent des différences encore plus modestes, souvent **inférieures à un centimètre**, tout en notant une tendance annexe à savoir un IMC plus élevé à l’âge adulte. L’étude européenne ADDUCE, menée sur deux ans avec un contrôle rigoureux des facteurs confondants, **n’a pas mis en évidence de réduction cliniquement significative de la vitesse de croissance**.
 

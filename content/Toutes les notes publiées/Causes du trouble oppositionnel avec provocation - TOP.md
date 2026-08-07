@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T09:10:44.963+02:00
+modified: 2026-08-07T10:19:58.267+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#trouble-opposition"
-  - "#cycle-coercitif"
-  - "#neurobiologie"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - top
+  - trouble-opposition
+  - cycle-coercitif
+  - neurobiologie
+  - impulsivite
 ---
 
 Il n'y a pas une cause unique au TOP chez le TDAH, mais plutôt une convergence de facteurs qui s'entretiennent mutuellement.
@@ -20,9 +20,9 @@ Concrètement, cela veut dire que **la frustration monte plus vite et redescend 
 
 Le TOP n'est donc pas toujours un trouble "à part" : chez beaucoup d'enfants TDAH, il apparaît comme une conséquence directe de ces difficultés de régulation, plutôt que comme un problème de caractère ou d'éducation.
 
-Le TOP pourrait être lié à des perturbations dans les systèmes de neurotransmission sérotoninergique et [[Dopamine et TDAH|dopaminergique]] induisant un l'état émotionnel qui pourrait rendre les enfants et adolescents **plus enclins à des comportements de recherche de sensations, comme la transgression des règles.**
+Le TOP pourrait être lié à des perturbations dans les systèmes de neurotransmission sérotoninergique et [[Dopamine et TDAH|dopaminergique]] induisant l'état émotionnel qui pourrait rendre les enfants et adolescents **plus enclins à des comportements de recherche de sensations, comme la transgression des règles.**
 
-Les personnes TDAH ont de plus une friction au démarrage des taches très importante, ce qui conduit souvent l'enfant à s'opposer lorqu'on lui demande d'initier une activité.
+Les personnes TDAH ont de plus une friction au démarrage des taches très importante, ce qui conduit souvent l'enfant à s'opposer lorsqu'on lui demande d'initier une activité.
 
 **Le tempérament.** Certains enfants naissent avec une réactivité émotionnelle plus intense, une tolérance à la frustration plus basse, une sensibilité au rejet ou à l'échec plus marquée. Ce terrain tempéramental, combiné aux difficultés attentionnelles du TDAH, crée un terreau favorable à l'installation progressive de comportements oppositionnels.
 
@@ -36,7 +36,7 @@ Il ne s'agit pas d'accuser les parents, l'immense majorité de ces dynamiques se
 
 En résumé, le TOP associé au TDAH se comprend mieux comme **le résultat d'une rencontre entre une vulnérabilité neurodéveloppementale réelle et un environnement relationnel qui, souvent malgré lui, vient renforcer les comportements de défi plutôt que les apaiser**.
 
-C'est une distinction importante, parce qu'elle oriente directement vers le type de prise en charge qui est le plus susceptible de fonctionner  : renforcement positif, régulation émotionnelle et  reconstruction d'une relation moins conflictuelle avec l'entourage.
+C'est une distinction importante, parce qu'elle oriente directement vers le type de prise en charge qui est le plus susceptible de fonctionner : renforcement positif, régulation émotionnelle et reconstruction d'une relation moins conflictuelle avec l'entourage.
 
 ## Pour aller plus loin
 

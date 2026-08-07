@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-28
-modified: 2026-07-28T16:41:24.665+02:00
+modified: 2026-08-07T10:19:50.067+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#proteines"
-  - "#acides-amines"
-  - "#dopamine"
-  - "#noradrenaline"
-  - "#alimentation"
+  - micronote
+  - tdah
+  - proteines
+  - acides-amines
+  - dopamine
+  - noradrenaline
+  - alimentation
 ---
 
 Les protéines occupent une place centrale dans le fonctionnement cérébral, car elles fournissent les acides aminés nécessaires à la synthèse des neurotransmetteurs.
@@ -32,7 +32,7 @@ Les essais cliniques apportent des résultats limités et de qualité variable. 
 
 Dans l’ensemble, la science actuelle ne permet pas de recommander une augmentation ciblée de l’apport protéique ou une supplémentation en acides aminés isolés comme traitement du TDAH.
 
-Des protéines de qualité à chaque repas reste une recommandation de base pour les enfants TDAH comme pour tout les enfants.
+Des protéines de qualité à chaque repas restent une recommandation de base pour les enfants TDAH comme pour tous les enfants.
 
 Réparti au cours de la journée, cet apport contribue à la [[Éviter la variation brutale de la glycémie|stabilité de la glycémie]] et à un sentiment de satiété plus durable, ce qui peut indirectement favoriser la concentration et réduire les fluctuations d’énergie.
 

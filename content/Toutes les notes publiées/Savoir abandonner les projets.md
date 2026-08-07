@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T15:04:58.931+02:00
+modified: 2026-08-07T10:23:07.585+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#abandon-de-projet"
-  - "#hyperfocus"
-  - "#honte"
-  - "#estime-de-soi"
+  - micronote
+  - tdah
+  - abandon-de-projet
+  - hyperfocus
+  - honte
+  - estime-de-soi
 ---
 
 Savoir [[L'abandon de projet|abandonner un projet]], notamment lorsqu’il s’inscrit dans un état d’[[Qu'est-ce-que l'hyperfocus ?|hyperfocus]], constitue une compétence essentielle que les personnes présentant un TDAH doivent souvent apprendre à développer.
@@ -23,9 +23,9 @@ Chez de nombreuses personnes avec un TDAH, l’abandon est souvent vécu comme l
 
 Cependant, interrompre consciemment un projet devenu stérile n’est pas un abandon négatif. C’est un acte de préservation de l’énergie mentale.
 
-Il s’agit ici notamment de distinguer avec clarté deux formes radicalement différentes de renoncement. **La renonciation subie** qui survient lorsque le projet s’étiole faute de motivation, de structure ou de sens, laissant derrière lui un goût de frustration et d’inachevé et **la renonciation délibérée**, qui au contraire, est un choix actif.  Cette dernière consiste à reconnaître qu’un projet a rempli son rôle — souvent un rôle de découverte, d’apprentissage ou d’exploration ou que le temps passé n'aura aucun retour sur investissement — et qu’il est désormais plus sage de le clore plutôt que de le transformer en fardeau ou une perte de temps. Cette clôture **libère de l’espace psychique**, réduit la charge cognitive et permet de concentrer les ressources restantes sur ce qui mérite réellement d’être poursuivi.
+Il s’agit ici notamment de distinguer avec clarté deux formes radicalement différentes de renoncement. **La renonciation subie** qui survient lorsque le projet s’étiole faute de motivation, de structure ou de sens, laissant derrière lui un goût de frustration et d’inachevé et **la renonciation délibérée**, qui au contraire, est un choix actif. Cette dernière consiste à reconnaître qu’un projet a rempli son rôle — souvent un rôle de découverte, d’apprentissage ou d’exploration ou que le temps passé n'aura aucun retour sur investissement — et qu’il est désormais plus sage de le clore plutôt que de le transformer en fardeau ou une perte de temps. Cette clôture **libère de l’espace psychique**, réduit la charge cognitive et permet de concentrer les ressources restantes sur ce qui mérite réellement d’être poursuivi.
 
-Cette distinction ne s’acquiert pas d’un seul coup. Elle se construit progressivement, par une pratique intérieure répétée, y compris en apprenant à sortir de l’hyperfocus avec lucidité .
+Cette distinction ne s’acquiert pas d’un seul coup. Elle se construit progressivement, par une pratique intérieure répétée, y compris en apprenant à sortir de l’hyperfocus avec lucidité.
 
 Elle commence par l’apprentissage d’une formulation juste : certains projets n’étaient pas destinés à aboutir ; ils ont servi de laboratoires, d’essais, de terrains d’expérimentation. Les clore n’efface pas ce qu’ils ont apporté. Au contraire, cela honore ce qu’ils ont été sans les condamner à devenir des sources permanentes de dette mentale. En cultivant cette posture, la personne avec un TDAH passe d’une logique de performance absolue (« tout ce que j’entreprends doit aboutir ») à une logique de gestion intelligente de l’énergie et du sens (« je choisis et je suis maître de ce qui mérite encore mon engagement »).
 

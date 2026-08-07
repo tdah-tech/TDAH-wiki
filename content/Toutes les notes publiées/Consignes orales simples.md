@@ -1,23 +1,23 @@
 ---
 publish: true
 created: 2026-08-02
-modified: 2026-08-02T13:16:31.402+02:00
+modified: 2026-08-07T10:20:14.785+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#parentalite"
-  - "#memoire-de-travail"
-  - "#fonctions-executives"
-  - "#support-visuel"
+  - micronote
+  - tdah
+  - parentalite
+  - memoire-de-travail
+  - fonctions-executives
+  - support-visuel
 ---
 
-Dans le quotidien d'un parent, donner une consigne semble aller de soi. Pourtant, chez l'enfant  présentant un TDAH, une consigne comme _« Range ta chambre et après tu te laves les dents et tu te mets en pyjama »_ a toutes les chances de n'être exécutée qu'en partie, ou pas du tout.
+Dans le quotidien d'un parent, donner une consigne semble aller de soi. Pourtant, chez l'enfant présentant un TDAH, une consigne comme _« Range ta chambre et après tu te laves les dents et tu te mets en pyjama »_ a toutes les chances de n'être exécutée qu'en partie, ou pas du tout.
 
 Retenir trois étapes successives, les ordonner dans le temps et résister aux distractions pendant qu'on les exécute demande une « bande passante » — celle de la [[Mémoire de travail et TDAH|mémoire de travail]] — que le cerveau TDAH n'a pas toujours à disposition.
 
 Les méta-analyses réunissant des milliers d’enfants et d’adolescents montrent de façon consistante en effet que la capacité à retenir, manipuler et maintenir actives des informations orales est significativement réduite chez les enfants TDAH.
 
-La solution réside d’abord dans **la brièveté des consignes** . **Une instruction courte, limitée à une seule action claire et immédiate, allège radicalement la charge cognitive**.
+La solution réside d’abord dans **la brièveté des consignes**. **Une instruction courte, limitée à une seule action claire et immédiate, allège radicalement la charge cognitive**.
 
 Elle permet au système attentionnel de se focaliser pleinement sur un objectif unique, sans avoir à gérer simultanément la planification, le séquençage et le maintien en mémoire. En évitant le multitâche verbal, on contourne le [[Fonctions exécutives touchées par le TDAH|déficit exécutif]] caractéristique du trouble. L’enfant n’a plus à retenir une chaîne d’actions ; il peut concentrer ses ressources sur l’action en cours, ce qui augmente considérablement la probabilité d’achèvement. **D'ailleurs, les données issues de la littérature neuropsychologique montrent que les performances de suivi d’instructions se rapprochent de celles des pairs typiques lorsque la consigne reste monotâche**.
 

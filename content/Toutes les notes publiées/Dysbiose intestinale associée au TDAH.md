@@ -1,23 +1,23 @@
 ---
 publish: true
 created: 2026-07-26
-modified: 2026-08-02T09:15:59.699+02:00
+modified: 2026-08-07T10:22:25.856+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#dysbiose-intestinale"
-  - "#axe-intestin-cerveau"
-  - "#microbiote"
-  - "#dopamine"
+  - micronote
+  - tdah
+  - dysbiose-intestinale
+  - axe-intestin-cerveau
+  - microbiote
+  - dopamine
 ---
 
 On entend par dysbiose intestinale un déséquilibre de l’écosystème microbien du tube digestif, dans lequel certaines familles de bactéries, de champignons ou d’agents pathogènes se trouvent en excès tandis que d’autres apparaissent en quantité insuffisante. Cette notion, longtemps restée marginale dans la compréhension du TDAH, s’impose aujourd’hui comme un axe de recherche majeur grâce à l’accumulation de données sur l’axe intestin-cerveau.
 
 Les travaux les plus récents, en particulier les revues systématiques et méta-analyses publiées entre 2022 et 2026, confirment de manière répétée que **les personnes présentant un TDAH, surtout les enfants et les adolescents, affichent un profil microbien intestinal distinct de celui des sujets neurotypiques**. On observe fréquemment une diminution de bactéries considérées comme bénéfiques.
 
-Ces variations ne sont pas uniformes d’une étude à l’autre, ce qui s’explique par l’hétérogénéité des méthodes de séquençage, les âges des participants, les régimes alimentaires et les traitements concomitants, mais l’existence d’un déséquilibre global est désormais largement reconnu.
+Ces variations ne sont pas uniformes d’une étude à l’autre, ce qui s’explique par l’hétérogénéité des méthodes de séquençage, les âges des participants, les régimes alimentaires et les traitements concomitants, mais l’existence d’un déséquilibre global est désormais largement reconnue.
 
-Au-delà des bactéries, des travaux plus récents se sont intéressés au mycobiote, c’est-à-dire à la composante fongique du microbiote intestinal et les résultats renforcent l’hypothèse d’une barrière intestinale poreuse susceptible de favoriser le passage de molécules pro-inflammatoires vers  le système nerveux central.
+Au-delà des bactéries, des travaux plus récents se sont intéressés au mycobiote, c’est-à-dire à la composante fongique du microbiote intestinal et les résultats renforcent l’hypothèse d’une barrière intestinale poreuse susceptible de favoriser le passage de molécules pro-inflammatoires vers le système nerveux central.
 
 Ces observations s’inscrivent dans **la théorie de l’axe intestin-cerveau**. Le microbiote influence la production de neurotransmetteurs, dont la [[Dopamine et TDAH|dopamine]] et la sérotonine, module l’inflammation systémique et cérébrale, et produit des métabolites qui traversent la barrière hémato-encéphalique et pourraient alors aggraver les symptômes du TDAH.
 

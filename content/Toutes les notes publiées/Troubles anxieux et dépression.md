@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-01T16:43:01.459+02:00
+modified: 2026-08-07T10:20:43.477+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#anxiete"
-  - "#depression"
-  - "#comorbidite"
-  - "#dysregulation-emotionnelle"
-  - "#psychoeducation"
+  - micronote
+  - tdah
+  - anxiete
+  - depression
+  - comorbidite
+  - dysregulation-emotionnelle
+  - psychoeducation
 ---
 
-Chez une proportion importante de personne TDAH, le trouble s’accompagne  de comorbidités anxieuses et dépressives.
+Chez une proportion importante de personnes TDAH, le trouble s’accompagne de comorbidités anxieuses et dépressives.
 
 Sur le plan épidémiologique, les données de cohorte et les méta-analyses convergent pour indiquer qu’environ **40 à 50 % des enfants et adolescents présentant un TDAH répondent également aux critères d’un trouble anxieux, et que cette proportion reste élevée à l’âge adulte**.
 
@@ -28,7 +28,7 @@ Les déficits des [[Fonctions exécutives touchées par le TDAH|fonctions exécu
 
 Cliniquement, la coexistence d’un TDAH avec de l’anxiété ou de la dépression complique considérablement le diagnostic différentiel. Lorsque ces comorbidités ne sont pas identifiées, le traitement du seul TDAH par des psychostimulants s’avère souvent insuffisant, voire mal toléré, et le risque de chronification, de conduites à risque ou de désinsertion sociale augmente nettement.
 
-La prise en charge doit donc être intégrée et personnalisée. Elle commence par une évaluation rigoureuse qui distingue les symptômes primaires du TDAH de ceux qui sont secondaires et lié à l’anxiété ou à la dépression.
+La prise en charge doit donc être intégrée et personnalisée. Elle commence par une évaluation rigoureuse qui distingue les symptômes primaires du TDAH de ceux qui sont secondaires et liés à l’anxiété ou à la dépression.
 
 [[L'importance de la psychoéducation|La psychoéducation]], en permettant au patient et à son entourage de comprendre l’origine des difficultés, constitue souvent le premier levier thérapeutique. Les approches cognitivo-comportementales adaptées au TDAH, qui travaillent à la fois sur les stratégies d’organisation, la régulation émotionnelle et les cognitions anxieuses ou dépressives, ont démontré leur efficacité.
 

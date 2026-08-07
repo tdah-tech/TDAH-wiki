@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-31T08:35:37.015+02:00
+modified: 2026-08-07T10:18:21.307+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarité"
-  - "#meta-cognition"
-  - "#évaluations-scolaires"
+  - micronote
+  - tdah
+  - scolarité
+  - meta-cognition
+  - évaluations-scolaires
 ---
 
 La métacognition désigne l’ensemble des processus par lesquels une personne prend conscience de ses propres fonctionnements cognitifs, les évalue et les régule en vue d’atteindre un but.
@@ -22,7 +22,7 @@ Cette altération de l’auto-évaluation a des conséquences concrètes et rép
 
 [[L'impulsivité chez le TDAH|L’impulsivité]], fréquemment associée au TDAH, renforce encore cette tendance en favorisant le passage à l’acte (rendre sa copie) avant que le contrôle ne soit complètement exercé.
 
-Les [[L’étayage métacognitif|étayages externes]] : [[Grilles de relectures|check-lists de vérification]], temps explicitement dédié à la relecture, consigne explique de l’enseignant ou de l’accompagnant de relire, peuvent aider l'enfant.
+Les [[L’étayage métacognitif|étayages externes]] : [[Grilles de relectures|check-lists de vérification]], temps explicitement dédié à la relecture, consigne explicite de l’enseignant ou de l’accompagnant de relire, peuvent aider l'enfant.
 
 ## Pour aller plus loin :
 

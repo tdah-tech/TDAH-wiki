@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T09:01:25.472+02:00
+modified: 2026-08-07T10:22:46.670+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#trouble-opposition"
-  - "#autisme"
-  - "#anxiete"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - top
+  - trouble-opposition
+  - autisme
+  - anxiete
+  - impulsivite
 ---
 
 Le TDAH ne vient (presque) jamais seul. Une proportion à retenir en premier, parce qu'elle change complètement la façon de penser le TDAH **dans plus de deux tiers des cas**, on retrouve au moins un trouble associé.
@@ -54,7 +54,7 @@ Du côté de l'humeur, les chiffres varient selon les études mais restent signi
 
 #### Les autres troubles neurodéveloppementaux
 
-**Le chevauchement avec le [[TDAH et autisme|trouble du spectre de l’autisme]] est important et a longtemps été sous-estimé pour une raison historique** . Avant le DSM-5, on ne pouvait pas poser les deux diagnostics chez la même personne, ce qui a faussé les statistiques pendant des années.
+**Le chevauchement avec le [[TDAH et autisme|trouble du spectre de l’autisme]] est important et a longtemps été sous-estimé pour une raison historique**. Avant le DSM-5, on ne pouvait pas poser les deux diagnostics chez la même personne, ce qui a faussé les statistiques pendant des années.
 
 On estime aujourd'hui qu'entre **30% et 70 % des enfants autistes** présentent aussi les symptômes du TDAH. Les méta-analyses récentes situent le plus souvent la prévalence du TDAH chez les personnes autistes autour de 35-50 % pour un diagnostic formel. Chez ces enfants, un chevauchement complexifie l'évaluation car les difficultés attentionnelles peuvent masquer les particularités autistiques, ou inversement.
 

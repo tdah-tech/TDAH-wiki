@@ -1,24 +1,24 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-01T14:54:09.180+02:00
+modified: 2026-08-07T11:01:45.774+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#coaching"
-  - "#tcc"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - coaching
+  - tcc
+  - fonctions-executives
 ---
 
 Le coaching TDAH constitue une approche d’accompagnement non clinique spécifiquement conçue pour aider les personnes présentant un trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] à développer des stratégies concrètes et durables face aux défis du quotidien.
 
 Dans la pratique, le coaching TDAH s’appuie sur **une relation collaborative et orientée vers des objectifs précis, définis conjointement par le coaché et le coach**. Les séances, souvent hebdomadaires, permettent d’identifier les obstacles concrets rencontrés dans la vie personnelle, scolaire ou professionnelle, puis de construire des outils personnalisés. Ces outils peuvent inclure par exemple des systèmes de planification adaptés au fonctionnement cérébral atypique, des techniques de découpage des tâches en étapes plus petites, des stratégies de gestion des distractions ou encore des [[Faciliter la transition entre les activités - les rituels de démarrage|rituels de démarrage et de clôture]] destinés à faciliter les transitions.
 
-\*\*L’accent est mis sur l’expérimentation progressive : chaque stratégie est testée, ajustée et ancrée dans le quotidien jusqu’à ce qu’elle devienne suffisamment automatisée .
+**L’accent est mis sur l’expérimentation progressive : chaque stratégie est testée, ajustée et ancrée dans le quotidien jusqu’à ce qu’elle devienne suffisamment automatisée**.
 
 Il est essentiel de distinguer clairement le coaching TDAH de la [[Les thérapies cognitivo-comportementale (TCC)|thérapie cognitivo-comportementale]], même si certaines techniques peuvent se chevaucher et créer une zone de confusion.
 
-**La TCC s’inscrit dans un cadre thérapeutique formalisé, dispensé par des professionnels de santé mentale formés et habilités**. Elle s’intéresse  aux pensées dysfonctionnelles, aux croyances limitantes et aux schémas émotionnels qui entretiennent la souffrance. Dans le cas du TDAH, elle aide souvent à remettre en question le discours intérieur critique, à diminuer l’anxiété liée aux échecs répétés ou à traiter les [[Troubles anxieux et dépression|comorbidités fréquentes comme la dépression ou les troubles anxieux]]. Le travail se déroule généralement dans un espace protégé, avec une temporalité plus exploratoire, et vise une modification durable des processus cognitifs et émotionnels.
+**La TCC s’inscrit dans un cadre thérapeutique formalisé, dispensé par des professionnels de santé mentale formés et habilités**. Elle s’intéresse aux pensées dysfonctionnelles, aux croyances limitantes et aux schémas émotionnels qui entretiennent la souffrance. Dans le cas du TDAH, elle aide souvent à remettre en question le discours intérieur critique, à diminuer l’anxiété liée aux échecs répétés ou à traiter les [[Troubles anxieux et dépression|comorbidités fréquentes comme la dépression ou les troubles anxieux]]. Le travail se déroule généralement dans un espace protégé, avec une temporalité plus exploratoire, et vise une modification durable des processus cognitifs et émotionnels.
 
 **Le coaching TDAH, quant à lui, opère dans un registre non clinique**. Le coach n’est pas un thérapeute et n’intervient pas sur les dimensions psychopathologiques. Son action se concentre sur l’organisation concrète de la vie quotidienne, la construction de systèmes externes qui compensent les [[Fonctions exécutives touchées par le TDAH|déficits exécutifs]], et le maintien d’une dynamique de progrès mesurable.
 

@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T09:06:10.130+02:00
+modified: 2026-08-07T10:22:35.826+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#trouble-opposition"
+  - micronote
+  - tdah
+  - top
+  - trouble-opposition
 ---
 
 Le trouble oppositionnel avec provocation (TOP, ou trouble oppositionnel dans le langage courant) est un tableau clinique reconnu, distinct du TDAH mais qui lui est très souvent associé.
 
-l se caractérise par un mode de fonctionnement récurrent où l'enfant ou l'adolescent oppose une résistance marquée à l'autorité, dans un registre émotionnel et comportemental bien précis. On distingue généralement trois grandes dimensions dans ce trouble :
+Il se caractérise par un mode de fonctionnement récurrent où l'enfant ou l'adolescent oppose une résistance marquée à l'autorité, dans un registre émotionnel et comportemental bien précis. On distingue généralement trois grandes dimensions dans ce trouble :
 
 - une irritabilité et une colère fréquentes, presque à fleur de peau ;
 - un comportement querelleur et provocateur, où l'enfant cherche le conflit ou refuse systématiquement ce qu'on lui demande ;

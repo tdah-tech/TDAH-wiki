@@ -1,19 +1,19 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-08-02T16:01:53.932+02:00
+modified: 2026-08-07T10:24:42.720+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#perfectionnisme"
-  - "#fonctions-executives"
-  - "#sensibilite-au-rejet"
-  - "#dysregulation-emotionnelle"
+  - micronote
+  - tdah
+  - perfectionnisme
+  - fonctions-executives
+  - sensibilite-au-rejet
+  - dysregulation-emotionnelle
 ---
 
 Le perfectionnisme et le TDAH forment un couple clinique assez fréquent, bien que rarement mis en avant dans les descriptions classiques du trouble. Longtemps considérés comme incompatibles — l’un renvoyant à l’exigence de contrôle et de précision, l’autre à la dispersion et à l’[[L'impulsivité chez le TDAH|impulsivité]] —, ces deux réalités se rencontrent pourtant chez de nombreuses personnes concernées. La science a progressivement clarifié cette association, en montrant qu’elle n’est ni paradoxale ni anecdotique, mais qu’elle s’inscrit dans des mécanismes précis liés aux [[Fonctions exécutives touchées par le TDAH|fonctions exécutives]], à l’histoire des échecs répétés et à la [[La dysrégulation émotionnelle dans le TDAH|régulation émotionnelle]].
 
-Relevons tout d'abord que le perfectionnisme n’est pas un construit unidimensionnel. Les modèles de Hewitt et Flett distinguent **le perfectionnisme orienté vers soi** (exigences personnelles extrêmes accompagnées d’une autocritique sévère), **le perfectionnisme orienté vers autrui** (attentes rigides imposées aux autres) et le **perfectionnisme prescrit socialement** (croyance que l’entourage exige la perfection  et jugera sévèrement tout manquement).
+Relevons tout d'abord que le perfectionnisme n’est pas un construit unidimensionnel. Les modèles de Hewitt et Flett distinguent **le perfectionnisme orienté vers soi** (exigences personnelles extrêmes accompagnées d’une autocritique sévère), **le perfectionnisme orienté vers autrui** (attentes rigides imposées aux autres) et le **perfectionnisme prescrit socialement** (croyance que l’entourage exige la perfection et jugera sévèrement tout manquement).
 
 Cliniquement, on distingue aussi un perfectionnisme **« d’amont »** et un perfectionnisme **« d’aval »**. Le premier consiste à exiger que toutes les conditions soient idéales avant même de commencer une tâche (état d’esprit, environnement, outils parfaits), ce qui retarde indéfiniment l’initiation. Le second correspond à l’exigence de perfection dans l’exécution et la finalisation, qui empêche de clore le travail et de le soumettre. Ces deux formes entretiennent la procrastination et renforcent le cercle vicieux de l’échec répété et de l’autocritique.
 
@@ -29,7 +29,7 @@ Plusieurs mécanismes sont proposés pour rendre compte de l’apparition de ces
 
 Les conséquences du perfectionnisme qui est une adaptation aux conséquences du TDAH sont bien documentées : **il alimente l’[[Troubles anxieux et dépression|anxiété]], les symptômes dépressifs, l’estime de soi fragile et l’évitement lorsque le perfectionnisme est de type "aval"**.
 
-Relevons que les études soulignent une asymétrie importante avec les profils neurotypiques : si le perfectionnisme peut, dans d’autres populations, s’associer parfois à de meilleures performances. Dans le contexte du TDAH  il s’accompagne trop souvent d’un poids excessif d'inquiétudes (peur de l’erreur, doute, autocritique). Le résultat net est rarement en faveur d'un gain de productivité durable, mais plutôt un accroissement de la souffrance . Les études longitudinales restent néanmoins encore limitées ; la plupart des travaux reposent sur des petits échantillons d'étudiants.
+Relevons que les études soulignent une asymétrie importante avec les profils neurotypiques : si le perfectionnisme peut, dans d’autres populations, s’associer parfois à de meilleures performances. Dans le contexte du TDAH il s’accompagne trop souvent d’un poids excessif d'inquiétudes (peur de l’erreur, doute, autocritique). Le résultat net est rarement en faveur d'un gain de productivité durable, mais plutôt un accroissement de la souffrance. Les études longitudinales restent néanmoins encore limitées ; la plupart des travaux reposent sur des petits échantillons d'étudiants.
 
 Sur le plan thérapeutique, ces données orientent vers des interventions ciblées. Les [[Les thérapies cognitivo-comportementale (TCC)|approches cognitivo-comportementales]] adaptées au TDAH et les thérapies d’acceptation se révèlent particulièrement pertinentes si elles travaillent le jugement de soi, la réduction de l’évitement et favorisent l’adoption de standards réalistes et flexibles.
 

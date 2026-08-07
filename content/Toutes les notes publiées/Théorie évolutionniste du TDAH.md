@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-08-01T12:47:55.190+02:00
+modified: 2026-08-07T10:20:35.826+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#evolution"
-  - "#genetique"
-  - "#drd4"
-  - "#dopamine"
-  - "#neurodiversite"
+  - micronote
+  - tdah
+  - evolution
+  - genetique
+  - drd4
+  - dopamine
+  - neurodiversite
 ---
 
-La théorie évolutionniste appliquée au TDAH part d’une observation simple à savoir que  si les traits associés à ce trouble  étaient purement nuisibles, la sélection naturelle aurait dû les faire disparaître au fil des générations.
+La théorie évolutionniste appliquée au TDAH part d’une observation simple à savoir que si les traits associés à ce trouble étaient purement nuisibles, la sélection naturelle aurait dû les faire disparaître au fil des générations.
 
 Or ils persistent à une fréquence élevée dans la population humaine. **Les chercheurs en psychiatrie évolutionniste proposent donc que ces traits ont longtemps représenté un avantage dans les environnements où notre espèce a passé l’essentiel de son histoire**.
 
@@ -22,7 +22,7 @@ L’hypothèse la plus connue, souvent appelée « chasseur versus agriculteur �
 
 Les neurosciences apportent un soutien concret à cette lecture. Le cerveau des personnes avec TDAH présente souvent [[Retard de maturation cérébrale — 2 à 5 ans|une maturation un peu plus lente des régions préfrontales]], celles qui servent notamment à planifier et à freiner les impulsions.
 
-**Ce rythme différent prolonge donc une période de grande réactivité aux stimuli extérieurs et d'hyperactivité/impulsivité** . La [[Dopamine et TDAH|dopamine]], substance chimique liée à la motivation et à la recherche de récompense, circule de façon à favoriser davantage les signaux de nouveauté que le maintien d’un effort monotone. Dans une période de l'histoire ou l'espérance de vie dépassait rarement 30 ans \*\*ces particularités neurobiologiques correspondent exactement à un mode de développement adapté à l’exploration dans le force de l'âge d'alors \*\*.
+**Ce rythme différent prolonge donc une période de grande réactivité aux stimuli extérieurs et d'hyperactivité/impulsivité**. La [[Dopamine et TDAH|dopamine]], substance chimique liée à la motivation et à la recherche de récompense, circule de façon à favoriser davantage les signaux de nouveauté que le maintien d’un effort monotone. Dans une période de l'histoire où l’espérance de vie dépassait rarement 30 ans \*\*ces particularités neurobiologiques correspondent exactement à un mode de développement adapté à l’exploration dans la force de l'âge d'alors \*\*.
 
 Des observations de terrain renforcent encore l’hypothèse. Chez certaines populations nomades, les porteurs de variants génétiques associés au TDAH – notamment [[Origine génétique du TDAH|un allèle du gène DRD4 lié à la recherche de nouveauté]] – se portent mieux, sont mieux nourris et occupent des positions plus avantageuses que dans les groupes sédentaires de la même population.
 

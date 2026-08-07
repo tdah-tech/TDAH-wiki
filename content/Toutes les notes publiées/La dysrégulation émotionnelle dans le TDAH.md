@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:01:25.461+02:00
+modified: 2026-08-07T10:20:26.594+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#top"
-  - "#impulsivite"
-  - "#hyperactivite"
+  - micronote
+  - tdah
+  - top
+  - impulsivite
+  - hyperactivite
 ---
 
 Le TDAH est officiellement défini par trois groupes de symptômes : le déficit attentionnel, l'[[L'hyperactivité chez le TDAH|hyperactivité]] motrice et l'[[L'impulsivité chez le TDAH|impulsivité]].
 
 La dysrégulation émotionnelle — difficulté à réguler l'intensité, la durée ou l'expression des émotions — n'apparaît dans aucun critère diagnostique du DSM-5. Elle n'en est pas moins l'une des dimensions les plus fréquentes et les plus invalidantes du trouble : **elle toucherait 34 à 70 % des adultes TDAH selon les études, et jusqu'à 75 % des enfants et adolescents**.
 
-Cet écart entre fréquence clinique et reconnaissance du diagnostique nourrit un débat toujours actif. Certains auteurs se demandent si la dysrégulation émotionnelle observée chez les adultes TDAH n'est pas simplement l'héritière d'un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel avec provocation]] associé durant l'enfance, plutôt qu'une dimension propre au TDAH lui-même. **D'autres la considèrent comme un cinquième symptôme cardinal, non reconnu institutionnellement pour le moment mais cliniquement incontournable**.
+Cet écart entre fréquence clinique et reconnaissance du diagnostic nourrit un débat toujours actif. Certains auteurs se demandent si la dysrégulation émotionnelle observée chez les adultes TDAH n'est pas simplement l'héritière d'un [[Le trouble oppositionnel avec provocation et le TDAH|trouble oppositionnel avec provocation]] associé durant l'enfance, plutôt qu'une dimension propre au TDAH lui-même. **D'autres la considèrent comme un cinquième symptôme cardinal, non reconnu institutionnellement pour le moment mais cliniquement incontournable**.
 
 **Pourquoi parler de facteur « transdiagnostique :**
 
@@ -35,11 +35,11 @@ L'échelle différencie significativement les enfants TDAH d'un groupe contrôle
 
 - **Les scores de dysrégulation sont nettement supérieurs aux normes de population générale, et plus élevés dans la présentation combinée du TDAH (inattention + hyperactivité) que dans la forme inattentive pure**.
 
-- Les [[Les comorbidités du TDAH|comorbidités]] psychiatriques (présentent chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
+- Les [[Les comorbidités du TDAH|comorbidités]] psychiatriques (présentes chez 74 % de l'échantillon) et les troubles liés à l'usage de substances (25 %) sont associés à une dysrégulation plus sévère.
 
-- Les meilleurs prédicteurs  de la dysrégulation émotionnelle seraient : la qualité de vie, l'intensité rétrospective des symptômes TDAH dans l'enfance, l'anxiété et la présence d'un trouble addictif actuel.
+- Les meilleurs prédicteurs de la dysrégulation émotionnelle seraient : la qualité de vie, l'intensité rétrospective des symptômes TDAH dans l'enfance, l'anxiété et la présence d'un trouble addictif actuel.
 
-Les auteurs concluent que chez les personnes TDAH la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale  en complément du traitement pharmacologique classique.
+Les auteurs concluent que chez les personnes TDAH la dimension émotionnelle mérite d'être évaluée et traitée comme un axe à part entière — plaidant notamment pour des interventions ciblées de type thérapie comportementale en complément du traitement pharmacologique classique.
 
 **Implications cliniques :**
 

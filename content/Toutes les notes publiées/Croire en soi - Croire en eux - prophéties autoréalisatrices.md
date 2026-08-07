@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-29
-modified: 2026-08-02T18:16:37.300+02:00
+modified: 2026-08-07T10:21:46.835+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#auto-efficacite"
-  - "#estime-de-soi"
-  - "#prophetie-autorealisatrice"
-  - "#croyances"
+  - micronote
+  - tdah
+  - auto-efficacite
+  - estime-de-soi
+  - prophetie-autorealisatrice
+  - croyances
 ---
 
 La prophétie autoréalisatrice, concept formalisé par le sociologue Robert K. Merton en 1948, décrit le processus par lequel une attente ou une croyance initiale, même erronée, oriente les comportements de manière à rendre cette attente vraie.
@@ -29,15 +29,15 @@ Chez les personnes présentant un trouble du déficit de l’attention avec ou s
 
 Mais, la science montre aussi que le renforcement de la croyance en soi produit des effets mesurables et parfois plus marqués chez les personnes avec TDAH que dans la population générale.
 
-L’étude de référence de Martin, Burns et Collie, publiée en 2017 dans _Contemporary Educational Psychology_, illustre particulièrement bien ce point. Ces chercheurs ont examiné, dans un large échantillon australien comprenant 164 élèves diagnostiqués TDAH et 4658 éléves sans diagnostic, les liens entre l’auto-efficacité (croyance en sa capacité à réussir le travail scolaire), le soutien relationnel des enseignants et les résultats académiques mesurés par des tests standardisés .
+L’étude de référence de Martin, Burns et Collie, publiée en 2017 dans _Contemporary Educational Psychology_, illustre particulièrement bien ce point. Ces chercheurs ont examiné, dans un large échantillon australien comprenant 164 élèves diagnostiqués TDAH et 4658 éléves sans diagnostic, les liens entre l’auto-efficacité (croyance en sa capacité à réussir le travail scolaire), le soutien relationnel des enseignants et les résultats académiques mesurés par des tests standardisés.
 
-**Ils ont constaté que la croyance en sa capacité à réussir le travail scolaire prédisait positivement la réussite scolaire dans les deux groupes**. Cependant, le coefficient  était significativement **plus élevé chez les élèves avec TDAH** (environ 0,30 contre 0,08 chez les enfants non diagnostiqués). **Autrement dit, une même augmentation de la croyance en ses capacités se traduisait par un gain académique proportionnellement plus important chez les jeunes TDAH**. Le soutien relationnel des enseignants montrait le même schéma différentiel.
+**Ils ont constaté que la croyance en sa capacité à réussir le travail scolaire prédisait positivement la réussite scolaire dans les deux groupes**. Cependant, le coefficient était significativement **plus élevé chez les élèves avec TDAH** (environ 0,30 contre 0,08 chez les enfants non diagnostiqués). **Autrement dit, une même augmentation de la croyance en ses capacités se traduisait par un gain académique proportionnellement plus important chez les jeunes TDAH**. Le soutien relationnel des enseignants montrait le même schéma différentiel.
 
-Plus généralement, les revues de littérature portant sur les troubles spécifiques des apprentissages et le TDAH montrent que **les croyances "de réussite"  prédisent des niveaux plus élevés d’auto-efficacité générale et académique, un investissement d’effort accru et de meilleures performances**.
+Plus généralement, les revues de littérature portant sur les troubles spécifiques des apprentissages et le TDAH montrent que **les croyances "de réussite" prédisent des niveaux plus élevés d’auto-efficacité générale et académique, un investissement d’effort accru et de meilleures performances**.
 
-Ces données convergent vers une interprétation cohérente : chez les personnes avec TDAH, dont le point de départ en matière d’auto-efficacité est souvent plus bas en raison d’une histoire d’échecs répétés et d’une plus grande sensibilité aux feedbacks négatifs, **le renforcement de la croyance en soi ouvre un espace de gain plus large**. Les mécanismes en jeu incluent **une meilleure orientation de l’attention vers les buts plutôt que vers les menaces** (échec scolaire) et une résilience accrue face aux obstacles .
+Ces données convergent vers une interprétation cohérente : chez les personnes avec TDAH, dont le point de départ en matière d’auto-efficacité est souvent plus bas en raison d’une histoire d’échecs répétés et d’une plus grande sensibilité aux feedbacks négatifs, **le renforcement de la croyance en soi ouvre un espace de gain plus large**. Les mécanismes en jeu incluent **une meilleure orientation de l’attention vers les buts plutôt que vers les menaces** (échec scolaire) et une résilience accrue face aux obstacles.
 
-Il convient toutefois de souligner que l'’auto-efficacité n’est pas une illusion de toute-puissance. L’auto-efficacité ne se construit durablement que lorsqu’elle s’appuie **sur des expériences de maîtrise authentiques, même modestes, et sur un environnement qui fournit des "feedbacks" crédibles**.
+Il convient toutefois de souligner que l’auto-efficacité n’est pas une illusion de toute-puissance. L’auto-efficacité ne se construit durablement que lorsqu’elle s’appuie **sur des expériences de maîtrise authentiques, même modestes, et sur un environnement qui fournit des "feedbacks" crédibles**.
 
 ## Pour aller plus loin :
 

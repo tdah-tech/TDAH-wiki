@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-01T17:51:37.412+02:00
+modified: 2026-08-07T11:02:19.146+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#récompenses"
-  - "#jetons"
-  - "#outils"
-  - "#renforcement-positif"
-  - "#top"
-  - "#trouble-opposition"
-  - "#mémoire-de-travail"
+  - micronote
+  - tdah
+  - récompenses
+  - jetons
+  - outils
+  - renforcement-positif
+  - top
+  - trouble-opposition
+  - mémoire-de-travail
 ---
 
 Ces outils figurent dans presque toutes les recommandations pour le TDAH, et à raison : le principe de base est solide et validé. Le problème n'est presque jamais l'outil en soi, mais la façon dont il est construit. La plupart des chartes qu'on voit dans les familles échouent non pas parce que le renforcement par jetons ne fonctionne pas sur ce profil d'enfant, mais parce qu'elles sont souvent montées à l'envers de ce que ce profil demande précisément.
@@ -30,13 +30,13 @@ Le menu de récompenses doit couvrir différents paliers de prix, une petite ré
 
 **Erreur n°2 : trop de règles suivies en même temps:**
 
-**Le deuxième piège fréquent consiste à vouloir tout corriger d'un coup** : la chambre, les devoirs,  l'heure du coucher, la gestion des écrans, listés ensemble sur une même charte avec dix ou quinze critères à cocher chaque jour. Ce format surcharge la [[Mémoire de travail et TDAH|mémoire de travail]] de l'enfant, qui a déjà, par définition du trouble, des difficultés à retenir et suivre plusieurs consignes simultanées. Le résultat est prévisible : l'enfant oublie la moitié des critères, le parent doit rappeler constamment ce qui est attendu, et le système se transforme en source supplémentaire de rappels à l'ordre plutôt qu'en outil de motivation autonome.
+**Le deuxième piège fréquent consiste à vouloir tout corriger d'un coup** : la chambre, les devoirs, l'heure du coucher, la gestion des écrans, listés ensemble sur une même charte avec dix ou quinze critères à cocher chaque jour. Ce format surcharge la [[Mémoire de travail et TDAH|mémoire de travail]] de l'enfant, qui a déjà, par définition du trouble, des difficultés à retenir et suivre plusieurs consignes simultanées. Le résultat est prévisible : l'enfant oublie la moitié des critères, le parent doit rappeler constamment ce qui est attendu, et le système se transforme en source supplémentaire de rappels à l'ordre plutôt qu'en outil de motivation autonome.
 
 **Un système efficace cible un ou deux comportements précis à la fois, suffisamment concrets pour être reconnus sans ambiguïté au moment où ils se produisent**. Une fois ce ou ces comportements bien ancrés, on peut en ajouter d'autres progressivement, plutôt que de viser une transformation générale du comportement dès la première semaine.
 
 **Erreur n°3 : ne pas donner le jeton tout de suite :**
 
-La récompense peut être différée mais le délai entre le comportement et l'attribution du jeton lui-même  doit être quasiment nul. Le jeton doit être donné (même symboliquement) sur le moment, pas en fin de journée en se remémorant ce qui s'est bien passé\*\*. L'immédiateté est la condition que le jeton renforce le comportement.
+La récompense peut être différée mais le délai entre le comportement et l'attribution du jeton lui-même doit être quasiment nul. Le jeton doit être donné (même symboliquement) sur le moment, pas en fin de journée en se remémorant ce qui s'est bien passé. L'immédiateté est la condition que le jeton renforce le comportement.
 
 **Deux erreurs supplémentaires qui méritent d'être mentionnées:**
 

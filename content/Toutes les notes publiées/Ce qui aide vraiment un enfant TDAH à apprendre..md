@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-22
-modified: 2026-08-02T09:01:25.451+02:00
+modified: 2026-08-07T11:01:42.489+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#scolarité"
-  - "#devoirs"
-  - "#études"
-  - "#apprentissage"
-  - "#mémoire-de-travail"
-  - "#renforcement-positif"
-  - "#dmn"
+  - micronote
+  - tdah
+  - scolarité
+  - devoirs
+  - études
+  - apprentissage
+  - mémoire-de-travail
+  - renforcement-positif
+  - dmn
 ---
 
 La référence en la matière est la revue de **Dunlosky, Rawson, Marsh, Nathan et Willingham (2013)**, publiée dans _Psychological Science in the Public Interest_. Elle constitue une synthèse exhaustive de la littérature sur les techniques d'apprentissage. Les auteurs ont évalué **10 techniques courantes** selon leur utilité (faible, modérée ou élevée).
@@ -28,7 +28,7 @@ La référence en la matière est la revue de **Dunlosky, Rawson, Marsh, Nathan 
 | Résumé | Rédiger un résumé du texte à apprendre | Faible |
 | Mnémonique par mot-clé | Associer un mot-image à un mot à retenir | Faible |
 | Imagerie mentale pour un texte | Se former des images mentales du contenu | Faible |
-Les deux techniques qui ont un niveau de preuve élevés et qui sont considérées comme les meilleurs techniques pour apprendre sont : **la récupération active** et la pratique **de mémorisation distribuée**. D'autres techniques comme l'auto-explication, l'interrogation élaborative ou la pratique entrelacée peuvent être pertinentes mais avec des niveau de preuve d'utilité moindre.
+Les deux techniques qui ont un niveau de preuve élevé et qui sont considérées comme les meilleures techniques pour apprendre sont : **la récupération active** et la pratique **de mémorisation distribuée**. D'autres techniques comme l'auto-explication, l'interrogation élaborative ou la pratique entrelacée peuvent être pertinentes mais avec des niveaux de preuve d'utilité moindre.
 
 ## Est-ce que ça fonctionne aussi chez un enfant TDAH ?
 
@@ -40,7 +40,7 @@ Les études postérieures à 2013 ont exploré plus spécifiquement l'efficacit�
 
 2. **Un point important.** Si la récupération active fonctionne pour les personnes avec TDAH, elles l'utilisent moins spontanément que les autres lorsqu'elles contrôlent leur propre apprentissage. Knouse et al. (2012) ont observé que les adultes avec TDAH utilisaient moins fréquemment l'auto-évaluation pendant l'étude, et que cette utilisation réduite était liée à une rétention moindre, dans les deux groupes.
 
-3. **Une difficulté métacognitive documentée, mais qui ne se confirme pas toujours dans la pratique.** Il existe une littérature distincte, sur la métacognition chez l'adulte TDAH en général, **qui montre des difficultés réelles à juger avec précision la qualité de ses propres performances**. Cette difficulté a d'ailleurs motivé une étude Knouse et al. (2020) destiné à vérifier l'hypothèse selon laquelle les étudiants TDAH auraient plus de mal à évaluer si leurs réponses sont correctes lorsqu'ils apprennent des définitions à plusieurs idées, ce qui les pousserait à arrêter leur devoirs prématurément. L'étude n'a pour autant pas validé l'hypothèse. Le rappel et la reconnaissance sont ressortis aussi élevés chez les étudiants TDAH que chez les témoins, que l'apprentissage ait été auto-régulé ou non. La difficulté métacognitive existe donc bien de façon générale, mais elle ne s'est pas traduite, dans ce cas précis, par une moins bonne performance finale.
+3. **Une difficulté métacognitive documentée, mais qui ne se confirme pas toujours dans la pratique.** Il existe une littérature distincte, sur la métacognition chez l'adulte TDAH en général, **qui montre des difficultés réelles à juger avec précision la qualité de ses propres performances**. Cette difficulté a d'ailleurs motivé une étude Knouse et al. (2020) destinée à vérifier l'hypothèse selon laquelle les étudiants TDAH auraient plus de mal à évaluer si leurs réponses sont correctes lorsqu'ils apprennent des définitions à plusieurs idées, ce qui les pousserait à arrêter leurs devoirs prématurément. L'étude n'a pour autant pas validé l'hypothèse. Le rappel et la reconnaissance sont ressortis aussi élevés chez les étudiants TDAH que chez les témoins, que l'apprentissage ait été auto-régulé ou non. La difficulté métacognitive existe donc bien de façon générale, mais elle ne s'est pas traduite, dans ce cas précis, par une moins bonne performance finale.
 
 4. **Des résultats mitigés selon les matériaux.** Dudukovic et al. (2015) n'ont pas observé de bénéfice de la récupération active chez des étudiants avec TDAH pour le rappel libre de passages en prose, attribuant cela à des déficits d'encodage initial. Cependant, d'autres études (Knouse et al., 2020 ; Minear et al., 2023) ont trouvé des bénéfices similaires entre groupes pour des définitions de termes clés et des paires de mots.
 
@@ -48,13 +48,13 @@ Les études postérieures à 2013 ont exploré plus spécifiquement l'efficacit�
 
 Autrement dit, la récupération active n'échoue pas chez l'enfant TDAH et peut être mise en application.
 
-Par ailleurs, il n'existe pas d'études spécifique au TDAH sur la **pratique distribuée** mais elle il est plausible de penser qu'elle soit particulièrement prometteuse.
+Par ailleurs, il n'existe pas d'études spécifiques au TDAH sur la **pratique distribuée** mais il est plausible de penser qu'elle soit particulièrement prometteuse.
 
 - **Elle implique une réduction de la charge cognitive immédiate** : le TDAH est associé à des déficits de mémoire de travail et d'attention soutenue. Fragmenter l'apprentissage en sessions courtes réduit la demande cognitive à un moment donné. Or, les élèves TDAH tirent plus de bénéfice de sessions d'étude plus courtes et plus fréquentes que de sessions longues et continues, précisément parce que les limites de leur [[Mémoire de travail et TDAH|mémoire de travail]] rendent difficile le stockage et la consolidation de nouvelles informations sur une session prolongée.
 
-- Elle évite l'errance mentale et le retour au [[Le réseau DMN|DMN]]\*\* : les sessions trop longues favorisent l'errance mentale lorsque la tâche devient redondante ou trop ardue ; la pratique espacée, en introduisant des intervalles, pourrait maintenir un niveau d'engagement plus élevé chez les TDAH. De fait, le vagabondage mental est bien documenté comme plus fréquent chez les personnes avec une symptomatologie TDAH-inattention, avec des effets délétères sur la performance, en particulier dans les tâches qui demandent une attention soutenue ou dans des tâches simples et peu stimulantes. Le raisonnement est cohérent avec ce qu'on sait par ailleurs, mais c'est une inférence théorique, pas un résultat empirique direct. À présenter comme tel plutôt que comme un fait établi.
+- **Elle évite l'errance mentale et le retour au [[Le réseau DMN|DMN]]** : les sessions trop longues favorisent l'errance mentale lorsque la tâche devient redondante ou trop ardue ; la pratique espacée, en introduisant des intervalles, pourrait maintenir un niveau d'engagement plus élevé chez les TDAH. De fait, le vagabondage mental est bien documenté comme plus fréquent chez les personnes avec une symptomatologie TDAH-inattention, avec des effets délétères sur la performance, en particulier dans les tâches qui demandent une attention soutenue ou dans des tâches simples et peu stimulantes. Le raisonnement est cohérent avec ce qu'on sait par ailleurs, mais c'est une inférence théorique, pas un résultat empirique direct. À présenter comme tel plutôt que comme un fait établi.
 
-La vraie question n'est donc pas de savoir s'il faut enseigner ces méthodes aux enfants TDAH , mais uniquement si nécessaire de savoir comment les rendre praticables pour un enfant qui n'a pas encore l'autonomie organisationnelle nécessaire pour les appliquer seul.
+La vraie question n'est donc pas de savoir s'il faut enseigner ces méthodes aux enfants TDAH, mais uniquement si nécessaire de savoir comment les rendre praticables pour un enfant qui n'a pas encore l'autonomie organisationnelle nécessaire pour les appliquer seul.
 
 Voici quelques pistes :
 

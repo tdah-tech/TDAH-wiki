@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T09:01:25.484+02:00
+modified: 2026-08-07T10:20:24.913+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#intelligences-multiples"
-  - "#intelligence"
+  - micronote
+  - tdah
+  - intelligences-multiples
+  - intelligence
 ---
 
-Parmi les idées reçues les plus persistantes liées au TDAH figure celle selon laquelle ce trouble diminuerait l’intelligence en raison de performance scolaires moindre.
+Parmi les idées reçues les plus persistantes liées au TDAH figure celle selon laquelle ce trouble diminuerait l’intelligence en raison de performances scolaires moindres.
 
-Or les données actuelles montrent clairement qu’il n’en est rien.  Le TDAH n’entraîne pas une diminution de l’intelligence en tant que telle. Les personnes TDAH se répartissent sur toute l’échelle des capacités cognitives, exactement comme la population générale. On trouve des profils moyens, des profils faibles et des profils à haut potentiel.
+Or les données actuelles montrent clairement qu’il n’en est rien. Le TDAH n’entraîne pas une diminution de l’intelligence en tant que telle. Les personnes TDAH se répartissent sur toute l’échelle des capacités cognitives, exactement comme la population générale. On trouve des profils moyens, des profils faibles et des profils à haut potentiel.
 
 Les études montrent néanmoins une petite différence moyenne. Dans les échantillons cliniques, le **QI total des personnes avec TDAH se situe souvent entre cinq et neuf points en dessous de celui des groupes contrôles**.
 

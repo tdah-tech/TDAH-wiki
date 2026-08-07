@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-01
-modified: 2026-08-02T09:01:25.465+02:00
+modified: 2026-08-07T10:19:53.295+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#femmes"
-  - "#diagnostic-tardif"
-  - "#hormones"
-  - "#masking"
+  - micronote
+  - tdah
+  - femmes
+  - diagnostic-tardif
+  - hormones
+  - masking
 ---
 
 Le trouble du déficit de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] a longtemps été conceptualisé à partir de présentations observées principalement chez les garçons.
@@ -23,13 +23,13 @@ En parallèle, **la [[La dysrégulation émotionnelle dans le TDAH|dysrégulatio
 
 Les mécanismes de compensation et de [[Dissimulation - camouflage du TDAH (masking)|camouflage]] jouent un rôle central dans le retard de diagnostic chez les individus de sexe féminin. De nombreuses filles développent très tôt des stratégies de sur-adaptation sociale, de perfectionnisme ou d’effort cognitif intense pour masquer leurs difficultés attentionnelles et organisationnelles. **Ces stratégies, souvent efficaces pendant l’enfance dans un environnement structuré, s’effondrent fréquemment lors des transitions de l’adolescence ou de l’entrée dans la vie adulte**.
 
-Les cliniciens et les enseignants, formés à repérer les comportements disruptifs  typiques des garçons, interprètent alors les plaintes d’anxiété, de dépression ou de fatigue comme des troubles primaires sans examiner la piste du TDAH. Le résultat est un diagnostic qui survient en moyenne plusieurs années plus tard chez les femmes.
+Les cliniciens et les enseignants, formés à repérer les comportements disruptifs typiques des garçons, interprètent alors les plaintes d’anxiété, de dépression ou de fatigue comme des troubles primaires sans examiner la piste du TDAH. Le résultat est un diagnostic qui survient en moyenne plusieurs années plus tard chez les femmes.
 
-**La science a mis en évidence que les fluctuations hormonales interagissent de façon significative avec la physiopathologie du TDAH chez les femmes**. L’œstrogène module favorablement la disponibilité et la transmission de la [[Dopamine et TDAH|dopamine]] dans les circuits préfrontaux. **Ainsi, Lorsque les taux d’œstrogène chutent, notamment en phase lutéale du cycle menstruel, pendant le postpartum ou à l’approche de la ménopause, les symptômes d’inattention, d’impulsivité et de dysrégulation émotionnelle s’intensifient fréquemment**. Ces interactions, déjà signalées dans les travaux de Quinn dès 2005, restent encore insuffisamment intégrées dans les protocoles de suivi et d’ajustement thérapeutique.
+**La science a mis en évidence que les fluctuations hormonales interagissent de façon significative avec la physiopathologie du TDAH chez les femmes**. L’œstrogène module favorablement la disponibilité et la transmission de la [[Dopamine et TDAH|dopamine]] dans les circuits préfrontaux. **Ainsi, lorsque les taux d’œstrogène chutent, notamment en phase lutéale du cycle menstruel, pendant le postpartum ou à l’approche de la ménopause, les symptômes d’inattention, d’impulsivité et de dysrégulation émotionnelle s’intensifient fréquemment**. Ces interactions, déjà signalées dans les travaux de Quinn dès 2005, restent encore insuffisamment intégrées dans les protocoles de suivi et d’ajustement thérapeutique.
 
 Les [[Les comorbidités du TDAH|comorbidités]] psychiatriques des femmes TDAH suivent un profil nettement internalisé alors que chez les garçons les comorbidités sont plus externalisées ([[Association entre TDAH et conduites addictives|conduites addictives]], violence). **L’[[Troubles anxieux et dépression|anxiété, les troubles dépressifs]], les troubles de l’alimentation et les traits de personnalité limite sont plus fréquents chez les femmes que chez les hommes TDAH**.
 
-**Le risque d’automutilation non suicidaire et de tentatives de suicide est particulièrement élevé**. Une étude de suivi longitudinal a montré que les filles avec TDAH présentaient, dès un âge très précoce, un risque de tentative de suicide significativement plus élevé que les garçons. Ces trajectoires sont en partie expliqué par l’impulsivité, les symptômes internalisés et les expériences de maltraitance/violences conjugales.
+**Le risque d’automutilation non suicidaire et de tentatives de suicide est particulièrement élevé**. Une étude de suivi longitudinal a montré que les filles avec TDAH présentaient, dès un âge très précoce, un risque de tentative de suicide significativement plus élevé que les garçons. Ces trajectoires sont en partie expliquées par l’impulsivité, les symptômes internalisés et les expériences de maltraitance/violences conjugales.
 
 Une vaste cohorte nationale danoise a par ailleurs établi que le TDAH est associé à une mortalité multipliée par deux, principalement pour causes non naturelles. **Après exclusion des comorbidités, le risque relatif de mortalité s’avère plus élevé chez les filles et les femmes que chez les garçons et les hommes. Ces données soulignent l’urgence d’un repérage et d’un traitement précoces**.
 
@@ -37,7 +37,7 @@ Une vaste cohorte nationale danoise a par ailleurs établi que le TDAH est assoc
 
 L’ensemble de ces éléments impose de reconsidérer les pratiques de repérage et de prise en charge. **Le TDAH chez les femmes n’est pas une variante atténuée du trouble TDAH masculin, mais une expression phénotypique distincte, influencée par des facteurs biologiques, développementaux et socioculturels**.
 
-Une évaluation sensible au sexe, qui explore les symptômes internalisés, la dysrégulation émotionnelle, les stratégies de compensation et les fluctuations hormonales, est désormais considéré comme indispensable par les chercheurs.
+Une évaluation sensible au sexe, qui explore les symptômes internalisés, la dysrégulation émotionnelle, les stratégies de compensation et les fluctuations hormonales, est désormais considérée comme indispensable par les chercheurs.
 
 ## Références
 
@@ -53,7 +53,7 @@ Chronis-Tuscano, A., Molina, B. S. G., Pelham, W. E., et al. (2010). Very early 
 
 Sedgwick, J. A., Merwood, A., & Asherson, P., (2025), Adverse experiences of women with undiagnosed ADHD and the invaluable role of diagnosis. Scientific Reports
 
-Hinshaw, S. P., Nguyen, P. T., (2022), O’Grady, S. M., & Rosenthal, E. A.,  Annual Research Review: Attention-deficit/hyperactivity disorder in girls and women: underrepresentation, longitudinal processes, and key directions. Journal of Child Psychology and Psychiatry
+Hinshaw, S. P., Nguyen, P. T., (2022), O’Grady, S. M., & Rosenthal, E. A., Annual Research Review: Attention-deficit/hyperactivity disorder in girls and women: underrepresentation, longitudinal processes, and key directions. Journal of Child Psychology and Psychiatry
 
 Williams, T., Horstmann, L., Kayani, L., et al.,., (2025), An item-level systematic review of the presentation of ADHD in females. Neuroscience & Biobehavioral Reviews
 

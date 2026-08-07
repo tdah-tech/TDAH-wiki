@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-02T13:28:21.066+02:00
+modified: 2026-08-07T10:23:59.823+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#métaphore"
-  - "#lance-incendie"
+  - micronote
+  - tdah
+  - métaphore
+  - lance-incendie
 ---
 
-Dans le chapitre 2 de son livre _Faster Than Normal_ Peter Shankman explique que le cerveau TDAH n’est pas un cerveau déficient ; il constitue une source quasi illimitée et encore largement sous-exploitée d’idées créatives, d’énergie et de passion, bien plus abondante que celle d’un cerveau dit « normal » .
+Dans le chapitre 2 de son livre _Faster Than Normal_ Peter Shankman explique que le cerveau TDAH n’est pas un cerveau déficient ; il constitue une source quasi illimitée et encore largement sous-exploitée d’idées créatives, d’énergie et de passion, bien plus abondante que celle d’un cerveau dit « normal ».
 
 Là où le cerveau neurotypique avance de manière linéaire et mesurée, le cerveau TDAH génère un flux permanent, rapide, souvent chaotique, de pensées, d’intuitions et d’impulsions. **Le véritable piège ne réside donc pas dans l’excès de créativité ou d’intensité, mais dans l’incapacité à canaliser ce flux.**
 

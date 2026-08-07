@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-02T09:01:25.455+02:00
+modified: 2026-08-07T11:00:50.304+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fonctions-executives"
-  - "#mémoire-de-travail"
+  - micronote
+  - tdah
+  - fonctions-executives
+  - mémoire-de-travail
 ---
 
-La plupart des [[Les fonctions éxécutives - définition|fonctions exécutives]] sont touchées le TDA/H — le profil est cependant très hétérogène d'une personne à l'autre.
+La plupart des [[Les fonctions éxécutives - définition|fonctions exécutives]] sont touchées par le TDAH — le profil est cependant très hétérogène d'une personne à l'autre.
 
 Selon la méta-analyse de référence de Willcutt et al. (2005), les personnes TDA/H montrent en moyenne des faiblesses d’ampleur **modérée** sur les tests de [[Les fonctions éxécutives - définition|fonctions exécutives]] (inhibition, vigilance, [[Mémoire de travail et TDAH|mémoire de travail]], planification notamment) — mais **ces déficits ne sont ni universels ni nécessaires ni suffisants** pour expliquer tous les cas de TDAH.
 

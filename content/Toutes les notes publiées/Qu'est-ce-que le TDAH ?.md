@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-08-03T07:53:02.908+02:00
+modified: 2026-08-07T10:22:31.565+02:00
 tags:
-  - "#tdah"
-  - "#definition"
-  - "#synthese"
-  - "#genetique"
-  - "#fonctions-executives"
-  - "#neurodiversite"
-  - "#index"
+  - tdah
+  - definition
+  - synthese
+  - genetique
+  - fonctions-executives
+  - neurodiversite
+  - index
 ---
 
 Le TDAH, Trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) est classiquement entendu comme un trouble neurodéveloppemental qui se manifeste dès l'enfance, même s'il n'est parfois diagnostiqué qu'à l'âge adulte.

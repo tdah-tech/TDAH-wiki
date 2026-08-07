@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-07-29T08:19:13.487+02:00
+modified: 2026-08-07T11:02:17.507+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#sommeil"
-  - "#hygiene-de-vie"
-  - "#rythme-circadien"
+  - micronote
+  - tdah
+  - sommeil
+  - hygiene-de-vie
+  - rythme-circadien
 ---
 
 Les bonnes pratiques en termes de sommeil ne remplacent pas un éventuel traitement médicamenteux ou une prise en charge spécialisée, mais elles constituent le socle indispensable sans lequel les autres interventions perdent une grande partie de leur efficacité. Parmi les recommandations les plus pertinentes :
@@ -32,7 +32,7 @@ Ces durées ne sont pas des chiffres abstraits : elles déterminent directement 
 
 **L’arrêt des écrans dans l’heure ou les deux heures** qui précèdent le coucher reste l’une des recommandations les plus solidement étayées. La lumière bleue des téléphones, tablettes et ordinateurs retarde encore davantage la sécrétion de mélatonine et stimule les circuits attentionnels déjà hyperactifs. Remplacer ce temps d’écran par la lecture d’un livre papier, une activité calme et non stimulante, permet de baisser progressivement le niveau d’éveil sans pour autant laisser l’esprit tourner à vide. La lecture agit comme une transition douce entre l’agitation de la journée et le repos.
 
-Enfin, il convient d’éviter **les activités physiquement ou mentalement excitantes en fin de journée**. Un sport intense, un jeu vidéo compétitif, une discussion animée ou un travail cognitivement exigeant maintenus trop tard entretiennent un état d’activation élevé incompatible avec l’endormissement. Par contre \*\*l’[[Sport et TDAH|activité physique]] régulière, pratiquée de préférence en matinée ou en début d’après-midi, contribue à réguler le cycle veille-sommeil.
+Enfin, il convient d’éviter **les activités physiquement ou mentalement excitantes en fin de journée**. Un sport intense, un jeu vidéo compétitif, une discussion animée ou un travail cognitivement exigeant maintenus trop tard entretiennent un état d’activation élevé incompatible avec l’endormissement. Par contre **l’[[Sport et TDAH|activité physique]] régulière, pratiquée de préférence en matinée ou en début d’après-midi, contribue à réguler le cycle veille-sommeil**.
 
 Sur le plan alimentaire, **la caféine et les boissons énergisantes sont proscrites après le début de l’après-midi, et un dîner trop copieux ou trop riche en [[Le sucre|sucres rapides]] est déconseillé**, car il peut provoquer des réveils nocturnes liés à des [[Éviter la variation brutale de la glycémie|variations de glycémie]].
 

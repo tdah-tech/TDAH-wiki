@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T09:01:25.472+02:00
+modified: 2026-08-07T10:19:48.075+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#intelligences-multiples"
+  - micronote
+  - tdah
+  - intelligences-multiples
 ---
 
 Nous l'avons vu le TDAH n'efface pas le potentiel intellectuel global, même si les tests de QI classiques peuvent en donner l'impression, du fait de leur sensibilité à la mémoire de travail et à la vitesse de traitement. Mais au-delà de ce score de QI qui mesure un type d'intelligence, qu'en est-il des autres formes d'intelligence prises séparément ?
@@ -16,13 +16,13 @@ Les recherches disponibles, encore limitées mais déjà éclairantes, permetten
 
 **L’intelligence logico-mathématique** repose sur la capacité à maintenir une attention soutenue, à manipuler des informations en [[Mémoire de travail et TDAH|mémoire de travail]] et à enchaîner des raisonnements séquentiels — précisément les mécanismes dont on a vu, dans [[TDAH et intelligence]], qu'ils tirent vers le bas le score de QI total. Les fluctuations attentionnelles, les difficultés d’organisation et les lapses de concentration rendent plus laborieux le traitement de problèmes complexes ou la poursuite d’une démarche analytique sur la durée. Il ne s’agit pas d’une incapacité à raisonner, mais d’une fragilité dans les conditions nécessaires à l’exercice fluide de cette intelligence.
 
-**L’intelligence interpersonnelle**, quant à elle, peut être perturbée par l’[[L'impulsivité chez le TDAH|impulsivité]],  et la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]. Ces éléments compliquent parfois la fluidité des interactions, la prise en compte des intentions d’autrui et l’ajustement relationnel.
+**L’intelligence interpersonnelle**, quant à elle, peut être perturbée par l’[[L'impulsivité chez le TDAH|impulsivité]], et la [[La dysrégulation émotionnelle dans le TDAH|dysrégulation émotionnelle]]. Ces éléments compliquent parfois la fluidité des interactions, la prise en compte des intentions d’autrui et l’ajustement relationnel.
 
 Enfin, **l’intelligence intrapersonnelle**, celle qui permet de se connaître soi-même, de réguler ses états internes et de construire une image cohérente de ses propres motivations, se trouve fréquemment fragilisée. Le TDAH touche directement les mécanismes de conscience de soi et de maîtrise des réactions émotionnelles, ce qui peut retarder ou rendre plus chaotique le développement de cette connaissance intérieure.
 
 Les autres formes d’intelligence ne montrent pas, dans les comparaisons disponibles, de différence significative liée au diagnostic.
 
-**L’intelligence linguistique** conserve généralement son potentiel, même si les performances scolaires **peuvent être impactée par l'orthographe**.
+**L’intelligence linguistique** conserve généralement son potentiel, même si les performances scolaires **peuvent être impactées par l'orthographe**.
 
 **L’intelligence spatiale**, celle qui permet de visualiser, de se représenter mentalement des formes ou des espaces, reste souvent intacte et constitue même, chez un certain nombre de personnes, un point d’appui créatif.
 

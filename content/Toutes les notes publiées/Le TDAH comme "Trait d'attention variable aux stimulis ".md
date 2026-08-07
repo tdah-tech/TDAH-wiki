@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-03T07:44:26.060+02:00
+modified: 2026-08-07T10:19:55.957+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#vast"
-  - "#hyperactivite"
+  - micronote
+  - tdah
+  - vast
+  - hyperactivite
 ---
 
 L'acronyme V.A.S.T. désigne le _Variable Attention Stimulus Trait_, expression que l'on peut traduire en français par « Trait d'attention variable aux stimuli ».
 
-Proposée par les psychiatres Edward Hallowell et John Ratey dans leur ouvrage _ADHD 2.0_ paru en 2021, il ne constitue pas un diagnostic médical reconnu par les classifications officielles comme le DSM-5, mais un cadre conceptuel alternatif destiné à reformuler la compréhension du TDAH.
+Proposé par les psychiatres Edward Hallowell et John Ratey dans leur ouvrage _ADHD 2.0_ paru en 2021, il ne constitue pas un diagnostic médical reconnu par les classifications officielles comme le DSM-5, mais un cadre conceptuel alternatif destiné à reformuler la compréhension du TDAH.
 
 L'idée centrale repose sur le constat que l'attention des personnes concernées n'est pas déficitaire au sens d'une absence ou d'une insuffisance permanente.
 
@@ -27,7 +27,7 @@ En parlant de « trait » plutôt que de « trouble » et de « variable » plut
 
 Ils insistent sur le fait que les mêmes caractéristiques qui génèrent des difficultés dans un environnement peu stimulant peuvent devenir des atouts majeurs dans un contexte adapté. (voir [[Pourquoi l'hyperfocus est un "super-pouvoir" ?]])
 
-Le concept de VAST a été  salué pour son intention destigmatisante et pour avoir répandu l'idée que le TDAH comporte une dimension de force et pas seulement une dimension de handicap.
+Le concept de VAST a été salué pour son intention destigmatisante et pour avoir répandu l'idée que le TDAH comporte une dimension de force et pas seulement une dimension de handicap.
 
 Il reste cependant un outil de vulgarisation plutôt qu'un concept clinique opérationnel.
 

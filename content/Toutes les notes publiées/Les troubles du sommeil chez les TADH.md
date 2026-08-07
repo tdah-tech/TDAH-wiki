@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:07:26.616+02:00
+modified: 2026-08-07T10:20:04.723+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperactivite"
-  - "#sommeil"
-  - "#dopamine"
-  - "#dysregulation-emotionnelle"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - hyperactivite
+  - sommeil
+  - dopamine
+  - dysregulation-emotionnelle
+  - fonctions-executives
 ---
 
 Le trouble du [[Le déficit d'attention chez les TDA|déficit de l’attention]] avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) et le sommeil entretiennent une relation étroite, complexe et bidirectionnelle qui influence profondément le fonctionnement quotidien des personnes concernées.
@@ -32,7 +32,7 @@ Il est également établi que la somnolence diurne peut mimer ou amplifier les s
 
 En définitive, considérer le sommeil comme une dimension à part entière du TDAH permet d’améliorer non seulement la qualité de vie, mais aussi l’efficacité des prises en charge médicamenteuses et psychothérapeutiques.
 
-Une personne dont le sommeil est stabilisé dispose de ressources attentionnelles et émotionnelles nettement plus solides pour faire face aux exigences de la vie quotidienne. C’est pourquoi l’évaluation et le traitement des troubles du sommeil devraient selon les chercheurs faire partie intégrante de toute démarche thérapeutique destinée aux personnes vivant avec un TDA
+Une personne dont le sommeil est stabilisé dispose de ressources attentionnelles et émotionnelles nettement plus solides pour faire face aux exigences de la vie quotidienne. C’est pourquoi l’évaluation et le traitement des troubles du sommeil devraient selon les chercheurs faire partie intégrante de toute démarche thérapeutique destinée aux personnes vivant avec un TDAH
 
 ## Pour aller plus loin
 

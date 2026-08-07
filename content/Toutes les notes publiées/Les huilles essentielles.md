@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T09:06:14.837+02:00
+modified: 2026-08-07T10:19:45.869+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#aromatherapie"
-  - "#huiles-essentielles"
+  - micronote
+  - tdah
+  - aromatherapie
+  - huiles-essentielles
 ---
 
 Les huiles essentielles les plus fréquemment citées comme pouvant aider les TDAH sont :
@@ -14,13 +14,13 @@ Les huiles essentielles les plus fréquemment citées comme pouvant aider les TD
 - la camomille romaine,
 - le thym à linalol,
 - le vétiver,
-- la lavande ,
+- la lavande,
 - le romarin à cinéole,
 - la menthe poivrée,
 - le cèdre de l’Atlas
 - la camomille
 
-Seules la lavande (le plus solide de la liste), le romarin à cinéole, la menthe poivrée, le vétivier, et la camomille disposent d’un minimum de données expérimentales souvent de faible qualité et d'un faible niveau de preuve.
+Seules la lavande (le plus solide de la liste), le romarin à cinéole, la menthe poivrée, le vétiver, et la camomille disposent d’un minimum de données expérimentales souvent de faible qualité et d'un faible niveau de preuve.
 
 Les effets observés, lorsqu’ils existent, sont au mieux modestes et concernent principalement la réduction de l’anxiété, l’amélioration du sommeil ou une sensation subjective de calme, plutôt qu’une action directe sur l’inattention, l’hyperactivité ou l’impulsivité.
 

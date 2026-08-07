@@ -1,28 +1,28 @@
 ---
 publish: true
 created: 2026-07-27
-modified: 2026-08-02T15:24:16.278+02:00
+modified: 2026-08-07T10:21:44.835+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#fer"
-  - "#ferritine"
-  - "#dopamine"
-  - "#micronutriments"
-  - "#methylphenidate"
+  - micronote
+  - tdah
+  - fer
+  - ferritine
+  - dopamine
+  - micronutriments
+  - methylphenidate
 ---
 
 Le lien entre le statut en fer et le trouble déficitaire de l’attention avec ou sans [[L'hyperactivité chez le TDAH|hyperactivité]] (TDAH) constitue l’un des axes de recherche bien documentés parmi les facteurs nutritionnels associés à ce trouble neurodéveloppemental.
 
 Depuis les travaux pionniers de Konofal et collaborateurs en 2004, qui montraient déjà des concentrations moyennes de ferritine sérique deux fois plus basses chez des enfants présentant un TDAH (23 ng/mL en moyenne) que chez les personnes non TDAH s (44 ng/mL), avec une proportion de valeurs inférieures à 30 ng/mL atteignant 84 % dans le groupe clinique, de nombreuses études observationnelles, méta-analyses et essais d’intervention ont précisé la nature et les limites de cette association.
 
-Sur le plan physiopathologique, le fer intervient de façon critique dans le [[Dopamine et TDAH|métabolisme dopaminergique]]. Il constitue un cofacteur de la synthèse de dopamine. Or les modèles actuels du TDAH placent au premier plan une dysrégulation des circuits dopaminergiques , impliqués dans le contrôle attentionnel, l’inhibition comportementale et la régulation de l’éveil. Le fer participe également à la myélinisation et au transport d’oxygène cérébral. **Une carence, même en l’absence d’anémie patente, peut donc altérer ces processus**.
+Sur le plan physiopathologique, le fer intervient de façon critique dans le [[Dopamine et TDAH|métabolisme dopaminergique]]. Il constitue un cofacteur de la synthèse de dopamine. Or les modèles actuels du TDAH placent au premier plan une dysrégulation des circuits dopaminergiques, impliqués dans le contrôle attentionnel, l’inhibition comportementale et la régulation de l’éveil. Le fer participe également à la myélinisation et au transport d’oxygène cérébral. **Une carence, même en l’absence d’anémie patente, peut donc altérer ces processus**.
 
 Les études les plus robustes convergent vers **une diminution significative des réserves en fer**, évaluées par la ferritine sérique, chez les enfants présentant un TDAH.
 
 La méta-analyse de Wang et collaborateurs (2017) a regroupé dix études cas-témoins totalisant plus de deux mille participants et a mis en évidence une différence standardisée moyenne en faveur de niveaux plus bas de ferritine dans le groupe TDAH.
 
-Une autre méta-analyse, celle de Tseng et collaborateurs (2018), portant sur un échantillon encore plus large, a confirmé ce résultat  et a montré en outre que les enfants carencés en fer présentaient des symptômes plus sévères et que le risque de TDAH était augmenté en présence d’une carence. **En revanche, les concentrations de fer sérique libre ne diffèrent pas de manière constante, ce qui souligne que c’est bien l’état des réserves, et non simplement le fer circulant, qui apparaît associé au trouble**. Il convient de noter que ces associations sont de magnitude modérée et que l’hétérogénéité entre études reste importante, ce qui s'explique par la multiplicité des facteurs susceptibles d'intervenir (âge, statut socio-économique, comorbidités, méthodes de dosage, seuils de carence retenus).
+Une autre méta-analyse, celle de Tseng et collaborateurs (2018), portant sur un échantillon encore plus large, a confirmé ce résultat et a montré en outre que les enfants carencés en fer présentaient des symptômes plus sévères et que le risque de TDAH était augmenté en présence d’une carence. **En revanche, les concentrations de fer sérique libre ne diffèrent pas de manière constante, ce qui souligne que c’est bien l’état des réserves, et non simplement le fer circulant, qui apparaît associé au trouble**. Il convient de noter que ces associations sont de magnitude modérée et que l’hétérogénéité entre études reste importante, ce qui s'explique par la multiplicité des facteurs susceptibles d'intervenir (âge, statut socio-économique, comorbidités, méthodes de dosage, seuils de carence retenus).
 
 Concernant la supplémentation, les données d’essais contrôlés randomisés demeurent plus limitées et de qualité méthodologique variable. Plusieurs études, notamment celles combinant une correction de la carence en fer avec un [[Le méthylphénidate comme traitement du TDAH|traitement par méthylphénidate]], ont observé une amélioration des scores parentaux de symptômes d’inattention et d’hyperactivité.
 
@@ -38,7 +38,7 @@ Dans la pratique, ces données peuvent justifier d’intégrer le dosage de la f
 
 Des données épidémiologiques suggèrent en outre qu’une anémie maternelle précoce pendant la grossesse augmente modestement le risque ultérieur de TDAH chez l’enfant, ce qui ouvre la réflexion sur les périodes critiques du développement cérébral.
 
-En résumé, la science établit aujourd’hui une association robuste, bien que de magnitude modérée, entre des réserves en fer diminuées (ferritine basse) et le TDAH, avec des arguments physiopathologiques cohérents liés notamment à la synthèse de dopamine notamment en cas de carrence. Les niveaux de preuves demeurent faible et les effets modestes.
+En résumé, la science établit aujourd’hui une association robuste, bien que de magnitude modérée, entre des réserves en fer diminuées (ferritine basse) et le TDAH, avec des arguments physiopathologiques cohérents liés notamment à la synthèse de dopamine notamment en cas de carence. Les niveaux de preuves demeurent faibles et les effets modestes.
 
 ## Pour aller plus loin :
 

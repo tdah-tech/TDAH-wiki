@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-02
-modified: 2026-08-02T14:34:16.825+02:00
+modified: 2026-08-07T10:24:48.025+02:00
 tags:
   - micronote
   - tdah
@@ -14,7 +14,7 @@ Nommer les parts actives du TDAH chez l'enfant, [[Apprendre à nommer les parts 
 
 En transformant des symptômes du TDAH en personnages familiers – des lutins ou des animaux – on offre à l’enfant un outil concret pour prendre du recul, réduire la culpabilité et commencer à dialoguer avec son propre fonctionnement interne. On lui donne les outils pour créer une distance saine entre lui et les manifestations de son trouble.
 
-Cette approche, adaptée à son âge, permet de passer d’une vision culpabilisante (« je suis agité ») à une reconnaissance plus nuancée (« c’est mon lutin-explorateur qui fait des sienne»). Avec un peu d'expérience l'enfant peut apprendre à congédier/convoquer les lutins/animaux problématiques car le fait de les avoir personnalisé rend la chose plus facile.
+Cette approche, adaptée à son âge, permet de passer d’une vision culpabilisante (« je suis agité ») à une reconnaissance plus nuancée (« c’est mon lutin-explorateur qui fait des siennes»). Avec un peu d'expérience l'enfant peut apprendre à congédier/convoquer les lutins/animaux problématiques car le fait de les avoir personnalisés rend la chose plus facile.
 
 Voici un tableau illustratif associant des symptômes courants du TDAH à des figures de lutins et d’animaux, choisies pour rester bienveillantes et imagées :
 

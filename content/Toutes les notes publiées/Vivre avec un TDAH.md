@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-02T17:22:29.850+02:00
+modified: 2026-08-07T10:20:48.639+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#identite"
-  - "#acceptation"
-  - "#neurodiversite"
-  - "#estime-de-soi"
-  - "#index"
-  - "#dmn"
+  - micronote
+  - tdah
+  - identite
+  - acceptation
+  - neurodiversite
+  - estime-de-soi
+  - index
+  - dmn
 ---
 
 ## L'importance de la Psycho-éducation :
@@ -38,7 +38,7 @@ tags:
 - [[Analogie du lézard pour le TDAH]]
 - [[Métaphore du verre ou réservoir émotionnel du TDAH]]
 
-## Savoir reconnaitre la sous-stimulation
+## Savoir reconnaître la sous-stimulation
 
 - [[Sous-stimulation et comportements conflictuels chez le TDAH]]
 - [[Repérer les situations de sous-stimulation susceptible de dégénérer en situation conflictuelle]]

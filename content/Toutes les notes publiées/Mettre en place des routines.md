@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-02T13:16:38.797+02:00
+modified: 2026-08-07T10:20:31.521+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#routines"
-  - "#parentalite"
-  - "#fonctions-executives"
+  - micronote
+  - tdah
+  - routines
+  - parentalite
+  - fonctions-executives
 ---
 
 Chez l’enfant ou l’adolescent qui présente un TDAH, les difficultés d’organisation, de gestion du temps et d’anticipation rendent les journées particulièrement fragiles.
@@ -18,9 +18,9 @@ Les données convergent sur un point essentiel : la prévisibilité réduit les 
 
 La mise en place d’une routine efficace commence par le choix d’un seul moment de la journée, celui qui génère le plus de friction. Les programmes validés insistent sur le fait qu’il est plus productif de consolider **une séquence à la fois plutôt que de vouloir tout transformer simultanément**. Une fois cette séquence stabilisée, on peut en ajouter une autre.
 
-Chaque routine doit être décomposée en étapes simples, concrètes et visibles. **L’enfant TDAH a besoin que les actions soient externalisées : un support visuel, une liste , un tableau, un minuteur, une montre intelligente,  qui marque le passage d’une étape à l’autre. Ces outils ne relèvent pas de la facilité ; ils constituent des adaptations neurologiques qui rendent la tâche accessible**.
+Chaque routine doit être décomposée en étapes simples, concrètes et visibles. **L’enfant TDAH a besoin que les actions soient externalisées : un support visuel, une liste, un tableau, un minuteur, une montre intelligente, qui marque le passage d’une étape à l’autre. Ces outils ne relèvent pas de la facilité ; ils constituent des adaptations neurologiques qui rendent la tâche accessible**.
 
-Les parents qui réussissent à installer des routines durables y intègrent souvent une dimension corporelle. Avant une séquence exigeante comme les devoirs ou le coucher, ils autorisent de courts moment de mouvement, pour préparet le système nerveux et faciliter l’entrée dans la routine. De la même façon, les transitions peuvent être accompagnées d’un signal sensoriel clair (une musique, un objet à manipuler, un geste rituel, changer les lumières) qui ancre le changement dans autre chose que la seule consigne verbale.
+Les parents qui réussissent à installer des routines durables y intègrent souvent une dimension corporelle. Avant une séquence exigeante comme les devoirs ou le coucher, ils autorisent de courts moments de mouvement, pour préparer le système nerveux et faciliter l’entrée dans la routine. De la même façon, les transitions peuvent être accompagnées d’un signal sensoriel clair (une musique, un objet à manipuler, un geste rituel, changer les lumières) qui ancre le changement dans autre chose que la seule consigne verbale.
 
 Le [[L'importance du renforcement positif|renforcement positif]] joue un rôle déterminant dans le maintien des routines. Souligner, même brièvement, le respect d’une étape de la routine augmente la probabilité qu’elle se reproduise. Un commentaire précis, ou simplement une attention chaleureuse suffisent souvent. À l’inverse, les rappels répétés et les reproches tendent à renforcer la résistance. Les systèmes de type « quand… alors… » (quand la séquence du soir est terminée, alors le temps d’histoire commence) rendent les attentes transparentes et placent l’enfant en position d’agir pour obtenir ce qu’il désire.
 

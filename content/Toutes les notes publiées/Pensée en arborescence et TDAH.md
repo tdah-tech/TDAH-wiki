@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-31
-modified: 2026-08-01T16:12:30.013+02:00
+modified: 2026-08-07T10:24:38.954+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#pensee-en-arborescence"
-  - "#dmn"
-  - "#desinhibition-cognitive"
+  - micronote
+  - tdah
+  - pensee-en-arborescence
+  - dmn
+  - desinhibition-cognitive
 ---
 
 La notion de pensée en arborescence circule largement dans les milieux de la neurodivergence, notamment autour du TDAH et du haut potentiel. Elle décrit une expérience subjective familière à beaucoup de personnes concernées : une idée en appelle rapidement une autre, puis une troisième, formant un réseau d’associations qui semblent se déployer simultanément dans plusieurs directions, à la manière des branches d’un arbre.
@@ -16,7 +16,7 @@ Cette image rend compte d’un ressenti de foisonnement mental, de rapidité ass
 
 Aucune étude n’a démontré l’existence d’une architecture cognitive spécifique appelée « pensée en arborescence » applicable aux TDAH et HPI.
 
-Les chercheurs soulignent  que la pensée humaine fonctionne essentiellement de manière sérielle. Nous ne traitons pas plusieurs pensées en parallèle au sens strict ; nous passons très rapidement d’un contenu mental à un autre. Ce que l’on perçoit comme une arborescence simultanée correspond en réalité à une succession ultra-rapide d’associations, rendue possible par un contrôle attentionnel moins stable. La métaphore reste utile pour décrire une expérience vécue, mais elle ne constitue pas un concept opérationnel de la science.
+Les chercheurs soulignent que la pensée humaine fonctionne essentiellement de manière sérielle. Nous ne traitons pas plusieurs pensées en parallèle au sens strict ; nous passons très rapidement d’un contenu mental à un autre. Ce que l’on perçoit comme une arborescence simultanée correspond en réalité à une succession ultra-rapide d’associations, rendue possible par un contrôle attentionnel moins stable. La métaphore reste utile pour décrire une expérience vécue, mais elle ne constitue pas un concept opérationnel de la science.
 
 Cependant chez les personnes présentant un TDAH, plusieurs mécanismes neurologiques bien documentés produisent précisément ce type de vécu. Le [[Le réseau DMN|réseau du mode par défaut]], actif lors des périodes de repos et de [[Ruminations et TDAH|vagabondage mental]], se désactive moins efficacement lorsque la tâche exige une attention soutenue.
 

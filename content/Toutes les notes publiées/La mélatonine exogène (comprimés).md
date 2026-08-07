@@ -1,19 +1,19 @@
 ---
 publish: true
 created: 2026-07-25
-modified: 2026-08-02T09:01:25.462+02:00
+modified: 2026-08-07T10:20:29.784+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#melatonine"
-  - "#sommeil"
-  - "#traitement-pharmacologique"
-  - "#insomnie"
+  - micronote
+  - tdah
+  - melatonine
+  - sommeil
+  - traitement-pharmacologique
+  - insomnie
 ---
 
 Les [[Les troubles du sommeil chez les TADH|troubles du sommeil]] constituent l’une des comorbidités les plus fréquentes du TDAH.
 
-Dans ce contexte, la mélatonine exogène est devenue un outil thérapeutique largement utilisé, surtout pour l’insomnie d’endormissement. Son mode d’action principal est double. À faible dose et administrée plusieurs heures avant l’heure de coucher souhaitée, elle exerce un effet chronobiotique qui permet d’avancer progressivement le rythme circadien. À dose un peu plus élevée et prise trente à soixante minutes avant le coucher, elle favorise l’endormissement par un effet hypnotique léger. Les essais cliniques et les méta-analyses disponibles montrent de façon assez constante une réduction du temps d’endormissement (souvent de vingt à quarante minutes) et, dans certains cas, une modestes augmentation de la durée totale de sommeil. En revanche, la mélatonine n’améliore pas de manière significative les symptômes coeurs du TDAH ([[Le déficit d'attention chez les TDA|inattention]], [[L'hyperactivité chez le TDAH|hyperactivité]], [[L'impulsivité chez le TDAH|impulsivité]]). Son intérêt reste donc strictement limité à la composante sommeil.
+Dans ce contexte, la mélatonine exogène est devenue un outil thérapeutique largement utilisé, surtout pour l’insomnie d’endormissement. Son mode d’action principal est double. À faible dose et administrée plusieurs heures avant l’heure de coucher souhaitée, elle exerce un effet chronobiotique qui permet d’avancer progressivement le rythme circadien. À dose un peu plus élevée et prise trente à soixante minutes avant le coucher, elle favorise l’endormissement par un effet hypnotique léger. Les essais cliniques et les méta-analyses disponibles montrent de façon assez constante une réduction du temps d’endormissement (souvent de vingt à quarante minutes) et, dans certains cas, une modeste augmentation de la durée totale de sommeil. En revanche, la mélatonine n’améliore pas de manière significative les symptômes cœurs du TDAH ([[Le déficit d'attention chez les TDA|inattention]], [[L'hyperactivité chez le TDAH|hyperactivité]], [[L'impulsivité chez le TDAH|impulsivité]]). Son intérêt reste donc strictement limité à la composante sommeil.
 
 En France, la Haute Autorité de Santé a récemment rendu un avis favorable au remboursement d’une spécialité de mélatonine à libération immédiate (VOQUILY) dans l’indication précise de l’insomnie d’endormissement chez les enfants et adolescents de six à dix-sept ans présentant un TDAH, après échec des mesures d’hygiène du sommeil.
 
@@ -28,7 +28,7 @@ Lorsqu’il s’agit plutôt de corriger un retard de phase marqué, c’est-à-
 
 La forme à libération immédiate est préférée pour les difficultés d’endormissement, tandis que les formes à libération prolongée (comme Slenyto, indiquée dans d’autres contextes neurodéveloppementaux) visent davantage le maintien du sommeil.
 
-La tolérance à court et moyen terme est globalement bonne. Les effets indésirables les plus fréquents restent bénins : somnolence résiduelle le matin, maux de tête, rêves plus vifs ou, plus rarement, irritabilité transitoire. Les données de suivi à long terme, bien que encore limitées, n’ont pas mis en évidence de problèmes de sécurité majeurs, y compris sur le développement pubertaire, dans les cohortes d’enfants traités pendant plusieurs années. Une dépendance physiologique n’est pas observée, mais une dépendance psychologique peut apparaître si le traitement n’est jamais réévalué.
+La tolérance à court et moyen terme est globalement bonne. Les effets indésirables les plus fréquents restent bénins : somnolence résiduelle le matin, maux de tête, rêves plus vifs ou, plus rarement, irritabilité transitoire. Les données de suivi à long terme, bien qu’encore limitées, n’ont pas mis en évidence de problèmes de sécurité majeurs, y compris sur le développement pubertaire, dans les cohortes d’enfants traités pendant plusieurs années. Une dépendance physiologique n’est pas observée, mais une dépendance psychologique peut apparaître si le traitement n’est jamais réévalué.
 
 ## Pour aller plus loin :
 

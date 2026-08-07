@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-23
-modified: 2026-08-03T07:44:26.079+02:00
+modified: 2026-08-07T10:22:28.354+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperfocus"
+  - micronote
+  - tdah
+  - hyperfocus
 ---
 
-L'hyperfocus ne survient pas de manière aléatoire. De manière générale, l'hyperfocus **apparaît quasi exclusivement sur des activités qui stimulent fortement le circuit de récompense — un intérêt marqué, une nouveauté, un feedback immédiat, ou parfois une urgence**. C'est ce qui explique le paradoxe classique : la même personne incapable de tenir dix minutes sur une tâche ordinaire peut rester des heures absorbée dès qu'une autre activité aussi ardue soit elle capte suffisamment son attention.
+L'hyperfocus ne survient pas de manière aléatoire. De manière générale, l'hyperfocus **apparaît quasi exclusivement sur des activités qui stimulent fortement le circuit de récompense — un intérêt marqué, une nouveauté, un feedback immédiat, ou parfois une urgence**. C'est ce qui explique le paradoxe classique : la même personne incapable de tenir dix minutes sur une tâche ordinaire peut rester des heures absorbée dès qu'une autre activité aussi ardue soit-elle capte suffisamment son attention.
 
 Généralement ce n'est pas une question de volonté ou d'importance objective du sujet/ou domaine — c'est une question d'intérêt intrinsèque plutôt qu'extrinsèque.
 
@@ -28,7 +28,7 @@ L'intérêt agit comme un **aimant neurologique** : plus il est vif, plus la por
 
 **Le défi intellectuel ou la complexité** jouent également un rôle déterminant. Lorsque la tâche présente un niveau de difficulté qui mobilise pleinement les capacités de résolution de problèmes sans être ni trop facile ni écrasante, elle crée une tension cognitive favorable à l’hyperfocus. Le cerveau cherche alors à combler l’écart entre ce qu’il sait déjà et ce qu’il doit encore découvrir ou maîtriser. Cette tension, lorsqu’elle reste dans une zone de challenge optimal, transforme l’effort en absorption.
 
-**L’urgence voir la peur peuvent**, dans certains cas, agir comme un catalyseur de l'hyperfocus. Une échéance proche, une contrainte claire ou un sentiment de nécessité immédiate augmente souvent la motivation et réduit les hésitations qui freinent habituellement l’engagement. Ce mécanisme n’est toutefois pas universel : pour certaines personnes, une pression trop forte génère de l’anxiété qui bloque plutôt qu’elle n’active l’hyperfocus. L’intensité de l’urgence doit donc rester proportionnée à la tolérance individuelle.
+**L’urgence voire la peur peuvent**, dans certains cas, agir comme un catalyseur de l'hyperfocus. Une échéance proche, une contrainte claire ou un sentiment de nécessité immédiate augmente souvent la motivation et réduit les hésitations qui freinent habituellement l’engagement. Ce mécanisme n’est toutefois pas universel : pour certaines personnes, une pression trop forte génère de l’anxiété qui bloque plutôt qu’elle n’active l’hyperfocus. L’intensité de l’urgence doit donc rester proportionnée à la tolérance individuelle.
 
 **La compétition** s’ajoute à ces facteurs comme un déclencheur particulièrement efficace chez de nombreuses personnes TDAH. Le fait de se mesurer à autrui, de viser un classement, de gagner un défi ou simplement de surpasser une performance précédente introduit une dimension de défi social et de récompense immédiate qui amplifie considérablement l’engagement. La compétition transforme une tâche ordinaire en enjeu tangible : le cerveau reçoit alors des signaux clairs de progression, de réussite ou d’échec, ce qui renforce la motivation intrinsèque et facilite le passage en hyperfocus. Qu’il s’agisse d’une compétition formelle, d’un classement entre camarades, d’un défi contre soi-même chronométré ou même d’un jeu de rôle intellectuel, cet élément de rivalité fournit à la fois l’urgence, le défi et le feedback rapide dont le fonctionnement TDAH a souvent besoin pour s’absorber pleinement. Attention toutefois à ce que la compétition reste stimulante et non écrasante ; lorsqu’elle devient source de stress excessif ou de comparaison permanente, elle peut au contraire inhiber l’accès à l’état d’absorption.
 

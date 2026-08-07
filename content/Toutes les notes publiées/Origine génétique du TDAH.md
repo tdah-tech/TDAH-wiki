@@ -1,31 +1,31 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-08-02T09:01:25.479+02:00
+modified: 2026-08-07T10:24:32.236+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#genetique"
-  - "#epigenetique"
-  - "#neuroplasticite"
-  - "#cortex-prefrontal"
-  - "#maturation"
-  - "#diagnostic"
-  - "#histoire"
-  - "#dsm"
+  - micronote
+  - tdah
+  - genetique
+  - epigenetique
+  - neuroplasticite
+  - cortex-prefrontal
+  - maturation
+  - diagnostic
+  - histoire
+  - dsm
 ---
 
 Le TDAH a une origine génétique estimée à environ **70 % à 80 %** (souvent autour de 74 % dans les méta-analyses d'études portant sur des jumeaux).
 
-Plusieurs mécanismes génétiques précis ont été identifiés comme composantes de cette hérédité. D'une part, le **gène DAT1** , qui code pour le transporteur de dopamine — la protéine chargée de la recapture de la dopamine dans les synapses. D'autre part, le **gène DRD4**, qui code pour le récepteur D4 de la dopamine. Une variante de ce dernier — **l'allèle 7R du récepteur D4** — est associée au TDAH ainsi qu'à des traits de personnalité tels que la recherche de nouveauté, l'hyperactivité, la curiosité et la prise de risque. Cette variante est parfois surnommée le \*\*« gène explorateur » \*\* dans la littérature grand public, bien que cette expression ne soit pas un terme scientifique standard.
+Plusieurs mécanismes génétiques précis ont été identifiés comme composantes de cette hérédité. D'une part, le **gène DAT1**, qui code pour le transporteur de dopamine — la protéine chargée de la recapture de la dopamine dans les synapses. D'autre part, le **gène DRD4**, qui code pour le récepteur D4 de la dopamine. Une variante de ce dernier — **l'allèle 7R du récepteur D4** — est associée au TDAH ainsi qu'à des traits de personnalité tels que la recherche de nouveauté, l'hyperactivité, la curiosité et la prise de risque. Cette variante est parfois surnommée le \*\*« gène explorateur » \*\* dans la littérature grand public, bien que cette expression ne soit pas un terme scientifique standard.
 
-Une étude de 1999 portant sur  2 320 individus dans 39 populations à travers le monde a montré que les groupes ayant une longue histoire migratoire, installés aux confins du monde (Sibérie, Terre de Feu, Polynésie), présentaient une prédominance des **allèles longs du DRD4** — dont l'allèle 7R.
+Une étude de 1999 portant sur 2 320 individus dans 39 populations à travers le monde a montré que les groupes ayant une longue histoire migratoire, installés aux confins du monde (Sibérie, Terre de Feu, Polynésie), présentaient une prédominance des **allèles longs du DRD4** — dont l'allèle 7R.
 
 La fréquence de cet allèle varie considérablement selon les populations : elle est d'environ **20 % dans les populations d'origine européenne**, peut atteindre jusqu'à **78 % chez certains groupes sud-américains** (comme les Ticuna), et est quasi absente en Asie de l'Est.
 
 [[Théorie évolutionniste du TDAH|Un cadre évolutionniste]] est parfois avancé pour expliquer le maintien des gènes responsables du TDAH dans le patrimoine génétique humain malgré son coût dans une société sédentaire moderne : en période d'abondance, la mentalité sédentaire porte le groupe, mais en période de rareté ou de crise, ce sont les profils exploratoires qui trouvent de nouvelles terres et ressources.
 
-Les 20% à 30 % de cas restant renvoient plutôt à un ensemble de facteurs de risque de magnitude généralement modeste qui agissent en interaction avec la vulnérabilité génétique.
+Les 20% à 30 % de cas restants renvoient plutôt à un ensemble de facteurs de risque de magnitude généralement modeste qui agissent en interaction avec la vulnérabilité génétique.
 
 Les facteurs les plus solidement documentés concernent **la période prénatale et périnatale**. L’exposition au tabac pendant la grossesse est associée de façon répétée à une augmentation du risque, même si une partie de cette association s’explique par le fait que les mères elles-mêmes porteuses de vulnérabilité génétique au TDAH fument plus fréquemment.
 

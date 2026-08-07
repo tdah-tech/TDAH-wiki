@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-21
-modified: 2026-08-02T09:08:24.878+02:00
+modified: 2026-08-07T10:20:08.705+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#surcharge-mentale"
-  - "#brain-dump"
+  - micronote
+  - tdah
+  - surcharge-mentale
+  - brain-dump
 ---
 
-Le brain dump, ou déversement mental, constitue une méthode considérée comme adaptée aux personnes vivant avec un TDAH même si elle n'a pas fait l'objet d'études dédiés.
+Le brain dump, ou déversement mental, constitue une méthode considérée comme adaptée aux personnes vivant avec un TDAH même si elle n'a pas fait l'objet d'études dédiées.
 
 Il s’agit de transférer sans filtre ni organisation préalable l’ensemble des pensées, préoccupations, idées, tâches et émotions qui circulent dans l’esprit vers un support externe, qu’il soit papier ou numérique. Cette externalisation répond directement aux difficultés de [[Mémoire de travail et TDAH|mémoire de travail]] et de régulation attentionnelle caractéristiques du trouble : le cerveau TDAH a tendance à maintenir simultanément un volume excessif d’informations non classées, ce qui génère une [[Surcharge mentale et TDAH|charge cognitive]] élevée, de l’anxiété et un sentiment d’engorgement permanent.
 
@@ -17,7 +17,7 @@ La pratique consiste à s’accorder un temps limité, généralement entre cinq
 
 On peut ainsi écrire les rendez-vous oubliés, les projets en suspens, les ressentis émotionnels, les idées créatives fugaces ou les distractions récurrentes. L’objectif n’est pas de produire un plan d’action immédiatement utilisable, mais de libérer l’espace mental en déchargeant le système exécutif. Une fois le déversement terminé, le simple fait d’avoir matérialisé ces contenus diminue souvent la pression interne et restaure une capacité de concentration plus stable.
 
-Chez les personnes atteintes de TDAH, le brain dump peut s’avèrer particulièrement utile à des moments stratégiques de la journée. Le matin, il permet de poser les priorités avant que la dispersion ne s’installe. En fin de journée, il aide à clôturer mentalement les activités professionnelles ou scolaires et favorise une transition plus sereine vers le [[Les troubles du sommeil chez les TADH|repos]]. Certains l’intègrent également avant une tâche complexe pour identifier les freins éventuels ou après une période d’[[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] afin de récupérer les idées secondaires qui ont été mises de côté. Avec le temps, la régularité de cette pratique contribue à développer une meilleure conscience des patterns de pensée et à réduire la procrastination liée à l’évitement de la surcharge.
+Chez les personnes atteintes de TDAH, le brain dump peut s’avérer particulièrement utile à des moments stratégiques de la journée. Le matin, il permet de poser les priorités avant que la dispersion ne s’installe. En fin de journée, il aide à clôturer mentalement les activités professionnelles ou scolaires et favorise une transition plus sereine vers le [[Les troubles du sommeil chez les TADH|repos]]. Certains l’intègrent également avant une tâche complexe pour identifier les freins éventuels ou après une période d’[[Qu'est-ce-que l'hyperfocus ?|hyperfocalisation]] afin de récupérer les idées secondaires qui ont été mises de côté. Avec le temps, la régularité de cette pratique contribue à développer une meilleure conscience des patterns de pensée et à réduire la procrastination liée à l’évitement de la surcharge.
 
 Bien que le brain dump puisse rester purement cathartique, une étape ultérieure optionnelle consiste à relire le contenu et à extraire, si on le souhaite, quelques actions concrètes ou à les répartir dans un système d’organisation plus structuré.
 

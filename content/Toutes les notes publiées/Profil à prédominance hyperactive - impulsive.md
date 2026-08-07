@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-19
-modified: 2026-07-31T08:35:37.054+02:00
+modified: 2026-08-07T10:22:24.450+02:00
 tags:
-  - "#micronote"
-  - "#tdah"
-  - "#hyperactif"
-  - "#impulsivite"
+  - micronote
+  - tdah
+  - hyperactif
+  - impulsivite
 ---
 
 Dans ce profil, les altérations cérébrales sont localisées. Elles concernent surtout les circuits qui gèrent le freinage des impulsions, notamment le lien entre le **cortex cingulaire antérieur** et le **pallidum**.
 
-On peut le décrire comme un problème de « frein » plutôt que de « moteur ». L’accélérateur fonctionne bien (voir trop), mais le système qui devrait freiner ou temporiser les actions et les paroles est moins efficace.
+On peut le décrire comme un problème de « frein » plutôt que de « moteur ». L’accélérateur fonctionne bien (voire trop), mais le système qui devrait freiner ou temporiser les actions et les paroles est moins efficace.
 
 **Sur le plan clinique**, on observe principalement :
 
